@@ -7,7 +7,7 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 **OpenStreetMap** data and curated with love by **MAPS.ME** founders.
 
 <p float="left">
-  <a href="https://apps.apple.com/us/app/organic-maps/id1567437057">
+  <a href="https://apps.apple.com/app/organic-maps/id1567437057">
     <img src="docs/badges/apple-appstore.png" width="180">
   </a>
   <a href="https://play.google.com/store/apps/details?id=app.organicmaps">
@@ -86,7 +86,7 @@ Reject surveillance - embrace your freedom.
 Please join our beta program, suggest your features, and report bugs:
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-- [Android Beta (Firebase)](https://appdistribution.firebase.google.com/pub/i/4fa64e2439ca20ff)
+- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
 
 ## Community
 
@@ -97,6 +97,7 @@ licensed under the Apache License 2.0.
 - [Discuss](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) ideas or propose feature requests
 - Subscribe to our [Telegram Channel](https://t.me/OrganicMapsApp) for updates
 - Join our [Telegram Group](https://t.me/OrganicMaps) to discuss with other users
+- Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи
 - Visit our [GitHub page](https://github.com/organicmaps/organicmaps)
 - Contact us by [email](mailto:hello@organicmaps.app)
 
