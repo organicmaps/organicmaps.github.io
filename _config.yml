@@ -1,9 +1,0 @@
-title: Organic Maps
-tagline: Fast detailed offline maps for travelers, tourists, hikers and cyclists
-description: > 
-  Fast detailed offline maps for travelers, tourists, hikers and cyclists
-  curated with love by MAPS.ME founders
-logo: android-chrome-512x512.png
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap

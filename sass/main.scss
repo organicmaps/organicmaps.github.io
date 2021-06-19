@@ -1,0 +1,118 @@
+body {
+  margin: 1rem;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1024px;
+  width: 100%;
+}
+
+img[alt=logo] {
+  width: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+strong {
+  font-weight: 600;
+}
+
+.badge {
+  img {
+    width: 180px;
+  }
+}
+
+#screenshots img {
+  max-width: 400px;
+}
+
+.screenshot {
+  max-width: 400px;
+  width: 100%;
+}
+
+hr {
+  height: 2px;
+  margin: 7px;
+  background: gray;
+  border: 0;
+}
+
+h1,
+h2,
+h3 {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eaecef;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+p {
+  margin: 0 0 16px 0;
+}
+
+footer {
+  padding-top: 1rem;
+  border-top: 1px solid #eaecef;
+  text-align: center;
+
+  p {
+    font-size: small;
+  }
+}
+
+@media (max-width: 768px) {
+  #badges {
+    flex-direction: column;
+  }
+
+  #badges a {
+    margin: 20px auto;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000;
+    color: #bbb;
+  }
+
+  h1,
+  h2,
+  h3 {
+    border-bottom: 1px solid #555;
+  }
+
+  footer {
+    border-top: 1px solid #555;
+  }
+
+  a {
+    color: lightblue;
+  }
+
+  a:visited {
+    color: #f9f;
+  }
+
+  :root {
+    scrollbar-color: #333 #000;
+  }
+}
+
+.installButton {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
