@@ -26,4 +26,9 @@ img[alt=logo] {
     a:visited {
         color: #f9f;
     }
+
+    :root {
+        scrollbar-color: #333 #000;
+    }
+
 }
