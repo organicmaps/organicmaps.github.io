@@ -2,6 +2,13 @@ body {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol
 }
 
+img[alt=logo] {
+    width: 60px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 #stores {
     display: flex;
     justify-content: space-around;
