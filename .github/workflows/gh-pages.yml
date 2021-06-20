@@ -1,7 +1,6 @@
 name: github pages
 
 on: push
-name: Build and deploy GH Pages
 jobs:
   build:
     runs-on: ubuntu-latest
