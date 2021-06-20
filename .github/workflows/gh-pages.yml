@@ -10,7 +10,5 @@ jobs:
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.13.0
         env:
-          # Target branch
-          PAGES_BRANCH: gh-pages
-          # Provide personal access token
+          PAGES_BRANCH: master
           TOKEN: ${{ secrets.TOKEN }}
