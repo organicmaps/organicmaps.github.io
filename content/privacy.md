@@ -1,4 +1,7 @@
-# Privacy Policy
++++
+title = 'Organic Map: Privacy Policy'
+description = 'No tracking, no ads, no data collection, no spyware'
++++
 
 Organic Maps respects your privacy and DO NOT TRACK YOU.
 

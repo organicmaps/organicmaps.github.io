@@ -1,3 +1,13 @@
-baseURL = "https://organicmaps.app/"
-languageCode = "en-us"
-title = "Organic Maps | Fast detailed offline maps for travelers, tourists, hikers and cyclists"
+# The URL the site will be built for
+base_url = "https://organicmaps.app"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false

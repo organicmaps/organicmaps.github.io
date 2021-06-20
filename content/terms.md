@@ -1,4 +1,6 @@
-# Terms
++++
+title = 'Organic Maps: terms'
++++
 
 This app is licensed under the Apache License, Version 2.0 (the "License");
 you may not use this application except in compliance with the License.

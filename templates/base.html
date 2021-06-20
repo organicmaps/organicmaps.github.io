@@ -1,0 +1,25 @@
+{%- if page %}
+	{%- set resource = page %}
+{%- elif section %}
+	{%- set resource = section %}
+{%- endif %}
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='utf-8'>
+    <title>{{ resource.title }}</title>
+
+
+    <meta name='description' content='{{ resource.description }}' />
+  
+    <link href='/main.css' rel='stylesheet' type='text/css' />
+
+</head>
+
+<body>
+    {% block content %} {% endblock %}
+</body>
+
+</html>

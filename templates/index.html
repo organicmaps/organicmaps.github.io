@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <h1>{{ resource.title }}</h1>
+
+    {{ resource.content | safe }}
+
+{% endblock content %}
