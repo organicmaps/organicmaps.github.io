@@ -11,16 +11,16 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 
 <div id='badges'>
   <a href='https://apps.apple.com/app/organic-maps/id1567437057'>
-    <img src='images/badges/apple-appstore.png' width='180'>
+    <img src='images/badges/apple.svg' width='180'>
   </a>
   <a href='https://play.google.com/store/apps/details?id=app.organicmaps'>
-    <img src='images/badges/google-play.png' width='180'>
+    <img src='images/badges/google.svg' width='180'>
   </a>
   <a href='https://appgallery.huawei.com/#/app/C104325611'>
     <img src='images/badges/huawei-appgallery.png' width='180'>
   </a>
   <a href='https://f-droid.org/en/packages/app.organicmaps/'>
-    <img src='images/badges/fdroid.png' width='180'>
+    <img src='images/badges/f-droid.svg' width='180'>
   </a>
 </div>
 
