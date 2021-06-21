@@ -22,8 +22,3 @@ See also [data/copyright.html](https://github.com/organicmaps/organicmaps/blob/m
 file for a full list of copyright notices.
 
 If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app). 
-
----
-<sub>© 2021 [Organic Maps OÜ](mailto:legal@organicmaps.app), reg. code 16225385</sub>
-<br/>
-<sub>Harju maakond, Tallinn, Kristiine linnaosa, A. H. Tammsaare tee 47, 11316, Estonia</sub>

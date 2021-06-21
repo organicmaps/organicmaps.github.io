@@ -101,9 +101,3 @@ licensed under the Apache License 2.0.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи
 - Visit our [GitHub page](https://github.com/organicmaps/organicmaps)
 - Contact us by [email](mailto:hello@organicmaps.app)
-
----
-<sub>© 2021 [Organic Maps OÜ](mailto:legal@organicmaps.app), reg. code 16225385</sub>
-<br/>
-<sub>Harju maakond, Tallinn, Kristiine linnaosa, A. H. Tammsaare tee 47, 11316, Estonia</sub>
-
