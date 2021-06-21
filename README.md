@@ -1,5 +1,5 @@
 Static website of https://organicmaps.app/
 
-This website is build with [Hugo](https://gohugo.io/).
+This website is build with [Zola](https://gohugo.io/).
 
-`hugo serve` to local preview.
+`zola serve` to local preview.
