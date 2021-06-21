@@ -24,6 +24,15 @@ img[alt=logo] {
     justify-content: space-around;
 }
 
+@media (max-width: 768px) {
+    #badges {
+        flex-direction: column;
+    }
+    #badges a {
+        margin: 20px auto;
+    }
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #000;
