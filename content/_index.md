@@ -101,3 +101,8 @@ licensed under the Apache License 2.0.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи
 - Visit our [GitHub page](https://github.com/organicmaps/organicmaps)
 - Contact us by [email](mailto:hello@organicmaps.app)
+
+
+[Privary policy](privacy)
+
+[Terms](terms)
