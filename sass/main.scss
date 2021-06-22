@@ -1,53 +1,53 @@
 body {
-    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol
 }
 
 img[alt=logo] {
-    width: 60px;
-    position: absolute;
-    top: 0;
-    right: 0;
+  width: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 #screenshots {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #screenshots img {
-    width: 400px;
-    margin: 10px;
+  width: 400px;
+  margin: 10px;
 }
 
 #badges {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 @media (max-width: 768px) {
-    #badges {
-        flex-direction: column;
-    }
-    #badges a {
-        margin: 20px auto;
-    }
+  #badges {
+    flex-direction: column;
+  }
+  #badges a {
+    margin: 20px auto;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background: #000;
-        color: #bbb;
-    }
+  body {
+    background: #000;
+    color: #bbb;
+  }
 
-    a {
-        color: lightblue;
-    }
-    a:visited {
-        color: #f9f;
-    }
+  a {
+    color: lightblue;
+  }
+  a:visited {
+    color: #f9f;
+  }
 
-    :root {
-        scrollbar-color: #333 #000;
-    }
+  :root {
+    scrollbar-color: #333 #000;
+  }
 
 }
