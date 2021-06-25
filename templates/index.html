@@ -6,6 +6,15 @@
 
     {{ resource.content | safe }}
 
+<div style='text-align:center; margin-top:40px'>
+    {% if resource.path != '/privacy/' %}<a href='privacy'>{% endif %}
+        <p>Privacy policy</p>
+    {% if resource.path != '/privacy/' %}</a>{% endif %}
+    {% if resource.path != '/terms/' %}<a href='terms'>{% endif %}
+        <p>Terms</p>
+    {% if resource.path != '/terms/' %}</a>{% endif %}
+</div>
+
 <hr>
 
 <sub>© 2021 <a href='mailto:legal@organicmaps.app'>Organic Maps OÜ</a>, reg. code 16225385</sub>
