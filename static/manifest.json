@@ -1,0 +1,23 @@
+{
+    "name": "Organic Maps: fork of maps.me, with data from OpenStreetMap",
+    "short_name": "Organic Maps",
+    "icons": [
+        {
+            "src": "/images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "prefer_related_applications": true,
+    "related_applications": [
+      {
+        "platform": "play",
+        "id": "app.organicmaps"
+      }
+    ]
+}
