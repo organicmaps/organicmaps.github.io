@@ -24,6 +24,13 @@ img[alt=logo] {
   justify-content: space-around;
 }
 
+hr {
+    height: 2px;
+    margin: 7px;
+    background: gray;
+    border: 0;
+}
+
 @media (max-width: 768px) {
   #badges {
     flex-direction: column;
