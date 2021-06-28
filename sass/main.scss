@@ -5,11 +5,21 @@ body {
   // font-family: -apple-system, BlinkMacSystemFont, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
 }
 
+main {
+  margin: 0 auto;
+  max-width: 1024px;
+  width: 100%;
+}
+
 img[alt=logo] {
   width: 60px;
   position: absolute;
   top: 0;
   right: 0;
+}
+
+strong {
+  font-weight: 600;
 }
 
 #screenshots {
@@ -40,6 +50,24 @@ hr {
     border: 0;
 }
 
+h1, h2, h3 {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eaecef;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+footer {
+  padding-top: 1rem;
+  border-top: 1px solid #eaecef;
+  text-align: center;
+  p {
+    font-size: small;
+  }
+}
+
 @media (max-width: 768px) {
   #badges {
     flex-direction: column;
@@ -55,6 +83,14 @@ hr {
     color: #bbb;
   }
 
+  h1, h2, h3 {
+    border-bottom: 1px solid #555;
+  }
+
+  footer {
+    border-top: 1px solid #555;
+  }
+
   a {
     color: lightblue;
   }
@@ -65,32 +101,4 @@ hr {
   :root {
     scrollbar-color: #333 #000;
   }
-}
-
-main {
-  margin: 0 auto;
-  max-width: 1024px;
-  width: 100%;
-}
-
-footer {
-  padding-top: 1rem;
-  border-top: 1px solid #eaecef;
-  text-align: center;
-  p {
-    font-size: small;
-  }
-}
-
-h1, h2, h3 {
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid #eaecef;
-  margin-top: 24px;
-  margin-bottom: 16px;
-  font-weight: 600;
-  line-height: 1.25;
-}
-
-strong {
-  font-weight: 600;
 }
