@@ -1,6 +1,6 @@
 ---
-title: "Organic Maps: Offline Navigator and Routing"
-description: Fast detailed offline maps for travelers, tourists, hikers and cyclists curated with love by MAPS.ME founders, based on OpenStreetMap
+title: "Organic Maps: Offline Hike, Bike, Trails and Navigation"
+description: Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe founders.
 
 page_template: index.html
 ---
