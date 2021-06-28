@@ -1,34 +1,29 @@
-+++
-title = 'Organic Maps'
-description = 'Fast detailed offline maps for travelers, tourists, hikers and cyclists curated with love by MAPS.ME founders, based on OpenStreetMap'
+---
+title: "Organic Maps: Offline Navigator and Routing"
+description: Fast detailed offline maps for travelers, tourists, hikers and cyclists curated with love by MAPS.ME founders, based on OpenStreetMap
 
-page_template = "index.html"
-+++
+page_template: index.html
+---
 
 **Organic Maps** is an Android & iOS offline maps app
 for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
-**OpenStreetMap** data and curated with love by **MAPS.ME** founders.
+**OpenStreetMap** data and curated with love by **MapsWithMe** founders.
 
-<div id='badges'>
-  <a href='https://apps.apple.com/app/organic-maps/id1567437057'>
-    <img src='images/badges/apple.svg' width='180'>
-  </a>
-  <a href='https://play.google.com/store/apps/details?id=app.organicmaps'>
-    <img src='images/badges/google.svg' width='180'>
-  </a>
-  <a href='https://appgallery.huawei.com/#/app/C104325611'>
-    <img src='images/badges/huawei-appgallery.png' width='180'>
-  </a>
-  <a href='https://f-droid.org/en/packages/app.organicmaps/'>
-    <img src='images/badges/f-droid.svg' width='180'>
-  </a>
+<div id='install'>
+  {{ badge(url="https://apps.apple.com/app/organic-maps/id1567437057", img="apple-appstore.svg", title="Install Organic Maps from the AppStore") }}
+
+  {{ badge(url="https://play.google.com/store/apps/details?id=app.organicmaps", img="googleplay.svg", title="Install Organic Maps from Google Play") }}
+
+  {{ badge(url="https://f-droid.org/en/packages/app.organicmaps/", img="f-droid.svg", title="Install Organic Maps from F-Droid") }}
+
+  {{ badge(url="https://appgallery.huawei.com/#/app/C104325611", img="huawei-appgallery.png", title="Install Organic Maps from Huawei AppGallery") }}
 </div>
 
-<div id='screenshots'>
-  <img src='images/screenshots/1.jpg' width='400' />
-  <img src='images/screenshots/2.jpg' width='400' /> 
-  <img src='images/screenshots/3.jpg' width='400' />
-  <img src='images/screenshots/4.jpg' width='400' />
+<div id="screenshots">
+  <img src="images/screenshots/1.jpg" width="400" />
+  <img src="images/screenshots/2.jpg" width="400" />
+  <img src="images/screenshots/3.jpg" width="400" />
+  <img src="images/screenshots/4.jpg" width="400" />
 </div>
 
 ## Features
@@ -61,7 +56,7 @@ Organic Maps is free from trackers and other bad stuff:
 - No noisy email spam
 - No push notifications
 - No crapware
-- <s>No pesticides</s>
+- ~~No pesticides~~
 
 The application is verified by <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
 <br/>
@@ -92,7 +87,7 @@ Please join our beta program, suggest your features, and report bugs:
 ## Community
 
 Organic Maps is an [open-source software](https://github.com/organicmaps/organicmaps)
-licensed under the Apache License 2.0. 
+licensed under the Apache License 2.0.
 
 - Report bugs or issues to [the issue tracker](https://github.com/organicmaps/organicmaps/issues)
 - [Discuss](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) ideas or propose feature requests
@@ -116,3 +111,5 @@ licensed under the Apache License 2.0.
         }
     })
 </script>
+
+[appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "Install from the AppStore"
