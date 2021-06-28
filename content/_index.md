@@ -111,5 +111,3 @@ licensed under the Apache License 2.0.
         }
     })
 </script>
-
-[appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "Install from the AppStore"
