@@ -103,6 +103,7 @@ licensed under the Apache License 2.0.
 
 <script>
     window.addEventListener('beforeinstallprompt', (e) => {
+        alert('beforeinstallprompt');
         const btnAdd = document.getElementById('btnAdd')
         btnAdd.style.display = 'block';
         btnAdd.onclick = _ => {
