@@ -102,6 +102,7 @@ licensed under the Apache License 2.0.
 </button>
 
 <script>
+    // https://developers.google.com/web/fundamentals/app-install-banners/native
     window.addEventListener('beforeinstallprompt', (e) => {
         alert('beforeinstallprompt');
         const add = document.getElementById('add')
