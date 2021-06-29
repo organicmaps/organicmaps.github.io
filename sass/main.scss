@@ -2,6 +2,9 @@ body {
   margin: 1rem;
   padding: 0;
   font-family: -apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
 }
 
 main {
@@ -21,25 +24,33 @@ strong {
   font-weight: 600;
 }
 
-#screenshots {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
+// #screenshots {
+//   display: flex;
+//   flex-wrap: wrap;
+//   justify-content: center;
+// }
 
 #screenshots img {
-  width: 400px;
-  margin: 10px;
+  max-width: 400px;
+  //margin: 10px;
 }
 
-#install {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
+// #install {
+//   display: flex;
+//   flex-wrap: wrap;
+//   justify-content: center;
+// }
 
 .badge {
-  margin: 0 0.5rem 0 0.5rem;
+  img {
+    width: 180px;
+  }
+//   margin: 0 0.5rem 0 0.5rem;
+}
+
+.screenshot {
+  max-width: 400px;
+  width: 100%;
 }
 
 hr {
@@ -65,6 +76,10 @@ footer {
   p {
     font-size: small;
   }
+}
+
+p {
+  margin: 0 0 16px 0;
 }
 
 @media (max-width: 768px) {

@@ -9,7 +9,7 @@ page_template: index.html
 for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 **OpenStreetMap** data and curated with love by **MapsWithMe** founders.
 
-<div id='install'>
+<p id='install'>
   {{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title='Install Organic Maps from the AppStore') }}
 
   {{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title='Install Organic Maps from Google Play') }}
@@ -17,14 +17,13 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
   {{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title='Install Organic Maps from F-Droid') }}
 
   {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Install Organic Maps from Huawei AppGallery') }}
-</div>
+</p>
 
-<div id='screenshots'>
-  <img src='images/screenshots/1.jpg' width='400' />
-  <img src='images/screenshots/2.jpg' width='400' />
-  <img src='images/screenshots/3.jpg' width='400' />
-  <img src='images/screenshots/4.jpg' width='400' />
-</div>
+
+{{ screenshot(src='images/screenshots/1.jpg', alt='Hiking') }}
+{{ screenshot(src='images/screenshots/2.jpg', alt='Prague') }}
+{{ screenshot(src='images/screenshots/3.jpg', alt='Offline Search') }}
+{{ screenshot(src='images/screenshots/4.jpg', alt='Navigation') }}
 
 ## Features
 
