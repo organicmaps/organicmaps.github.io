@@ -86,7 +86,7 @@ Reject surveillance - embrace your freedom.
 Please join our beta program, suggest your features, and report bugs:
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-- [Android Beta (Firebase)](https://appdistribution.firebase.dev/pub/i/3c5fcf9cd72f775f)
+- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
 
 ## Community
 
