@@ -5,20 +5,20 @@
 {%- endif %}
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta charset='utf-8'>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover' />
 
-  <meta name="description" content="{{ resource.description }}" />
+  <meta name='description' content='{{ resource.description }}' />
   <meta property='og:image' content='images/screenshots/1.jpg'/>
 
-  <meta name="apple-itunes-app" content="app-id=1567437057">
-  <meta name="wikidata" content="Q107078602" />
+  <meta name='apple-itunes-app' content='app-id=1567437057'>
+  <meta name='wikidata' content='Q107078602' />
 
-  <link href="/main.css" rel="stylesheet" type="text/css" />
+  <link href='/main.css' rel='stylesheet' type='text/css' />
 
   <title>{{ resource.title }}</title>
 </head>
@@ -33,20 +33,20 @@
   </main>
 
   <footer>
-    {% if resource.path != "/privacy/" %}
-    <a href="/privacy/">
+    {% if resource.path != '/privacy/' %}
+    <a href='/privacy/'>
       {% endif %}
       <span>Privacy policy</span>
-      {% if resource.path != "/privacy/" %}
+      {% if resource.path != '/privacy/' %}
     </a>{% endif %}
     &nbsp;
-    {% if resource.path != "/terms/" %}<a href="/terms/">{% endif %}
+    {% if resource.path != '/terms/' %}<a href='/terms/'>{% endif %}
       <span>Terms</span>
-      {% if resource.path != "/terms/" %}
+      {% if resource.path != '/terms/' %}
     </a>{% endif %}
 
     <p>
-      <span>© 2021 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
+      <span>© 2021 <a href='mailto:legal@organicmaps.app'>Organic Maps OÜ</a>, reg. code 16225385</span>
       <span>Harju maakond, Tallinn, Kristiine linnaosa, A. H. Tammsaare tee 47, 11316, Estonia</span>
     </p>
   </footer>
