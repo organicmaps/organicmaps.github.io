@@ -20,9 +20,9 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 </p>
 
 
-{{ screenshot(src='images/screenshots/1.jpg', alt='Hiking') }}
-{{ screenshot(src='images/screenshots/2.jpg', alt='Prague') }}
-{{ screenshot(src='images/screenshots/3.jpg', alt='Offline Search') }}
+{{ screenshot(src='images/screenshots/hiking.jpg', alt='Hiking') }}
+{{ screenshot(src='images/screenshots/prague.jpg', alt='Prague') }}
+{{ screenshot(src='images/screenshots/search.jpg', alt='Offline Search') }}
 {{ screenshot(src='images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 
 ## Features
