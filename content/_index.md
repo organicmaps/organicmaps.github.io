@@ -23,7 +23,7 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 {{ screenshot(src='images/screenshots/1.jpg', alt='Hiking') }}
 {{ screenshot(src='images/screenshots/2.jpg', alt='Prague') }}
 {{ screenshot(src='images/screenshots/3.jpg', alt='Offline Search') }}
-{{ screenshot(src='images/screenshots/dark.jpg', alt='Navigation') }}
+{{ screenshot(src='images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 
 ## Features
 
