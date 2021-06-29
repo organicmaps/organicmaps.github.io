@@ -23,7 +23,7 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
   <img src='images/screenshots/1.jpg' width='400' />
   <img src='images/screenshots/2.jpg' width='400' />
   <img src='images/screenshots/3.jpg' width='400' />
-  <img src='images/screenshots/4.jpg' width='400' />
+  <img src='images/screenshots/dark.jpg' width='400' />
 </div>
 
 ## Features
