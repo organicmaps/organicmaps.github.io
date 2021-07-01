@@ -12,4 +12,4 @@ Use `zola serve` for a local preview or `zola build` to generate static site in 
 
 Every PR deploys a preview version of the site at unique url.
 
-Every merge into the *master* branch deploys changes into the production at https://organicmaps.app
+Every merge into the _master_ branch deploys changes into the production at https://organicmaps.app
