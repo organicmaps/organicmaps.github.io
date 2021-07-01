@@ -1,51 +1,51 @@
 {
-    "name": "Organic Maps: Offline Hike Bike Trails and Navigation",
-    "short_name": "Organic Maps",
-    "description": "Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe founders.",
-    "icons": [
-        {
-            "src": "/images/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "screenshots" : [
-      {
-        "src": "/images/screenshots/hiking.jpg",
-        "sizes": "1440x3040",
-        "type": "image/jpeg"
-      },
-      {
-        "src": "/images/screenshots/prague.jpg",
-        "sizes": "1440x3040",
-        "type": "image/jpeg"
-      },
-      {
-        "src": "/images/screenshots/search.jpg",
-        "sizes": "1440x3040",
-        "type": "image/jpeg"
-      },
-      {
-        "src": "/images/screenshots/dark.jpg",
-        "sizes": "1440x3040",
-        "type": "image/jpeg"
-      }
-    ],
-    "prefer_related_applications": true,
-    "related_applications": [
-      {
-        "platform": "play",
-        "url": "https://play.google.com/store/apps/details?id=app.organicmaps",
-        "id": "app.organicmaps"
-      },
-      {
-        "platform": "itunes",
-        "url": "https://itunes.apple.com/app/id1567437057"
-      }
-    ]
+  "name": "Organic Maps: Offline Hike Bike Trails and Navigation",
+  "short_name": "Organic Maps",
+  "description": "Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe founders.",
+  "icons": [
+    {
+      "src": "/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/screenshots/hiking.jpg",
+      "sizes": "1440x3040",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/screenshots/prague.jpg",
+      "sizes": "1440x3040",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/screenshots/search.jpg",
+      "sizes": "1440x3040",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/screenshots/dark.jpg",
+      "sizes": "1440x3040",
+      "type": "image/jpeg"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=app.organicmaps",
+      "id": "app.organicmaps"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://itunes.apple.com/app/id1567437057"
+    }
+  ]
 }

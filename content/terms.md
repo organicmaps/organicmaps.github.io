@@ -1,6 +1,7 @@
-+++
-title = 'Organic Maps: terms'
-+++
+---
+title: "Organic Maps: terms"
+description: "Terms of use for Organic Maps application"
+---
 
 This app is licensed under the Apache License, Version 2.0 (the "License");
 you may not use this application except in compliance with the License.
@@ -14,11 +15,13 @@ specific language governing permissions and limitations under the License.
 
 Most libraries in the following directories made by other people and
 organizations and licensed in different ways:
+
 - 3party
 - tools
+
 Please refer to their LICENCE, COPYING or NOTICE files for terms of use.
 
 See also [data/copyright.html](https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html)
-file for a full list of copyright notices.
+file for a full list of copyright notices for Organic Maps application.
 
-If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app). 
+If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
