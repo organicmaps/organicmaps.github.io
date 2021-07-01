@@ -1,7 +1,7 @@
 body {
   margin: 1rem;
   padding: 0;
-  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
@@ -24,6 +24,13 @@ strong {
   font-weight: 600;
 }
 
+.badge {
+  img {
+    width: 180px;
+  }
+  //   margin: 0 0.5rem 0 0.5rem;
+}
+
 // #screenshots {
 //   display: flex;
 //   flex-wrap: wrap;
@@ -41,26 +48,21 @@ strong {
 //   justify-content: center;
 // }
 
-.badge {
-  img {
-    width: 180px;
-  }
-//   margin: 0 0.5rem 0 0.5rem;
-}
-
 .screenshot {
   max-width: 400px;
   width: 100%;
 }
 
 hr {
-    height: 2px;
-    margin: 7px;
-    background: gray;
-    border: 0;
+  height: 2px;
+  margin: 7px;
+  background: gray;
+  border: 0;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   padding-bottom: 0.5rem;
   border-bottom: 1px solid #eaecef;
   margin-top: 24px;
@@ -69,23 +71,25 @@ h1, h2, h3 {
   line-height: 1.25;
 }
 
+p {
+  margin: 0 0 16px 0;
+}
+
 footer {
   padding-top: 1rem;
   border-top: 1px solid #eaecef;
   text-align: center;
+
   p {
     font-size: small;
   }
-}
-
-p {
-  margin: 0 0 16px 0;
 }
 
 @media (max-width: 768px) {
   #badges {
     flex-direction: column;
   }
+
   #badges a {
     margin: 20px auto;
   }
@@ -97,7 +101,9 @@ p {
     color: #bbb;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     border-bottom: 1px solid #555;
   }
 
@@ -108,6 +114,7 @@ p {
   a {
     color: lightblue;
   }
+
   a:visited {
     color: #f9f;
   }
@@ -116,4 +123,3 @@ p {
     scrollbar-color: #333 #000;
   }
 }
-
