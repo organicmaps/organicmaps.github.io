@@ -14,7 +14,7 @@
     "js-beautify": "^1.14.0"
   },
   "scripts": {
-    "format": "stylelint --fix ./sass/*.scss && prettier --write *.md content/**/*.md; js-beautify -r templates/base.html"
+    "format": "stylelint --fix ./sass/*.scss && prettier --write *.md content/**/*.md && js-beautify -r templates/base.html"
   },
   "repository": {
     "type": "git",
