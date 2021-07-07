@@ -1,0 +1,48 @@
+.navbar {
+  position: fixed;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.9);
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+
+  .toolbar {
+    max-width: 750px;
+    padding: 0 25px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    a {
+      text-decoration: none;
+      color: black;
+
+      :hover {
+        text-decoration: underline;
+      }
+
+      h3 {
+        margin: 0;
+        margin-bottom: 5px;
+
+        img {
+          height: 1.5em;
+          transform: translateY(7px);
+          margin-right: 5px;
+        }
+      }
+
+      svg {
+        font-size: 1.5em;
+      }
+    }
+  }
+}
+
+body {
+  padding-top: 60px;
+  height: calc(100% - 60px);
+}

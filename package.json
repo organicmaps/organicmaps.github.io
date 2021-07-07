@@ -1,29 +1,13 @@
 {
-  "name": "organicmaps.github.io",
-  "version": "1.0.0",
-  "description": "Tools and utils",
-  "main": " ",
-  "directories": {
-    "doc": "docs"
+  "name": "organicmaps",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "parcel serve src/pages/*.html",
+    "build": "parcel build src/pages/*.html"
   },
   "devDependencies": {
-    "prettier": "^2.3.2",
-    "stylelint": "^13.13.1",
-    "stylelint-config-recommended": "^5.0.0",
-    "stylelint-config-standard": "^22.0.0",
-    "js-beautify": "^1.14.0"
-  },
-  "scripts": {
-    "format": "stylelint --fix ./sass/*.scss && prettier --write *.md content/**/*.md && js-beautify -r templates/base.html"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/organicmaps/organicmaps.github.io.git"
-  },
-  "author": "Organic Maps OU",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/organicmaps/organicmaps.github.io/issues"
-  },
-  "homepage": "https://github.com/organicmaps/organicmaps.github.io#readme"
+    "@parcel/transformer-sass": "2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2",
+    "posthtml-include": "^1.7.1"
+  }
 }
