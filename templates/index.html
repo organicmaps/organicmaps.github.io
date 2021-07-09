@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<link rel="stylesheet" href="/index.css">
+<div class="layout">
+  <div class="phone">
+    <div id="slideshow"> <img src="/screenshots/hiking.jpg" style="opacity:1"> <img src="/screenshots/prague.jpg"> <img src="/screenshots/search.jpg"> <img src="/screenshots/dark.jpg"> </div>
+  </div>
+  <div class="main">
+    <h1><img src="/logo.png">Organic Maps</h1>
+    <h2>Offline Hike, Bike, Trails and Navigation</h2>
+    <p> <b>Organic Maps</b> is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced <b>OpenStreetMap</b> data and curated with love by <b>MapsWithMe</b> founders. </p>
+    <div class="badges">
+      <a href="https://apps.apple.com/app/organic-maps/id1567437057"> <img src="/badges/apple-appstore.svg" alt="Download on the App Store"> </a>
+      <a href="https://play.google.com/store/apps/details?id=app.organicmaps"> <img src="/badges/googleplay.svg" alt="Download on Google Play"> </a>
+      <a href="https://f-droid.org/en/packages/app.organicmaps/"> <img src="/badges/f-droid.svg" alt="Download on F-Droid"> </a>
+      <a href="https://appgallery.huawei.com/#/app/C104325611"> <img src="/badges/huawei-appgallery.png" alt="Download on AppGalery"> </a>
+    </div>
+  </div>
+</div>
+<div class="page">
+  {{ resource.content | safe }}
+</div>
+<script src="/index_slideshow.js"></script>
+
+{% endblock content %}
