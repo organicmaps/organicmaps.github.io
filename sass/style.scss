@@ -4,14 +4,12 @@
 
 :root {
   --clr-accent: #006c35;
-  --clr-accent-alt: #006631;
 
   --clr-fg: #0d0d0d;
   --clr-bg: white;
 
   @media (prefers-color-scheme: dark) {
-    --clr-accent: #00803e;
-    --clr-accent-alt: #006c35;
+    --clr-accent: #00994a;
 
     --clr-fg: white;
     --clr-bg: #262626;
