@@ -4,6 +4,7 @@
 
 :root {
   --clr-accent: #006c35;
+  --clr-accent-alt: #004d25;
 }
 
 body {
@@ -26,7 +27,7 @@ header {
   display: flex;
   justify-content: center;
 
-  background-color: #006c35;
+  background-color: var(--clr-accent);
   color: white;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 
@@ -69,11 +70,11 @@ footer {
 
 main {
   h1, h2, h3, h4, h5, h6, a {
-    color: #00994a;
+    color: var(--clr-accent);
   }
 
   a:visited {
-    color: #006c35;
+    color: var(--clr-accent-alt);
   }
 }
 
