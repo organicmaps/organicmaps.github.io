@@ -13,12 +13,14 @@ page_template: index.html
   <p><a href="https://apps.apple.com/app/organic-maps/id1567437057"><img src="/img/badges/appstore.svg" height="48px"></a> <a href="https://play.google.com/store/apps/details?id=app.organicmaps"><img src="/img/badges/playstore.svg" height="48px"></a> <a href="https://f-droid.org/en/packages/app.organicmaps/"><img src="/img/badges/fdroid.svg" height="48px"></a> <a href="https://appgallery.huawei.com/#/app/C104325611"><img src="/img/badges/appgallery.svg" height="48px"></a></p>
 </div>
 
+<div class="screenshots-wrapper-wrapper">
 <div class="screenshots-wrapper">
 <div class="screenshots">
   <img src="/img/screenshots/hiking.jpg">
   <img src="/img/screenshots/prague.jpg">
   <img src="/img/screenshots/search.jpg">
   <img src="/img/screenshots/dark.jpg">
+</div>
 </div>
 </div>
 
