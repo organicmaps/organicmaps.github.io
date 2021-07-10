@@ -1,0 +1,33 @@
+{%- if page %}
+{%- set resource = page %}
+{%- elif section %}
+{%- set resource = section %}
+{%- endif %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/normalize.css">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+  <title>Oganic Maps: {{ resource.title }}</title>
+</head>
+<body>
+  <header>
+    <div>
+      <a href="/"><strong><img src="/img/logo-white.svg" height="32px" style="padding-right: 0.5em"> Organic Maps</strong></a>
+      <a href="https://github.com/organicmaps"><img src="/img/github.svg" height="32px"></a>
+    </div>
+  </header>
+  <main>
+    {{ resource.content | safe }}
+    <footer>
+      <p><a href="/privacy">Privacy policy</a> <a href="/terms">Terms</a></p>
+      <p>© 2021 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385 <br> Harju maakond, Tallinn, Kristiine linnaosa, A. H. Tammsaare tee 47, 11316, Estonia</p>
+    </footer>
+  </main>
+</body>
+</html>

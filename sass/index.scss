@@ -1,0 +1,29 @@
+.presentation {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.screenshots {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  max-width: 100vw;
+  height: 40em;
+  margin: 4rem 0;
+
+  overflow-x: auto;
+
+  img {
+    margin: 0 0.5em;
+  }
+}
+
+.comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 0.5rem;
+  place-items: center;
+  width: 100%;
+}
+

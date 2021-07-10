@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-accent: #006c35;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: rgb(34, 34, 34);
+    color: white;
+  }
+}
+
+header {
+  position: sticky;
+  top: 0;
+
+  background-color: #006c35;
+  color: white;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+  div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80ch;
+    margin: auto;
+
+    a {
+      display: flex;
+      align-items: center;
+      color: inherit;
+      text-decoration: inherit;
+      padding: 0.75em 0;
+      font-size: 1.3rem;
+    }
+  }
+
+  img {
+    vertical-align: middle;
+  }
+}
+
+main {
+  align-self: center;
+  max-width: 80ch;
+  padding: 3rem 0;
+}
+
+footer {
+  text-align: center;
+  margin-top: 4em;
+}
+
+main {
+  h1, h2, h3, h4, h5, h6, a {
+    color: #00994a;
+  }
+
+  a:visited {
+    color: #006c35;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+.white {
+  color: white;
+}
