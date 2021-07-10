@@ -5,19 +5,23 @@
 
 .screenshots {
   display: flex;
-  flex-direction: row;
-
-  width: 75vw;
-  position: relative;
-  left: calc(-38vw + 50%);
-
-  height: 40em;
-  margin: 4rem 0;
-
-  overflow-x: auto;
-
-  img {
-    margin: 0 0.5em;
+  justify-content: center;
+  &-wrapper {
+    display: flex;
+    flex-direction: row;
+  
+    width: 75vw;
+    position: relative;
+    left: calc(-38vw + 50%);
+  
+    height: 40em;
+    margin: 4rem 0;
+  
+    overflow-x: auto;
+  
+    img {
+      margin: 0 0.5em;
+    }
   }
 }
 
