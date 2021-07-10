@@ -10,8 +10,8 @@
   --clr-bg: white;
 
   @media (prefers-color-scheme: dark) {
-    --clr-accent: #00994a;
-    --clr-accent-alt: #00803e;
+    --clr-accent: #00803e;
+    --clr-accent-alt: #006c35;
 
     --clr-fg: white;
     --clr-bg: #262626;
@@ -80,12 +80,8 @@ main {
     color: var(--clr-accent);
   }
 
-  a {
-    text-decoration: none;
-
-    &:visited {
-      color: #00803e;
-    }
+  a:visited {
+    color: #00803e;
   }
 }
 
