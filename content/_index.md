@@ -77,7 +77,7 @@ At Organic Maps, we believe that privacy is a fundamental human right:
 
 Reject surveillance - embrace your freedom.
 
-[**Give Organic Maps a try!**](#install)
+[**Give Organic Maps a try!**](#presentation)
 
 ## Beta
 
