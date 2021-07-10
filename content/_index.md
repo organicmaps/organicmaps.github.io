@@ -59,7 +59,7 @@ Organic Maps is free from trackers and other bad stuff:
 The application is verified by [Exodus Privacy Project](https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/):
 
 <p align="center">
-  <img src="/img/exodus.png" width="75%">
+  <img src="/img/exodus.jpg" width="75%">
 </p>
 
 Organic Maps doesn't request excessive permissions to spy on you:
