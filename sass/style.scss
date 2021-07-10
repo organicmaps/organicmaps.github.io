@@ -73,8 +73,12 @@ main {
     color: var(--clr-accent);
   }
 
-  a:visited {
-    color: var(--clr-accent-alt);
+  a {
+    text-decoration: none;
+
+    &:visited {
+      color: var(--clr-accent-alt);
+    }
   }
 }
 
