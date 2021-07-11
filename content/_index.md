@@ -4,26 +4,6 @@ description: "Fast detailed offline maps for travelers, tourists, hikers and cyc
 page_template: index.html
 ---
 
-<link rel="stylesheet" href="/index.css">
-
-<div class="presentation">
-  <h1>Organic Maps</h1>
-  <p><strong>Offline Hike, Bike, Trails and Navigation</strong></p>
-  <p><strong>Organic Maps</strong> is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced <strong>OpenStreetMap</strong> data and curated with love by <strong>MapsWithMe</strong> founders.</p>
-  <p><a href="https://apps.apple.com/app/organic-maps/id1567437057"><img src="/img/badges/appstore.svg" height="48px"></a> <a href="https://play.google.com/store/apps/details?id=app.organicmaps"><img src="/img/badges/playstore.svg" height="48px"></a> <a href="https://f-droid.org/en/packages/app.organicmaps/"><img src="/img/badges/fdroid.svg" height="48px"></a> <a href="https://appgallery.huawei.com/#/app/C104325611"><img src="/img/badges/appgallery.svg" height="48px"></a></p>
-</div>
-
-<div class="screenshots-wrapper-wrapper">
-<div class="screenshots-wrapper">
-<div class="screenshots">
-  <img src="/img/screenshots/hiking.jpg">
-  <img src="/img/screenshots/prague.jpg">
-  <img src="/img/screenshots/search.jpg">
-  <img src="/img/screenshots/dark.jpg">
-</div>
-</div>
-</div>
-
 ## Features
 
 Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:

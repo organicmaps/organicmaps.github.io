@@ -62,10 +62,15 @@ header {
 }
 
 main {
-  align-self: center;
-  max-width: 80ch;
+  display: flex;
+  flex-direction: column;
   padding: 2rem 0;
   margin: 0 1em;
+}
+
+article {
+  align-self: center;
+  max-width: 80ch;
 }
 
 footer {

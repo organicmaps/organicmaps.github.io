@@ -1,32 +1,19 @@
 .presentation {
+  align-self: center;
+  max-width: 80ch;
   text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .screenshots {
   display: flex;
+  justify-content: center;
   flex-direction: row;
+  flex-wrap: wrap;
 
   img {
-    margin: 0 0.5em;
-    height: 30em;
-  }
-
-  &-wrapper {
-    overflow-x: auto;
-    &-wrapper {
-      width: 75vw;
-      position: relative;
-      left: calc(-38vw + 50%);
-      display: flex;
-      justify-content: center;
-      margin-bottom: 4em;
-      
-      @media (max-width: 800px) {
-        width: 100%;
-        left: 0;
-      }
-    }
+    margin: .5rem;
+    max-width: 300px;
   }
 }
 
