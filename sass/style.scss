@@ -16,6 +16,10 @@
   }
 }
 
+::selection {
+  background-color: #006c35;
+}
+
 body {
   display: flex;
   flex-direction: column;
