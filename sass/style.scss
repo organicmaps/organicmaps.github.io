@@ -20,6 +20,10 @@
   background-color: #006c35;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   display: flex;
   flex-direction: column;
