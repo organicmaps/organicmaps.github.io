@@ -31,6 +31,10 @@ body {
 
   color: var(--clr-fg);
   background-color: var(--clr-bg);
+
+  @media (min-width: 1920px) {
+    font-size: 1.1rem;
+  }
 }
 
 header {
@@ -60,7 +64,7 @@ header {
       color: inherit;
       text-decoration: inherit;
       padding: 0.75em 0;
-      font-size: 1.3rem;
+      font-size: 1.3em;
     }
   }
 
