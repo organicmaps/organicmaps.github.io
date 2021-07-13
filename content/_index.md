@@ -1,6 +1,6 @@
 ---
 title: "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-description: Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe founders.
+description: Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe (MapsMe) founders.
 
 page_template: index.html
 ---
