@@ -76,8 +76,12 @@ header {
 main {
   display: flex;
   flex-direction: column;
-  padding: 2rem 0;
+  padding: 1.5rem 0;
   margin: 0 1em;
+
+  @media (max-height: 600px) {
+    padding: .5rem 0;
+  }
 }
 
 article {
