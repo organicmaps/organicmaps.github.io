@@ -30,12 +30,15 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 
 Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:
 
-- Detailed offline maps with places that don't exist on other maps
+- Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap](https://osm.org)
 - Cycling routes, hiking trails, and walking paths
 - Contour lines, elevation profiles, peaks, and slopes
 - Turn-by-turn walking, cycling, and car navigation with voice guidance
-- Fast offline search on the map and bookmarks
+- Fast offline search on the map
+- Bookmarks export and import in KML/KMZ formats (GPX is planned)
 - Dark Mode to protect your eyes
+- Countries and regions don't take a lot of space
+- Free and open-source
 
 ## Why Organic?
 
@@ -45,7 +48,7 @@ Organic Maps is pure and organic, made with love:
 - Saves your battery
 - No unexpected mobile data charges
 
-Organic Maps is free from trackers and other bad stuff:
+Organic Maps app is free from trackers and other bad stuff:
 
 - No ads
 - No tracking
@@ -56,7 +59,7 @@ Organic Maps is free from trackers and other bad stuff:
 - No noisy email spam
 - No push notifications
 - No crapware
-- ~~No pesticides~~
+- ~~No pesticides~~ Purely organic!
 
 The application is verified by <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
 <br/>
@@ -76,6 +79,10 @@ At Organic Maps, we believe that privacy is a fundamental human right:
 Reject surveillance - embrace your freedom.
 
 [**Give Organic Maps a try!**](#install)
+
+## Who is paying for the free app?
+
+The app is free for everyone. Please [donate](@/donate.md) to support us!
 
 ## Beta
 

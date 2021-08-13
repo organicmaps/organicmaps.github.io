@@ -116,3 +116,33 @@ footer {
   top: 0;
   left: 0;
 }
+
+.logo {
+  background-image: url("/logo-on-white.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-origin: content-box;
+  width: 32px;
+  height: 32px;
+}
+
+.github {
+  svg {
+    fill: black;
+    @media (prefers-color-scheme: dark) {
+      fill: white;
+    }
+    display: inline-block;
+    overflow: visible!important;
+  }
+}
+
+#menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+#bottom_menu {
+  margin-bottom: 1em;
+}
