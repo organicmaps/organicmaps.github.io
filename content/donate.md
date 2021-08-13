@@ -40,6 +40,7 @@ Thirdly, there are many other cool things to do:
 - Update maps data more often, at least weekly
 - Implement proper GPS track recorder
 - Add native GPX support
+- Backup and sync bookmarks
 - Improve map styles and make topo maps better
 - Enhance OpenStreetMap editor
 - Improve offline search, routing and navigation
@@ -56,7 +57,7 @@ Please prefer recurring donations, if possible. Recurring donations are the best
 
 - [Github Sponsors](https://github.com/sponsors/organicmaps)
 - [Liberapay](https://liberapay.com/OrganicMaps/donate)
-- [PayPal sponsors@organicmaps.app](https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8)
+- [PayPal donate@organicmaps.app](https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8)
 
 
 ## Can you help us in any other way?
