@@ -14,7 +14,11 @@
 
   <meta name='description' content='{{ resource.description }}'>
 
-  <meta property='og:image' content='{{ get_url(path="images/screenshots/prague.jpg") }}'>
+  {%- set preview_image = 'images/screenshots/prague.jpg' -%}
+  {%- if resource.extra.preview_image -%}
+  {%- set preview_image = resource.extra.preview_image -%}
+  {%- endif %}
+  <meta property='og:image' content='{{ get_url(path=preview_image) }}'>
   <meta property='og:url' content='{{ current_url }}'>
   <meta property='og:type' content='website'>
   <meta property='og:title' content='{{ resource.title }}'>
@@ -42,25 +46,7 @@
   </main>
 
   <footer>
-    <nav id="bottom_menu" role="navigation">
-      {% if resource.path != '/privacy/' %}
-      <a href='/privacy/'>
-        {% endif %}
-        <span>Privacy policy</span>
-        {% if resource.path != '/privacy/' %}
-      </a>{% endif %}
-      &nbsp;
-      {% if resource.path != '/terms/' %}<a href='/terms/'>{% endif %}
-        <span>Terms</span>
-        {% if resource.path != '/terms/' %}
-      </a>{% endif %}
-      &nbsp;
-      {% if resource.path != '/donate/' %}<a href='/donate/'>{% endif %}
-        <span>Donate</span>
-        {% if resource.path != '/donate/' %}
-      </a>{% endif %}
-    </nav>
-
+    {% include 'bottom_menu.html' %}
     <p>
       <span>© 2021 <a href='mailto:legal@organicmaps.app'>Organic Maps OÜ</a>, reg. code 16225385</span>
       <span>Harju maakond, Tallinn, Kristiine linnaosa, A. H. Tammsaare tee 47, 11316, Estonia</span>

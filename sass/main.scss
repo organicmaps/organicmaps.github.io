@@ -146,3 +146,10 @@ footer {
 #bottom_menu {
   margin-bottom: 1em;
 }
+
+.donate_buttons {
+  display: flex;
+  a {
+    margin: 0 1em 0 1em;
+  }
+}
