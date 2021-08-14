@@ -153,3 +153,16 @@ footer {
     margin: 0 1em 0 1em;
   }
 }
+
+.hiddenFromSearchEngines {
+  font-size: large;
+  margin: 1em 0 1em 0;
+  color: red;
+  // Ovewrites the default content of the div but it isn't supported by all browsers.
+  content: "There is a temporary issue with app availability in Google Play Store. It should be fixed soon";
+}
+.hiddenFromSearchEngines::before {
+  color: red;
+  // Places a hidden text above the div.
+  content: "There is a temporary issue with app availability in Google Play Store. It should be fixed soon";
+}
