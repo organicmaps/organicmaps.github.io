@@ -86,6 +86,8 @@ Reject surveillance - embrace your freedom.
 
 The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
+{{ donate_buttons() }}
+
 ## Beta
 
 Please join our beta program, suggest your features, and report bugs:

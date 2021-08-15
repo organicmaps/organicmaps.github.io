@@ -7,16 +7,7 @@ extra:
 
 We are looking for your help to fund the further development of the Organic Maps application.
 
-<div class="donate_buttons">
-  <iframe src="https://github.com/sponsors/organicmaps/button" title="Sponsor Organic Maps" height="35" width="116" style="border: 0;"></iframe>
-
-  <a href="https://liberapay.com/OrganicMaps/donate"><img src="/images/liberapay.svg" alt="Liberapay" height="35" /></a>
-
-  <form action="https://www.paypal.com/donate" method="post" target="_top">
-  <input type="hidden" name="hosted_button_id" value="JYM34AADM87V8" />
-  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="Donate to Organic Maps using PayPal" alt="Donate with PayPal button" />
-  </form>
-</div>
+{{ donate_buttons() }}
 
 ## Why?
 
@@ -71,6 +62,8 @@ Please prefer recurring donations, if possible. Recurring donations are the best
 - [Github Sponsors](https://github.com/sponsors/organicmaps)
 - [Liberapay](https://liberapay.com/OrganicMaps/donate)
 - [PayPal donate@organicmaps.app](https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8)
+
+{{ donate_buttons() }}
 
 
 ## Can you help us in any other way?
