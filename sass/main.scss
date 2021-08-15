@@ -147,6 +147,14 @@ footer {
   margin-bottom: 1em;
 }
 
+.donate_button {
+  text-decoration: none;
+  border: red 2px solid;
+  border-radius: 1rem;
+  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
+  margin: 0;
+}
+
 .donate_buttons {
   display: flex;
   a {
