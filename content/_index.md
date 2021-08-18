@@ -9,8 +9,6 @@ page_template: index.html
 for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 **OpenStreetMap** data and curated with love by **MapsWithMe** founders.
 
-<div class="hiddenFromSearchEngines">.</div>
-
 <p id='install'>
 
 {{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title='Install Organic Maps from the AppStore') }}
