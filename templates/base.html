@@ -30,8 +30,9 @@
 
   <meta name='apple-itunes-app' content='app-id=1567437057'>
   <meta name='wikidata' content='Q107078602'>
-
-  <link href='/main.css' rel='stylesheet' type='text/css'>
+  <!-- TODO: Use get_url everywhere when it works, also with cachebust=true,
+  see https://github.com/getzola/zola/issues/1570 -->
+  <link href='/main.css?h={{ get_file_hash(path="sass/main.scss", sha_type=256, base64=false) }}' rel='stylesheet' type='text/css'>
 
   <title>{{ resource.title }}</title>
 </head>
