@@ -13,6 +13,7 @@ We are looking for your help to fund the further development of the Organic Maps
 
 Organic Maps promotes the new ideology, which is unique on the market. Our app is entirely free from trackers and other nasty stuff:
 
+- 100% free, without paid features
 - No ads
 - No tracking
 - No data collection
