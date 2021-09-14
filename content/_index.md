@@ -1,13 +1,13 @@
 ---
 title: "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-description: Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe (MapsMe) founders.
+description: Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe (Maps.Me) founders.
 
 page_template: index.html
 ---
 
 **Organic Maps** is an Android & iOS offline maps app
 for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
-**OpenStreetMap** data and curated with love by **MapsWithMe** founders.
+**OpenStreetMap** data and curated with love by **MapsWithMe** (**Maps.Me**) founders.
 
 <p id='install'>
 
