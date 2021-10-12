@@ -88,6 +88,12 @@ The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
 {{ donate_buttons() }}
 
+### Our sponsors
+
+[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/)
+two virtual servers with 400 TB/month of free bandwidth to help our users with
+maps downloads and updates.
+
 ## Beta
 
 Please join our beta program, suggest your features, and report bugs:
