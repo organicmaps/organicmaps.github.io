@@ -5,7 +5,7 @@ description: Fast detailed offline maps for travelers, tourists, hikers and cycl
 page_template: index.html
 ---
 
-**Organic Maps** is an Android & iOS offline maps app
+**Organic Maps** is a free Android & iOS offline maps app
 for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 **OpenStreetMap** data and curated with love by **MapsWithMe** (**Maps.Me**) founders.
 
@@ -37,7 +37,7 @@ Organic Maps is the ultimate companion app for travelers, tourists, hikers, and 
 - Contour lines, elevation profiles, peaks, and slopes
 - Turn-by-turn walking, cycling, and car navigation with voice guidance
 - Fast offline search on the map
-- Bookmarks export and import in KML/KMZ formats (GPX is planned)
+- Bookmarks export and import in KML/KMZ formats (GPX is [planned](https://github.com/organicmaps/organicmaps/issues/624))
 - Dark Mode to protect your eyes
 - Countries and regions don't take a lot of space
 - Free and open-source
