@@ -2,6 +2,7 @@
 title: Feed your developers and Organic Maps servers!
 description: Donate to support the development of our free application
 extra:
+  menu_title: Donate
   preview_image: donate/donate.png
 ---
 

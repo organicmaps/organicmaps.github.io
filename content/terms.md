@@ -1,6 +1,8 @@
 ---
 title: "Organic Maps: terms"
 description: "Terms of use for Organic Maps application"
+extra:
+  menu_title: Terms
 ---
 
 This app is licensed under the Apache License, Version 2.0 (the "License");
