@@ -1,13 +1,11 @@
 <nav id="bottom_menu" role="navigation">
-  {% if resource.path != '/privacy/' %}<a href='/privacy/'>{% endif %}
-    <span>Privacy policy</span>
-    {% if resource.path != '/privacy/' %}</a>{% endif %}
+  {% set home = get_section(path='_index.md') %}
+  {% for page in home.pages %}
+  {% if page.extra.menu_title %}
+  {% if resource.path != page.path %}<a href='{{ page.path }}'>{% endif %}
+    <span>{{ page.extra.menu_title }}</span>
+    {%- if resource.path != page.path %}</a>{% endif %}
   &nbsp;
-  {% if resource.path != '/terms/' %}<a href='/terms/'>{% endif %}
-    <span>Terms</span>
-    {% if resource.path != '/terms/' %}</a>{% endif %}
-  &nbsp;
-  {% if resource.path != '/donate/' %}<a href='/donate/'>{% endif %}
-    <span>Donate</span>
-    {% if resource.path != '/donate/' %}</a>{% endif %}
+  {% endif %}
+  {% endfor %}
 </nav>
