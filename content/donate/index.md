@@ -57,26 +57,41 @@ Thirdly, there are many other cool things to do:
 
 ## How to donate?
 
-We are using [GitHub Sponsors](https://github.com/sponsors/organicmaps), [Liberapay](https://liberapay.com/OrganicMaps/donate) and [PayPal](https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8) for donations. Liberapay itself is also free software and run by a team of volunteers, but GitHub is a viable and well-recognized option.
+We are using [GitHub Sponsors][], [Liberapay][], [PayPal][] and
+[SEPA/direct bank transfer][SEPA] for donations. Liberapay itself is also free
+software and run by a team of volunteers, but GitHub is a viable and
+well-recognized option.
 
-Please prefer recurring donations, if possible. Recurring donations are the best way to ensure a relatively stable income for the project. But you can also donate one time.
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. But you can also
+donate one time.
 
-- [Github Sponsors](https://github.com/sponsors/organicmaps)
-- [Liberapay](https://liberapay.com/OrganicMaps/donate)
-- [PayPal donate@organicmaps.app](https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8)
+- [Github Sponsors][]
+- [Liberapay][]
+- [PayPal donate@organicmaps.app][PayPal]
+- [SEPA and direct bank transfer][SEPA]
 
 {{ donate_buttons() }}
+
+### SEPA and direct bank transfer
+
+|   |   |
+|---|---|
+Account holder: | Organic Maps OÜ
+BIC: | TRWIBEB1XXX
+IBAN: | BE39967200310319
+Bank name: | TransferWise Europe SA
+Bank address: | Avenue Louise 54/S52, Brussels 1050, Belgium
+Payment description: | Donation
 
 
 ## Can you help us in any other way?
 
-Yes!
+Yes! There are many ways to support Organic Maps. Please see
+[Support Us](@/support-us/index.md) page for more details.
 
-- Contribute to [Android](https://github.com/organicmaps/organicmaps/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid) app.
-- Contribute to [iOS](https://github.com/organicmaps/organicmaps/issues?q=is%3Aopen+is%3Aissue+label%3Aios) app.
-- Contribute to [C++ core libraries](https://github.com/organicmaps/organicmaps/blob/master/docs/STRUCTURE.md#directories-structure).
-- Improve [translations](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md#translations).
-- Help users on [GitHub](https://github.com/organicmaps/organicmaps/issues) and in [Telegram chat](https://t.me/OrganicMaps).
-- Report bugs and test fixes.
 
-Any help is welcome! See [docs/CONTRIBUTING.md](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) for further details.
+[PayPal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
+[Github Sponsors]: https://github.com/sponsors/organicmaps "Github Sponsors"
+[Liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
+[SEPA]: #sepa-and-direct-bank-transfer "SEPA and direct bank transfer"
