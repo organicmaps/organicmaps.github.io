@@ -140,16 +140,15 @@ footer {
   margin-right: 0.5rem;
 }
 
-#menu {
+.menuitems {
   display: flex;
   justify-content: center;
 }
 
 .menuitem {
   margin: 0 0.5rem 0 0.25rem;
-  text-transform: uppercase;
-  a, svg {
-    vertical-align: middle;
+  white-space: nowrap;
+  a {
     text-decoration: none;
   }
 }
@@ -161,7 +160,7 @@ footer {
   }
 }
 
-.donate_button {
+.menuitem_selected {
   text-decoration: none;
   border: red 2px solid;
   border-radius: 1rem;
