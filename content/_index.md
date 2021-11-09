@@ -94,6 +94,10 @@ The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 two virtual servers with 400 TB/month of free bandwidth to help our users with
 maps downloads and updates.
 
+### Support us
+
+There are many ways to support us, listed [here](@/support-us/index.md).
+
 ## Beta
 
 Please join our beta program, suggest your features, and report bugs:
@@ -113,6 +117,8 @@ licensed under the Apache License 2.0.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи
 - Visit our [GitHub page](https://github.com/organicmaps/organicmaps)
 - Contact us by [email](mailto:hello@organicmaps.app)
+- Follow our updates in [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp),
+[Instagram](https://instagram.com/organicmaps.app/).
 
 <button id='add' class='installButton'>
   Install from Google Play
@@ -130,3 +136,4 @@ licensed under the Apache License 2.0.
     }
   });
 </script>
+
