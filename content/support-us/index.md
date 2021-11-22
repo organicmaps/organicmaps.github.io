@@ -23,6 +23,7 @@ and [Android](https://github.com/organicmaps/organicmaps/tree/master/android/src
 descriptions into your language.
 - [Translate](https://github.com/organicmaps/organicmaps.github.io) our web site into your language.
 - Join the [OpenStreetMap](https://www.openstreetmap.org/about) community and contribute to the maps data.
+- Fix red cities found by our [public transport validator](https://cdn.organicmaps.app/subway/), for subways and light rails to work in the app.
 - Support other users on [GitHub](https://github.com/organicmaps/organicmaps/issues),
 [Telegram](https://t.me/OrganicMaps) ([на русском](https://t.me/OrganicMapsRu)),
 [Twitter](https://twitter.com/OrganicMapsApp), [Facebook](https://facebook.com/OrganicMaps),
