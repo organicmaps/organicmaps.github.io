@@ -66,7 +66,7 @@ Recurring donations are the best way to ensure a relatively stable income for
 the project and motivate us for long-term tasks and goals. But you can also
 donate one time.
 
-- [Github Sponsors][]
+- [GitHub Sponsors][]
 - [Liberapay][]
 - [PayPal donate@organicmaps.app][PayPal]
 - [SEPA and direct bank transfer][SEPA]
@@ -92,6 +92,6 @@ Yes! There are many ways to support Organic Maps. Please see
 
 
 [PayPal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
-[Github Sponsors]: https://github.com/sponsors/organicmaps "Github Sponsors"
+[GitHub Sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"
 [Liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
 [SEPA]: #sepa-and-direct-bank-transfer "SEPA and direct bank transfer"

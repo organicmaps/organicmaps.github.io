@@ -12,7 +12,7 @@ and it is developed by enthusiasts with the help of the community.
 There are different ways to support the development:
 
 - [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
-- Report bugs and share ideas on our [Github](https://github.com/organicmaps/organicmaps/issues)
+- Report bugs and share ideas on our [GitHub](https://github.com/organicmaps/organicmaps/issues)
 or via [email](mailto:support@organicmaps.app).
 - Help us to [fix bugs](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md)
 and do code reviews if you are a developer. Every fixed small issue makes someone happier.
