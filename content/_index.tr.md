@@ -26,7 +26,7 @@ extra:
 {{ screenshot(src='images/screenshots/search.jpg', alt='Çevrimdışı Arama') }}
 {{ screenshot(src='images/screenshots/dark.jpg', alt='Koyu modda navigasyon') }}
 
-## Features
+## Özellikler
 
 Organic Maps gezginler, turistler, yürüyüşçüler ve bisikletçiler için mükemmel bir uygulamadır:
 
