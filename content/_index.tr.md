@@ -132,3 +132,4 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
   });
 </script>
 
+Signed-off-by: MetehanOzyurek metehanc8s9@hotmail.com
