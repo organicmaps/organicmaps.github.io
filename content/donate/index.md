@@ -57,19 +57,17 @@ Thirdly, there are many other cool things to do:
 
 ## How to donate?
 
-We are using [GitHub Sponsors][], [Liberapay][], [PayPal][] and
-[SEPA/direct bank transfer][SEPA] for donations. Liberapay itself is also free
-software and run by a team of volunteers, but GitHub is a viable and
-well-recognized option.
+There are many ways to donate to the project:
+
+- **[GitHub Sponsors][] - recommended**, zero fees
+- [Liberapay][] - moderate fees
+- [PayPal donate@organicmaps.app][PayPal] - high fees
+- [SEPA/direct bank transfer][SEPA] - negligible fees
+- [Cryptocurrency][Crypto] - extreme fees
 
 Recurring donations are the best way to ensure a relatively stable income for
 the project and motivate us for long-term tasks and goals. But you can also
 donate one time.
-
-- [GitHub Sponsors][]
-- [Liberapay][]
-- [PayPal donate@organicmaps.app][PayPal]
-- [SEPA and direct bank transfer][SEPA]
 
 {{ donate_buttons() }}
 
@@ -84,6 +82,23 @@ Bank name: | TransferWise Europe SA
 Bank address: | Avenue Louise 54/S52, Brussels 1050, Belgium
 Payment description: | Donation
 
+### Crypto
+
+Please consider donating annually to reduce total fees. Algorand, Tron,
+Litecoin and Monero networks offer low fees, but situation changes every day.
+
+Token | Name | Address 
+-- | -- | --
+ALGO | Algorand | 3UZXZEPGFAM7E74IO32Y7O6KOY3E7NNNJVBV4GFS5UWQQSY7AIM5PK7C2E
+BNB | Binance Coin | bnb1c8vmnqqhqc6lcajpzvuy4ss5dw3vjc7tc5q8zd
+BTC | Bitcoin | bc1qjkq3tpy2gutsfdlcvys8slkempywk230u8rc8u
+ETH | Ethereum | 0x1D59bBe5d4332e34116DccDE5c1a8c736E1C2810
+LTC | Litecoin | LfmSZ5yKBf17WwahZK9NEq5w2FLVap4Ctw
+TRX | Tron | TNQGZwAUCpwy1cuVSyu1vc6AT19nsmWqRF
+USDT | Tether | 0x1D59bBe5d4332e34116DccDE5c1a8c736E1C2810 (Ethereum TRC20)
+USDT | Tether | TNQGZwAUCpwy1cuVSyu1vc6AT19nsmWqRF (Tron TRC20)
+XMR | Monero | 44YsnJihPB7TBucb17WiXDde7qguUwNmGKFSsyrFqWheEaDKQRtMfGcEU54aJ8PeQNgV7Q9uBWB5CTcvKSMEH4QtE6BT1cm
+ZEC | Zcash | t1djHnDg8yGfn6vLPrYgejUFf2ZCF4WMmkp
 
 ## Can you help us in any other way?
 
@@ -95,3 +110,4 @@ Yes! There are many ways to support Organic Maps. Please see
 [GitHub Sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"
 [Liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
 [SEPA]: #sepa-and-direct-bank-transfer "SEPA and direct bank transfer"
+[Crypto]: #crypto "Donation in crypto"
