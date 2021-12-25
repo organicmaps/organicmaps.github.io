@@ -80,7 +80,8 @@ At Organic Maps, we believe that privacy is a fundamental human right:
 
 Reject surveillance - embrace your freedom.
 
-[**Give Organic Maps a try!**](#install)
+
+<a href="#install"><strong>Give Organic Maps a try!</strong></a>
 
 ## Who is paying for the free app?
 
@@ -136,4 +137,3 @@ licensed under the Apache License 2.0.
     }
   });
 </script>
-

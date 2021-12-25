@@ -78,7 +78,7 @@ Organic Maps'te gizliliğin temel bir insan hakkı olduğuna inanıyoruz:
 
 Gözetlemeyi reddet - özgürlüğünüzü kucaklayın.
 
-[**Organic Maps'i deneyin!**](#install)
+<a href="#install"><strong>Organic Maps'i deneyin!</strong></a>
 
 ## Ücretsiz uygulama için kim ödeme yapıyor?
 
@@ -112,7 +112,7 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи
 - [GitHub sayfamızı](https://github.com/organicmaps/organicmaps) ziyaret edin
 - [E-posta](mailto:hello@organicmaps.app) ile bizimle iletişime geçin
-- Güncellemelerimizi [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) ve 
+- Güncellemelerimizi [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) ve
 - [Instagram](https://instagram.com/organicmaps.app/) üzerinden takip edin.
 
 <button id='add' class='installButton'>
