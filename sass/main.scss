@@ -174,8 +174,18 @@ footer {
 }
 
 .donate_buttons {
-  display: flex;
+  form, iframe, a {
+    display: inline-block;
+    vertical-align: top;
+  }
   a {
     margin: 0 1em 0 1em;
   }
+}
+
+#crypto_table + table {
+  font-size: smaller;
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
 }

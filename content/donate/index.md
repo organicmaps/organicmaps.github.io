@@ -87,10 +87,12 @@ Payment description: | Donation
 Please consider donating annually to reduce total fees. Algorand, Tron,
 Litecoin and Monero networks offer low fees, but situation changes every day.
 
-Token | Name | Address 
--- | -- | --
+<p id="crypto_table" />
+
+Token | Name | Address
+:-- | :-- | :--
 ALGO | Algorand | 3UZXZEPGFAM7E74IO32Y7O6KOY3E7NNNJVBV4GFS5UWQQSY7AIM5PK7C2E
-BNB | Binance Coin | bnb1c8vmnqqhqc6lcajpzvuy4ss5dw3vjc7tc5q8zd
+BNB | Binance | bnb1c8vmnqqhqc6lcajpzvuy4ss5dw3vjc7tc5q8zd
 BTC | Bitcoin | bc1qjkq3tpy2gutsfdlcvys8slkempywk230u8rc8u
 ETH | Ethereum | 0x1D59bBe5d4332e34116DccDE5c1a8c736E1C2810
 LTC | Litecoin | LfmSZ5yKBf17WwahZK9NEq5w2FLVap4Ctw
