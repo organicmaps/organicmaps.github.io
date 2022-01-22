@@ -1,17 +1,17 @@
 <nav id="menu" role="navigation">
   <span class="logo"></span>
   <span class="menu_items">
-    <span class="menuitem{% if resource.path != '/' %}"><a href='/'>{% else %}_active">{% endif %}
+    <span class="menuitem{% if resource.path != '/' %}"><a href="/">{% else %}_active">{% endif %}
         <span>Home</span>
         {%- if resource.path != '/' %}</a>{% endif %}
     </span>
     •
-    <span class="menuitem{% if resource.path != '/donate/' %}"><a href='/donate/'>{% else %}_active">{% endif %}
+    <span class="menuitem{% if resource.path != '/donate/' %}"><a href="/donate/">{% else %}_active">{% endif %}
         <span>❤️ Donate</span>
         {% if resource.path != '/donate/' %}</a>{% endif %}
     </span>
     •
-    <span class="menuitem{% if resource.path != '/support-us/' %}"><a href='/support-us/'>{% else %}_active">{% endif %}
+    <span class="menuitem{% if resource.path != '/support-us/' %}"><a href="/support-us/">{% else %}_active">{% endif %}
         <span>Support Us</span>
         {% if resource.path != '/support-us/' %}</a>{% endif %}
     </span>

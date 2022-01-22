@@ -2,7 +2,7 @@
   {% set home = get_section(path='_index.md') %}
   {% for page in [home] | concat(with=home.pages) %}
   {% if page.extra.menu_title %}
-  {% if resource.path != page.path %}<a href='{{ page.path }}'>{% endif %}
+  {% if resource.path != page.path %}<a href="{{ page.path }}">{% endif %}
     <span>{{ page.extra.menu_title }}</span>
     {%- if resource.path != page.path %}</a>{% endif %}
   &nbsp;
