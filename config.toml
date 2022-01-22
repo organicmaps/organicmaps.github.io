@@ -10,3 +10,8 @@ build_search_index = false
 [markdown]
 external_links_target_blank = true
 
+[languages.en.translations]
+contact = "Contact Us"
+donate = "Donate"
+home = "Home"
+support-us = "Support Us"
