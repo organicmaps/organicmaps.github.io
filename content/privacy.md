@@ -5,7 +5,7 @@ extra:
   menu_title: Privacy
 ---
 
-Organic Maps respects your privacy and DO NOT TRACK YOU.
+Organic Maps respects your privacy and DOES NOT TRACK YOU.
 
 No tracking, no ads, no data collection, no spyware.
 
