@@ -26,6 +26,7 @@ descriptions into your language.
 - Fix red cities found by our [public transport validator](https://cdn.organicmaps.app/subway/), for subways and light rails to work in the app.
 - Support other users on [GitHub](https://github.com/organicmaps/organicmaps/issues),
 [Telegram](https://t.me/OrganicMaps) ([на русском](https://t.me/OrganicMapsRu)),
+[[matrix]](https://matrix.to/#/#organicmaps:matrix.org),
 [Twitter](https://twitter.com/OrganicMapsApp), [Facebook](https://facebook.com/OrganicMaps),
 [Instagram](https://instagram.com/OrganicMaps.app).
 - Tell everyone about Organic Maps. A bigger community is a stronger community.
