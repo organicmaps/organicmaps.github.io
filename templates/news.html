@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>{{ resource.title }}</h1>
+
+{% for post in resource.pages %}
+<div class="news_date">&nbsp;{{ post.date | date(format='%B %e, %Y') }}&nbsp;</div>
+<div class="news_content">{{ post.content | safe }}</div>
+{% for photo in post.assets %}
+<img class="news_image" src="{{ photo | safe }}" />
+{% endfor %}
+{% endfor %}
+
+{% endblock content %}

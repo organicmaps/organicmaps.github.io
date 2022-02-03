@@ -188,3 +188,29 @@ footer {
   overflow-x: auto;
   white-space: nowrap;
 }
+
+.news_date {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  margin: 1rem 0;
+  &:before, &:after {
+    content: "";
+    flex-grow: 1;
+    background-color: gray;
+    height: 1px;
+    font-size: 0px;
+    line-height: 0px;
+    margin: 0;
+  }
+}
+.news_image {
+  max-width: 80vw;
+  max-height: 480px;
+  margin-left: 0.5rem;
+  display: inline-block;
+  vertical-align: top;
+}
+.news_content {
+  display: inline-block;
+}

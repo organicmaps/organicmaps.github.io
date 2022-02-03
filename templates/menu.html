@@ -1,9 +1,9 @@
 <nav id="menu" role="navigation">
-  <span class="logo"></span>
+  <a href="/"><span class="logo"></span></a>
   <span class="menu_items">
-    <span class="menuitem{% if resource.path != '/' %}"><a href="/">{% else %}_active">{% endif %}
-        <span>{{ trans(key='home') }}</span>
-        {%- if resource.path != '/' %}</a>{% endif %}
+    <span class="menuitem{% if resource.path != '/news/' %}"><a href="/news/">{% else %}_active">{% endif %}
+        <span>{{ trans(key='news') }}</span>
+        {%- if resource.path != '/news/' %}</a>{% endif %}
     </span>
     •
     <span class="menuitem{% if resource.path != '/donate/' %}"><a href="/donate/">{% else %}_active">{% endif %}

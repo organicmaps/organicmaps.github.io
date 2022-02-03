@@ -1,6 +1,7 @@
 <nav id="bottom_menu" role="navigation">
   {% set home = get_section(path='_index.md') %}
-  {% for page in [home] | concat(with=home.pages) %}
+  {% set news = get_section(path='news/_index.md') %}
+  {% for page in [home, news] | concat(with=home.pages) %}
   {% if page.extra.menu_title %}
   {% if resource.path != page.path %}<a href="{{ page.path }}">{% endif %}
     <span>{{ page.extra.menu_title }}</span>
