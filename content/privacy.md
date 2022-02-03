@@ -1,6 +1,7 @@
 ---
 title: "Organic Maps: Privacy Policy"
 description: "No tracking, no ads, no data collection, no spyware"
+weight: 900
 extra:
   menu_title: Privacy
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Organic Maps: terms"
 description: "Terms of use for Organic Maps application"
+weight: 1000
 extra:
   menu_title: Terms
 ---
