@@ -10,6 +10,10 @@ build_search_index = false
 [markdown]
 external_links_target_blank = true
 
+# Allows to have localized URLs.
+[slugify]
+paths = "safe"
+
 [languages.en.translations]
 contact = "Contact Us"
 donate = "Donate"
