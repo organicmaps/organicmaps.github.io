@@ -108,7 +108,7 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - [Sorun izleyicisine](https://github.com/organicmaps/organicmaps/issues) sorunları ve hataları bildirin.
 - Fikirleri [tartışın](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) ya da özellik istekleri önerin
 - Güncellemeler için [Telegram Kanalımıza](https://t.me/OrganicMapsApp) abone olun
-- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMaps) veya [[matrix] space](https://matrix.to/#/#organicmaps:matrix.org) katılın
+- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMaps) veya [[matrix] odamıza](https://matrix.to/#/#organicmaps:matrix.org) katılın
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи
 - [GitHub sayfamızı](https://github.com/organicmaps/organicmaps) ziyaret edin
 - [E-posta](mailto:hello@organicmaps.app) ile bizimle iletişime geçin
