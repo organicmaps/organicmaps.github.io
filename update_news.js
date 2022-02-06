@@ -1,4 +1,10 @@
 // This script fetches Telegram channel preview and extracts content from it for our site.
+// How content is stored an rendered:
+// On disk:
+// content/news/2022-01-30/7/index.md  (Telegram ID is used)
+// On site:
+// /news/2022-01-30/title-text-slug
+
 'use strict';
 const channelPreviewUrl = 'https://t.me/s/OrganicMapsApp';
 const newsPath = `${__dirname}/content/news/`;
@@ -9,6 +15,8 @@ const fs = require('fs');
 const NodeHtmlMarkdown = require('node-html-markdown').NodeHtmlMarkdown;
 const nhm = new NodeHtmlMarkdown();
 const photoUrlRE = /url\(\'(.*?)\'/;
+const emojiRE = /_\*\*(\u00a9|\u00ae|[\u2000-\u3300]\ufe0f?|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]\ufe0f?|\ud83e[\ud000-\udfff]|\uD83C[\uDDE6-\uDDFF]\uD83C[\uDDE6-\uDDFF])\*\*_/gi;
+
 
 function downloadAsync(url, path) {
   return new Promise((resolve, reject) => {
@@ -27,36 +35,70 @@ function downloadAsync(url, path) {
   }).catch(err => console.error('Download failed: ' + err));
 }
 
-const emojiRE = /_\*\*(\u00a9|\u00ae|[\u2000-\u3300]\ufe0f?|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]\ufe0f?|\ud83e[\ud000-\udfff]|\uD83C[\uDDE6-\uDDFF]\uD83C[\uDDE6-\uDDFF])\*\*_/gi;
-
-function toMarkdown(node, date) {
-  let frontmatter = `---\ndate: "${date}"\n---\n\n`;
-  // Photo-only posts do not have text, but should have an index.md file.
-  if (node) {
-    let content = nhm.translate(node.innerHTML);
-    // We use other dots for lists.
-    content = content.replaceAll('• ', '* ');
-    // Telegram makes emoji bold italic.
-    content = content.replaceAll(emojiRE, '$1');
-    return frontmatter + content;
+// Creates a title for news piece from text.
+function getTitle(text) {
+  // Strip urls and text after them.
+  const breakers = ['http', '. ', ':', '\n'];
+  for (let b = 0; b < breakers.length; ++b) {
+    const i = text.indexOf(breakers[b]);
+    if (i > 0) text = text.substring(0, i);
   }
-  return frontmatter;
+  return text.trim();
 }
 
-// Download Telegram channel preview html.
-const request = https.get(channelPreviewUrl, response => {
-  if (response.statusCode != 200) throw new Error('statusCode=' + response.statusCode);
-  let chunks = [];
-  response.on('data', fragments => chunks.push(fragments));
-  response.on('end', _ => {
-    const body = Buffer.concat(chunks);
-    parseHtml(body.toString());
-  });
-  response.on('error', err => console.log(err));
-});
-request.on('error', err => console.log(err));
-request.end();
+const dateRE = /-?(\d\d)?\d\d-\d\d-\d\d-?/g;
+const slugRE = /(.\ufe0f)?[^\p{L}\p{N}]+/gu;
+const kReplacer = '-';
+// Removes incompatible symbols from the text. May return an empty string.
+function slugify(text) {
+  text = text.toLowerCase().replace(slugRE, kReplacer);
+  // Remove version numbers (dates) from slugs.
+  text = text.replace(dateRE, kReplacer);
+  if (text.length && text[0] == kReplacer) text = text.substr(1);
+  if (text.length && text[text.length - 1] == kReplacer) text = text.substr(0, text.length - 1);
+  return text;
+}
 
+function toMarkdown(node, date) {
+  const time = date.substring(11, 16);
+  // News web page title.
+  const title = node ? getTitle(node.structuredText) : time;
+  let slug = slugify(title);
+  if (!slug) slug = time.replace(':', '-');
+
+  const frontmatter = `---\ntitle: '${title.replaceAll("'", "''")}'\ndate: ${date}\nslug: "${slug}"\n---`;
+  // Photo-only posts do not have text, but should have an index.md file.
+  if (!node) return frontmatter;
+
+  let content = nhm.translate(node.innerHTML);
+  // We use other dots for lists.
+  content = content.replaceAll('• ', '* ');
+  // Telegram makes emoji bold italic.
+  content = content.replaceAll(emojiRE, '$1');
+  return frontmatter + content;
+}
+
+if (process.argv.length > 2) {
+  // Load file from the command line.
+  console.log('Loading file ' + process.argv[2]);
+  const html = fs.readFileSync(process.argv[2]);
+  parseHtml(html);
+} else {
+  // Download Telegram channel preview html.
+  console.log('Downloading ' + channelPreviewUrl);
+  const request = https.get(channelPreviewUrl, response => {
+    if (response.statusCode != 200) throw new Error('statusCode=' + response.statusCode);
+    let chunks = [];
+    response.on('data', fragments => chunks.push(fragments));
+    response.on('end', _ => {
+      const body = Buffer.concat(chunks);
+      parseHtml(body.toString());
+    });
+    response.on('error', err => console.log(err));
+  });
+  request.on('error', err => console.log(err));
+  request.end();
+}
 
 function parseHtml(html) {
   const root = parse(html);
@@ -65,15 +107,19 @@ function parseHtml(html) {
   const messages = root.querySelectorAll('.tgme_widget_message:not(.service_message)');
   console.log('Parsing ' + messages.length + ' Telegram posts.');
   const downloads = [];
+  let prevDir;
   messages.forEach(m => {
     let photos = m.querySelectorAll('.tgme_widget_message_photo_wrap');
     let text = m.querySelector('.tgme_widget_message_text');
-    let date = m.querySelector('time');
-    date = date.getAttribute('datetime');
-
+    let date = m.querySelector('time').getAttribute('datetime');
     const id = m.getAttribute('data-post').split('/').pop();
-    const dir = newsPath + id;
-    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+
+    const yyyyMMdd = date.substring(0, 10);
+    const dir = `${newsPath}${yyyyMMdd}/${id}`;;
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+      fs.writeFileSync(dir + '/../_index.md', `---\ndate: ${yyyyMMdd}\nsort_by: date\n---`);
+    }
 
     // Each message may have 0 or more photos.
     for (let i = 1; i <= photos.length; ++i) {
@@ -81,6 +127,13 @@ function parseHtml(html) {
       photo = photo.match(photoUrlRE)[1];
       const ext = photo.split('.').pop();
       const fileName = `${i}.${ext}`;
+      // Handle two special cases in old news where image was published as a
+      // separate message after the text. Merge them.
+      if (id == '15' || id == '39') {
+        downloads.push(downloadAsync(photo, `${prevDir}/${fileName}`));
+        fs.rmSync(dir, { recursive: true, force: true });
+        return;
+      }
       downloads.push(downloadAsync(photo, `${dir}/${fileName}`));
     }
 
@@ -88,18 +141,7 @@ function parseHtml(html) {
     fs.writeFile(`${dir}/index.md`, markdown, err => {
       if (err) console.error(err);
     });
-  });
 
-  // Wait until all downloads are finished.
-  Promise.allSettled(downloads).then(_ => {
-    // Fix some old posts.
-    if (fs.existsSync(newsPath + '15')) {
-      fs.renameSync(newsPath + '15/1.jpg', newsPath + '14/1.jpg');
-      fs.rmSync(newsPath + '15', { recursive: true, force: true });
-    }
-    if (fs.existsSync(newsPath + '39')) {
-      fs.renameSync(newsPath + '39/1.jpg', newsPath + '38/1.jpg');
-      fs.rmSync(newsPath + '39', { recursive: true, force: true });
-    }
+    prevDir = dir;
   });
 }
