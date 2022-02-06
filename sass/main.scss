@@ -204,8 +204,10 @@ footer {
     margin: 0;
   }
 }
+img {
+  max-width: 90%;
+}
 .news_image {
-  max-width: 80vw;
   max-height: 480px;
   margin-left: 0.5rem;
   display: inline-block;
@@ -213,4 +215,5 @@ footer {
 }
 .news_content {
   display: inline-block;
+  width: 100%;
 }

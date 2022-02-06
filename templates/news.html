@@ -4,11 +4,14 @@
 
 <h1>{{ resource.title }}</h1>
 
-{% for post in resource.pages %}
-<div class="news_date">&nbsp;{{ post.date | date(format='%B %e, %Y') }}&nbsp;</div>
+{% for section in resource.subsections | sort | reverse %}
+{% set s = get_section(path=section) %}
+{% for post in s.pages %}
+<div class="news_date">&nbsp;<a href="{{ post.path }}">{{ post.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
 <div class="news_content">{{ post.content | safe }}</div>
 {% for photo in post.assets %}
-<img class="news_image" src="{{ photo | safe }}" />
+<img class="news_image" src="{{ post.path }}/{{ photo | split(pat='/') | last }}" />
+{% endfor %}
 {% endfor %}
 {% endfor %}
 
