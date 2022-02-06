@@ -17,6 +17,11 @@
   {%- set preview_image = 'images/screenshots/prague.jpg' -%}
   {%- if resource.extra.preview_image -%}
   {%- set preview_image = resource.extra.preview_image -%}
+  {%- elif resource.assets %}
+  {%- set basename = resource.assets[0] | split(pat='/') | last %}
+  {%- if basename is ending_with('.jpg') %}
+  {%- set preview_image = resource.path ~ basename -%}
+  {%- endif %}
   {%- endif %}
   <meta property="og:image" content="{{ get_url(path=preview_image) }}">
   <meta property="og:url" content="{{ current_url }}">

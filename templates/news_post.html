@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>{{ resource.date | date(format='%B %e, %Y') }}</h1>
+
+<div class="news_content">
+  {{ resource.content | safe }}
+</div>
+
+{% for photo in resource.assets %}
+<img class="news_image" src="{{ resource.path }}/{{ photo | split(pat='/') | last }}" />
+{% endfor %}
+
+<div>
+  <a href="/news">{{ trans(key='back') }}</a>
+</div>
+
+{% endblock content %}
