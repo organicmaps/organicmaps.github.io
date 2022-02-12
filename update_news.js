@@ -66,7 +66,7 @@ function toMarkdown(node, date) {
   let slug = slugify(title);
   if (!slug) slug = time.replace(':', '-');
 
-  const frontmatter = `---\ntitle: '${title.replaceAll("'", "''")}'\ndate: ${date}\nslug: "${slug}"\n---`;
+  const frontmatter = `---\ntitle: '${title.replaceAll("'", "''")}'\ndate: ${date}\nslug: "${slug}"\n---\n\n`;
   // Photo-only posts do not have text, but should have an index.md file.
   if (!node) return frontmatter;
 
