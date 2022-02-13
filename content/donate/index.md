@@ -29,7 +29,7 @@ Organic Maps promotes the new ideology, which is unique on the market. Our app i
 
 No ads, no tracking, no secret deals under the table! There is no even a paid premium version! Everyone can install the full-featured version of Organic Maps from the AppStore, Google Play, F-Droid, or GitHub at no cost.
 
-Moreover, Organic Maps is one of a few applications in 2021 that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (BTW, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.
+Moreover, Organic Maps is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (BTW, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.
 
 As you can guess, Big Money Brothers are not interested in this project. Nothing to sell. Since the beginning in December 2020, Organic Maps has 0 (zero, null, ноль) corporate and/or investor’s money involved. The development of this fork has been funded only by our personal money, and we continue to do so. This is a massive investment of money and time from our family budgets.
 
