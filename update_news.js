@@ -108,6 +108,8 @@ function parseHtml(html) {
   console.log('Parsing ' + messages.length + ' Telegram posts.');
   const downloads = [];
   let prevDir;
+  let prevDate;
+  const kPostsDiffInMs = 2 * 60 * 1000;  // Two minutes.
   messages.forEach(m => {
     let photos = m.querySelectorAll('.tgme_widget_message_photo_wrap');
     let text = m.querySelector('.tgme_widget_message_text');
@@ -127,11 +129,14 @@ function parseHtml(html) {
       photo = photo.match(photoUrlRE)[1];
       const ext = photo.split('.').pop();
       const fileName = `${i}.${ext}`;
-      // Handle two special cases in old news where image was published as a
-      // separate message after the text. Merge them.
-      if (id == '15' || id == '39') {
-        downloads.push(downloadAsync(photo, `${prevDir}/${fileName}`));
-        fs.rmSync(dir, { recursive: true, force: true });
+      // Handle special cases when image is published as a separate message immediately after
+      // the main text message (Telegram has 1024 chars limit for image caption).
+      if (!text && prevDate && (new Date(date) - new Date(prevDate)) <= kPostsDiffInMs) {
+        // Do not download jpg if manual png already exists.
+        if (!fs.existsSync(`${prevDir}/${i}.png`)) {
+          downloads.push(downloadAsync(photo, `${prevDir}/${fileName}`));
+          fs.rmSync(dir, { recursive: true, force: true });
+        }
         return;
       }
       downloads.push(downloadAsync(photo, `${dir}/${fileName}`));
@@ -143,5 +148,6 @@ function parseHtml(html) {
     });
 
     prevDir = dir;
+    prevDate = date;
   });
 }
