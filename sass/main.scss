@@ -208,12 +208,14 @@ img {
   max-width: 90%;
 }
 .news_image {
-  max-height: 480px;
+  max-height: 520px;
   margin-left: 0.5rem;
   display: inline-block;
   vertical-align: top;
 }
 .news_content {
   display: inline-block;
-  width: 100%;
+}
+.back_to_news {
+  margin-top: 1rem;
 }
