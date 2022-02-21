@@ -6,7 +6,7 @@ slug: "meet-new-organic-maps-update-for-ios"
 
 Meet new Organic Maps update 2022.02.11 for iOS!  
   
-Android update is delayed by Google reviewers, we hope it become available soon too.  
+Android update is delayed by Google reviewers, we hope it becomes available soon too.  
   
 Here is the changelog:  
   
