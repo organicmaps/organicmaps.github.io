@@ -1,5 +1,5 @@
 ---
-title: 'A new app update is available!'
+title: 'A new app update is available'
 date: 2021-10-14T06:14:09+00:00
 slug: "a-new-app-update-is-available"
 ---
