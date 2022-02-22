@@ -59,6 +59,8 @@ function slugify(text) {
   return text;
 }
 
+const trailingSpacesRE = / +\n/sg;
+
 function toMarkdown(node, date) {
   const time = date.substring(11, 16);
   // News web page title.
@@ -71,11 +73,13 @@ function toMarkdown(node, date) {
   if (!node) return frontmatter;
 
   let content = nhm.translate(node.innerHTML);
+  // Clean up some unnecessary whitespaces after nhm conversion.
+  content = content.replaceAll(trailingSpacesRE, '\n');
   // We use other dots for lists.
   content = content.replaceAll('• ', '* ');
   // Telegram makes emoji bold italic.
   content = content.replaceAll(emojiRE, '$1');
-  return frontmatter + content;
+  return frontmatter + content + '\n'; // Trailing newline for consistency.
 }
 
 if (process.argv.length > 2) {
