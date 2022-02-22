@@ -38,7 +38,7 @@ function downloadAsync(url, path) {
 // Creates a title for news piece from text.
 function getTitle(text) {
   // Strip urls and text after them.
-  const breakers = ['http', '. ', ':', '\n'];
+  const breakers = ['http', '. ', ':', '\n', '!'];
   for (let b = 0; b < breakers.length; ++b) {
     const i = text.indexOf(breakers[b]);
     if (i > 0) text = text.substring(0, i);
