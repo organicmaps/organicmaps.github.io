@@ -1,5 +1,5 @@
 ---
-title: "Organic Maps: latest news and updates from our team"
+title: "Organic Maps: Latest news and updates from our team"
 description: Stay in touch with the latest app releases, news and updates from our team!
 template: news.html
 page_template: news_post.html
