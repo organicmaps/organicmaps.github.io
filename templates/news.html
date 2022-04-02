@@ -1,5 +1,12 @@
 {% extends 'base.html' %}
 
+{% block meta %}
+{% set latestStr = resource.subsections | sort | last %}
+{% set latestSection = get_section(path=latestStr) %}
+{% set latestPage = latestSection.pages | first %}
+<meta property="article:published_time" content="{{ latestPage.date }}">
+{% endblock meta %}
+
 {% block content %}
 
 <h1>{{ resource.title }}</h1>

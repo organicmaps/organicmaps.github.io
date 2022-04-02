@@ -27,14 +27,25 @@
   <meta property="og:url" content="{{ current_url }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ resource.title }}">
+  {%- if resource.description -%}
   <meta property="og:description" content="{{ resource.description }}">
+  {%- endif -%}
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ resource.title }}">
+  {%- if resource.description -%}
   <meta name="twitter:description" content="{{ resource.description }}">
+  {%- endif -%}
 
   <meta name="apple-itunes-app" content="app-id=1567437057">
   <meta name="wikidata" content="Q107078602">
+
+  {% if resource.date -%}
+  <meta property="article:published_time" content="{{ resource.date }}">
+  {%- endif -%}
+
+  {%- block meta -%}{%- endblock %}
+
   <!-- TODO: Use get_url everywhere when it works, also with cachebust=true,
   see https://github.com/getzola/zola/issues/1570 -->
   <link href="/main.css?h={{ get_file_hash(path='sass/main.scss', sha_type=256, base64=false) }}" rel="stylesheet" type="text/css">
