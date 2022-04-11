@@ -77,6 +77,8 @@ function toMarkdown(node, date) {
   content = content.replaceAll(trailingSpacesRE, '\n');
   // We use other dots for lists.
   content = content.replaceAll('• ', '* ');
+  // Fix numbered lists like "1\. First".
+  content = content.replaceAll(/^(\d+)\\\. /mg, '$1. ');
   // Telegram makes emoji bold italic.
   content = content.replaceAll(emojiRE, '$1');
   return frontmatter + content + '\n'; // Trailing newline for consistency.
