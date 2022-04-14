@@ -10,6 +10,6 @@ Some guidelines for Google Summer of Code 2022 ([GSoC](https://summerofcode.with
 2. Start by reading Organic Maps project [documentation](https://github.com/organicmaps/organicmaps/tree/master/docs).
 3. [Set up](https://github.com/organicmaps/organicmaps/blob/master/docs/INSTALL.md) the development environment. Try to build the project and run unit tests or run it on your device/simulator.
 4. Optionally, try to fix or debug an existing [issue](https://github.com/organicmaps/organicmaps/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%22).
-5. If you are ready to proceed, please [register](https://summerofcode.withgoogle.com/register/contributor) as a contributor on the GSoC website and [create](https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps/create-proposal) a formal proposal to participate.
+5. If you are ready to proceed, please [register](https://summerofcode.withgoogle.com/register/contributor) as a contributor on the GSoC website and [create](https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps/create-proposal) a formal proposal to participate. Some guidelines are available [here](https://google.github.io/gsocguides/student/writing-a-proposal).
 
 The last day to submit a proposal is April 19.
