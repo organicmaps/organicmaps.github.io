@@ -4,7 +4,9 @@ description: "No tracking, no ads, no data collection, no spyware"
 page_template: index.html
 weight: 900
 ---
-Organic Maps uses the system text-to-speech engine for voice instructions. You can also use a third-party text to speech engine.
+Organic Maps uses the system text-to-speech engine for voice instructions. You can also use a third-party text to speech engine which can be downloaded from Google Play or F-Droid. 
+
+[RHVoice](https://rhvoice.org/) is a free and open source speech engine which can be downloaded from [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) and [F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/).
 
 ## Instructions
 
