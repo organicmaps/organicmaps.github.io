@@ -10,7 +10,7 @@
 
 {% for photo in resource.assets | sort %}
 {% set meta = get_image_metadata(path=photo) %}
-<img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ resource.path | safe }}{{ photo | split(pat='/') | last }}" />
+<img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ resource_path | safe }}{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 
 <div class="back_to_news">

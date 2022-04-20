@@ -6,7 +6,8 @@
     }
   </script>
   <!-- Hidden checkbox is used for pure CSS toggle menu. -->
-  {% if resource.translations | length > 1 %}
+  {% set translations = resource | get(key="translations", default=[]) %}
+  {% if translations | length > 1 %}
   <input type="checkbox" id="lang-menu-trigger" class="lang-menu-trigger" />
   {% endif %}
   <label class="no-print" for="lang-menu-trigger">
@@ -14,7 +15,7 @@
   </label>
 
   <ul class="lang-menu no-print" role="navigation">
-    {% for translation in resource.translations | sort(attribute="lang") %}
+    {% for translation in translations | sort(attribute="lang") %}
     {% if lang != translation.lang %}
     <li class="lang-menu-item" role="menuitem">
       <a class="lang-menu-link" onclick="return onLanguageClick('{{ translation.lang }}');" href="{{ translation.permalink | replace(from=config.base_url, to="") | safe }}">

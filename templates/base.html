@@ -1,7 +1,20 @@
 {%- if page %}
 {%- set resource = page %}
+{%- set resource_title = resource.title %}
+{%- set resource_path = resource.path %}
 {%- elif section %}
 {%- set resource = section %}
+{%- set resource_title = resource.title %}
+{%- set resource_path = resource.path %}
+{%- elif term %}
+{%- set resource = term %}{# taxonomy term has only 'name', 'slug' and 'path' properties #}
+{%- set resource_path = resource.path %}
+{%- set resource_title = resource.name %}
+{%- elif taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
+{% set resource = taxonomy.name ~ "/_index.md" %}
+{% set resource = get_section(path=resource) %}
+{%- set resource_title = resource.title %}
+{%- set resource_path = resource.path %}
 {%- endif %}
 
 <!DOCTYPE html>
@@ -13,13 +26,17 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
 
+  {% block meta_description %}
+  {%- if resource.description -%}
   <meta name="description" content="{{ resource.description }}">
+  {% endif %}
+  {% endblock %}
 
   {% block rss %}
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
   {% endblock %}
 
-  <link rel="canonical" href="{{ config.base_url | safe }}{{ resource.path | safe }}">
+  <link rel="canonical" href="{{ config.base_url | safe }}{{ resource_path | safe }}">
 
   {%- set preview_image = 'images/screenshots/prague.jpg' -%}
   {%- if resource.extra.preview_image -%}
@@ -27,19 +44,19 @@
   {%- elif resource.assets %}
   {%- set basename = resource.assets[0] | split(pat='/') | last %}
   {%- if basename is ending_with('.jpg') or basename is ending_with('.jpeg') or basename is ending_with('.png') or basename is ending_with('.webp') %}
-  {%- set preview_image = resource.path ~ basename -%}
+  {%- set preview_image = resource_path ~ basename -%}
   {%- endif %}
   {%- endif %}
   <meta property="og:image" content="{{ get_url(path=preview_image) }}">
   <meta property="og:url" content="{{ current_url | safe }}">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ resource.title }}">
+  <meta property="og:title" content="{{ resource_title }}">
   {%- if resource.description -%}
   <meta property="og:description" content="{{ resource.description }}">
   {%- endif -%}
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ resource.title }}">
+  <meta name="twitter:title" content="{{ resource_title }}">
   {%- if resource.description -%}
   <meta name="twitter:description" content="{{ resource.description }}">
   {%- endif -%}
@@ -57,7 +74,7 @@
 
   <link href="{{ get_url(path="main.css", cachebust=true) }}" rel="stylesheet" type="text/css">
 
-  <title>{{ resource.title }}</title>
+  <title>{{ resource_title }}</title>
 
   {%- if lang == config.default_language %}
   {% include 'language_redirect.html' %}
@@ -70,6 +87,9 @@
   </header>
 
   <main>
+  {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
+    {% include 'faq/faq-breadcrumbs.html' %}
+  {% endif %}
     {% block content %}{% endblock %}
   </main>
 
