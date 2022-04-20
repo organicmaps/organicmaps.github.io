@@ -25,6 +25,64 @@ Every merge into the _master_ branch deploys changes into the production at http
 Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/OrganicMapsApp),
 then create a git commit and push it.
 
+## Taxonomy and F.A.Q. architecture
+
+Each MD page in `/faq/` has one or more taxonomy defined in header. E.g.:
+
+```yaml
+taxonomies:
+  faq: ["Android"]
+```
+
+Zola collects all such taxonomies:
+
+| File                 | Taxonomy key | Taxonomy value |
+| -------------------- | ------------ | -------------- |
+| android-lags.md      | `faq`        | `Android`      |
+| android-logs.md      | `faq`        | `Android`      |
+| general-team.md      | `faq`        | `General`      |
+| general-bugreport.md | `faq`        | `General`      |
+| ios-versions.md      | `faq`        | `iOS`          |
+| map-longtap.md       | `faq`        | `Map`          |
+| ...                  | ...          | ...            |
+
+After that Zola gets all values for `faq` taxonomy: `[General, Android, iOS, Map, ...]`. And generates pages:
+
+* For key `/faq/` with the list of values (see `templates/faq/list.html`)
+* For each value `/faq/general`, `/faq/android`, etc. with the list of questions (see `templates/faq/single.html`)
+
+If you want to add new question then create .md file with header:
+
+```yaml
+title: A full question that is the title of the page
+description: More detailed info with necessary keywords for better SEO
+slug: the-url-of-the-page-that-can-be-localized-for-better-seo
+taxonomies:
+  faq: ["General"]
+extra:
+  order: 40
+```
+
+Zola will add your question to specific F.A.Q. sub-page.
+
+If you need to translate the FAQ to a new language please add next lines to config.toml:
+
+```toml
+[languages.XX]
+taxonomies = [
+  {name = "faq", feed = false},
+]
+[languages.XX.translations]
+faq-menu-title = "{Translation of 'F.A.Q.' to a new language}"
+```
+
+**Limitation**: List of taxonomies at `/faq/` page is always alphabetical. So 'Android' is always the first, 'Bookmarks' is the second, 'General' is the third and so on.
+
+**Limitation**: Questions at any F.A.Q. sub-page are sorted by file name. An `extra.order` variable in .md content files is used for sorting articles.
+
+**Limitation**: Each F.A.Q. sub-page has only a name. No description, no icon. Only name 'Android', or 'iOS', or 'Routing', etc.
+
+
 ## Contribution
 
 Any good ideas and help with web site improvement are appreciated. And it's always better to discuss
