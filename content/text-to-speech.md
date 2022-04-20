@@ -16,4 +16,6 @@ If you cannot find the setting, open the settings app and search for Text-to-spe
 
 ## Screenshots
 
-{{ screenshot(src='images/screenshots/setting1.jpg', alt='Hiking') }}
+{{ screenshot(src='images/screenshots/setting1.jpg') }}
+{{ screenshot(src='images/screenshots/setting2.jpg') }}
+{{ screenshot(src='images/screenshots/setting3.jpg') }}
