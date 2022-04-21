@@ -4,9 +4,9 @@ description: "No tracking, no ads, no data collection, no spyware"
 page_template: index.html
 weight: 900
 ---
-Organic Maps uses the system text-to-speech engine for voice instructions. The default engines vary by device. The choices can include Google Text-to Speech, device manufacturer's engine or a third-party one. 
+Organic Maps uses the system text-to-speech(TTS) engine for voice instructions. The default engines vary by device. The choices can include Google Text-to Speech, device manufacturer's engine or a third-party one. 
 
-You can use a third-party text to speech engine which can be downloaded from Google Play or F-Droid. 
+You can use a third-party Text-to-speech engine which can be downloaded from Google Play or F-Droid. 
 
 [RHVoice](https://rhvoice.org/) is a free and open source speech engine which can be downloaded from [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) and [F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/).
 
@@ -17,6 +17,8 @@ You can use a third-party text to speech engine which can be downloaded from Goo
 3. Choose your preferred engine, speech rate and pitch.
 
 If you cannot find the setting, open the settings app and search for Text-to-speech.
+
+The option may not appear if you don't have a TTS installed on your device. Please install Google Speech Services from the [Play Store](https://play.google.com/store/apps/details?id=com.google.android.tts), which is used by many devices or you can install a third party one such as [RHVoice](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android)
 
 ## Screenshots
 
