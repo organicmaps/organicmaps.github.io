@@ -115,7 +115,7 @@ function parseHtml(html) {
   const downloads = [];
   let prevDir;
   let prevDate;
-  const kPostsDiffInMs = 2 * 60 * 1000;  // Two minutes.
+  const kPostsDiffInMs = 5 * 60 * 1000;  // Five minutes.
   messages.forEach(m => {
     let photos = m.querySelectorAll('.tgme_widget_message_photo_wrap');
     let text = m.querySelector('.tgme_widget_message_text');
