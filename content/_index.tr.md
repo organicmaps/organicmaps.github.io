@@ -1,5 +1,5 @@
 ---
-title: "Organic Maps: Çevrimdışı Yürüyüş, Bisiklet, Yol ve Navigasyon"
+title: "Organic Maps: Çevrimdışı Yürüyüş, Bisiklet, Parkurlar ve Navigasyon"
 description: OpenStreetMap'e dayanan ve MapsWithMe'nin (Maps.Me) kurucuları tarafından sevgiyle yapılan; gezginler, turistler, yürüyüşçüler ve bisikletçiler için hızlı ve ayrıntılı çevrimdışı harita uygulaması.
 
 page_template: index.html
@@ -7,7 +7,7 @@ extra:
   menu_title: Ana sayfa
 ---
 
-**Organic Maps**, **MapsWithMe**'nin (**Maps.Me**) kurucuları tarafından sevgiyle yapılan ve kitle kaynaklı **OpenStreetMap** verilerinin üstüne dayalı; gezginler, turistler, yürüyüşçüler ve bisikletçiler için ücretsiz bir çevrimdışı Android & iOS harita uygulamasıdır.
+**Organic Maps**, **MapsWithMe**'nin (**Maps.Me**) kurucuları tarafından sevgiyle yapılan ve kitle kaynaklı **OpenStreetMap** verilerine dayalı; gezginler, turistler, yürüyüşçüler ve bisikletçiler için ücretsiz bir çevrimdışı Android & iOS harita uygulamasıdır.
 
 <p id='install'>
 
@@ -33,16 +33,16 @@ Organic Maps gezginler, turistler, yürüyüşçüler ve bisikletçiler için m�
 - [OpenStreetMap](https://osm.org) sayesinde diğer haritalarda bulunmayan yerleri içeren ayrıntılı çevrimdışı haritalar
 - Bisiklet yolları, doğa yürüyüşü parkurları ve yürüyüş yolları
 - Eş yükselti çizgileri, yükseklik profilleri, tepe noktaları ve eğimler
-- Sesli rehberlikle adım adım yürüyüş, bisiklet ve araç navigasyonu
-- Harita üzerinde hızlı çevrimdışı arama
+- Sesli yönlendirmelerle adım adım yürüyüş, bisiklet ve araç navigasyonu
+- Haritada hızlı ve çevrimdışı arama
 - Yer imlerini KML/KMZ formatlarında dışa ve içe aktarma (GPX desteği de [planlanıyor](https://github.com/organicmaps/organicmaps/issues/624))
 - Gözlerinizi korumak için Koyu Mod
-- Ülkeler ve bölgeler fazla yer kaplamaz
+- Fazla depolama alanı kaplamayan ülke ve bölgeler
 - Özgür ve açık kaynak kodlu
 
 ## Neden Organic?
 
-Organic Maps saf ve organiktir, sevgiyle yapılır:
+Organic Maps saf ve organiktir, sevgiyle yapılmıştır:
 
 - Gizliliğinize saygı duyar
 - Pil gücünden tasarruf sağlar
@@ -76,11 +76,11 @@ Organic Maps'te gizliliğin temel bir insan hakkı olduğuna inanıyoruz:
 - Gizliliğinizi Big Tech'in meraklı gözlerinden koruyoruz
 - Nerede olursanız olun güvende kalın
 
-Gözetlemeyi reddet - özgürlüğünüzü kucaklayın.
+Gözetlenmeyi reddedin - özgürlüğünüzü kucaklayın.
 
 <a href="#install"><strong>Organic Maps'i deneyin!</strong></a>
 
-## Ücretsiz uygulama için kim ödeme yapıyor?
+## Uygulamanın ücretsiz kalması için kim ödeme yapıyor?
 
 Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış yapın](@/donate/index.md)!
 
@@ -92,11 +92,11 @@ Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış 
 
 ### Bizi destekle
 
-Bizi desteklemenin birçok yolu var, [burada](@/support-us/index.md) listeleniyor.
+Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/support-us/index.md) mevcut.
 
 ## Beta
 
-Lütfen beta programımıza katılın, bir özellik önerin ve hataları bildirin:
+Lütfen beta programımıza katılın, yeni özellikler önerin ve hataları bildirin:
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
 - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
@@ -113,7 +113,7 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - [GitHub sayfamızı](https://github.com/organicmaps/organicmaps) ziyaret edin
 - [E-posta](mailto:hello@organicmaps.app) ile bizimle iletişime geçin
 - Güncellemelerimizi [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) ve
-- [Instagram](https://instagram.com/organicmaps.app/) üzerinden takip edin.
+- [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
 
 <button id='add' class='installButton'>
   Google Play'den İndir
