@@ -34,7 +34,7 @@ Android
 * FDroid users now can update World files
 * Fixed button to view search results on a map on Android 8 and lower
 * Fixed menu colors and the refreshed navigation menu
-* editor.config can be overrided (if you have root)
+* editor.config can be overridden (if you have root)
 * Added matrix, email, OSM links
 * Don't mirror the next turn sign in the LTR layout
 * Fixed RTL zoom buttons covered by Search and Bookmarks in Routing mode
