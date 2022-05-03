@@ -116,6 +116,7 @@ licensed under the Apache License 2.0.
 - Subscribe to our [Telegram Channel](https://t.me/OrganicMapsApp) or to the [[matrix] space](https://matrix.to/#/#organicmaps:matrix.org) for updates.
 - Join our [Telegram Group](https://t.me/OrganicMaps) to discuss with other users.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи.
+- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
 - Visit our [GitHub page](https://github.com/organicmaps/organicmaps).
 - Follow our updates in [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp),
 [Instagram](https://instagram.com/organicmaps.app/).
