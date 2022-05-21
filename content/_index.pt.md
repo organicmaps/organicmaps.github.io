@@ -43,7 +43,7 @@ Organic Maps app é um verdadeiro companheiro para viajantes, turistas, excursio
 - Países e regiões não ocupam muito espaço
 - Software livre de código aberto
 
-## Por que Organic?
+## Por que Orgânico?
 
 Organic Maps é puro e orgânico, feito com amor:
 
