@@ -34,16 +34,16 @@ If you use custom rom like Lineageos without Google Play services & Speech Servi
 
 1) Install [eSpeak TTS engine](https://f-droid.org/en/packages/com.reecedunn.espeak) available on F-Droid
 
-2) Set it as preferred engine
+2) Set it as the preferred engine
 a) Go to Lineageos main **Settings**
 b) Scroll down to **Accessibility**
-c) tap on **text-to-speech output** (below SCREEN READERS)
-d) tap on **Preferred engine** (left side) and make sure *eSpeak* is selected
-3) go one step back and press *play* to see if it's working
-4) install [RHVoice](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) available on F-droid
-a) open it, select language you want to use, tap on cloud icon (far left) to download voices
-b) press play button to verify if it's working
+c) Tap on **text-to-speech output** (below SCREEN READERS)
+d) tap on **Preferred engine** (left side) and make sure **eSpeak** is selected
+3) Go back and press **play** to see if it's working
+4) Install [RHVoice](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) available on F-droid.
+a) Open it, select the language you want to use, tap on the cloud icon (far left) to download voices.
+b) Press play button to verify if it's working
 5) Set **RHVoice** as preferred engine (see step 2)
 6) Now, you should be able to use RHVoice without any problems
 
-7) In order to hear voice instructions you have to actually move around to receive any voice output, OrganicMaps will not give you any voice institutions while you're still (i.e. not moving).
+*In order to hear voice instructions you have to actually move around to receive any voice output, OrganicMaps will not give you any voice institutions while you're still.*
