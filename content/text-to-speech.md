@@ -25,3 +25,25 @@ The option may not appear if you don't have a TTS installed on your device. Plea
 {{ screenshot(src='images/screenshots/setting1.jpg') }}
 {{ screenshot(src='images/screenshots/setting2.jpg') }}
 {{ screenshot(src='images/screenshots/setting3.jpg') }}
+
+## Workaround to make RHVoice TTS engine work on Lineageos (degoogled custom rom)
+
+Often RHVoice doesn't get initialized properly and app itself might be crashing. Mostly in cases where you haven't used any TTS engine on your phone yet (new installations etc)
+
+If you use custom rom like Lineageos without Google Play services & Speech Services by Google and want to use RHVoice as your preferred TTS engine, please follow workaround instructions below:
+
+1) Install [eSpeak TTS engine](https://f-droid.org/en/packages/com.reecedunn.espeak) available on F-Droid
+
+2) Set it as preferred engine
+a) Go to Lineageos main **Settings**
+b) Scroll down to **Accessibility**
+c) tap on **text-to-speech output** (below SCREEN READERS)
+d) tap on **Preferred engine** (left side) and make sure *eSpeak* is selected
+3) go one step back and press *play* to see if it's working
+4) install [RHVoice](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) available on F-droid
+a) open it, select language you want to use, tap on cloud icon (far left) to download voices
+b) press play button to verify if it's working
+5) Set **RHVoice** as preferred engine (see step 2)
+6) Now, you should be able to use RHVoice without any problems
+
+7) In order to hear voice instructions you have to actually move around to receive any voice output, OrganicMaps will not give you any voice institutions while you're still (i.e. not moving).
