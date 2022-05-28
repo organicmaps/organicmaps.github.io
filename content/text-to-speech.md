@@ -36,7 +36,11 @@ If you use custom rom like Lineageos without Google Play services & Speech Servi
 
 2) Set it as the preferred engine
 
-      Go to Lineage os main **Settings** --> Scroll down to **Accessibility** --> Select **text-to-speech output** (below SCREEN READERS)--> **Preferred engine** (left side) and make sure **eSpeak** is selected
+      a) Go to Lineage os main **Settings**.
+      
+      b) Scroll down to **Accessibility**.
+      
+      c) Select **text-to-speech output** (below SCREEN READERS) and **Preferred engine** (left side) and make sure **eSpeak** is selected.
 
 3) Go back and press **play** to see if it's working
 4) Install [RHVoice](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) available on F-droid.
