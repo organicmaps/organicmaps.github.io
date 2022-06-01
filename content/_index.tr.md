@@ -19,6 +19,8 @@ extra:
 
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Organic Maps'i Huawei AppGallery'den İndir') }}
 
+{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Organic Maps'i Flathub'den İndir') }}
+
 </p>
 
 {{ screenshot(src='images/screenshots/hiking.jpg', alt='Yürüyüş') }}
