@@ -21,6 +21,8 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Install Organic Maps from Huawei AppGallery') }}
 
+{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Install Organic Maps from Flathub') }}
+
 </p>
 
 {{ screenshot(src='images/screenshots/hiking.jpg', alt='Hiking') }}
