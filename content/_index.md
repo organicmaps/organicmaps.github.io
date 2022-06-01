@@ -23,6 +23,9 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 
 {{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Install Organic Maps from Flathub') }}
 
+  <a href="https://repology.org/project/organicmaps/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/organicmaps.svg" width="180" alt="Packaging status">
+  </a>
 </p>
 
 {{ screenshot(src='images/screenshots/hiking.jpg', alt='Hiking') }}
