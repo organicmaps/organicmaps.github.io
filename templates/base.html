@@ -14,6 +14,10 @@
 
   <meta name="description" content="{{ resource.description }}">
 
+  {% block rss %}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+  {% endblock %}
+
   {%- set preview_image = 'images/screenshots/prague.jpg' -%}
   {%- if resource.extra.preview_image -%}
   {%- set preview_image = resource.extra.preview_image -%}
