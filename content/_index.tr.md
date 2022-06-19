@@ -19,7 +19,7 @@ extra:
 
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Organic Maps'i Huawei AppGallery'den İndir') }}
 
-{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Organic Maps'i Flathub'den İndir') }}
+{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Organic Maps'i Flathub'dan İndir') }}
 
   <a href="https://repology.org/project/organicmaps/versions">
     <img src="https://repology.org/badge/vertical-allrepos/organicmaps.svg" width="180" alt="Packaging status">
