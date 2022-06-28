@@ -77,11 +77,11 @@ Organic Maps non richiede permessi eccessivi per spiare l'utente:
 
 Noi di Organic Maps crediamo che la privacy sia un diritto umano fondamentale:
 
-- Organic Maps is an indie community-driven open-source project
-- We protect your privacy from Big Tech's prying eyes
-- Stay safe no matter wherever you are
+- Organic Maps è un progetto open-source indipendente guidato dalla comunità.
+- Proteggiamo la vostra privacy dagli occhi indiscreti dei Big Tech
+- Resta al sicuro ovunque tu sia
 
-Rifiuta la sorveglianza - abbraccia la tua libertà.
+Rifiuta la sorveglianza - difendi la tua libertà.
 
 
 <a href="#install"><strong>Prova Organic Maps!</strong></a>
@@ -102,7 +102,7 @@ Ci sono molti modi per sostenerci, elencati [qui] (@/support-us/index.md).
 
 ## Beta
 
-Partecipa al nostro programma beta, suggerite le vostre funzionalità e segnalate i bug:
+Partecipa al nostro programma beta, suggerisci funzionalità e segnala bug:
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
 - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
