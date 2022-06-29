@@ -51,7 +51,7 @@ Organic Maps è pura e organica, fatta con amore:
 
 - Rispetta la tua privacy
 - Risparmia la batteria
-- Nessun costo inaspettato per i dati mobili
+- Nessun addebito imprevisto sui dati mobili
 
 Organic Maps è priva di tracker e di altri elementi negativi:
 
