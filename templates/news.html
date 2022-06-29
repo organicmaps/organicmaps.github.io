@@ -15,10 +15,14 @@
 {% set s = get_section(path=section) %}
 {% for post in s.pages %}
 <div class="news_date">&nbsp;<a href="{{ post.path }}">{{ post.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
-<div class="news_content">{{ post.content | safe }}</div>
+<div class="news_content_image">
+{% if post.content %}
+  <div class="news_content">{{ post.content | safe }}</div>
+{% endif %}  
 {% for photo in post.assets %}
 <img class="news_image" src="{{ post.path }}/{{ photo | split(pat='/') | last }}" />
 {% endfor %}
+</div>
 {% endfor %}
 {% endfor %}
 

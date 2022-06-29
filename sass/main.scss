@@ -84,6 +84,10 @@ footer {
   #badges a {
     margin: 20px auto;
   }
+
+  .news_content_image {
+    flex-wrap: wrap;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -207,11 +211,17 @@ footer {
 img {
   max-width: 90%;
 }
+.news_content_image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
 .news_image {
   max-height: 520px;
   margin-left: 0.5rem;
   display: inline-block;
   vertical-align: top;
+  width: auto;
 }
 .news_content {
   display: inline-block;
