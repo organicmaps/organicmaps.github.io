@@ -17,7 +17,7 @@ New update 2022.07.27 is already available in [AppStore](https://apps.apple.com/
 * Add missing translations for OSM natural=\* and amenity=events\_venue types
 
 **Android:**
-* Fixed and updated API support. Now you can select a point on the map and return it back to your app. See <https://omaps.app/api> for more details, check our [API examples for Android](https://github.com/organicmaps/api-android/), or let us know if you are interested integrating Organic Maps with your app.
+* Fixed and updated API support. Now you can select a point on the map and return it back to your app. See <https://omaps.app/api> for more details, check our [API examples for Android](https://github.com/organicmaps/api-android/), or let us know if you are interested in integrating Organic Maps with your app.
 * Fixed invisible paths and trails on Mali-G72 Huawei devices
 * Fix Facebook URLs validation
 * Limited bottom sheet menu title to max 3 lines
