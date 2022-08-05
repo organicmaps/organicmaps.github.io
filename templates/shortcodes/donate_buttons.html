@@ -10,4 +10,17 @@
 
   <a href="/donate#sepa-and-direct-bank-transfer" title="SEPA or direct bank transfer">S€PA</a>
   <a href="/donate#crypto" title="Bitcoin, Monero, Ethereum, Algorand, Tron, Zcash, Litecoin, Binance, etc.">CRYPTO</a>
+  <a href="https://t.me/OrganicMapsApp/78" title="Donate using Telegram Messenger">Telegram (EUR)</a>
+  <a id="telegramRu" style="display: none" href="https://t.me/OrganicMapsRu/23361" title="Пожертвования через Telegram в рублях">Телеграм (рубли)</a>
 </div>
+<script>
+  function ShowElementById(id) {
+    document.getElementById(id).style = null;
+  }
+  if (navigator.languages) {
+    for (var i = 0; i < navigator.languages.length; i++)
+      if (navigator.languages[i].indexOf('ru') == 0) ShowElementById('telegramRu');
+  } else if (navigator.language.indexOf('ru') == 0) {
+    ShowElementById('telegramRu');
+  }
+</script>
