@@ -74,7 +74,7 @@ donate one time.
 
 ### SEPA and direct bank transfer
 
-EUR:
+#### Euro
 
 |   |   |
 |---|---|
@@ -85,13 +85,13 @@ Bank name: | TransferWise Europe SA
 Bank address: | Avenue Louise 54/S52, Brussels 1050, Belgium
 Payment description: | Donation
 
-Turkish lira (TL, TRY):
+#### Turkish lira (TL, TRY)
 
 |   |   |
 |---|---|
 IBAN: | TR740010300000000047306089
-Ad Soyad: Organic Maps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş)
-Açıklama: Donation
+Ad Soyad: | Organic Maps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş)
+Açıklama: | Donation
 
 ### Crypto
 
