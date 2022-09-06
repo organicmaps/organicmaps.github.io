@@ -19,10 +19,20 @@ external_links_target_blank = true
 [slugify]
 paths = "safe"
 
-[languages.en.translations]
+[translations]
 back = "Back to News"
 contact = "Contact Us"
 donate = "Donate"
 home = "Home"
 news = "News"
 support-us = "Support Us"
+
+[languages.tr]
+
+[languages.tr.translations]
+back = "Haberlere geri dön"
+contact = "Bize ulaşın"
+donate = "Bağış Yapın"
+home = "Ana Sayfa"
+news = "Haberler"
+support-us = "Bizi destekleyin"
