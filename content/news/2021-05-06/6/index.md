@@ -8,5 +8,5 @@ No more trackers according to the latest Exodus Privacy Report!
 
 <https://reports.exodus-privacy.eu.org/en/reports/176462/>
 
-Google Play: <https://play.google.com/store/apps/details?id=app.omaps>
+Google Play: <https://play.google.com/store/apps/details?id=app.organicmaps>
 App Store: <https://testflight.apple.com/join/62l4Qh2K>
