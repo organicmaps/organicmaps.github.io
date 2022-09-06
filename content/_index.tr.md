@@ -1,8 +1,8 @@
 ---
 title: "Organic Maps: Çevrimdışı Yürüyüş, Bisiklet, Parkurlar ve Navigasyon"
-description: OpenStreetMap'e dayanan ve MapsWithMe'nin (Maps.Me) kurucuları tarafından sevgiyle yapılan; gezginler, turistler, yürüyüşçüler ve bisikletçiler için hızlı ve ayrıntılı çevrimdışı harita uygulaması.
-
+description: OpenStreetMap'e dayanan ve MapsWithMe'nin (Maps.Me) kurucuları tarafından sevgiyle yapılan. Gezginler, turistler, yürüyüşçüler ve bisikletçiler için hızlı ve ayrıntılı çevrimdışı harita uygulaması.
 page_template: index.html
+sort_by: weight
 extra:
   menu_title: Ana sayfa
 ---
@@ -11,31 +11,31 @@ extra:
 
 <p id='install'>
 
-{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title='Organic Maps'i AppStore'dan İndir') }}
+{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title="Organic Maps'i AppStore'dan İndir") }}
 
-{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title='Organic Maps'i Google Play'den İndir') }}
+{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title="Organic Maps'i Google Play'den İndir") }}
 
-{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title='Organic Maps'i F-Droid'den İndir') }}
+{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title="Organic Maps'i F-Droid'den İndir") }}
 
-{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Organic Maps'i Huawei AppGallery'den İndir') }}
+{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Organic Maps'i Huawei AppGallery'den İndir") }}
 
-{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Organic Maps'i Flathub'den İndir') }}
+{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title="Organic Maps'i Flathub'den İndir") }}
 
   <a href="https://repology.org/project/organicmaps/versions">
     <img src="https://repology.org/badge/vertical-allrepos/organicmaps.svg" width="180" alt="Packaging status">
   </a>
 </p>
 
-{{ screenshot(src='images/screenshots/hiking.jpg', alt='Yürüyüş') }}
-{{ screenshot(src='images/screenshots/prague.jpg', alt='Prag') }}
-{{ screenshot(src='images/screenshots/search.jpg', alt='Çevrimdışı Arama') }}
-{{ screenshot(src='images/screenshots/dark.jpg', alt='Koyu modda navigasyon') }}
+{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
+{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
+{{ screenshot(src='/images/screenshots/search.jpg', alt='Çevrimdışı Arama') }}
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Koyu modda navigasyon') }}
 
 ## Özellikler
 
 Organic Maps gezginler, turistler, yürüyüşçüler ve bisikletçiler için mükemmel bir uygulamadır:
 
-- [OpenStreetMap](https://osm.org) sayesinde diğer haritalarda bulunmayan yerleri içeren ayrıntılı çevrimdışı haritalar
+- [OpenStreetMap](https://openstreetmap.org) sayesinde diğer haritalarda bulunmayan yerleri içeren ayrıntılı çevrimdışı haritalar
 - Bisiklet yolları, doğa yürüyüşü parkurları ve yürüyüş yolları
 - Eş yükselti çizgileri, yükseklik profilleri, tepe noktaları ve eğimler
 - Sesli yönlendirmelerle adım adım yürüyüş, bisiklet ve araç navigasyonu
@@ -68,12 +68,12 @@ Organic Maps uygulaması izleyicilerden ve diğer kötü şeylerden arındırıl
 
 Uygulama <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Gizlilik Projesi</a> tarafından doğrulandı:
 <br/>
-<img src='images/privacy/exodus.png' width='400'>
+<img src='/images/privacy/exodus.png' width='400'>
 
 Organic Maps sizi gözetlemek için aşırı izinler istemez:
 
-<img src='images/privacy/om.jpg' width='400'>
-<img src='images/privacy/mm.jpg' width='400'>
+<img src='/images/privacy/om.jpg' width='400'>
+<img src='/images/privacy/mm.jpg' width='400'>
 
 Organic Maps'te gizliliğin temel bir insan hakkı olduğuna inanıyoruz:
 
