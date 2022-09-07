@@ -36,3 +36,13 @@ donate = "Bağış Yapın"
 home = "Ana Sayfa"
 news = "Haberler"
 support-us = "Bizi destekleyin"
+
+[languages.it]
+
+[languages.it.translations]
+back = "Indietro"
+contact = "Contattaci"
+donate = "Dona"
+home = "Pagina Iniziale"
+news = "Notizie"
+support-us = "Contribuisci"

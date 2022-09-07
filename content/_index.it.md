@@ -11,25 +11,25 @@ extra:
 
 <p id='install'>
 
-{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title='Installa Organic Maps dall'AppStore') }}
+{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title="Installa Organic Maps dall'AppStore") }}
 
-{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title='Installa Organic Maps da Google Play') }}
+{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title="Installa Organic Maps da Google Play") }}
 
-{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title='Installa Organic Maps da F-Droid') }}
+{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title="Installa Organic Maps da F-Droid") }}
 
-{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Installa Organic Maps da Huawei AppGallery') }}
+{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Installa Organic Maps da Huawei AppGallery") }}
 
-{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Installa Organic Maps da Flathub') }}
+{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title="Installa Organic Maps da Flathub") }}
 
   <a href="https://repology.org/project/organicmaps/versions">
     <img src="https://repology.org/badge/vertical-allrepos/organicmaps.svg" width="180" alt="Packaging status">
   </a>
 </p>
 
-{{ screenshot(src='images/screenshots/hiking.jpg', alt='Hiking') }}
-{{ screenshot(src='images/screenshots/prague.jpg', alt='Prague') }}
-{{ screenshot(src='images/screenshots/search.jpg', alt='Offline Search') }}
-{{ screenshot(src='images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
+{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
+{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
+{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 
 ## Funzionalità
 
@@ -68,12 +68,12 @@ Organic Maps è priva di tracker e di altri elementi negativi:
 
 L'applicazione è verificata da <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
 <br/>
-<img src='images/privacy/exodus.png' width='400'>
+<img src='/images/privacy/exodus.png' width='400'>
 
 Organic Maps non richiede permessi eccessivi per spiare l'utente:
 
-<img src='images/privacy/om.jpg' width='400'>
-<img src='images/privacy/mm.jpg' width='400'>
+<img src='/images/privacy/om.jpg' width='400'>
+<img src='/images/privacy/mm.jpg' width='400'>
 
 Noi di Organic Maps crediamo che la privacy sia un diritto umano fondamentale:
 
@@ -98,7 +98,7 @@ L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.md) per
 
 ### Supportaci
 
-Ci sono molti modi per sostenerci, elencati [qui] (@/support-us/index.md).
+Ci sono molti modi per sostenerci, elencati [qui](@/support-us/index.md).
 
 ## Beta
 

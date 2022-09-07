@@ -132,5 +132,5 @@ Sì! Ci sono molti modi per sostenere Organic Maps. Vedi la pagina
 [PayPal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
 [GitHub Sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"
 [Liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
-[SEPA]: #sepa-and-direct-bank-transfer "SEPA e bonifico bancario diretto"
+[SEPA]: #sepa-e-bonifico-bancario-diretto "SEPA e bonifico bancario diretto"
 [Crypto]: #crypto "Donazioni in criptovalute"
