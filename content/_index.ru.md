@@ -12,13 +12,7 @@ extra:
 
 <p id='install'>
 
-{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title='Установить из AppStore') }}
-
-{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title='Установить из Google Play') }}
-
-{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title='Установить F-Droid') }}
-
-{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Установить из Huawei AppGallery') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Прага') }}
@@ -68,20 +62,3 @@ Organic Maps развивается сообществом энтузиасто�
 - Поучаствуйте в [разработке](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) приложения под Android и iOS;
 - Подпишитесь на нас в [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) и [Instagram](https://instagram.com/organicmaps.app/).
 - Расскажите своим друзьям и знакомым.
-
-<button id='add' class='installButton'>
-  Установить из Google Play
-</button>
-
-<script>
-  // https://developers.google.com/web/fundamentals/app-install-banners/native
-  window.addEventListener('beforeinstallprompt', (e) => {
-    // Prevent Chrome 67 and earlier from automatically showing the prompt
-    e.preventDefault();
-    const add = document.getElementById('add');
-    add.style.display = 'block';
-    add.onclick = () => {
-      e.prompt();
-    }
-  });
-</script>

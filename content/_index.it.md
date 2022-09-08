@@ -10,15 +10,7 @@ extra:
 **Organic Maps** è un'applicazione gratuita di mappe offline per Android e iOS per viaggiatori, turisti, escursionisti e ciclisti, basata su dati crowd-sourced di **[OpenStreetMap](https://www.openstreetmap.org)**.
 Si tratta di un [fork](https://it.wikipedia.org/wiki/Fork_(sviluppo_software)) open source dell'applicazione **Maps.me** (precedentemente nota come [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), incentrato sulla privacy e gestito dalle stesse persone che hanno creato **MapsWithMe** nel 2011.
 
-<p id='install'>
-
-{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title="Installa Organic Maps dall'AppStore") }}
-
-{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title="Installa Organic Maps da Google Play") }}
-
-{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title="Installa Organic Maps da F-Droid") }}
-
-{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Installa Organic Maps da Huawei AppGallery") }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
@@ -115,20 +107,3 @@ Organic Maps è un [software open-source](https://github.com/organicmaps/organic
 - Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
 - Visita la nostra [pagina GitHub](https://github.com/organicmaps/organicmaps).
 - Segui i nostri aggiornamenti su [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).
-
-<button id='add' class='installButton'>
-  Installa da Google Play
-</button>
-
-<script>
-  // https://developers.google.com/web/fundamentals/app-install-banners/native
-  window.addEventListener('beforeinstallprompt', (e) => {
-    // Prevent Chrome 67 and earlier from automatically showing the prompt
-    e.preventDefault();
-    const add = document.getElementById('add');
-    add.style.display = 'block';
-    add.onclick = () => {
-      e.prompt();
-    }
-  });
-</script>

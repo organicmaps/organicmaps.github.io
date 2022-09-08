@@ -28,6 +28,10 @@ home = "Home"
 news = "News"
 language = "English"
 support-us = "Support Us"
+install-appstore = "Install Organic Maps from the AppStore"
+install-googleplay = "Install Organic Maps from Google Play"
+install-fdroid="Install Organic Maps from F-Droid"
+install-appgallery = "Install Organic Maps from Huawei AppGallery"
 
 [languages.tr]
 [languages.tr.translations]
@@ -38,6 +42,10 @@ home = "Ana Sayfa"
 news = "Haberler"
 language = "Türkçe"
 support-us = "Bizi destekleyin"
+install-appstore = "Organic Maps'i AppStore'dan İndir"
+install-googleplay = "Organic Maps'i Google Play'den İndir"
+install-fdroid="Organic Maps'i F-Droid'den İndir"
+install-appgallery = "Organic Maps'i Huawei AppGallery'den İndir"
 
 [languages.it]
 [languages.it.translations]
@@ -48,6 +56,10 @@ home = "Pagina Iniziale"
 news = "Notizie"
 language = "Italiano"
 support-us = "Contribuisci"
+install-appstore = "Installa Organic Maps dall'AppStore"
+install-googleplay = "Installa Organic Maps da Google Play"
+install-fdroid="Installa Organic Maps da F-Droid"
+install-appgallery = "Installa Organic Maps da Huawei AppGallery"
 
 
 [languages.ru]
@@ -59,3 +71,7 @@ home = "Главная"
 news = "Новости"
 language = "Русский"
 support-us = "Помочь проекту"
+install-appstore = "Установить Organic Maps из Apple AppStore"
+install-googleplay = "Установить Organic Maps из Google Play"
+install-fdroid="Установить Organic Maps из F-Droid"
+install-appgallery = "Установить Organic Maps из Huawei AppGallery"
