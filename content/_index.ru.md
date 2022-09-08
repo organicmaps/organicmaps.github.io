@@ -12,7 +12,7 @@ extra:
 
 <p id='install'>
 
-{{ badges() }}
+{{ badges(lang='ru') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Прага') }}

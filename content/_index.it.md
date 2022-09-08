@@ -10,7 +10,7 @@ extra:
 **Organic Maps** è un'applicazione gratuita di mappe offline per Android e iOS per viaggiatori, turisti, escursionisti e ciclisti, basata su dati crowd-sourced di **[OpenStreetMap](https://www.openstreetmap.org)**.
 Si tratta di un [fork](https://it.wikipedia.org/wiki/Fork_(sviluppo_software)) open source dell'applicazione **Maps.me** (precedentemente nota come [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), incentrato sulla privacy e gestito dalle stesse persone che hanno creato **MapsWithMe** nel 2011.
 
-{{ badges() }}
+{{ badges(lang='it') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
