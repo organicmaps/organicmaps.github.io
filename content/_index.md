@@ -11,7 +11,7 @@ extra:
 **[OpenStreetMap](https://www.openstreetmap.org)** data.
 It is a privacy-focused, open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of **Maps.me** app (previously known as [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), maintained by the same people who created **MapsWithMe** in 2011.
 
-{{ badges() }}
+{{ badges(lang='en') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}

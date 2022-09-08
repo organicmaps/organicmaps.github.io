@@ -11,7 +11,7 @@ extra:
 Topluluk kaynaklı [**OpenStreetMap**](https://www.openstreetmap.org) verilerine dayanmaktadır.
 Daha önce [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me) olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı](https://tr.wikipedia.org/wiki/%C3%87atal_(yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme)) olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
 
-{{ badges() }}
+{{ badges(lang='tr') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
