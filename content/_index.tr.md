@@ -11,15 +11,7 @@ extra:
 Topluluk kaynaklı [**OpenStreetMap**](https://www.openstreetmap.org) verilerine dayanmaktadır.
 Daha önce [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me) olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı](https://tr.wikipedia.org/wiki/%C3%87atal_(yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme)) olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
 
-<p id='install'>
-
-{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title="Organic Maps'i AppStore'dan İndir") }}
-
-{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title="Organic Maps'i Google Play'den İndir") }}
-
-{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title="Organic Maps'i F-Droid'den İndir") }}
-
-{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Organic Maps'i Huawei AppGallery'den İndir") }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
@@ -116,20 +108,3 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - [E-posta](mailto:hello@organicmaps.app) ile bizimle iletişime geçin
 - Güncellemelerimizi [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) ve
 - [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
-
-<button id='add' class='installButton'>
-  Google Play'den İndir
-</button>
-
-<script>
-  // https://developers.google.com/web/fundamentals/app-install-banners/native
-  window.addEventListener('beforeinstallprompt', (e) => {
-    // Prevent Chrome 67 and earlier from automatically showing the prompt
-    e.preventDefault();
-    const add = document.getElementById('add');
-    add.style.display = 'block';
-    add.onclick = () => {
-      e.prompt();
-    }
-  });
-</script>

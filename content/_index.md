@@ -11,15 +11,7 @@ extra:
 **[OpenStreetMap](https://www.openstreetmap.org)** data.
 It is a privacy-focused, open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of **Maps.me** app (previously known as [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), maintained by the same people who created **MapsWithMe** in 2011.
 
-<p id='install'>
-
-{{ badge(url='https://apps.apple.com/app/organic-maps/id1567437057', img='apple-appstore.svg', title='Install Organic Maps from the AppStore') }}
-
-{{ badge(url='https://play.google.com/store/apps/details?id=app.organicmaps', img='googleplay.svg', title='Install Organic Maps from Google Play') }}
-
-{{ badge(url='https://f-droid.org/en/packages/app.organicmaps/', img='f-droid.svg', title='Install Organic Maps from F-Droid') }}
-
-{{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Install Organic Maps from Huawei AppGallery') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
@@ -120,20 +112,3 @@ licensed under the Apache License 2.0.
 - Visit our [GitHub page](https://github.com/organicmaps/organicmaps).
 - Follow our updates in [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp),
 [Instagram](https://instagram.com/organicmaps.app/).
-
-<button id='add' class='installButton'>
-  Install from Google Play
-</button>
-
-<script>
-  // https://developers.google.com/web/fundamentals/app-install-banners/native
-  window.addEventListener('beforeinstallprompt', (e) => {
-    // Prevent Chrome 67 and earlier from automatically showing the prompt
-    e.preventDefault();
-    const add = document.getElementById('add');
-    add.style.display = 'block';
-    add.onclick = () => {
-      e.prompt();
-    }
-  });
-</script>
