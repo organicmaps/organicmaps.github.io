@@ -7,7 +7,7 @@
     </span>
     •
     <span class="menuitem{% if resource.path != '/donate/' %}"><a href="/donate/">{% else %}_active">{% endif %}
-        <span>❤️ {{ trans(key='donate') }}</span>
+        <span style="color: red; font-weight: 500">{{ trans(key='donate') }}</span>
         {% if resource.path != '/donate/' %}</a>{% endif %}
     </span>
     •
