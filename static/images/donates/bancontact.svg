@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1491"
+   sodipodi:docname="bancontact.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1495" />
+  <sodipodi:namedview
+     id="namedview1493"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.932203"
+     inkscape:cy="16"
+     inkscape:window-width="705"
+     inkscape:window-height="480"
+     inkscape:window-x="1440"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1491" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g1489">
+    <path
+       d="M0 0h32v32H0z"
+       fill="#fff"
+       id="path1481" />
+    <g
+       fill-rule="nonzero"
+       id="g1487">
+      <path
+         d="M25.64 14.412h-7.664l-.783.896-2.525 2.898-.783.896H6.331l.764-.906.362-.428.763-.907H4.746c-.636 0-1.155.548-1.155 1.205v2.55c0 .666.52 1.204 1.155 1.204h13.328c.637 0 1.508-.398 1.928-.896l2.016-2.33z"
+         fill="#005498"
+         id="path1483" />
+      <path
+         d="M27.176 11.694c.636 0 1.154.548 1.154 1.205v2.539c0 .667-.518 1.204-1.154 1.204H23.71l.773-.896.382-.448.773-.896h-7.662l-4.081 4.68H6.292l5.451-6.273.206-.239c.43-.488 1.301-.896 1.937-.896h13.29z"
+         fill="#ffbf00"
+         id="path1485" />
+    </g>
+  </g>
+</svg>

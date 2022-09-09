@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="SVGInline-svg SVGInline--cleaned-svg SVG-svg BrandIcon-svg BrandIcon--size--32-svg"
+   height="32"
+   width="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1775"
+   sodipodi:docname="cartes.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1777"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.932203"
+     inkscape:cy="16"
+     inkscape:window-width="705"
+     inkscape:window-height="480"
+     inkscape:window-x="1440"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1775" />
+  <defs
+     id="defs1767">
+    <linearGradient
+       x1="84.571%"
+       y1="-2.163%"
+       x2="20.485%"
+       y2="100%"
+       id="bi_cartesbancaires__a">
+      <stop
+         stop-color="#002253"
+         offset="0%"
+         id="stop1760" />
+      <stop
+         stop-color="#0082B1"
+         offset="54.255%"
+         id="stop1762" />
+      <stop
+         stop-color="#0E9641"
+         offset="100%"
+         id="stop1764" />
+    </linearGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g1773">
+    <path
+       fill="url(#bi_cartesbancaires__a)"
+       d="M0 0h32v32H0z"
+       id="path1769" />
+    <path
+       d="M17.657 10.009v6.008h9.591a3.004 3.004 0 0 0 0-6.008h-9.59zm-.818 6.008c-.054-1.182-.35-2.242-.846-3.142a5.963 5.963 0 0 0-2.358-2.357c-1.001-.553-2.2-.856-3.546-.856H8.818c-1.345 0-2.545.303-3.546.856a5.963 5.963 0 0 0-2.358 2.357c-.553 1.002-.856 2.201-.856 3.547 0 1.345.303 2.544.856 3.546a5.963 5.963 0 0 0 2.358 2.358c1.001.553 2.2.855 3.546.855h1.27c1.346 0 2.546-.302 3.547-.855a5.963 5.963 0 0 0 2.358-2.358c.497-.9.792-1.96.846-3.142H9.684v-.809h7.155zm.818.809v6.009h9.591a3.004 3.004 0 0 0 0-6.009h-9.59z"
+       fill="#FFF"
+       id="path1771" />
+  </g>
+</svg>

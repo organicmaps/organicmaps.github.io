@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 32 32"
+   width="32"
+   xml:space="preserve"
+   sodipodi:docname="github.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs698" />
+  <sodipodi:namedview
+   id="namedview696"
+   pagecolor="#ffffff"
+   bordercolor="#999999"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="3.0076649"
+   inkscape:cx="92.929236"
+   inkscape:cy="85.780833"
+   inkscape:window-width="1309"
+   inkscape:window-height="456"
+   inkscape:window-x="1440"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+  <style
+   type="text/css"
+   id="style689">
+    <![CDATA[
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+]]>
+  </style>
+  <g
+   id="g693"
+   transform="matrix(0.06053269,0,0,0.06053269,0.50363136,0.50434783)">
+    <path
+   class="st0"
+   d="M 256,32 C 132.3,32 32,134.8 32,261.7 c 0,101.5 64.2,187.5 153.2,217.9 11.2,2.1 15.3,-5 15.3,-11.1 0,-5.5 -0.2,-19.9 -0.3,-39.1 -62.3,13.9 -75.5,-30.8 -75.5,-30.8 C 114.5,372.1 99.8,365 99.8,365 c -20.3,-14.3 1.5,-14 1.5,-14 22.5,1.6 34.3,23.7 34.3,23.7 20,35.1 52.4,25 65.2,19.1 2,-14.8 7.8,-25 14.2,-30.7 -49.7,-5.8 -102,-25.5 -102,-113.5 0,-25.1 8.7,-45.6 23,-61.6 -2.3,-5.8 -10,-29.2 2.2,-60.8 0,0 18.8,-6.2 61.6,23.5 17.9,-5.1 37,-7.6 56.1,-7.7 19,0.1 38.2,2.6 56.1,7.7 42.8,-29.7 61.5,-23.5 61.5,-23.5 12.2,31.6 4.5,55 2.2,60.8 14.3,16.1 23,36.6 23,61.6 0,88.2 -52.4,107.6 -102.3,113.3 8,7.1 15.2,21.1 15.2,42.5 0,30.7 -0.3,55.5 -0.3,63 0,6.1 4,13.3 15.4,11 C 415.9,449.1 480,363.1 480,261.7 480,134.8 379.7,32 256,32 Z"
+   id="path691" />
+  </g>
+</svg>
