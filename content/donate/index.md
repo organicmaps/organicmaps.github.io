@@ -1,5 +1,5 @@
 ---
-title: Feed your developers and Organic Maps servers!
+title: Feed your developers
 description: Donate to support the development of our free application
 weight: 10
 extra:
@@ -7,27 +7,30 @@ extra:
   preview_image: donate/donate.png
 ---
 
-We are looking for your help to fund the further development of the Organic Maps application.
+We rely on your **[donations][donate]** to carry out our mission to keep Organic Maps free!
 
 {{ donate_buttons() }}
 
-## Why?
+Organic Maps is free from nasty stuff:
 
-Organic Maps promotes the new ideology, which is unique on the market. Our app is entirely free from trackers and other nasty stuff:
-
-- 100% free, without paid features
-- No ads
-- No tracking
-- No data collection
+- **No ads**
+- **No tracking**
+- **No data collection**
 - No phoning home
 - No annoying registration
 - No mandatory tutorials
 - No noisy email spam
 - No push notifications
 - No crapware
-- No pesticides
+- <s>No pesticides</s> Purely organic!
 
-No ads, no tracking, no secret deals under the table! There is no even a paid premium version! Everyone can install the full-featured version of Organic Maps from the AppStore, Google Play, F-Droid, or GitHub at no cost.
+We made  Organic Maps with love ❤️:
+
+- Respects your privacy
+- Saves your battery
+- No unexpected mobile data charges
+
+Organic Maps promotes the new ideology, which is unique on the market. No ads, no tracking, no secret deals under the table! Everyone can install the full-featured version of Organic Maps from the AppStore, Google Play, F-Droid, or GitHub at no cost.
 
 Moreover, Organic Maps is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (BTW, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.
 
@@ -55,24 +58,17 @@ Thirdly, there are many other cool things to do:
 - Public Transport
 - ... and many other features you want and love
 
-
 ## How to donate?
 
 There are many ways to donate to the project:
 
-- **[GitHub Sponsors][] - recommended**, zero fees
-- [Liberapay][] - moderate fees
-- [PayPal donate@organicmaps.app][PayPal] - high fees
-- [SEPA/direct bank transfer][SEPA] - negligible fees
-- [Cryptocurrency][Crypto] - extreme fees
+{{ donate_buttons() }}
 
 Recurring donations are the best way to ensure a relatively stable income for
 the project and motivate us for long-term tasks and goals. But you can also
 donate one time.
 
-{{ donate_buttons() }}
-
-### SEPA and direct bank transfer
+### Bank Transfer
 
 #### Euro
 
@@ -137,9 +133,4 @@ Zcash         | ZEC  | t1djHnDg8yGfn6vLPrYgejUFf2ZCF4WMmkp
 Yes! There are many ways to support Organic Maps. Please see
 [Support Us](@/support-us/index.md) page for more details.
 
-
-[PayPal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
-[GitHub Sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"
-[Liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
-[SEPA]: #sepa-and-direct-bank-transfer "SEPA and direct bank transfer"
-[Crypto]: #crypto "Donation in crypto"
+[Donate]: https://donate.organicmaps.app

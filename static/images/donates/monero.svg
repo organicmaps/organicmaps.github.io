@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   width="32"
+   xml:space="preserve"
+   id="svg319"
+   sodipodi:docname="monero.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs323" />
+  <sodipodi:namedview
+   id="namedview321"
+   pagecolor="#ffffff"
+   bordercolor="#999999"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="7.0745967"
+   inkscape:cx="53.359932"
+   inkscape:cy="38.871474"
+   inkscape:window-width="1309"
+   inkscape:window-height="456"
+   inkscape:window-x="1440"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg319" />
+  <g
+   id="_x32_21-Monero"
+   transform="matrix(0.07272732,0,0,0.07272732,-2.6181394,-2.6182444)">
+    <g
+   id="g315">
+      <path
+   d="m 256.253,284.215 c -47.643,-48.11 -94.639,-95.241 -141.966,-143.384 0,61.938 0,123.123 0,184.673 -1.731,0 -3.05,0.334 -4.061,0.334 -19.093,0 -38.171,0 -57.552,0 -2.729,0 -4.093,-0.668 -4.749,-3.467 -7.844,-26.478 -11.284,-53.262 -9.229,-81.112 3.431,-46.798 19.417,-88.734 49.379,-124.827 33.028,-40.249 74.897,-66.011 125.982,-76.006 67.363,-13.038 128.677,2.755 181.784,47.111 40.509,33.718 64.986,77.383 74.539,129.645 6.486,35.405 3.768,70.163 -6.454,104.525 -1.045,2.731 -2.041,3.797 -5.106,3.797 -19.064,0 -38.123,0 -57.534,0 -1.057,0 -2.373,0 -3.767,0 0,-61.548 0,-122.805 0,-184.33 -46.962,48.133 -93.948,95.266 -141.266,143.041 z"
+   style="fill:#f16822"
+   id="path311" />
+      <path
+   d="m 70.049,370.179 c 30.304,0 60.604,0 91.229,0 0,-38.501 0,-77.016 0,-116.192 31.639,31.959 62.99,63.609 94.288,95.231 31.68,-31.997 62.984,-63.269 94.684,-95.231 0,38.848 0,77.361 0,115.851 30.604,0 60.588,0 91.883,0 -18.045,29.256 -40.496,52.962 -68.764,71.184 C 345.462,459.26 314.82,470.61 281.805,474.386 181.37,486.437 103.397,428.981 70.049,370.179 Z"
+   style="fill:#4d4d4d"
+   id="path313" />
+    </g>
+  </g>
+  <g
+   id="Layer_1"
+   transform="matrix(0.07272732,0,0,0.07272732,-2.6829024,-2.0964507)" />
+</svg>

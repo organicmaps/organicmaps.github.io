@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   viewBox="0 0 32 33"
+   version="1.1"
+   id="svg1219"
+   sodipodi:docname="google.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1223" />
+  <sodipodi:namedview
+     id="namedview1221"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.932203"
+     inkscape:cy="16"
+     inkscape:window-width="705"
+     inkscape:window-height="480"
+     inkscape:window-x="1440"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1219" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g1217">
+    <path
+       d="M0 1h32v32H0z"
+       id="path1205" />
+    <g
+       fill-rule="nonzero"
+       id="g1215">
+      <path
+         d="M27.865 17.087c0-.785-.065-1.57-.196-2.356H16.673v4.494h6.305a5.34 5.34 0 0 1-2.334 3.535v2.924h3.752a11.41 11.41 0 0 0 3.491-8.597h-.022Z"
+         fill="#4285F4"
+         id="path1207" />
+      <path
+         d="M16.673 28.498c3.142 0 5.803-1.025 7.723-2.814l-3.752-2.924a6.982 6.982 0 0 1-3.971 1.113 6.982 6.982 0 0 1-6.546-4.8H6.244v2.989a11.673 11.673 0 0 0 10.429 6.436Z"
+         fill="#34A853"
+         id="path1209" />
+      <path
+         d="M10.127 19.073a6.982 6.982 0 0 1 0-4.473v-3.01H6.244a11.673 11.673 0 0 0 0 10.472l3.883-2.99Z"
+         fill="#FBBC04"
+         id="path1211" />
+      <path
+         d="M16.673 9.8a6.327 6.327 0 0 1 4.472 1.745l3.339-3.338a11.673 11.673 0 0 0-18.24 3.382l3.883 3.011a6.982 6.982 0 0 1 6.546-4.8Z"
+         fill="#EA4335"
+         id="path1213" />
+    </g>
+  </g>
+</svg>

@@ -176,12 +176,14 @@ footer {
 }
 
 .donate_buttons {
-  form, iframe, a {
-    display: inline-block;
-    vertical-align: top;
+  form, input {
+    display: inline;
+    border-width: 0;
   }
-  a {
-    margin: 0 1em 0 1em;
+  img, input[type="image"] {
+    height: 48px;
+    width: 48px;
+    padding: 2px;
   }
 }
 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-label="Liberapay"
+   role="img"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg737"
+   sodipodi:docname="liberapay.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs741" />
+  <sodipodi:namedview
+     id="namedview739"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.5029759"
+     inkscape:cx="97.674424"
+     inkscape:cy="36.162252"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="1440"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg737" />
+  <rect
+     width="32"
+     height="32"
+     rx="0.93749994%"
+     fill="#f6c915"
+     id="rect733"
+     x="0"
+     y="0"
+     style="stroke-width:0.0624999" />
+  <path
+     fill="#ffffff"
+     d="M 13.0625,22.4375 C 12,22.4375 11.1875,22.312499 10.625,21.999998 10,21.749999 9.6249997,21.374999 9.3749996,20.937499 9.1249997,20.437499 8.9999998,19.9375 8.9999998,19.3125 c 0,-0.625001 0.062499,-1.25 0.2499999,-1.9375 L 12,5.8124998 15.374999,5.3124999 12.375,17.875 12.249999,18.5625 c 0,0.249999 0,0.437499 0.125001,0.5625 0.0625,0.1875 0.249999,0.3125 0.437499,0.437499 l 0.875001,0.1875 -0.625,2.687501 m 12.187499,-7.250001 c 0,1.062501 -0.1875,2.062501 -0.5625,2.9375 a 6.4374998,6.4374998 0 0 1 -3.6875,3.750001 7.3124998,7.3124998 0 0 1 -4.25,0.437499 l -1,3.9375 H 12.5625 L 16.124999,11.1875 a 19.062499,19.062499 0 0 1 4.4375,-0.6875 c 0.8125,0 1.500001,0.125 2.125,0.375 a 3.9374999,3.9374999 0 0 1 2.25,2.5 c 0.1875,0.5625 0.3125,1.187499 0.3125,1.812499 m -7.9375,4.5 0.937501,0.0625 c 0.562499,0 1.0625,-0.0625 1.562499,-0.312499 0.4375,-0.1875 0.812501,-0.5 1.1875,-0.875 0.312501,-0.375001 0.5625,-0.812501 0.75,-1.375 0.1875,-0.5 0.249999,-1.125 0.249999,-1.750001 0,-0.625 -0.124998,-1.124999 -0.374999,-1.5625 -0.312499,-0.4375 -0.8125,-0.6875 -1.4375,-0.6875 l -1.3125,0.125001 -1.5625,6.374999"
+     id="path735"
+     style="stroke-width:0.0624999" />
+</svg>
