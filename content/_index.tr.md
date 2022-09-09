@@ -19,13 +19,6 @@ extra:
 
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Organic Maps'i Huawei AppGallery'den İndir") }}
 
-{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title="Organic Maps'i Flathub'den İndir") }}
-
-  <a href="https://repology.org/project/organicmaps/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/organicmaps.svg" width="180" alt="Packaging status">
-  </a>
-</p>
-
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Çevrimdışı Arama') }}
@@ -105,6 +98,8 @@ Lütfen beta programımıza katılın, yeni özellikler önerin ve hataları bil
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
 - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
+- [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
+- [Linux Desktop Beta (pacchetti)](https://repology.org/project/organicmaps/versions)
 
 ## Topluluk
 

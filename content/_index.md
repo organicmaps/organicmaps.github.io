@@ -21,13 +21,6 @@ for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
 
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Install Organic Maps from Huawei AppGallery') }}
 
-{{ badge(url='https://flathub.org/apps/details/app.organicmaps.desktop', img='flathub-badge-en.svg', title='Install Organic Maps from Flathub') }}
-
-  <a href="https://repology.org/project/organicmaps/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/organicmaps.svg" width="180" alt="Packaging status">
-  </a>
-</p>
-
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
@@ -110,6 +103,8 @@ Please join our beta program, suggest your features, and report bugs:
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
 - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
+- [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
+- [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
 
 ## Community
 
