@@ -17,6 +17,7 @@ const nhm = new NodeHtmlMarkdown();
 const photoUrlRE = /url\(\'(.*?)\'/;
 const emojiRE = /_\*\*(\u00a9|\u00ae|[\u2000-\u3300]\ufe0f?|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]\ufe0f?|\ud83e[\ud000-\udfff]|\uD83C[\uDDE6-\uDDFF]\uD83C[\uDDE6-\uDDFF])\*\*_/gi;
 
+const kPostsDiffInMs = 10 * 60 * 1000;  // Ten minutes.
 
 function downloadAsync(url, path) {
   return new Promise((resolve, reject) => {
@@ -115,7 +116,6 @@ function parseHtml(html) {
   const downloads = [];
   let prevDir;
   let prevDate;
-  const kPostsDiffInMs = 5 * 60 * 1000;  // Five minutes.
   messages.forEach(m => {
     let photos = m.querySelectorAll('.tgme_widget_message_photo_wrap');
     let text = m.querySelector('.tgme_widget_message_text');
