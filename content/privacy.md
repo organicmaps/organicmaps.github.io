@@ -1,6 +1,6 @@
 ---
 title: "Organic Maps: Privacy Policy"
-description: "No tracking, no ads, no data collection, no spyware"
+description: "No tracking, no ads, no data collection, no statistics collection, no spyware"
 weight: 900
 extra:
   menu_title: Privacy
@@ -8,7 +8,7 @@ extra:
 
 Organic Maps respects your privacy and DOES NOT TRACK YOU.
 
-No tracking, no ads, no data collection, no spyware.
+Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps.
 
 Reject surveillance - embrace your freedom.
 

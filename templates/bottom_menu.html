@@ -1,7 +1,15 @@
+{% set langMd = '.' ~ lang %}
+{# TODO: Replace 'en' with config.default_language after upgrading Zola #}
+{% if lang == 'en' %}
+  {% set langMd = '' %}
+{% endif %}  
+{% set home = get_section(path='_index' ~ langMd ~ '.md') %}
+{% set news = get_section(path='news/_index' ~ langMd ~ '.md') %}
+
 <nav id="bottom_menu" role="navigation">
-  {% set home = get_section(path='_index.md') %}
-  {% set news = get_section(path='news/_index.md') %}
   {% for page in [home, news] | concat(with=home.pages) %}
+  {% set page = page.translations | filter(attribute='lang', value=lang) %}
+
   {% if page.extra.menu_title %}
   {% if resource.path != page.path %}<a href="{{ page.path }}">{% endif %}
     <span>{{ page.extra.menu_title }}</span>
@@ -9,5 +17,5 @@
   &nbsp;
   {% endif %}
   {% endfor %}
-  <a href="mailto:hello@organicmaps.app">{{ trans(key='contact') }}</a>
+  <a href="mailto:hello@organicmaps.app">{{ trans(key='contact', lang=lang) }}</a>
 </nav>
