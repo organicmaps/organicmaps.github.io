@@ -1,26 +1,35 @@
 {% extends 'base.html' %}
 
 {% block meta %}
-{% set latestStr = resource.subsections | sort | last %}
-{% set latestSection = get_section(path=latestStr) %}
-{% set latestPage = latestSection.pages | first %}
-<meta property="article:published_time" content="{{ latestPage.date }}">
+{# TODO: For translated pages the following code generates: Function call 'get_section' failed, Section `` not found  #}
+{# set latestStr = resource.subsections | sort | last #}
+{# set latestSection = get_section(path=latestStr) #}
+{# set latestPage = latestSection.pages | first #}
+{% set latestPage = section.pages | first %}
+<!-- <meta property="article:published_time" content="{# latestPage.date #}"> -->
 {% endblock meta %}
 
 {% block content %}
 
 <h1>{{ resource.title }}</h1>
+{# Iterate and use en sections by default and use localized versions only if they are present #}
+{% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
+{% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
-{% for section in resource.subsections | sort | reverse %}
-{% set s = get_section(path=section) %}
-{% for post in s.pages %}
-<div class="news_date">&nbsp;<a href="{{ post.path }}">{{ post.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
-<div class="news_content_image">
-{% if post.content %}
-  <div class="news_content">{{ post.content | safe }}</div>
+{% for sectionStr in enNewsSection.subsections | sort | reverse %}
+{% set section = get_section(path=sectionStr) %}
+{% for page in section.pages %}
+{% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
+{% if translatedPage %}
+  {% set page = get_page(path=translatedPage.path) %}
 {% endif %}  
-{% for photo in post.assets %}
-<img class="news_image" src="{{ post.path }}/{{ photo | split(pat='/') | last }}" />
+<div class="news_date">&nbsp;<a href="{{ page.path }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
+<div class="news_content_image">
+{% if page.content %}
+  <div class="news_content">{{ page.content | safe }}</div>
+{% endif %}  
+{% for photo in page.assets %}
+<img class="news_image" src="{{ page.path }}/{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 </div>
 {% endfor %}

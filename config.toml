@@ -19,6 +19,7 @@ external_links_target_blank = true
 [slugify]
 paths = "safe"
 
+# Default English translations
 [translations]
 back = "Back to News"
 contact = "Contact Us"
@@ -28,7 +29,6 @@ news = "News"
 support-us = "Support Us"
 
 [languages.tr]
-
 [languages.tr.translations]
 back = "Haberlere geri dön"
 contact = "Bize ulaşın"
@@ -38,7 +38,6 @@ news = "Haberler"
 support-us = "Bizi destekleyin"
 
 [languages.it]
-
 [languages.it.translations]
 back = "Indietro"
 contact = "Contattaci"
@@ -46,3 +45,13 @@ donate = "Dona"
 home = "Pagina Iniziale"
 news = "Notizie"
 support-us = "Contribuisci"
+
+
+[languages.ru]
+[languages.ru.translations]
+back = "Назад"
+contact = "Связаться с нами"
+donate = "Поддержать деньгами"
+home = "Главная"
+news = "Новости"
+support-us = "Помочь проекту"
