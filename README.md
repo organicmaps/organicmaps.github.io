@@ -8,6 +8,8 @@ Use `zola serve` for a local preview or `zola build` to generate static site in 
 
 `npm i && npm run format` will pretty-format Markdown and scss.
 
+Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
+
 ## Deployment
 
 Every PR deploys a preview version of the site at unique url.
