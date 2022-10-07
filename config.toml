@@ -46,3 +46,14 @@ donate = "Dona"
 home = "Pagina Iniziale"
 news = "Notizie"
 support-us = "Contribuisci"
+
+
+[languages.ru]
+
+[languages.ru.translations]
+back = "Назад"
+contact = "Связаться с нами"
+donate = "Поддержать"
+home = "Главная"
+news = "Новости"
+support-us = "Помочь"

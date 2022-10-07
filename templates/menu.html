@@ -2,19 +2,21 @@
   <a href="/"><span class="logo"></span></a>
   <span class="menu_items">
     <span class="menuitem{% if resource.path != '/news/' %}"><a href="/news/">{% else %}_active">{% endif %}
-        <span>{{ trans(key='news') }}</span>
+        <span>{{ trans(key='news', lang=lang) }}</span>
         {%- if resource.path != '/news/' %}</a>{% endif %}
     </span>
     •
     <span class="menuitem{% if resource.path != '/donate/' %}"><a href="/donate/">{% else %}_active">{% endif %}
-        <span style="color: red; font-weight: 500">{{ trans(key='donate') }}</span>
+        <span style="color: red; font-weight: 500">{{ trans(key='donate', lang=lang) }}</span>
         {% if resource.path != '/donate/' %}</a>{% endif %}
     </span>
+    {% if lang == 'en' %}
     •
     <span class="menuitem{% if resource.path != '/support-us/' %}"><a href="/support-us/">{% else %}_active">{% endif %}
-        <span>{{ trans(key='support-us') }}</span>
+        <span>{{ trans(key='support-us', lang=lang) }}</span>
         {% if resource.path != '/support-us/' %}</a>{% endif %}
     </span>
+    {% endif %}
     •
     <span class="menuitem">
       <a href="https://github.com/organicmaps/organicmaps" target="_blank" class="github">
