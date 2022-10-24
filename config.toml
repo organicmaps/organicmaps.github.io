@@ -26,6 +26,7 @@ contact = "Contact Us"
 donate = "Donate"
 home = "Home"
 news = "News"
+language = "English"
 support-us = "Support Us"
 
 [languages.tr]
@@ -35,6 +36,7 @@ contact = "Bize ulaşın"
 donate = "Bağış Yapın"
 home = "Ana Sayfa"
 news = "Haberler"
+language = "Türk"
 support-us = "Bizi destekleyin"
 
 [languages.it]
@@ -44,6 +46,7 @@ contact = "Contattaci"
 donate = "Dona"
 home = "Pagina Iniziale"
 news = "Notizie"
+language = "Italiano"
 support-us = "Contribuisci"
 
 
@@ -54,4 +57,5 @@ contact = "Связаться с нами"
 donate = "Поддержать деньгами"
 home = "Главная"
 news = "Новости"
+language = "Русский"
 support-us = "Помочь проекту"

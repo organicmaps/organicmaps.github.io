@@ -1,0 +1,96 @@
+$headerAndLogoHeight: 65px;
+$headerPadding: 10px;
+$logoColor: green;
+$baseFontSize: 400;
+$baseBgColor: black;
+
+@media print {
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+}
+
+@mixin MenuItemsTextStyling {
+  color: green;
+  //font-size: $baseFontSize;
+  //font-weight: 500;
+  cursor: pointer;
+  text-align: center;
+  // All menu texts should be in one line.
+  white-space: nowrap;
+}
+
+@mixin MenuItemButtonBorder {
+  //border: 1px solid $logoColor;
+  //padding: 7px 15px;
+}
+
+@mixin MenuItemInvertedButton {
+  color: red;
+  //background-color: $logoColor;
+}
+
+.menu {
+  display: none;
+  // It's a list, so remove list padding (where bullets are usually drawn).
+  padding: 0;
+  list-style: none;
+
+  &__item {
+    // Stretch/shrink all menu items proportionally.
+    flex: 1 1 auto;
+    -webkit-flex: 1 1 auto;
+    margin-left: 20px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+
+  &__link {
+    @include MenuItemsTextStyling;
+    text-decoration: none;
+  }
+}
+
+input.menu_trigger {
+  // Hide input checkbox, label is used for touch events instead.
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+
+  // Show menu on checkbox click.
+  &:checked ~ .menu {
+    // Turn flexbox ul again into a block and reset it's properties.
+    display: block;
+    //top: $headerAndLogoHeight;
+    //left: 0;
+    //width: 100%;
+    // position: absolute;
+    // margin: 0;
+    // padding: 0;
+    z-index: 999;
+    //background-color: $logoColor;
+
+    .menu__item {
+      text-align: center;
+      margin: 1em;
+    }
+
+    .menu__link {
+      //color: $baseBgColor;
+    }
+  }
+
+  &:checked ~ label {
+    @include MenuItemInvertedButton;
+  }
+}
+
+// Menu button
+label[for="menu_trigger"] {
+//   display: block;
+
+  @include MenuItemsTextStyling;
+  @include MenuItemButtonBorder;
+}
