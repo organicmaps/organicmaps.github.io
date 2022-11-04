@@ -20,7 +20,7 @@ extra:
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title='Установить из Huawei AppGallery') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Прага') }}
+{{ screenshot(src='/images/screenshots/city.jpg', alt='Прага') }}
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Офлайн поиск') }}
 {{ screenshot(src='/images/screenshots/dark.jpg', alt='Навигация в ночном режиме') }}
 
