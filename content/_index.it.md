@@ -20,7 +20,7 @@ extra:
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Installa Organic Maps da Huawei AppGallery") }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
-{{ screenshot(src='/images/screenshots/city.jpg', alt='Prague') }}
+{{ screenshot(src='/images/screenshots/city.jpg', alt='City Map') }}
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
 {{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 

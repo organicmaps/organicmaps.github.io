@@ -20,7 +20,7 @@ extra:
 {{ badge(url='https://appgallery.huawei.com/#/app/C104325611', img='huawei-appgallery.png', title="Organic Maps'i Huawei AppGallery'den İndir") }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
-{{ screenshot(src='/images/screenshots/city.jpg', alt='Prag') }}
+{{ screenshot(src='/images/screenshots/city.jpg', alt='City Map') }}
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Çevrimdışı Arama') }}
 {{ screenshot(src='/images/screenshots/dark.jpg', alt='Koyu modda navigasyon') }}
 
