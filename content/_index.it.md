@@ -1,13 +1,14 @@
 ---
 title: "Organic Maps: Escursioni a piedi, in bicicletta, su sentieri e navigazione offline"
-description: Mappe offline veloci e dettagliate per viaggiatori, turisti, escursionisti e ciclisti, basate su OpenStreetMap e curate con amore dai fondatori di MapsWithMe (Maps.Me).
+description: Mappe offline veloci e dettagliate per viaggiatori, turisti, automobilisti, escursionisti e ciclisti, basate su OpenStreetMap e curate con amore dai fondatori dell'applicazione MapsWithMe (Maps.Me).
 page_template: index.html
 sort_by: weight
 extra:
   menu_title: Home
 ---
 
-**Organic Maps** è un'applicazione gratuita di mappe offline per Android e iOS per viaggiatori, turisti, escursionisti e ciclisti, basata su dati crowd-sourced di **OpenStreetMap** e curata con amore dai fondatori di **MapsWithMe** (**Maps.Me**).
+**Organic Maps** è un'applicazione gratuita di mappe offline per Android e iOS per viaggiatori, turisti, escursionisti e ciclisti, basata su dati crowd-sourced di **[OpenStreetMap](https://www.openstreetmap.org)**.
+Si tratta di un [fork](https://it.wikipedia.org/wiki/Fork_(sviluppo_software)) open source dell'applicazione **Maps.me** (precedentemente nota come [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), incentrato sulla privacy e gestito dalle stesse persone che hanno creato **MapsWithMe** nel 2011.
 
 <p id='install'>
 
