@@ -11,6 +11,8 @@ extra:
 **[OpenStreetMap](https://www.openstreetmap.org)** data.
 It is a privacy-focused, open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of **Maps.me** app (previously known as [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), maintained by the same people who created **MapsWithMe** in 2011.
 
+**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.
+
 {{ badges(lang='en') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
