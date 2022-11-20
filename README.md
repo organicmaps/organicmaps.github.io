@@ -6,6 +6,8 @@ This website is build with [Zola](https://www.getzola.org/) and Cloudflare Pages
 
 Use `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 
+To test Clouldflare Functions locally, use `npx wrangler pages dev public` after doing `zola build`.
+
 `npm i && npm run format` will pretty-format Markdown and scss.
 
 Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.

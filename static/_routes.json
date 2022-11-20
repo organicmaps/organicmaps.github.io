@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "include": ["/donate", "/donate/"],
+  "exclude": []
+}
