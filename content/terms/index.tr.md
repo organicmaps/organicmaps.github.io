@@ -13,7 +13,7 @@ Lisansın bir kopyasını [http://www.apache.org/licenses/LICENSE-2.0](http://ww
 
 Yürürlükteki yasalar gerektirmedikçe veya yazılı izin olmadan;
 Lisans kapsamında dağıtılan yazılım, açık veya üstü kapalı olarak HİÇBİR GARANTİ
-VEYA KOŞUL OLMADAN "OLDUĞU GİBİ" dağıtılır. Lisans kapsamındaki izinleri ve 
+VEYA KOŞUL OLMADAN "OLDUĞU GİBİ" dağıtılır. Lisans kapsamındaki izinleri ve
 sınırlamaları yöneten belirli dil için Lisansa bakın.
 
 Aşağıdaki dizinlerdeki kütüphanelerin çoğu diğer kişi ve
