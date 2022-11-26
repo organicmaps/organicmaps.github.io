@@ -57,6 +57,11 @@
   <link href="/main.css?h={{ get_file_hash(path='sass/main.scss', sha_type=256, base64=false) }}" rel="stylesheet" type="text/css">
 
   <title>{{ resource.title }}</title>
+
+  {# TODO: Replace 'en' with config.default_language after upgrading Zola #}
+  {%- if lang == 'en' %}
+  {% include 'language_redirect.html' %}
+  {% endif -%}
 </head>
 
 <body>
@@ -65,7 +70,7 @@
   </header>
 
   <main>
-    {% block content %} {% endblock %}
+    {% block content %}{% endblock %}
   </main>
 
   <footer>
