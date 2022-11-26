@@ -18,6 +18,8 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
   {% endblock %}
 
+  <link rel="canonical" href="{{ config.base_url | safe }}{{ resource.path | safe }}"> 
+  
   {%- set preview_image = 'images/screenshots/prague.jpg' -%}
   {%- if resource.extra.preview_image -%}
   {%- set preview_image = resource.extra.preview_image -%}
