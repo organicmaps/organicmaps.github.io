@@ -7,13 +7,13 @@
     "doc": "docs"
   },
   "devDependencies": {
-    "js-beautify": "^1.14.6",
-    "node-html-markdown": "^1.2.0",
-    "node-html-parser": "^6.1.1",
-    "prettier": "^2.7.1",
-    "stylelint": "^14.13.0",
+    "js-beautify": "^1.14.7",
+    "node-html-markdown": "^1.2.2",
+    "node-html-parser": "^6.1.4",
+    "prettier": "^2.8.0",
+    "stylelint": "^14.15.0",
     "stylelint-config-recommended": "^9.0.0",
-    "stylelint-config-standard": "^28.0.0"
+    "stylelint-config-standard": "^29.0.0"
   },
   "scripts": {
     "format": "stylelint --fix ./sass/*.scss && prettier --write *.md content/**/*.md && js-beautify -r templates/base.html",
