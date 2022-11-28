@@ -76,9 +76,11 @@ Rifiuta la sorveglianza - difendi la tua libertà.
 
 L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.md) per sostenerci!
 
+### Ci sono diversi modi per donare:
+
 {{ donate_buttons() }}
 
-### I nostri sponsor
+### I nostri sponsor:
 
 [Mythic Beasts](https://www.mythic-beasts.com/) ISP [ci offre](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/) due server virtuali con 400 TB/mese di larghezza di banda gratuita per aiutare i nostri utenti a scaricare e aggiornare le mappe.
 

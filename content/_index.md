@@ -79,9 +79,11 @@ Reject surveillance - embrace your freedom.
 
 The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
+### There are different ways to donate:
+
 {{ donate_buttons() }}
 
-### Our sponsors
+### Our sponsors:
 
 [Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/)
 two virtual servers with 400 TB/month of free bandwidth to help our users with

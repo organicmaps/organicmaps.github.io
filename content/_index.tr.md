@@ -76,9 +76,11 @@ Gözetlenmeyi reddedin - özgürlüğünüzü kucaklayın.
 
 Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış yapın](@/donate/index.md)!
 
+### Bağış yapmanın farklı yolları vardır:
+
 {{ donate_buttons() }}
 
-### Sponsorlarımız
+### Sponsorlarımız:
 
 [Mythic Beasts](https://www.mythic-beasts.com/) ISS kullanıcılarımıza harita indirmeleri ve güncellemeleri konusunda yardımcı olmak için ayda 400 TB ücretsiz bant genişliğine sahip iki sanal sunucu [sağlıyor](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/).
 
