@@ -23,43 +23,42 @@ $baseBgColor: black;
   color: red;
 }
 
-.menu {
+.lang-menu {
   display: none;
   // It's a list, so remove list padding (where bullets are usually drawn).
   padding: 0;
   list-style: none;
 
-  &__item {
-    // Stretch/shrink all menu items proportionally.
-    flex: 1 1 auto;
-    margin-left: 20px;
+  &-item {
+    margin-left: 1em;
 
     &:first-child {
       margin-left: 0;
     }
   }
 
-  &__link {
+  &-link {
     @include MenuItemsTextStyling;
 
     text-decoration: none;
   }
 }
 
-input.menu_trigger {
+input.lang-menu-trigger {
   // Hide input checkbox, label is used for touch events instead.
   position: absolute;
   clip: rect(0, 0, 0, 0);
 
   // Show menu on checkbox click.
-  &:checked ~ .menu {
+  &:checked ~ .lang-menu {
     // Turn flexbox ul again into a block and reset it's properties.
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     z-index: 999;
 
-    .menu__item {
+    .lang-menu-item {
       text-align: center;
-      margin: 1em;
     }
   }
 
@@ -69,6 +68,6 @@ input.menu_trigger {
 }
 
 // Menu button
-label[for="menu_trigger"] {
+label[for="lang-menu-trigger"] {
   @include MenuItemsTextStyling;
 }
