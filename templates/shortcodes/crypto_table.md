@@ -1,4 +1,4 @@
-<p id="crypto_table" />
+<p id="crypto-table" />
 
 {{ trans(key='name', lang=lang) }} | {{ trans(key='token', lang=lang) }} | {{ trans(key='address', lang=lang) }}
 :--- | :---- | :------

@@ -13,22 +13,14 @@ $baseBgColor: black;
 
 @mixin MenuItemsTextStyling {
   color: green;
-  //font-size: $baseFontSize;
-  //font-weight: 500;
   cursor: pointer;
   text-align: center;
   // All menu texts should be in one line.
   white-space: nowrap;
 }
 
-@mixin MenuItemButtonBorder {
-  //border: 1px solid $logoColor;
-  //padding: 7px 15px;
-}
-
 @mixin MenuItemInvertedButton {
   color: red;
-  //background-color: $logoColor;
 }
 
 .menu {
@@ -40,7 +32,6 @@ $baseBgColor: black;
   &__item {
     // Stretch/shrink all menu items proportionally.
     flex: 1 1 auto;
-    -webkit-flex: 1 1 auto;
     margin-left: 20px;
 
     &:first-child {
@@ -50,6 +41,7 @@ $baseBgColor: black;
 
   &__link {
     @include MenuItemsTextStyling;
+
     text-decoration: none;
   }
 }
@@ -63,22 +55,11 @@ input.menu_trigger {
   &:checked ~ .menu {
     // Turn flexbox ul again into a block and reset it's properties.
     display: block;
-    //top: $headerAndLogoHeight;
-    //left: 0;
-    //width: 100%;
-    // position: absolute;
-    // margin: 0;
-    // padding: 0;
     z-index: 999;
-    //background-color: $logoColor;
 
     .menu__item {
       text-align: center;
       margin: 1em;
-    }
-
-    .menu__link {
-      //color: $baseBgColor;
     }
   }
 
@@ -89,8 +70,5 @@ input.menu_trigger {
 
 // Menu button
 label[for="menu_trigger"] {
-//   display: block;
-
   @include MenuItemsTextStyling;
-  @include MenuItemButtonBorder;
 }
