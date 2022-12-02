@@ -24,7 +24,16 @@
   {% set page = get_page(path=translatedPage.path) %}
 {% endif %}  
 <div class="news_date">&nbsp;<a href="{{ page.path }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
-<div class="news_content_image">
+{# Display wide images below the text instead of to the right. #}
+{% set_global noflex = '' %}
+{% for photo in page.assets %}
+  {% set meta = get_image_metadata(path=photo) %}
+  {% if meta.width > meta.height %}
+    {% set_global noflex = '_noflex' %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+<div class="news_content_image{{ noflex }}">
 {% if page.content %}
   <div class="news_content">{{ page.content | safe }}</div>
 {% endif %}
