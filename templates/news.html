@@ -27,7 +27,7 @@
 <div class="news_content_image">
 {% if page.content %}
   <div class="news_content">{{ page.content | safe }}</div>
-{% endif %}  
+{% endif %}
 {% for photo in page.assets %}
 <img class="news_image" src="{{ page.path }}/{{ photo | split(pat='/') | last }}" />
 {% endfor %}
