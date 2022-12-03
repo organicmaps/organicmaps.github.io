@@ -12,7 +12,7 @@ Im Gegensatz zu den meisten anderen Anwendungen gibt es in Organic Maps kein Tra
 
 Lehnen Sie die Überwachung ab - nehmen Sie Ihre Freiheit wahr.
 
-Halten Sie sich von den neugierigen Augen von Big Tech fern!
+Halten Sie sich von den neugierigen Augen der großen Technologiekonzernen fern!
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

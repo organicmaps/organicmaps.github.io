@@ -1,13 +1,13 @@
 ---
-title: "Spende zur Unterstützung der Entwicklung von Organic Maps"
-description: "Ihr Geld deckt alle projektbezogenen Kosten und motiviert uns, Organic Maps zu verbessern."
+title: "Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation"
+description: " Schnelle detaillierte Offline-Karten für Reisende, Touristen, Autofahrer, Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe (Maps.Me) App."
 page_template: index.html
 sort_by: weight
 extra:
-  menu_title: Spende
+  menu_title: Startseite
 ---
 
-**Organic Maps** ist eine kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf der Grundlage von Crowd-Sourced **[OpenStreetMap](https://www.openstreetmap.org)** Daten.
+**Organic Maps** ist eine kostenlose Offline-Karten-App auf Android und iOS für Reisende, Touristen, Wanderer und Radfahrer auf der Grundlage von gemeinschaftlichen **[OpenStreetMap](https://www.openstreetmap.org)** Daten.
 Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung](https://en.wikipedia.org/wiki/Fork_(software_development)) der **Maps.me**-App (früher bekannt als [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), die von denselben Personen gepflegt wird, die **MapsWithMe** im Jahr 2011 entwickelt haben.
 
 **Organic Maps** ist heutzutage eine der wenigen Anwendungen, die 100% der Funktionen ohne aktive Internetverbindung unterstützt. Installieren Sie Organic Maps, laden Sie Karten herunter, werfen Sie Ihre SIM-Karte weg (Ihr Betreiber verfolgt Sie übrigens ständig) und machen Sie einen Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.
@@ -31,10 +31,10 @@ Organic Maps ist die ultimative Begleit-App für Reisende, Touristen, Wanderer u
 - Schnelle Offline-Suche auf der Karte
 - Export und Import von Lesezeichen im KML/KMZ-Format (GPX ist [geplant](https://github.com/organicmaps/organicmaps/issues/624))
 - Dunkler Modus zum Schutz Ihrer Augen
-- Länder und Regionen nehmen nicht viel Platz in Anspruch
+- Länder und Regionen nehmen nicht viel Speicherplatz in Anspruch
 - Kostenlos und Open-Source
 
-## Why Organic?
+## Wieso Organic?
 
 Organic Maps ist rein und organisch, mit Liebe gemacht:
 
@@ -53,9 +53,9 @@ Organic Maps ist frei von Trackern und anderen schädlichen Dingen:
 - Kein lästiger E-Mail-Spam
 - Keine Push-Benachrichtigungen
 - Keine Crapware
-- ~~Keine Pestizide~~ - rein und organisch!
+- ~~Keine Pestizide~~ - Rein und organisch!
 
-Der Antrag wird geprüft durch <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
+Die Anwendung ist geprüft durch das <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
 <br/>
 <img src='/images/privacy/exodus.png' width='400'>
 
@@ -67,29 +67,27 @@ Organic Maps fordert keine übermäßigen Berechtigungen an, um Sie auszuspionie
 Wir von Organic Maps glauben, dass die Privatsphäre ein grundlegendes Menschenrecht ist:
 
 - Organic Maps ist ein Open-Source-Projekt, das von einer unabhängigen Gemeinschaft betrieben wird.
-- Wir schützen deine Privatsphäre vor den neugierigen Augen von Big Tech
+Wir schützen deine Privatsphäre vor den neugierigen Augen der großen Technologiekonzerne
 - Bleiben Sie sicher, egal wo Sie sind
 
-Lehne Überwachung ab - genieße deine Freiheit.
+Lehnen Sie Überwachung ab - genießen Sie ihre Freiheit.
 
 
 <a href="#install"><strong>Testen Sie Organic Maps!</strong></a>
 
 ## Wer zahlt für die kostenlose App?
 
-Die App ist für alle kostenlos. Bitte [donate](@/donate/index.md), um uns zu unterstützen!
+Die App ist für alle kostenlos. Bitte [spende](@/donate/index.md), um uns zu unterstützen!
 
 ### Es gibt verschiedene Möglichkeiten zu spenden:
 
 {{ donate_buttons() }}
 
-### Our sponsors:
+### Unsere Sponsoren:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [stellt uns](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/)
-zwei virtuelle Server mit 400 TB/Monat freier Bandbreite, um unseren Nutzern bei
-Karten-Downloads und Updates zu unterstützen.
+[Mythic Beasts](https://www.mythic-beasts.com/) ISP [stellt uns](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/) zwei virtuelle Server mit 400 TB/Monat freier Bandbreite zur Verfügung, um unsere Nutzer bei Karten-Downloads und Updates zu unterstützen.
 
-### Support us
+### Unterstützen Sie uns
 
 Es gibt viele Möglichkeiten, uns zu unterstützen, die [hier](@/support-us/index.md) aufgeführt sind.
 
@@ -102,15 +100,13 @@ Bitte nehmen Sie an unserem Beta-Programm teil, schlagen Sie Funktionen vor und 
 - [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
 - [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
 
-## Community
+## Gemeinschaft
 
-Organic Maps ist eine [open-source software](https://github.com/organicmaps/organicmaps)
-lizenziert unter der Apache License 2.0.
+Organic Maps ist eine [Open Source Software](https://github.com/organicmaps/organicmaps) lizenziert unter der Apache License 2.0.
 
-- Melden Sie Bugs oder Probleme an [den Issue Tracker](https://github.com/organicmaps/organicmaps/issues) oder [email us](mailto:hello@organicmaps.app).
+- Melden Sie Bugs oder Probleme an den [Issue Tracker](https://github.com/organicmaps/organicmaps/issues) oder senden Sie uns eine [E-Mail](mailto:hello@organicmaps.app).
 - [Diskutieren](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) Sie Ideen oder schlagen Sie Funktionswünsche vor.
-- Abonnieren Sie unseren [Telegram Channel](https://t.me/OrganicMapsApp) oder den [[Matrix]](https://matrix.to/#/#organicmaps:matrix.org) für Updates.
-- Treten Sie unserer [Telegram Group](https://t.me/OrganicMaps) bei, um mit anderen Benutzern zu diskutieren
+- Abonnieren Sie unseren [Telegram Channel](https://t.me/OrganicMapsApp) oder den [[Matrix] Raum](https://matrix.to/#/#organicmaps:matrix.org) für Neuigkeiten.
+- Treten Sie unserer [Telegram Gruppe](https://t.me/OrganicMaps) bei, um mit anderen Benutzern zu diskutieren.
 - Besuchen Sie unsere [GitHub](https://github.com/organicmaps/organicmaps).
-- Verfolgen Sie unsere Updates in <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp),
-[Instagram](https://instagram.com/organicmaps.app/).
+- Verfolgen Sie unsere Updates auf <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).

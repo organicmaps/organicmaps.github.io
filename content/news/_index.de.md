@@ -5,5 +5,5 @@ template: news.html
 page_template: news_post.html
 sort_by: date
 extra:
-  menu_title: Nachrichten
+  menu_title: Neuigkeiten
 ---

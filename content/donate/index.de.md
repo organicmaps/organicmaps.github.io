@@ -13,7 +13,7 @@ Organic Maps App ist _kostenlos für alle_ dank Ihrer **[Spenden][stripe]**:
 - Keine Tracker
 - Keine Registrierung
 - Keine Push-Benachrichtigungen
-- Offene Quelle
+- Open Source
 
 {{ donate_buttons() }}
 
@@ -36,7 +36,7 @@ Organic Maps App ist _kostenlos für alle_ dank Ihrer **[Spenden][stripe]**:
    - Wöchentliche und automatische Aktualisierung der Kartendaten
    - Sicherung und Synchronisierung von Lesezeichen
    - Android Auto
-   - GPS-Track-Rekorder mit GPX-Unterstützung
+   - GPS-Kursaufzeichnung mit GPX-Unterstützung
    - Bessere Kartenstile für verschiedene Aktivitäten
    - Hügelschattierung und 3D-Gelände
    - Verbesserung des OpenStreetMap-Editors
@@ -50,9 +50,7 @@ Es gibt viele Möglichkeiten, für das Projekt zu spenden:
 
 {{ donate_buttons() }}
 
-Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen für
-für das Projekt zu sichern und uns für langfristige Aufgaben und Ziele zu motivieren. Sie können aber auch
-einmalig spenden.
+Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen für das Projekt zu sichern und uns für langfristige Aufgaben und Ziele zu motivieren. Sie können aber auch einmalig spenden.
 
 ### Banküberweisung
 
@@ -68,7 +66,7 @@ Litecoin und Monero bieten niedrige Gebühren, aber die Situation ändert sich j
 ## Können Sie uns auf andere Weise helfen?
 
 Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Bitte sehen Sie
-[Support Us](@/support-us/index.md) Seite für weitere Details.
+[Unterstützung](@/support-us/index.md) Seite für weitere Details.
 
 [stripe]: https://donate.organicmaps.app/ "Spenden Sie über Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
