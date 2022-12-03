@@ -9,7 +9,7 @@ extra:
 
 Organic Maps'i özgür tutma misyonumuzu yerine getirmek için **[bağışlarınıza][donate]** güveniyoruz!
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='tr') }}
 
 Organic Maps kötü şeylerden arınmıştır:
 
@@ -58,7 +58,7 @@ Organic Maps'i açık ve özgür tutma misyonumuzu yerine getirmek için bağı�
 
 Projeye bağış yapmanın birçok yolu var:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='tr') }}
 
 Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için
 en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive

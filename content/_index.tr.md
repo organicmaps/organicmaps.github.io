@@ -78,7 +78,7 @@ Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış 
 
 ### Bağış yapmanın farklı yolları vardır:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='tr') }}
 
 ### Sponsorlarımız:
 

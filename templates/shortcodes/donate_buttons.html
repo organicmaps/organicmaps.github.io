@@ -1,12 +1,16 @@
 <div class="donate_buttons">
-  <a href="https://donate.organicmaps.ru"><img id="mir" style="display: none;" src="/images/donates/mir.svg" alt="По карте МИР в рублях"></a>
-  <a href="https://t.me/OrganicMapsRu/29441"><img id="telegramRu" style="display: none;" src="/images/donates/telegram.svg" alt="Telegram по карте МИР в рублях"></a>
+  {%- if lang == 'ru' %}
+  <a href="https://donate.organicmaps.ru"><img id="mir" src="/images/donates/mir.svg" alt="По карте МИР в рублях"></a>
+  <a href="https://t.me/OrganicMapsRu/29441"><img id="telegramRu" src="/images/donates/telegram.svg" alt="Telegram по карте МИР в рублях"></a>
+  {% endif -%}
   <a href="{{ config.extra.stripe | safe }}"><img src="/images/donates/visa.svg" alt="Credit/Debit Card"></a>
   <a href="{{ config.extra.stripe | safe }}"><img src="/images/donates/apple.svg" alt="Apple Pay"></a>
   <a href="{{ config.extra.stripe | safe }}"><img src="/images/donates/google.svg" alt="Google Play"></a>
   <a href="{{ config.extra.stripe | safe }}"><img src="/images/donates/giropay.svg" alt="giropay"></a>
+  {%- if lang != 'ru' %}
   <a href="{{ config.extra.stripe | safe }}"><img src="/images/donates/ideal.svg" alt="iDeal"></a>
   <a href="{{ config.extra.stripe | safe }}"><img id="sofort" src="/images/donates/sofort.svg" alt="Sofort"></a>
+  {% endif -%}
   <a href="{{ config.extra.stripe | safe }}"><img src="/images/donates/sepa.svg" alt="SEPA"></a>
   <a href="/donate#bank-transfer"><img src="/images/donates/bank.svg" alt="Bank Transfer"></a>
   <a href="https://liberapay.com/OrganicMaps"><img src="/images/donates/liberapay.svg" alt="LiberaPay"></a>
@@ -23,25 +27,3 @@
   <a href="/donate#crypto"><img src="/images/donates/tron.svg" alt="Tron"></a>
   <a href="/donate#crypto"><img src="/images/donates/zcash.svg" alt="ZCash"></a>
 </div>
-
-<script>
-  function HasLanguage(code) {
-      if (navigator.languages) {
-        for (var i = 0; i < navigator.languages.length; i++)
-          if (navigator.languages[i].indexOf(code) == 0) {
-            return true;
-          }
-    } else if (navigator.language.indexOf(code) == 0) {
-      return true;
-    }
-    return false;
-  }
-
-  if (HasLanguage('ru')) {
-    document.getElementById('mir').style.display = null;
-    document.getElementById('telegramRu').style.display = null;
-    // Disable two unpopular methods to keep the number of methods constant
-    document.getElementById('eps').style.display = 'none';
-    document.getElementById('sofort').style.display = 'none';
-  }
-</script>

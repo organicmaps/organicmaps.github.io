@@ -9,7 +9,7 @@ extra:
 
 Stiamo cercando il vostro aiuto per finanziare l'ulteriore sviluppo dell'applicazione Organic Maps.
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='it') }}
 
 ## Perché?
 
@@ -68,7 +68,7 @@ Le donazioni ricorrenti sono il modo migliore per garantire un'entrata relativam
 progetto e motivarci per i compiti e gli obiettivi a lungo termine. Ma potete anche
 donare una volta sola.
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='it') }}
 
 ### SEPA e bonifico bancario diretto
 

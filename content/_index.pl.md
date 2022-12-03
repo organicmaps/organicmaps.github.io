@@ -79,7 +79,7 @@ Odrzuć inwigilację - doceń swoją wolność.
 
 Aplikacja jest darmowa dla wszystkich. Proszę [przekaż darowiznę](@/donate/index.md) by nas wspierać!
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='pl') }}
 
 ### Nasi sponsorzy:
 
