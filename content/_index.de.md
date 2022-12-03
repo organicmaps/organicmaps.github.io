@@ -15,10 +15,10 @@ Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung](https:/
 
 {{ badges(lang='de') }}
 
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
+{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wandern') }}
+{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
+{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Suche') }}
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation im dunklen Modus') }}
 
 ## Funktionen
 
@@ -59,7 +59,7 @@ Die Anwendung ist geprüft durch das <a href='https://reports.exodus-privacy.eu.
 <br/>
 <img src='/images/privacy/exodus.png' width='400'>
 
-Organic Maps fordert keine übermäßigen Berechtigungen an, um Sie auszuspionieren:
+Organic Maps fordert keine überflüssigen Berechtigungen an, um Sie auszuspionieren:
 
 <img src='/images/privacy/om.jpg' width='400'>
 <img src='/images/privacy/mm.jpg' width='400'>
@@ -77,7 +77,7 @@ Lehnen Sie Überwachung ab - genießen Sie ihre Freiheit.
 
 ## Wer zahlt für die kostenlose App?
 
-Die App ist für alle kostenlos. Bitte [spende](@/donate/index.md), um uns zu unterstützen!
+Die App ist für alle kostenlos. Bitte [spenden Sie](@/donate/index.md), um uns zu unterstützen!
 
 ### Es gibt verschiedene Möglichkeiten zu spenden:
 
@@ -108,5 +108,5 @@ Organic Maps ist eine [Open Source Software](https://github.com/organicmaps/orga
 - [Diskutieren](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) Sie Ideen oder schlagen Sie Funktionswünsche vor.
 - Abonnieren Sie unseren [Telegram Channel](https://t.me/OrganicMapsApp) oder den [[Matrix] Raum](https://matrix.to/#/#organicmaps:matrix.org) für Neuigkeiten.
 - Treten Sie unserer [Telegram Gruppe](https://t.me/OrganicMaps) bei, um mit anderen Benutzern zu diskutieren.
-- Besuchen Sie unsere [GitHub](https://github.com/organicmaps/organicmaps).
+- Besuchen Sie unsere [GitHub Seite](https://github.com/organicmaps/organicmaps).
 - Verfolgen Sie unsere Updates auf <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).
