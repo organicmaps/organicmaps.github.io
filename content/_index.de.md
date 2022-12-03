@@ -87,9 +87,9 @@ Die App ist für alle kostenlos. Bitte [spenden Sie](@/donate/index.md), um uns 
 
 [Mythic Beasts](https://www.mythic-beasts.com/) ISP [stellt uns](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/) zwei virtuelle Server mit 400 TB/Monat freier Bandbreite zur Verfügung, um unsere Nutzer bei Karten-Downloads und Updates zu unterstützen.
 
-### Unterstützen Sie uns
+### Tragen Sie bei
 
-Es gibt viele Möglichkeiten, uns zu unterstützen, die [hier](@/support-us/index.md) aufgeführt sind.
+Es gibt viele Möglichkeiten beizutragen die [hier](@/support-us/index.md) aufgeführt sind.
 
 ## Beta
 
