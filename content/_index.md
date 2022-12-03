@@ -81,7 +81,7 @@ The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
 ### There are different ways to donate:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='en') }}
 
 ### Our sponsors:
 

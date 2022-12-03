@@ -14,7 +14,7 @@ extra:
 - Без трекеров;
 - Без прочего мусора.
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='ru') }}
 
 ## Зачем поддерживать Organic Maps деньгами?
 
@@ -48,7 +48,7 @@ Organic Maps существует исключительно благодаря 
 
 Реквизиты для [банковского перевода](/donate#bank-transfer).
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='ru') }}
 
 ### Крипто
 

@@ -78,7 +78,7 @@ L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.md) per
 
 ### Ci sono diversi modi per donare:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='it') }}
 
 ### I nostri sponsor:
 

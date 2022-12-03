@@ -15,7 +15,7 @@ Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
 - No push notifications
 - Open source
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='en') }}
 
 ## Why donate to Organic Maps?
 
@@ -48,7 +48,7 @@ Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
 
 There are many ways to donate to the project:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='en') }}
 
 Recurring donations are the best way to ensure a relatively stable income for
 the project and motivate us for long-term tasks and goals. But you can also
