@@ -27,7 +27,7 @@ Organic Maps ist die ultimative Begleit-App für Reisende, Touristen, Wanderer u
 - Detaillierte Offline-Karten mit Orten, die auf anderen Karten nicht zu finden sind, dank [OpenStreetMap](https://osm.org)
 - Radrouten, Wanderwege und Spazierwege
 - Höhenlinien, Höhenprofile, Gipfel und Steigungen
-- Turn-by-Turn-Navigation für Fußgänger, Radfahrer und Autos mit Sprachführung
+- Schritt-für-Schritt-Navigation für Fußgänger, Radfahrer und Autos mit Sprachführung
 - Schnelle Offline-Suche auf der Karte
 - Export und Import von Lesezeichen im KML/KMZ-Format (GPX ist [geplant](https://github.com/organicmaps/organicmaps/issues/624))
 - Dunkler Modus zum Schutz Ihrer Augen
