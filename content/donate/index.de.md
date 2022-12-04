@@ -65,8 +65,8 @@ Litecoin und Monero bieten niedrige Gebühren, aber die Situation ändert sich j
 
 ## Können Sie uns auf andere Weise helfen?
 
-Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Bitte sehen Sie
-[Beitragen](@/support-us/index.md) Seite für weitere Details.
+Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Weitere Details finden Sie auf der
+[Beitragen](@/support-us/index.md) Seite.
 
 [stripe]: https://donate.organicmaps.app/ "Spenden Sie über Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
