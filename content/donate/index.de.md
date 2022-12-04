@@ -15,7 +15,7 @@ Organic Maps ist _kostenlos für alle_ dank deiner **[Spenden][stripe]**:
 - Keine Push-Benachrichtigungen
 - Open Source
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='de') }}
 
 ## Warum für Organic Maps spenden?
 
@@ -48,7 +48,7 @@ Organic Maps ist _kostenlos für alle_ dank deiner **[Spenden][stripe]**:
 
 Es gibt viele Möglichkeiten, für das Projekt zu spenden:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='de') }}
 
 Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen für das Projekt zu sichern und uns für langfristige Aufgaben und Ziele zu motivieren. Aber auch über eine einmalige Spende freuen wir uns sehr.
 

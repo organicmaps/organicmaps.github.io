@@ -81,7 +81,7 @@ Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende](@/don
 
 ### Es gibt verschiedene Möglichkeiten zu spenden:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='de') }}
 
 ### Unsere Sponsoren:
 
