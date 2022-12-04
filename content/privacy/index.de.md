@@ -6,15 +6,15 @@ extra:
   menu_title: Datenschutz
 ---
 
-Organic Maps respektiert Ihre Privatsphäre und spürt Sie nicht auf.
+Organic Maps respektiert deine Privatsphäre und spürt dich nicht auf.
 
 Im Gegensatz zu den meisten anderen Anwendungen gibt es in Organic Maps kein Tracking, keine Werbung, keine Spyware, keine Daten- und Statistiksammlung.
 
-Lehnen Sie die Überwachung ab - nehmen Sie Ihre Freiheit wahr.
+Lehne die Überwachung ab - nimm deine Freiheit wahr.
 
-Halten Sie sich von den neugierigen Augen der großen Technologiekonzernen fern!
+Halte dich von den neugierigen Augen der großen Technologiekonzernen fern!
 
-Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter
+Wenn du Fragen oder Anregungen hast, kontaktiere uns bitte unter
 [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 <sub>Diese Richtlinie ist ab dem 24.04.2021 gültig.</sub>

@@ -1,13 +1,13 @@
 ---
 title: Spende zur Unterstützung der Entwicklung von Organic Maps
-description: Ihr Geld deckt alle projektbezogenen Kosten und motiviert uns, Organic Maps zu verbessern.
+description: Deine Spende deckt alle projektbezogenen Kosten und motiviert uns, Organic Maps zu verbessern.
 weight: 10
 extra:
   menu_title: Spende
   preview_image: donate/donate.png
 ---
 
-Organic Maps App ist _kostenlos für alle_ dank Ihrer **[Spenden][stripe]**:
+Organic Maps ist _kostenlos für alle_ dank deiner **[Spenden][stripe]**:
 
 - Keine Werbung
 - Keine Tracker
@@ -19,11 +19,11 @@ Organic Maps App ist _kostenlos für alle_ dank Ihrer **[Spenden][stripe]**:
 
 ## Warum für Organic Maps spenden?
 
-1. Wir sind auf Ihre Spenden angewiesen, damit wir Organic Maps offen und frei halten können.
-   Und frei von Werbung.
+1. Wir sind auf deine Spenden angewiesen, damit wir Organic Maps offen und frei halten können.
+   Vorallem frei von Werbung.
 2. Wir sind ein paar Enthusiasten, die in ihrer Freizeit einen Beitrag leisten und das Geld ihrer Familien für das Projekt ausgeben.
    Wir lieben, was wir tun, und wir lieben unsere Nutzer ❤️.
-3. Mit Ihrer Unterstützung wollen wir eine bessere, datenschutzfreundliche Version von Google Maps werden.
+3. Mit deiner Unterstützung wollen wir eine bessere, datenschutzfreundliche Version von Google Maps werden.
 
 ## Wofür wird das Geld verwendet?
 
@@ -42,7 +42,7 @@ Organic Maps App ist _kostenlos für alle_ dank Ihrer **[Spenden][stripe]**:
    - Verbesserung des OpenStreetMap-Editors
    - Bessere Offline-Adressensuche, Routenplanung und Navigation
    - Öffentlicher Verkehr
-   - ... und [viele andere][github issues] Funktionen, die Sie wünschen und lieben
+   - ... und [viele andere][github issues] Funktionen, die du haben willst und liebst
 
 ## Wie spendet man?
 
@@ -50,7 +50,7 @@ Es gibt viele Möglichkeiten, für das Projekt zu spenden:
 
 {{ donate_buttons() }}
 
-Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen für das Projekt zu sichern und uns für langfristige Aufgaben und Ziele zu motivieren. Sie können aber auch einmalig spenden.
+Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen für das Projekt zu sichern und uns für langfristige Aufgaben und Ziele zu motivieren. Aber auch über eine einmalige Spende freuen wir uns sehr.
 
 ### Banküberweisung
 
@@ -58,15 +58,15 @@ Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen fü
 
 ### Krypto
 
-Bitte erwägen Sie, jährlich zu spenden, um die Gesamtgebühren zu reduzieren. Algorand, Tron,
+Bitte zieh es in erwägung, jährlich zu spenden, um die enstehenden Gebühren zu reduzieren. Algorand, Tron,
 Litecoin und Monero bieten niedrige Gebühren, aber die Situation ändert sich jeden Tag.
 
 {{ crypto_table(lang='de') }}
 
-## Können Sie uns auf andere Weise helfen?
+## Kannst du uns auf andere Weise helfen?
 
-Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Weitere Details finden Sie auf der
+Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Weitere Details findest du auf der
 [Beitragen](@/support-us/index.md) Seite.
 
-[stripe]: https://donate.organicmaps.app/ "Spenden Sie über Stripe"
+[stripe]: https://donate.organicmaps.app/ "Spende über Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
