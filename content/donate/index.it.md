@@ -91,7 +91,7 @@ Litecoin e Monero offrono commissioni basse, ma la situazione cambia ogni giorno
 ## Puoi aiutarci in qualche altro modo?
 
 Sì! Ci sono molti modi per sostenere Organic Maps. Vedi la pagina
-[Supportaci](@/support-us/index.md) per maggiori dettagli.
+[Supportaci](@/support-us/index.it.md) per maggiori dettagli.
 
 [paypal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
 [github sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"

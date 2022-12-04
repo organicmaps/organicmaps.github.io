@@ -12,7 +12,7 @@ ve topluluğun yardımıyla teknoloji tutkunları tarafından geliştirilir.
 
 Bizi desteklemenin farklı yolları var:
 
-- [Bağış yapın](@/donate/index.md)! Her bir dolar veya avro önemlidir. Bağışlar, sunucular için ödeme yapmamıza yardımcı oluyor.
+- [Bağış yapın](@/donate/index.tr.md)! Her bir dolar veya avro önemlidir. Bağışlar, sunucular için ödeme yapmamıza yardımcı oluyor.
 - [GitHub](https://github.com/organicmaps/organicmaps/issues) veya [e-posta](mailto:support@organicmaps.app) üzerinden hataları bildirin ve fikirlerinizi paylaşın.
 - Eğer bir geliştiriciyseniz [hataları düzeltmemize](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) yardım edin
   ve kodları gözden geçirin. Düzeltilen her küçük hata birilerini daha mutlu eder.

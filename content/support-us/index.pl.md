@@ -12,7 +12,7 @@ i jest rozwijana przez entuzjastów z pomocą społeczności.
 
 Jest wiele sposobów na przyczynienie się do rozwoju Organic Maps:
 
-- [Wspomóż](@/donate/index.md)! Każda złotówka się liczy i pomaga nam opłacić serwery i ich skalowanie.
+- [Wspomóż](@/donate/index.pl.md)! Każda złotówka się liczy i pomaga nam opłacić serwery i ich skalowanie.
 - Zgłaszaj błędy i dziel się pomysłami na naszym [GitHubie](https://github.com/organicmaps/organicmaps/issues)
   lub przez [email](mailto:support@organicmaps.app).
 - Pomóż w [naprawianiu błędów](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md)

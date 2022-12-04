@@ -74,7 +74,7 @@ Gözetlenmeyi reddedin - özgürlüğünüzü kucaklayın.
 
 ## Uygulamanın ücretsiz kalması için kim ödeme yapıyor?
 
-Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış yapın](@/donate/index.md)!
+Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış yapın](@/donate/index.tr.md)!
 
 ### Bağış yapmanın farklı yolları vardır:
 
@@ -86,7 +86,7 @@ Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış 
 
 ### Bizi destekle
 
-Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/support-us/index.md) mevcut.
+Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/support-us/index.tr.md) mevcut.
 
 ## Beta
 
