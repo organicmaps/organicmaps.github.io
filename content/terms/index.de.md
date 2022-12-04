@@ -10,7 +10,7 @@ Diese Anwendung ist unter der Apache License, Version 2.0 (die "Lizenz") lizenzi
 
 Sie können eine Kopie der Lizenz unter [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0) erhalten.
 
-Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf einer "Ist-Zustand" BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART, weder explizit noch impliziert, angeboten. Nähere Informationen, die genaue Formulierung, Berechtigungen und Einschränkungen findest du in der Lizens.
+Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf einer "Ist-Zustand" BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART, weder explizit noch impliziert, angeboten. Nähere Informationen, die genaue Formulierung, Berechtigungen und Einschränkungen findest du in der Lizenz.
 
 Die meisten Bibliotheken in den folgenden Verzeichnissen, welche auf [GitHub](https://github.com/organicmaps/organicmaps) zu finden sind, wurden von anderen Personen und Organisationen erstellt und auf unterschiedliche Weise lizenziert:
 
