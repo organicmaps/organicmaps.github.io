@@ -11,7 +11,7 @@ Organic Maps ist eine kostenlose, quelloffene Anwendung. Sie ist frei von Werbun
 
 Es gibt verschiedene Möglichkeiten, die Entwicklung zu unterstützen:
 
-- [Spenden](@/donate/index.md)! Jeder Euro zählt und hilft uns, die Server zu bezahlen und zu skalieren.
+- [Spenden](@/donate/index.de.md)! Jeder Euro zählt und hilft uns, die Server zu bezahlen und zu skalieren.
 - Melde Fehler und teile Ideen auf unserem [GitHub](https://github.com/organicmaps/organicmaps/issues) oder über [E-Mail](mailto:support@organicmaps.app).
 - Hilf uns, [Fehler zu beheben](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) und führe Code-Reviews durch, wenn du ein Entwickler bist. Jedes behobene, noch so kleine, Problem macht jemanden glücklicher.
 - [Übersetze](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md#translations) fehlende Wörter oder Sätze der Benutzeroberfläche von der App.

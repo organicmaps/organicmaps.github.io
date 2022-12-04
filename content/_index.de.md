@@ -77,7 +77,7 @@ Lehne die Überwachung ab - genieße die Freiheit.
 
 ## Wer zahlt für die kostenlose App?
 
-Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende](@/donate/index.md)!
+Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende](@/donate/index.de.md)!
 
 ### Es gibt verschiedene Möglichkeiten zu spenden:
 
@@ -89,7 +89,7 @@ Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende](@/don
 
 ### Trage zur App bei
 
-Es gibt viele Möglichkeiten beizutragen die [hier](@/support-us/index.md) aufgeführt sind.
+Es gibt viele Möglichkeiten beizutragen die [hier](@/support-us/index.de.md) aufgeführt sind.
 
 ## Beta
 

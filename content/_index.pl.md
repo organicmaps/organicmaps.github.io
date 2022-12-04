@@ -77,7 +77,7 @@ Odrzuć inwigilację - doceń swoją wolność.
 
 ## Kto płaci za darmową aplikację?
 
-Aplikacja jest darmowa dla wszystkich. Proszę [przekaż darowiznę](@/donate/index.md) by nas wspierać!
+Aplikacja jest darmowa dla wszystkich. Proszę [przekaż darowiznę](@/donate/index.pl.md) by nas wspierać!
 
 {{ donate_buttons(lang='pl') }}
 
@@ -88,7 +88,7 @@ dwa wirtualne serwery z 400 TB/miesiąc darmowego transferu by pomóc naszym uż
 
 ### Wspieraj nas
 
-Jest wiele sposobów by nas wspierać, są wymienione [tutaj](@/support-us/index.md).
+Jest wiele sposobów by nas wspierać, są wymienione [tutaj](@/support-us/index.pl.md).
 
 ## Beta
 

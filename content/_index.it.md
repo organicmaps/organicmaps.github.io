@@ -74,7 +74,7 @@ Rifiuta la sorveglianza - difendi la tua libertà.
 
 ## Chi paga per l'app gratuita?
 
-L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.md) per sostenerci!
+L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.it.md) per sostenerci!
 
 ### Ci sono diversi modi per donare:
 
@@ -86,7 +86,7 @@ L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.md) per
 
 ### Supportaci
 
-Ci sono molti modi per sostenerci, elencati [qui](@/support-us/index.md).
+Ci sono molti modi per sostenerci, elencati [qui](@/support-us/index.it.md).
 
 ## Beta
 
