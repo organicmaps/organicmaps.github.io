@@ -58,7 +58,7 @@ Wiederkehrende Spenden sind der beste Weg, um ein relativ stabiles Einkommen fü
 
 ### Krypto
 
-Bitte zieh es in erwägung, jährlich zu spenden, um die enstehenden Gebühren zu reduzieren. Algorand, Tron,
+Bitte zieh es in Erwägung, jährlich zu spenden, um die enstehenden Gebühren zu reduzieren. Algorand, Tron,
 Litecoin und Monero bieten niedrige Gebühren, aber die Situation ändert sich jeden Tag.
 
 {{ crypto_table(lang='de') }}
