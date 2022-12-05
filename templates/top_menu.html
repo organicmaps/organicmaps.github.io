@@ -4,27 +4,27 @@
   {% set langPathPrefix = '/' ~ lang %}
 {% endif %}
 <nav id="menu" role="navigation">
-  <a href="{{ langPathPrefix }}/"><span class="logo"></span></a>
-  <span class="menu_items">
-    <span class="menuitem{% if '/news/' not in resource.path %}">
+  <a href="{{ langPathPrefix }}/"><span class="top_menu_logo"></span></a>
+  <span class="top_menu_items">
+    <span class="top_menu_item{% if '/news/' not in resource.path %}">
       <a href="{{ langPathPrefix }}/news/">{% else %}_active">{% endif %}
         <span>{{ trans(key='news', lang=lang) }}</span>
         {%- if '/news/' not in resource.path %}</a>{% endif %}
     </span>
     •
-    <span class="menuitem{% if '/donate/' not in resource.path %}">
+    <span class="top_menu_item{% if '/donate/' not in resource.path %}">
       <a href="{{ langPathPrefix }}/donate/">{% else %}_active">{% endif %}
         <span style="color: red">{{ trans(key='donate', lang=lang) }}</span>
         {% if '/donate/' not in resource.path %}</a>{% endif %}
     </span>
     •
-    <span class="menuitem{% if '/support-us/' not in resource.path %}">
+    <span class="top_menu_item{% if '/support-us/' not in resource.path %}">
       <a href="{{ langPathPrefix }}/support-us/">{% else %}_active">{% endif %}
         <span>{{ trans(key='support-us', lang=lang) }}</span>
         {% if '/support-us/' not in resource.path %}</a>{% endif %}
     </span>
     •
-    <span class="menuitem">
+    <span class="top_menu_item">
       <a href="https://github.com/organicmaps/organicmaps" target="_blank" class="github">
         <span>GitHub</span>
       </a>
