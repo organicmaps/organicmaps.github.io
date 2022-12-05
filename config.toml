@@ -22,7 +22,7 @@ paths = "safe"
 [extra]
 stripe = "https://donate.organicmaps.app/"
 
-# Default English translations
+# Default English translation
 [translations]
 address = "Address"
 back = "Back to News"
@@ -39,21 +39,22 @@ news = "News"
 support-us = "Support Us"
 token = "Token"
 
-[languages.tr]
-[languages.tr.translations]
-address = "Adres"
-back = "Haberlere geri dön"
-contact = "Bize ulaşın"
-donate = "Bağış Yapın"
-home = "Ana Sayfa"
-install-appgallery = "Organic Maps'i Huawei AppGallery'den İndir"
-install-appstore = "Organic Maps'i AppStore'dan İndir"
-install-fdroid="Organic Maps'i F-Droid'den İndir"
-install-googleplay = "Organic Maps'i Google Play'den İndir"
-language = "Türkçe"
-name = "İsim"
-news = "Haberler"
-support-us = "Bizi destekleyin"
+# Please sort all other translation sections and values in alphabetical order.
+[languages.de]
+[languages.de.translations]
+address = "Adresse"
+back = "Zurück zu Neuigkeiten"
+contact = "Kontakt"
+donate = "Spenden"
+home = "Startseite"
+install-appgallery = "Organic Maps aus der Huawei AppGallery installieren"
+install-appstore = "Installiere Organic Maps aus dem AppStore"
+install-googleplay = "Organic Maps von Google Play installieren"
+install-fdroid="Organic Maps von F-Droid installieren"
+language = "Deutsch"
+name = "Name"
+news = "Neuigkeiten"
+support-us = "Beitragen"
 token = "Token"
 
 [languages.it]
@@ -73,23 +74,6 @@ news = "Notizie"
 support-us = "Contribuisci"
 token = "Token"
 
-[languages.ru]
-[languages.ru.translations]
-address = "Адрес"
-back = "Назад"
-contact = "Связаться с нами"
-donate = "Поддержать деньгами"
-home = "Главная"
-install-appgallery = "Установить Organic Maps из Huawei AppGallery"
-install-appstore = "Установить Organic Maps из Apple AppStore"
-install-fdroid="Установить Organic Maps из F-Droid"
-install-googleplay = "Установить Organic Maps из Google Play"
-name = "Название"
-news = "Новости"
-language = "Русский"
-support-us = "Помочь проекту"
-token = "Токен"
-
 [languages.pl]
 [languages.pl.translations]
 address = "Adres"
@@ -107,19 +91,36 @@ language = "Polski"
 support-us = "Przyczyń się"
 token = "Token"
 
-[languages.de]
-[languages.de.translations]
-address = "Adresse"
-back = "Zurück zu Neuigkeiten"
-contact = "Kontakt"
-donate = "Spenden"
-home = "Startseite"
-install-appgallery = "Organic Maps aus der Huawei AppGallery installieren"
-install-appstore = "Installiere Organic Maps aus dem AppStore"
-install-googleplay = "Organic Maps von Google Play installieren"
-install-fdroid="Organic Maps von F-Droid installieren"
-language = "Deutsch"
-name = "Name"
-news = "Neuigkeiten"
-support-us = "Beitragen"
+[languages.ru]
+[languages.ru.translations]
+address = "Адрес"
+back = "Назад"
+contact = "Связаться с нами"
+donate = "Поддержать деньгами"
+home = "Главная"
+install-appgallery = "Установить Organic Maps из Huawei AppGallery"
+install-appstore = "Установить Organic Maps из Apple AppStore"
+install-fdroid="Установить Organic Maps из F-Droid"
+install-googleplay = "Установить Organic Maps из Google Play"
+name = "Название"
+news = "Новости"
+language = "Русский"
+support-us = "Помочь проекту"
+token = "Токен"
+
+[languages.tr]
+[languages.tr.translations]
+address = "Adres"
+back = "Haberlere geri dön"
+contact = "Bize ulaşın"
+donate = "Bağış Yapın"
+home = "Ana Sayfa"
+install-appgallery = "Organic Maps'i Huawei AppGallery'den İndir"
+install-appstore = "Organic Maps'i AppStore'dan İndir"
+install-fdroid="Organic Maps'i F-Droid'den İndir"
+install-googleplay = "Organic Maps'i Google Play'den İndir"
+language = "Türkçe"
+name = "İsim"
+news = "Haberler"
+support-us = "Bizi destekleyin"
 token = "Token"
