@@ -49,6 +49,24 @@ language = "Deutsch"
 name = "Name"
 token = "Token"
 
+[languages.fr]
+[languages.fr.translations]
+address = "Adresse"
+back = "Retour aux actualités"
+contact = "Contact"
+donate = "Donner"
+home = "Page d'accueil"
+install-appgallery = "Installez Organic Maps depuis l'AppGallery"
+install-appstore = "Installez Organic Maps depuis l'AppStore"
+install-googleplay = "Installez Organic Maps depuis Google Play"
+install-fdroid="Installez Organic Maps depuis F-Droid"
+language = "Français"
+name = "Nom"
+news = "Actualités"
+support-us = "Contribuer"
+token = "Jeton"
+terms = "Termes"
+
 [languages.it]
 [languages.it.translations]
 address = "Indirizzo"
