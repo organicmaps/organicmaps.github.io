@@ -11,6 +11,8 @@ extra:
 
 **Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.
 
+### Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+
 {{ badges(lang='en') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
@@ -107,50 +109,4 @@ Organic Maps is an [open-source software][github] licensed under the Apache Lice
 - Visit our [GitHub page][github].
 - Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
 
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
-
-[mapswithme]: https://en.wikipedia.org/wiki/Maps.me
-
-[openstreetmap]: https://www.openstreetmap.org/about
-
-[exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
-
-[gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
-
-[twitter]: https://twitter.com/OrganicMapsApp
-
-[instagram]: https://instagram.com/organicmaps.app/
-
-[facebook]: https://facebook.com/OrganicMaps
-
-[mastodon]: https://fosstodon.org/@organicmaps
-
-[github]: https://github.com/organicmaps/organicmaps
-
-[telegram]: https://t.me/OrganicMapsApp
-
-[telegram_chat]: https://t.me/OrganicMaps
-
-[matrix]: https://matrix.to/#/#organicmaps:matrix.org
-
-[ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
-
-[issues]: https://github.com/organicmaps/organicmaps/issues
-
-[email]: mailto:hello@organicmaps.app
-
-[donate]: @/donate/index.md
-
-[contribute]: @/support-us/index.md
-
-[testflight]: https://testflight.apple.com/join/lrKCl08I
-
-[firebase]: https://appdistribution.firebase.dev/i/9ec3bca5e2b47373
-
-[flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
-
-[repology]: https://repology.org/project/organicmaps/versions
-
-[mythic_beasts]: https://www.mythic-beasts.com/
-
-[mythic_beasts_donation]: https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/
+{{ references(lang='en') }}
