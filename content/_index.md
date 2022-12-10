@@ -16,8 +16,11 @@ extra:
 {{ badges(lang='en') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
+
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
+
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
+
 {{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 
 ## Features
@@ -85,23 +88,15 @@ The app is free for everyone. Please [donate][donate] to support us!
 
 [Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates.
 
-### Support us
-
-There are many ways to support us, listed [here][contribute].
-
-## Beta
-
-Please join our beta program, suggest your features, and report bugs:
-
-- [iOS Beta (TestFlight)][testflight]
-- [Android Beta (Firebase)][firebase]
-- [Linux Desktop Beta (Flatpak)][flatpak]
-- [Linux Desktop Beta (packages)][repology]
-
 ## Community
 
 Organic Maps is an [open-source software][github] licensed under the Apache License 2.0.
 
+- Please join our beta program, suggest your features, and report bugs:
+  * [iOS Beta (TestFlight)][testflight]
+  * [Android Beta (Firebase)][firebase]
+  * [Linux Desktop Beta (Flatpak)][flatpak]
+  * [Linux Desktop Beta (packages)][repology]
 - Report bugs or issues to [the issue tracker][issues] or [email us][email].
 - [Discuss][ideas] ideas or propose feature requests.
 - Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates.
@@ -110,5 +105,7 @@ Organic Maps is an [open-source software][github] licensed under the Apache Lice
 - Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
+
+[telegram_chat]: https://t.me/OrganicMaps
 
 {{ references(lang='en') }}

@@ -46,8 +46,6 @@ Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
 
 ## How to donate?
 
-There are many ways to donate to the project:
-
 {{ donate_buttons(lang='en') }}
 
 Recurring donations are the best way to ensure a relatively stable income for
@@ -60,8 +58,7 @@ donate one time.
 
 ### Crypto
 
-Please consider donating annually to reduce total fees. Algorand, Tron,
-Litecoin and Monero networks offer low fees, but situation changes every day.
+Please consider donating annually to reduce total fees.
 
 {{ crypto_table(lang='en') }}
 

@@ -26,41 +26,6 @@ There are different ways to support the development:
 
 Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
-
-[donate]: @/donate/index.md
-
-[github]: https://github.com/organicmaps/organicmaps/issues
-
-[email]: mailto:support@organicmaps.app
-
-[bugs]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
-
-[translations]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md#translations
-
-[translations_appstore]: https://github.com/organicmaps/organicmaps/tree/master/iphone/metadata/en-US
-
-[translations_googleplay]: https://github.com/organicmaps/organicmaps/tree/master/android/src/google/play/listings/en-US
-
-[translations_website]: https://github.com/organicmaps/organicmaps.github.io
-
-[openstreetmap]: https://www.openstreetmap.org/about
-
-[public_transport_validator]: https://cdn.organicmaps.app/subway/
-
-[issues]: https://github.com/organicmaps/organicmaps/issues
-
 [telegram_chat]: https://t.me/OrganicMaps
 
-[matrix]: https://matrix.to/#/#organicmaps:matrix.org
-
-[twitter]: https://twitter.com/OrganicMapsApp
-
-[facebook]: https://facebook.com/OrganicMaps
-
-[instagram]: https://instagram.com/OrganicMaps.app
-
-[googleplay]: market://details?id=app.organicmaps
-
-[appstore]: https://itunes.apple.com/app/id1567437057?action=write-review
-
-[appgallery]: appmarket://details?id=app.organicmaps
+{{ references(lang='en') }}
