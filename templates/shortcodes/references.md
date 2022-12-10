@@ -8,7 +8,6 @@
 [fdroid]: https://f-droid.org/{{ lang }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
 [firebase]: https://appdistribution.firebase.dev/i/9ec3bca5e2b47373
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
 [gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
