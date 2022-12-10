@@ -15,7 +15,7 @@ There are different ways to support the development:
 - Report bugs and share ideas on our [GitHub][github] or via [email][email].
 - Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Translate][translations] missing strings in the app's interface.
-- Translate [App Store][translations_appstore] and [Android][translations_googleplay descriptions into your language.
+- Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language.
 - [Translate][translations_website] our web site into your language.
 - Join the [OpenStreetMap][openstreemap] community and contribute to the maps data.
 - Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app.
