@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"PO-Revision-Date: 2022-12-10 07:33+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-10 07:41+0000\n"
+"Last-Translator: Roman Tsisyk <roman@tsisyk.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/"
 "website/es/>\n"
 "Language: es\n"
@@ -68,9 +68,8 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='en') }}"
+msgstr "{{ badges(lang='es') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -99,11 +98,10 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
 msgstr ""
 "Mapas detallados sin conexión con lugares que no existen en otros mapas, "
-"gracias a [OpenStreetMap][openstreetmap]."
+"gracias a [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -260,9 +258,8 @@ msgstr "La aplicación está verificada por [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='en') }}"
+msgstr "{{ exodus_screenshot(lang='es') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -272,9 +269,8 @@ msgstr "Organic Maps no solicita excesivos permisos para espiarte:"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='en') }}"
+msgstr "{{ privacy_screenshots(lang='es') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -345,9 +341,9 @@ msgstr "{{ donate_buttons(lang='es') }}"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Our sponsors:"
-msgstr "Nuestros patrocinadores"
+msgstr "Nuestros patrocinadores:"
 
 #. type: Plain text
 #: content/_index.md
@@ -391,13 +387,11 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "[Android Beta (Firebase)][firebase]"
 msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
@@ -473,9 +467,8 @@ msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(desarrollo_de_software)\n"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='en') }}"
+msgstr "{{ references(lang='es') }}"
 
 #. type: YAML Front Matter: description
 #: content/donate/index.md
