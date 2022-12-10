@@ -9,7 +9,7 @@ extra:
 
 **Organic Maps** to darmowa aplikacja z mapami offline na Androida i iOS oparta na współtworzonych danych 
 **[OpenStreetMap](https://www.openstreetmap.org)**.
-Jest aplikacją z [otwartym kodem źródłowym](https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie), z naciskiem na prywatność, na podstawie aplikacji **Maps.me** (wcześniej [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), tworzona przez te same osoby, które stworzyły **MapsWithMe** w 2011.
+Jest aplikacją z [otwartym kodem źródłowym][fork], z naciskiem na prywatność, na podstawie aplikacji **Maps.me** (wcześniej [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), tworzona przez te same osoby, które stworzyły **MapsWithMe** w 2011.
 
 **Organic Maps** to jedna z niewielu aplikacji w dzisiejszych czasach która obsługuje 100% funkcji bez aktywnego połączenia z internetem. Zainstaluj Organic Maps, pobierz mapy, wyrzuć kartę SIM (tak przy okazji, Twój operator stale Cię śledzi) i wybierz się na tygodniową wycieczkę na jednym naładowaniu baterii bez żadnego bajtu wysłanego do sieci.
 
@@ -106,7 +106,7 @@ udostępnionym na Licencji Apache 2.0.
 
 - Zgłaszaj bugi lub błędy na [GitHubie](https://github.com/organicmaps/organicmaps/issues) lub [wyślij nam emaila](mailto:hello@organicmaps.app).
 - [Dyskutuj o](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) pomysłach lub zaproponuj nowe funkcje.
-- Subskrybuj nasz [kanał Telegram](https://t.me/OrganicMapsApp) lub [przestrzeń [matrix]](https://matrix.to/#/#organicmaps:matrix.org) dla uaktualnień.
+- Subskrybuj nasz [kanał Telegram](https://t.me/OrganicMapsApp) lub [przestrzeń matrix](https://matrix.to/#/#organicmaps:matrix.org) dla uaktualnień.
 - Dołącz do naszej [grupy Telegram](https://t.me/OrganicMaps) aby dyskutować z innymi użytkownikami.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи.
 - Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
@@ -114,4 +114,6 @@ udostępnionym na Licencji Apache 2.0.
 - Śledź nasze aktualizacje na [Mastodonie](https://fosstodon.org/@organicmaps), [Facebooku](https://facebook.com/OrganicMaps), [Twitterze](https://twitter.com/OrganicMapsApp), bądź
 [Instagramie](https://instagram.com/organicmaps.app/).
 
+[fork]: https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie
 
+{{ references(lang='pl') }}

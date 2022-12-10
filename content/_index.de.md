@@ -8,7 +8,7 @@ extra:
 ---
 
 **Organic Maps** ist eine kostenlose Offline-Karten-App auf Android und iOS für Reisende, Touristen, Wanderer und Radfahrer auf der Grundlage von gemeinschaftlichen **[OpenStreetMap](https://www.openstreetmap.org)** Daten.
-Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung](https://en.wikipedia.org/wiki/Fork_(software_development)) der **Maps.me**-App (früher bekannt als [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), die von denselben Personen gepflegt wird, die **MapsWithMe** im Jahr 2011 entwickelt haben.
+Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung][fork] der **Maps.me**-App (früher bekannt als [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), die von denselben Personen gepflegt wird, die **MapsWithMe** im Jahr 2011 entwickelt haben.
 
 **Organic Maps** ist heutzutage eine der wenigen Anwendungen, die 100% der Funktionen ohne aktive Internetverbindung unterstützt. Installiere Organic Maps, lade Karten herunter, wirf deine SIM-Karte weg (dein Betreiber verfolgt dich übrigens ständig) und mache einen Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.
 
@@ -106,7 +106,11 @@ Organic Maps ist eine [Open Source Software](https://github.com/organicmaps/orga
 
 - Melde Bugs oder Probleme an den [Issue Tracker](https://github.com/organicmaps/organicmaps/issues) oder sende uns eine [E-Mail](mailto:hello@organicmaps.app).
 - [Diskutiere](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) Ideen oder äußere Funktionswünsche.
-- Abonniere unseren [Telegram Channel](https://t.me/OrganicMapsApp) oder den [[Matrix] Raum](https://matrix.to/#/#organicmaps:matrix.org) für Neuigkeiten.
+- Abonniere unseren [Telegram Channel](https://t.me/OrganicMapsApp) oder den [Matrix Raum](https://matrix.to/#/#organicmaps:matrix.org) für Neuigkeiten.
 - Trete unserer [Telegram Gruppe](https://t.me/OrganicMaps) bei, um mit anderen Benutzern zu diskutieren.
 - Besuche unsere [GitHub Seite](https://github.com/organicmaps/organicmaps).
 - Verfolge unsere Updates auf <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).
+
+[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
+
+{{ references(lang='tr') }}

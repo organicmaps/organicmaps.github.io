@@ -63,3 +63,5 @@ Organic Maps развивается сообществом энтузиасто�
 - Поучаствуйте в [разработке](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) приложения под Android и iOS;
 - Подпишитесь на нас в [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) и [Instagram](https://instagram.com/organicmaps.app/).
 - Расскажите своим друзьям и знакомым.
+
+{{ references(lang='ru') }}
