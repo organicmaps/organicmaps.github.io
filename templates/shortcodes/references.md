@@ -24,6 +24,9 @@
 [telegram]: https://t.me/OrganicMapsApp
 [testflight]: https://testflight.apple.com/join/lrKCl08I
 [twitter]: https://twitter.com/OrganicMapsApp
+[contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
+[translations]: https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md
 [translations_appstore]: https://github.com/organicmaps/organicmaps/tree/master/iphone/metadata
 [translations_googleplay]: https://github.com/organicmaps/organicmaps/tree/master/android/src/google/play/listings
 [translations_website]: https://github.com/organicmaps/organicmaps.github.io
+[public_transport_validator]: https://cdn.organicmaps.app/subway/

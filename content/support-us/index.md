@@ -17,7 +17,7 @@ There are different ways to support the development:
 - [Translate][translations] missing strings in the app's interface.
 - Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language.
 - [Translate][translations_website] our web site into your language.
-- Join the [OpenStreetMap][openstreemap] community and contribute to the maps data.
+- Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data.
 - Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app.
 - Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram].
 - Tell everyone about Organic Maps. A bigger community is a stronger community.
