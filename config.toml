@@ -100,3 +100,16 @@ install-googleplay = "Organic Maps'i Google Play'den İndir"
 language = "Türkçe"
 name = "İsim"
 token = "Token"
+
+[languages.id]
+[languages.id.translations]
+address = "Alamat"
+back = "Kembali ke Berita"
+contact = "Hubungi Kami"
+install-appgallery = "Instal Organic Maps dari Huawei AppGallery"
+install-appstore = "Instal Organic Maps dari AppStore"
+install-googleplay = "Instal Organic Maps dari Google Play"
+install-fdroid="Instal Peta Organik dari F-Droid"
+language = "Bahasa Indonesia"
+name = "Nama"
+token = "Token"
