@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-11 00:04+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-13 13:53+0000\n"
+"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/organicmaps/"
 "website/fr/>\n"
 "Language: fr\n"
@@ -579,13 +579,13 @@ msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgstr ""
 "L'assistance aux utilisateurs, la correction des bogues et l'amélioration de "
 "la stabilité de l'application sont en tête de nos priorités.  Il y a [1200+ "
 "problèmes sur GitHub] [github issues], et ce nombre augmente chaque jour.  "
-"L'AppStore, Google Play et les e-mails d'assistance sont inondés de "
+"L'AppStore, Google Play et les courriels d'assistance sont inondés de "
 "commentaires et de bogues. Nous voulons livrer un produit de haute qualité."
 
 #. type: Bullet: '3. '
