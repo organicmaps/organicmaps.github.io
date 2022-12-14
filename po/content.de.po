@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-11 12:59+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-14 06:58+0000\n"
+"Last-Translator: nautilusx <translate@disroot.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/organicmaps/"
 "website/de/>\n"
 "Language: de\n"
@@ -20,81 +20,79 @@ msgstr ""
 
 #. type: YAML Front Matter: description
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr ""
 "Schnelle, detaillierte Offline-Karten für Reisende, Touristen, Autofahrer, "
-"Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe (Maps.Me) "
-"App."
+"Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe-App (Maps."
+"Me)."
 
 #. type: YAML Front Matter: title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
-"Organische Karten: Offline-Wandern, Radfahren, Wanderwege und Navigation"
+msgstr "Organic Maps: Offline-Wandern, Radfahren, Wanderwege und Navigation"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr ""
-"**Organic Maps** ist eine kostenlose Offline-Karten-App für Android und iOS "
-"für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von "
-"**[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine "
-"datenschutzfreundliche, quelloffene [Abspaltung][Abspaltung] der **Maps.me** "
-"App (früher bekannt als [**MapsWithMe**][mapswithme], die von denselben "
-"Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.\n"
+"**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für "
+"Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den "
+"Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um "
+"eine datenschutzfreundliche, quelloffene [fork][fork] der **Maps.me** App ("
+"früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten "
+"gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
 msgstr ""
-"**Organic Maps** ist heutzutage eine der wenigen Anwendungen, die 100% der "
-"Funktionen ohne aktive Internetverbindung unterstützt. Installieren Sie "
-"Organic Maps, laden Sie Karten herunter, werfen Sie Ihre SIM-Karte weg ("
-"übrigens, Ihr Betreiber verfolgt Sie ständig) und machen Sie einen "
-"Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz "
-"gesendet wird.\n"
+"**Organic Maps** ist heutzutage eine der wenigen Apps, die 100% der "
+"Funktionen ohne aktive Internetverbindung unterstützt. Installiere Organic "
+"Maps, lade Karten herunter, wirf deine SIM-Karte weg (dein Betreiber "
+"verfolgt dich übrigens ständig) und mache einen Wochenausflug mit einer "
+"einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.\n"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 msgstr ""
 "Organic Maps von [AppStore][appstore], [Google Play][googleplay], "
-"[FDroid][fdroid], [Huawei AppGallery][appgallery] herunterladen und "
+"[F-Droid][fdroid], [Huawei AppGallery][appgallery] herunterladen und "
 "installieren {#install}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ badges(lang='en') }}"
 msgstr "{{ badges(lang='en') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
 msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wandern') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
 msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
 msgstr ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Suche') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
 msgstr ""
 "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation im dunklen "
@@ -102,9 +100,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Features"
-msgstr "Features"
+msgstr "Funktionen"
 
 #. type: Plain text
 #: content/_index.md
@@ -211,21 +209,21 @@ msgstr "Die App Organic Maps ist frei von Trackern und anderem Unfug:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No ads"
-msgstr "Ohne Werbung"
+msgstr "Keine Werbung"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No tracking"
 msgstr "Kein Tracking"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No data collection"
-msgstr "Keine Datenerhebung"
+msgstr "Keine Datenerfassung"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -343,29 +341,29 @@ msgstr "Wer zahlt für die kostenlose App?"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "The app is free for everyone. Please [donate][donate] to support us!"
 msgstr ""
-"Die App ist für alle kostenlos. Bitte [spenden][spenden] Sie, um uns zu "
-"unterstützen!"
+"Die App ist für alle kostenlos. Bitte unterstütze uns mit einer "
+"[Spende][donate]!"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "There are different ways to donate:"
 msgstr "Es gibt verschiedene Möglichkeiten zu spenden:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ donate_buttons(lang='en') }}"
 msgstr "{{ donate_buttons(lang='en') }}"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "Unsere Sponsoren"
+msgstr "Unsere Sponsoren:"
 
 #. type: Plain text
 #: content/_index.md
@@ -379,13 +377,13 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Community"
 msgstr "Gemeinschaft"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
 msgstr ""
 "Organic Maps ist eine [Open-Source-Software][github], die unter der Apache "
@@ -401,25 +399,25 @@ msgstr ""
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
 msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "[Android Beta (Firebase)][firebase]"
 msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "[Linux Desktop Beta (packages)][repology]"
 msgstr "[Linux Desktop Beta (Pakete)][repology]"
 
