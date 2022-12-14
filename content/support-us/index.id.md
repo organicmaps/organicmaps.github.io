@@ -1,7 +1,7 @@
 ---
 description: 'Berbagai cara untuk mendukung pengembangan aplikasi gratis kami'
 extra:
-  menu_title: 'Support Us'
+  menu_title: 'Dukung Kami'
   preview_image: support-us/support-us.jpg
 title: 'Dukung pengembangan Organic Maps'
 weight: 20

@@ -1,7 +1,7 @@
 ---
 description: 'Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memotivasi kami untuk meningkatkan Organic Maps.'
 extra:
-  menu_title: Donate
+  menu_title: Donasi
   preview_image: donate/donate.png
 title: 'Berdonasi untuk mendukung pengembangan Organic Maps'
 weight: 10
