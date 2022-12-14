@@ -7,8 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-11 12:59+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-13 13:53+0000\n"
+"Last-Translator: d4f5409d <d4f5409d-4b6a-4640-9ff3-155ebcdc7ab7@anonaddy.me>"
+"\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/"
 "website/hu/>\n"
 "Language: hu\n"
@@ -20,7 +21,7 @@ msgstr ""
 
 #. type: YAML Front Matter: description
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr ""
 "A MapsWithMe (Maps.Me) alkalmazás alapítói által készített gyors, részletes "
