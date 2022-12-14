@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-11 12:59+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-13 13:53+0000\n"
+"Last-Translator: FinixFighter <luca.finizio.mgbx@hotmail.it>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/organicmaps/"
 "website/it/>\n"
 "Language: it\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. type: YAML Front Matter: description
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr ""
 "Mappe offline veloci e dettagliate per viaggiatori, turisti, automobilisti, "
@@ -28,14 +28,13 @@ msgstr ""
 
 #. type: YAML Front Matter: title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
-"Mappe organiche: Escursioni in bicicletta, sentieri e navigazione offline"
+msgstr "Organic Maps: Escursioni in bicicletta, sentieri e navigazione offline"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr ""
 "**Organic Maps** è un'applicazione gratuita per Android e iOS di mappe "
@@ -47,7 +46,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
 msgstr ""
 "**Organic Maps** è una delle poche applicazioni che supporta il 100% delle "
@@ -58,10 +57,10 @@ msgstr ""
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 msgstr ""
-"Scaricare e installare Organic Maps da [AppStore][appstore], [Google "
+"Scarica e installa Organic Maps da [AppStore][appstore], [Google "
 "Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] "
 "{#install}"
 
@@ -360,9 +359,9 @@ msgstr "{{ donate_buttons(lang='en') }}"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "I nostri sponsor"
+msgstr "I nostri sponsor:"
 
 #. type: Plain text
 #: content/_index.md
