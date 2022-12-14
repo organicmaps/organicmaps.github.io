@@ -5,7 +5,16 @@
 #
 #, fuzzy
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPOT-Creation-Date: 2022-12-10 15:37+0200\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: en_US\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"POT-Creation-Date: 2022-12-14 09:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -622,7 +631,9 @@ msgstr ""
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text, no-wrap
-msgid "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
+msgid ""
+"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 msgstr ""
 
 #. type: YAML Front Matter: description
@@ -742,7 +753,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
-msgid "Join the [OpenStreetMap][openstreemap] community and contribute to the maps data."
+msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
 msgstr ""
 
 #. type: Bullet: '- '

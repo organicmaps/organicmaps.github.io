@@ -1,8 +1,23 @@
-# Translations
+# Markdown Translations
 
-Translations of web-site content are managed by [Weblate][weblate] with additional scripts available from this repo. 
+This section applies only to the following languages:
 
-**(!) Please don't edit localized Markdown files (`.lang.md`) manually. Use [Weblate][weblate] instead.**
+- German
+- French
+- Italian
+- Polish
+- Turkish
+- Russian
+
+These languages are not part of Weblate pilot evaluation (see below). Please edit Markdowns directly in the repository and synchronize the structure with the English source. Or just [send us](mailto:hello@organicmaps.app) the text, and we'll add translations.
+
+# Weblate Translations (EXPERIMENTAL)
+
+Applies to all languages except listed above in the previous section.
+
+The new experimental Weblate integration is being tested for new languages. Translation of the content for new languages can be peformed via [Weblate][weblate] by using instructions below. Please provide your feedback in https://github.com/organicmaps/organicmaps/discussions/4076 discussion thread.
+
+**(!) Please don't edit localized Markdown files (`.lang.md`) manually for languages that have `po/{lang}.po` files already. Use [Weblate][weblate] instead.**
 
 ## How it works
 
@@ -53,13 +68,21 @@ brew install po4a
 
 ### I am a repository maintainer
 
-- Checkout `weblate-i18n branch when it is updated by Weblate.
+- Checkout `weblate-i18n` branch when it is updated by Weblate.
 - Run `./i18n.sh` tool to regenerate `.lang.md` files from updated `.po` files.
 - Update `.config.toml` if a new language is added.
+- Translate `menu.title` YAML Front Matters key manually, this is a [well-known limitation](https://github.com/mquinson/po4a/issues/392).
 - Run `zola server` to check changes locally.
 - Create or update PR with incorporated `.lang.md` changes.
 - Get your PR merged into `master`.
 - Never force-push to `master` branch - it will lock Weblate.
 
+## Known Limitations
+
+- Menu item names in `menu.title` YAML Front Matters are not updated properly, see [a relevant ticket for po4a](https://github.com/mquinson/po4a/issues/392).
+- `./i18n.sh` removes line wrapping in `.po` files when a new language is added initially via WebLate. 
+- New web-site pages should be added to `.po4a.cfg` configuration file manually.
+
 [po4a]: https://po4a.org/index.php.en
 [weblate]: https://hosted.weblate.org/projects/organicmaps/website/
+
