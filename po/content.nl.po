@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-13 13:53+0000\n"
+"PO-Revision-Date: 2022-12-14 06:58+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Belarusian <https://hosted.weblate.org/projects/organicmaps/"
-"website/be/>\n"
-"Language: be\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/organicmaps/"
+"website/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.15-dev\n"
 
 #. type: YAML Front Matter: description
@@ -24,26 +23,18 @@ msgstr ""
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr ""
-"Хуткія, падрабязныя афлайн мапы для падарожнікаў, турыстаў, кіроўцаў і "
-"веласіпедыстаў, створаныя заснавальнікамі праграмы MapsWithMe (пазней "
-"перайменаванай у Maps.Me)."
 
 #. type: YAML Front Matter: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "Organic Maps: афлайн мапы"
+msgstr ""
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr ""
-"**Organic Maps** - гэта бясплатныя афлайн мапы для падарожнікаў, турыстаў і "
-"веласіпедыстаў, заснаваныя на дадзеных **[OpenStreetMap][openstreetmap]**. "
-"Гэта дадатак для iOS і Android з адкрытым зыходным кодам, [форк][fork] "
-"прыкладання **Maps.Me** (раней вядомага як [**MapsWithMe**][mapswithme], які "
-"падтрымліваецца стваральнікамі **MapsWithMe**.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -91,7 +82,7 @@ msgstr ""
 #: content/_index.md
 #, fuzzy, markdown-text, no-wrap
 msgid "Features"
-msgstr "Магчымасці"
+msgstr "Mogelijkheden"
 
 #. type: Plain text
 #: content/_index.md
@@ -149,9 +140,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Free and open-source"
-msgstr ""
+msgstr "Gratis en open source"
 
 #. type: Title ##
 #: content/_index.md
@@ -191,9 +182,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "Geen advertenties"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -233,9 +224,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "meldingen"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -337,7 +328,7 @@ msgstr ""
 #: content/_index.md
 #, fuzzy, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "Нашы спонсары"
+msgstr "Onze sponsors"
 
 #. type: Plain text
 #: content/_index.md
@@ -349,7 +340,7 @@ msgstr ""
 #: content/_index.md
 #, fuzzy, markdown-text, no-wrap
 msgid "Community"
-msgstr "Супольнасць"
+msgstr "Community"
 
 #. type: Plain text
 #: content/_index.md
@@ -475,7 +466,7 @@ msgstr ""
 #: content/donate/index.md
 #, fuzzy, markdown-text
 msgid "Open source"
-msgstr "адкрыты код"
+msgstr "Open source"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -601,7 +592,7 @@ msgstr ""
 #: content/donate/index.md
 #, fuzzy, markdown-text, no-wrap
 msgid "Bank Transfer"
-msgstr "Банкаўскі перавод"
+msgstr "Bankoverschrijving"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -847,7 +838,7 @@ msgstr ""
 #: content/terms/index.md
 #, fuzzy, markdown-text
 msgid "tools"
-msgstr "Інструменты"
+msgstr "Gereedschap"
 
 #. type: Plain text
 #: content/terms/index.md
