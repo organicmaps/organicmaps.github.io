@@ -1,124 +1,67 @@
 ---
-description: 'Бесплатные офлайн карты для путешественников, туристов, велосипедистов и водителей на основе данных OpenStreetMap от создателей приложения MapsWithMe, позже переименованного в Maps.me.'
-extra:
-  menu_title: Home
+title: "Organic Maps: бесплатные офлайн карты и навигация"
+description: Бесплатные офлайн карты для путешественников, туристов, велосипедистов и водителей на основе данных OpenStreetMap от создателей приложения MapsWithMe, позже переименованного в Maps.me
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: бесплатные офлайн карты и навигация'
+extra:
+  menu_title: Главная
 ---
 
-**Organic Maps** – это бесплатные iOS и Android офлайн карты с навигацией для путешественников, туристов, велосипедистов и водителей на основе данных **[OpenStreetMap][openstreetmap]** с открытым исходным кодом, с фокусом на приватность и безопасность пользователей. Это [форк][fork] приложения **Maps.me** (ранее известное как [**MapsWithMe**][mapswithme]) от тех же людей, которые создали **MapsWithMe** в 2011.
+**Organic Maps** — это бесплатные iOS и Android офлайн карты с навигацией для путешественников, туристов, велосипедистов и водителей на основе данных **[OpenStreetMap](https://www.openstreetmap.org)** (**OSM**),
+с открытым исходным кодом, с фокусом на приватность и безопасность пользователей, от создателей приложения **MapsWithMe**, позже переименованного в **Maps.me**.
 
-**Organic Maps** поддерживает 100% функций без активного Интернет-подключения. Загрузите нужные карты, выбросьте SIM-карту (кстати, ваш оператор постоянно отслеживает вас) и отправляйтесь в недельное путешествие на одном заряде батареи.
-
-### Скачайте и установите Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+*Organic Maps* поддерживает 100% функций без активного Интернет-подключения. Загрузите нужные карты, выбросьте SIM-карту (кстати, ваш оператор постоянно отслеживает вас) и отправляйтесь в недельное путешествие на одном заряде батареи.
 
 {{ badges(lang='ru') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}
-
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Прага') }}
-
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Офлайн поиск') }}
-
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Навигация в ночном
-режиме') }}
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Навигация в ночном режиме') }}
 
 ## Возможности
 
-Organic Maps - идеальный спутник путешественников, туристов, пеших и
-велосипедистов:
-
-- Детальные и быстрые карты всего мира с местами, которых нет в других
-  картах, спасибо [OpenStreetMap][openstreetmap]
+- Детальные и *быстрые* карты всего мира с местами, которых нет в других картах
 - Велосипедные маршруты, пешеходные тропы и пешеходные дорожки
-- Контурные линии, профили высот, пики и склоны
 - Авто, вело и пеший навигатор с голосовыми подсказками
+- Карты метро для крупных городов
 - Быстрый поиск интересных мест на карте
-- Экспорт и импорт закладок в форматах KML/KMZ (GPX is [planned][gpx_issue])
-- Темный режим для защиты ваших глаз
-- Карты занимают мало места
-- С открытым исходным кодом
+- Экспорт и импорт закладок в форматах KML/KMZ (GPX [планируется](https://github.com/organicmaps/organicmaps/issues/624))
 
 ## Почему Organic?
 
-Organic Maps — это офлайн-карты здорового человека, сделанные с любовью и
-уважением к своим пользователям:
+Organic Maps — это офлайн-карты здорового человека, сделанные с любовью и уважением к своим пользователям:
 
-- Не шпионит за вами
-- Не жрут батарею
-- Не тратит деньги в роуминге
+- Работают без Интернета;
+- Карты занимают мало места;
+- Не жрут батарею;
+- Не тормозят;
+- [Не шпионят за пользователями](https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/);
+- Не содержат рекламы;
+- Без регистрации и SMS;
+- С открытым исходным кодом.
 
-Organic Maps не содержит мусора:
+## Помощь проекту
 
-- Не содержат рекламы
-- Без трекинга пользователей
-- Без воровства данных
-- Без товарища майора
-- Без регистрации и SMS
-- Без дурацких туториалов
-- Без спама
-- Без надоедливых нотификаций
-- Без мусора
-- Без ГМО!
-
-Приложение проверено [Exodus Privacy Project][exodus]:
-
-{{ exodus_screenshot(lang='ru') }}
-
-Organic Maps не запрашивает чрезмерных разрешений, чтобы шпионить за вами:
-
-{{ privacy_screenshots(lang='ru') }}
-
-Мы считаем, что неприкосновенность частной жизни является одним из основных
-прав человека:
-
-- Organic Maps — это независимый проект с открытым исходным кодом,
-  управляемый сообществом
-- Мы защищаем вашу конфиденциальность от любопытных глаз мегакорпораций
-- Оставайтесь в безопасности, где бы вы ни находились
-
-Скажем нет рекламе и шпионажу.
-
-**[Попробуйте Organic Maps!](#install)**
-
-## Кто оплачивает банкет?
-
-Приложение бесплатно для всех. Пожалуйста, [помогите нам][donate]!
-
-### Можно помочь нам следующими способами:
+Organic Maps развивается сообществом энтузиастов благодаря вашей поддержке.
 
 {{ donate_buttons(lang='ru') }}
 
-### Наши спонсоры:
-
-[Mythic Beasts](https://www.mythic-beasts.com/) [предоставляет
-нам][mythic_beasts_donation] два виртуальных сервера с 400 ТБ/месяц
-бесплатной пропускной способности, чтобы помочь нашим пользователям с
-загрузкой и обновлением карт.
+Помогите проекту [финансово](/ru/donate "поддержать деньгами") чтобы приложение могло жить и развиваться.
 
 ## Сообщество
 
-Приложение Organic Maps с [открытым исходным кодом][github] лицензировано в
-соответствии с Apache License 2.0.
-
-- Подключайтесь к нашей бета-программе, предлагайте новые фичи и сообщайте о
-  багах:
-  * [iOS Бета (TestFlight)][testflight]
-  * [Android Бета (Firebase)][firebase]
-  * [Linux Desktop Бета (Flatpak)][flatpak]
-  * [Linux Desktop Бета (packages)][repology]
-- Сообщайте о багах или проблемах [на GitHub][issues] или [по почте][email].
-- [Предлагайте][ideas] новые идеи и фичи.
-- Подпишитесь на наш [Telegram канал][telegram] или в [matrix
-  комнату][matrix] за новостями.
-- Заходите на наш пользовательский [Telegram чат][telegram_chat].
-- Загляните на наш [GitHub][github].
-- Подпишитесь на обновления [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram].
-
-[fork]: https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA
-
-[telegram_chat]: https://t.me/OrganicMapsRu
+- Присоединяйтесь к [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи;
+- Подключайтесь к программе тестирования бета-версий:
+  * [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
+  * [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
+  * [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
+  * [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
+- Сообщайте о проблемах и предлагайте новые идеи [на GitHub](https://github.com/organicmaps/organicmaps/issues) или [по почте](mailto:hello@organicmaps.app);
+- Нарисуйте свой дом и район вокруг в [OpenStreetMap](https://openstreetmap.org);
+- Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки.
+- Поучаствуйте в [разработке](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) приложения под Android и iOS;
+- Подпишитесь на нас в [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) и [Instagram](https://instagram.com/organicmaps.app/).
+- Расскажите своим друзьям и знакомым.
 
 {{ references(lang='ru') }}
