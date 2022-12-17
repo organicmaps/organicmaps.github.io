@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-14 06:58+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-16 19:42+0000\n"
+"Last-Translator: AT <owje@protonmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/organicmaps/"
 "website/nl/>\n"
 "Language: nl\n"
@@ -16,131 +16,159 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr ""
+"Snelle, gedetailleerde, offline kaarten voor reizigers, toeristen, "
+"automobilisten, wandelaars, en fietsers gemaakt door de oprichters van de "
+"app MapsWithMe (Maps.Me)."
 
 #. type: YAML Front Matter: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr ""
+"**Organic Maps** is een gratis Android & iOS offline kaartenapp voor "
+"reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete "
+"**[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, "
+"open-source [fork][fork] van de app **Maps.me** (voorheen bekend als "
+"[**MapsWithMe**][mapswithme], en wordt onderhouden door dezelfde mensen die "
+"**MapsWithMe** hebben gemaakt in 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
 msgstr ""
+"**Organic Maps** is één van de weinige apps heden ten dage die 100% van de "
+"functionaliteit heeft zonder actieve internetverbinding. Installeer Organic "
+"Maps, download kaarten, gooi je SIM kaart weg (trouwens, je provider trackt "
+"je altijd), en ga een week op pad zonder je batterij op te laden en zonder "
+"dat er één byte naar het netwerk verzonden wordt.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 msgstr ""
+"Download en installeer Organic Maps in de [AppStore][appstore], [Google "
+"Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] "
+"{#install}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ badges(lang='en') }}"
-msgstr ""
+msgstr "{{ badges(lang='nl') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wandelen') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praag') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
 msgstr ""
+"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Zoeken') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
 msgstr ""
+"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in donkere "
+"stand') }}"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Features"
-msgstr "Mogelijkheden"
+msgstr "Functies"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
 msgstr ""
+"Organic Maps is als app de ultieme metgezel voor reizigers, toeristen, "
+"wandelaars en fietsers:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
 msgstr ""
+"Gedetailleerde offline kaarten met plaatsen die niet bestaan op andere "
+"kaarten, dankzij [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "Fietsroutes, wandelroutes en -paden"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "Contourlijnen, hoogteprofielen, pieken en hellingen"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
 msgstr ""
+"Routebegeleiding voor wandelen en fietsen en autonavigatie met "
+"stembegeleiding"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "Snel offline zoeken op de kaart"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
 msgstr ""
+"Bladwijzers exporteren en importeren in KML/KMZ formats (GPX is "
+"[gepland][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Dark Mode to protect your eyes"
-msgstr ""
+msgstr "Donkere stand om je ogen te beschermen"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "Landen en regio's nemen niet veel ruimte in beslag"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "Free and open-source"
 msgstr "Gratis en open source"
 
@@ -148,41 +176,41 @@ msgstr "Gratis en open source"
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "Waarom 'Organic'?"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "Organic Maps is puur en organisch, met liefde gemaakt:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Respects your privacy"
-msgstr ""
+msgstr "Respecteert je privacy"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Saves your battery"
-msgstr ""
+msgstr "Bespaart je batterij"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No unexpected mobile data charges"
-msgstr ""
+msgstr "Geen onverwachte mobiele data rekeningen"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
+msgstr "Organic Maps is vrij van trackers en andere slechte dingen:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No ads"
 msgstr "Geen advertenties"
 
@@ -190,79 +218,80 @@ msgstr "Geen advertenties"
 #: content/_index.md
 #, markdown-text
 msgid "No tracking"
-msgstr ""
+msgstr "Geen tracking"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No data collection"
-msgstr ""
+msgstr "Geen dataverzameling"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No phoning home"
-msgstr ""
+msgstr "Geen 'naar huis bellen'"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No annoying registration"
-msgstr ""
+msgstr "Geen irritante aanmelding"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "Geen verplichte instructies"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No noisy email spam"
-msgstr ""
+msgstr "Geen opdringerige spam-emails"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No push notifications"
-msgstr "meldingen"
+msgstr "Geen pushmeldingen"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No crapware"
-msgstr ""
+msgstr "Geen crapware"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "~~Geen pesticiden~~ Volledig organisch!"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "De applicatie is geverifieerd door [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr ""
+msgstr "{{ exodus_screenshot(lang='nl') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
 msgstr ""
+"Organic Maps vraagt niet om excessieve machtigingen om je te bespioneren:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr ""
+msgstr "{{ privacy_screenshots(lang='nl') }}"
 
 #. type: Plain text
 #: content/_index.md
