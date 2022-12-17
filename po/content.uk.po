@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "POT-Creation-Date: 2022-12-14 09:54+0200\n"
-"PO-Revision-Date: 2022-12-16 21:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-12-17 08:35+0000\n"
+"Last-Translator: Dan <denqwerta@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/"
 "website/uk/>\n"
 "Language: uk\n"
@@ -81,9 +81,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Features"
-msgstr "Функції"
+msgstr "Омобливості"
 
 #. type: Plain text
 #: content/_index.md
@@ -141,9 +141,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "Free and open-source"
-msgstr "Безплатно і з відкритим кодом"
+msgstr "Безоплатно та з відкритим кодом"
 
 #. type: Title ##
 #: content/_index.md
@@ -183,7 +183,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No ads"
 msgstr "Без реклами"
 
@@ -225,9 +225,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No push notifications"
-msgstr "Push-сповіщення"
+msgstr "Без push-сповіщень"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -327,9 +327,9 @@ msgstr ""
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "Наші спонсори"
+msgstr "Наші спонсори:"
 
 #. type: Plain text
 #: content/_index.md
@@ -339,7 +339,7 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Community"
 msgstr "Спільнота"
 
@@ -465,9 +465,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "Open source"
-msgstr "Програма з відкритим кодом"
+msgstr "Відкритий код"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -567,9 +567,9 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "Public Transport"
-msgstr "Public Transport"
+msgstr "Громадський транспорт"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -591,7 +591,7 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Bank Transfer"
 msgstr "Банківський переказ"
 
@@ -603,7 +603,7 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Crypto"
 msgstr "Криптовалюта"
 
@@ -839,9 +839,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "tools"
-msgstr "Засоби"
+msgstr "інструменти"
 
 #. type: Plain text
 #: content/terms/index.md
