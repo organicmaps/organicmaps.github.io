@@ -3,3 +3,5 @@
 /en/* /:splat 302
 /terms.html /terms/ 301
 /privacy.html /privacy/ 301
+/policy/ /privacy/ 301
+/:lang/policy/ /:lang/privacy/ 301
