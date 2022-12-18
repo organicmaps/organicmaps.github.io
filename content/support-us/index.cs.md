@@ -11,7 +11,7 @@ Organic Maps je svobodná, open-source aplikace. Neobsahuje reklamy, nesbírá v
 
 Vývoj lze podpořit různými způsoby:
 
-- [Darujte](@/donate/index.md)! Každý dolar nebo euro se počítá a pomáhá nám zaplatit servery a zvětšovat se.
+- [Darujte](@/donate/index.cs.md)! Každý dolar nebo euro se počítá a pomáhá nám zaplatit za servery a zvětšovat se.
 - Nahlašujte chyby a sdílejte nápady na našem [GitHubu](https://github.com/organicmaps/organicmaps/issues) nebo přes [email](mailto:support@organicmaps.app).
 - Pomozte nám [opravit chyby](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) a dělejte revize kódu, pokud jste vývojáři. Každý vyřešený malý problém udělá někoho šťastnějším.
 - [Přeložte](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md#translations)
@@ -21,7 +21,7 @@ Vývoj lze podpořit různými způsoby:
   popisy do vašeho jazyka.
 - [Přeložte](https://github.com/organicmaps/organicmaps.github.io) naši webovou stránku do vašeho jazyka.
 - Připojte se do [OpenStreetMap](https://www.openstreetmap.org/about) komunity a přispějte do mapových dat.
-- Opravte červená města nalezena naším [validátorem veřejné dopravy](https://cdn.organicmaps.app/subway/), aby v aplikaci fungovaly metra a lehká metra.
+- Opravte červená města nalezena naším [validátorem veřejné dopravy](https://cdn.organicmaps.app/subway/), aby v aplikaci fungovala metra a lehká metra.
 - Podpořte další uživatele [GitHubu](https://github.com/organicmaps/organicmaps/issues),
   [Telegramu](https://t.me/OrganicMaps) ([на русском](https://t.me/OrganicMapsRu)),
   [[matrixu]](https://matrix.to/#/#organicmaps:matrix.org),
@@ -31,4 +31,4 @@ Vývoj lze podpořit různými způsoby:
   [Apple Storu](https://itunes.apple.com/app/id1567437057?action=write-review) a [Huawei Appgallery](appmarket://details?id=app.organicmaps).
 - Jakákoli pomoc je vítána!
 
-Náš malý tým je velmi vděčný za vaši podporu a zpětnou vazbu. Organic Maps by nebyly možné bez našich uživatelů ❤️.
+Náš malý tým je velmi vděčný za vaši podporu a zpětnou vazbu. Organic Maps by nebyla možná bez našich uživatelů ❤️.
