@@ -48,17 +48,17 @@ msgstr "Unduh dan instal Organic Maps dari [AppStore][appstore], [Google Play][g
 #. type: Plain text
 #: content/_index.md
 msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='id')}}}"
+msgstr "{{ badges(lang='id') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}}"
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha')}}}"
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
 
 #. type: Plain text
 #: content/_index.md
