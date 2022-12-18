@@ -46,7 +46,7 @@ Organic Maps aplikace je _zdarma pro každého_ díky vaším **[darům][stripe]
 
 ## Jak darovat?
 
-Existuje mnoho způsobů, jak projektu darovat:
+Projektu lze darovat různými způsoby:
 
 {{ donate_buttons(lang='cs') }}
 
@@ -65,8 +65,8 @@ Litecoin a Monero sítě nabízejí nízké poplatky, ale situace se mění kaž
 
 ## Můžete nám pomoct nějakým jiným způsobem?
 
-Ano! Existuje mnoho způsobů jak podpořit Organic Maps. Navštivte prosím
-[Podpořte nás](@/support-us/index.md) stránku pro více detailů.
+Ano!  Organic Maps. Navštivte prosím
+[Podpořte nás](@/support-us/index.cs.md) stránku pro více detailů.
 
 [stripe]: https://donate.organicmaps.app/ "Darujte přes Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Problémy"
