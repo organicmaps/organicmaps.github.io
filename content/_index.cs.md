@@ -4,14 +4,14 @@ description: Rychlé detailní offline mapy pro cestovatele, turisty, řidiče, 
 page_template: index.html
 sort_by: weight
 extra:
-  menu_title: Domovská stránka
+  menu_title: Domů
 ---
 
-**Organic Maps** je bezplatná Android & iOS offline mapová aplikace pro cestovatele, turisty, a cyklisty založena na crowd-sourced
+**Organic Maps** je bezplatná Android & iOS offline mapová aplikace pro cestovatele, turisty a cyklisty založena na crowd-sourced
 **[OpenStreetMap](https://www.openstreetmap.org)** datech.
 Je to open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) aplikace **Maps.me** (dříve známo jako [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), zaměřený na soukromí, spravovaný stejnými lidmi co vytvořili **MapsWithMe** v roce 2011.
 
-**Organic Maps** je v dnešní době jedna z mála aplikací co podporuje 100% funkcí bez aktivního Internetového připojení. Nainstalujte Organic Maps, stáhněte mapy, zahoďte vaši SIM kartu (mimochodem, váš operátor vás neustále sleduje), a vyražte na týdenní výlet s jediným nabitím baterie a bez jediného bajtu odeslaného do sítě.
+**Organic Maps** je v dnešní době jedna z mála aplikací, co podporuje 100% funkcí bez aktivního Internetového připojení. Nainstalujte Organic Maps, stáhněte mapy, zahoďte vaši SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyražte na týdenní výlet na jedno nabití baterie a bez jediného bajtu odeslaného do sítě.
 
 {{ badges(lang='cs') }}
 
@@ -42,7 +42,7 @@ Mapy Organic Maps jsou <b>čisté a organické, vyrobené s láskou</b>:
 - Šetří vaši baterii
 - Žádné nečekané poplatky za mobilní data
 
-Organic Maps jsou bez sledovacích zařízení a dalších špatných věcí:
+Organic Maps je bez sledovacích zařízení a dalších špatných věcí:
 
 - Žádné reklamy
 - Žádné sledování
@@ -50,7 +50,7 @@ Organic Maps jsou bez sledovacích zařízení a dalších špatných věcí:
 - Žádné volání domů
 - Žádná obtěžující registrace
 - Žádné povinné výukové programy
-- Žádný hlučný e-mailový spam
+- Žádný rušivý e-mailový spam
 - Žádná push oznámení
 - Žádný crapware
 - ~~Žádné pesticidy~~ Čistě organické!
@@ -59,7 +59,7 @@ Aplikace je ověřená <a href='https://reports.exodus-privacy.eu.org/en/reports
 <br/>
 <img src='/images/privacy/exodus.png' width='400'>
 
-Organic Maps nevyžadují nadměrný počet oprávnění určená ke špehování:
+Organic Maps nevyžaduje nadměrný počet oprávnění, určeny ke špehování:
 
 <img src='/images/privacy/om.jpg' width='400'>
 <img src='/images/privacy/mm.jpg' width='400'>
@@ -67,7 +67,7 @@ Organic Maps nevyžadují nadměrný počet oprávnění určená ke špehován�
 V Organic Maps věříme, že soukromí je základním lidským právem:
 
 - Organic Maps je nezávislý komunitní projekt s otevřeným zdrojovým kódem.
-- Chráníme vaše soukromí před zvědavýma očima Big Tech.
+- Chráníme vaše soukromí před zvědavýma očima velkých technologických firem.
 - Zůstaňte v bezpečí, ať jste kdekoli
 
 Odmítněte dohled - přijměte svou svobodu.
@@ -77,7 +77,7 @@ Odmítněte dohled - přijměte svou svobodu.
 
 ## Kdo platí za bezplatnou aplikaci?
 
-Aplikace je zdarma pro každého. Prosíme, [přispějte](@/donate/index.md), abyste nás podpořili!
+Aplikace je zdarma pro každého. Prosíme, [přispějte](@/donate/index.cs.md), abyste nás podpořili!
 
 ### Přispět můžete různými způsoby:
 
@@ -90,11 +90,11 @@ dva virtuální servery s 400 TB/měsíc zdarma bandwidthu na pomoc našim uživ
 
 ### Podpořte nás
 
-Existuje mnoho způsobů, jak nás podpořit, vypsaných [zde](@/support-us/index.md).
+Vývoj lze podpořit různými způsoby, vypsanými [zde](@/support-us/index.cs.md).
 
 ## Beta
 
-Prosím, připojte se k našemu beta programu, navrhněte nové funkce a nahlašte chyby:
+Prosíme, připojte se k našemu beta programu, navrhujte nové funkce a nahlašujte chyby:
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
 - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
