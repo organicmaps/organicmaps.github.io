@@ -371,12 +371,6 @@ msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-#, no-wrap
-msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
-msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"
-
-#. type: Plain text
-#: content/_index.md content/support-us/index.md
 #, fuzzy
 #| msgid "{{ references(lang='id') }}"
 msgid "{{ references(lang='en') }}"

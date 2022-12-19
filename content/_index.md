@@ -106,6 +106,4 @@ Organic Maps is an [open-source software][github] licensed under the Apache Lice
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
-[telegram_chat]: https://t.me/OrganicMaps
-
 {{ references(lang='en') }}

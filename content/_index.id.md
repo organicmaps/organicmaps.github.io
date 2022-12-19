@@ -124,6 +124,4 @@ dilisensikan di bawah lisensi Apache 2.0.
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
-[telegram_chat]: https://t.me/OrganicMaps
-
 {{ references(lang='en') }}

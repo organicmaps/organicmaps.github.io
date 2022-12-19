@@ -22,6 +22,7 @@
 [openstreetmap]: https://www.openstreetmap.org/about "OpenStreetMap"
 [repology]: https://repology.org/project/organicmaps/versions
 [telegram]: https://t.me/OrganicMapsApp
+[telegram_chat]: https://t.me/OrganicMaps
 [testflight]: https://testflight.apple.com/join/lrKCl08I
 [twitter]: https://twitter.com/OrganicMapsApp
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
