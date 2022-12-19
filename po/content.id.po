@@ -28,6 +28,12 @@ msgstr "Peta luring cepat terperinci untuk pelancong, turis, pengemudi, pejalan 
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Home"
+msgstr "Halaman depan"
+
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
@@ -433,6 +439,12 @@ msgstr "Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memo
 msgid "Donate to support the development of Organic Maps"
 msgstr "Berdonasi untuk mendukung pengembangan Organic Maps"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Donate"
+msgstr "Donasi"
+
 #. type: Plain text
 #: content/donate/index.md
 msgid ""
@@ -662,6 +674,12 @@ msgstr "Tetap terhubung dengan rilis Organic Maps terbaru, berita dan pembaruan 
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organic Maps: Berita dan pembaruan terbaru dari tim kami"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "News"
+msgstr "Berita"
+
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
 #, no-wrap
@@ -673,6 +691,12 @@ msgstr "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan 
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
 msgstr "Organic Maps: Kebijakan Privasi"
+
+#. type: YAML Front Matter: extra.menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "Privacy"
+msgstr "Privasi"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -720,6 +744,12 @@ msgstr "Berbagai cara untuk mendukung pengembangan aplikasi gratis kami"
 #, no-wrap
 msgid "Support the development of Organic Maps"
 msgstr "Dukung pengembangan Organic Maps"
+
+#. type: YAML Front Matter: extra.menu_title
+#: content/support-us/index.md
+#, no-wrap
+msgid "Support Us"
+msgstr "Dukung Kami"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -855,6 +885,12 @@ msgstr "Ketentuan penggunaan untuk aplikasi Organic Maps"
 msgid "Organic Maps: terms"
 msgstr "Organic Maps: persyaratan"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
 #. type: Plain text
 #: content/terms/index.md
 msgid ""
@@ -956,3 +992,56 @@ msgstr ""
 #, no-wrap
 msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
 msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"
+
+#. type: Zola TOML Translations: address
+#: config.toml
+#, no-wrap
+msgid "Address"
+msgstr "Alamat"
+
+#. type: Zola TOML Translations: back
+#: config.toml
+#, no-wrap
+msgid "Back to News"
+msgstr "Kembali ke Berita"
+
+#. type: Zola TOML Translations: install-appgallery
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from Huawei AppGallery"
+msgstr "Instal Organic Maps dari Huawei AppGallery"
+
+#. type: Zola TOML Translations: install-appstore
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from the AppStore"
+msgstr "Instal Organic Maps dari AppStore"
+
+#. type: Zola TOML Translations: install-googleplay
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr "Instal Organic Maps dari Google Play"
+
+#. type: Zola TOML Translations: install-fdroid
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from F-Droid"
+msgstr "Instal Peta Organik dari F-Droid"
+
+#. type: Zola TOML Translations: language
+#, no-wrap
+msgid "English"
+msgstr "Bahasa Indonesia"
+
+#. type: Zola TOML Translations: name
+#: config.toml
+#, no-wrap
+msgid "Name"
+msgstr "Nama"
+
+#. type: Zola TOML Translations: token
+#: config.toml
+#, no-wrap
+msgid "Token"
+msgstr "Token"

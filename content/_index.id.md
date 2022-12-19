@@ -66,11 +66,11 @@ Aplikasi Organic Maps bebas dari pelacak dan hal-hal buruk lainnya:
 
 Aplikasi ini diverifikasi oleh [Proyek Privasi Exodus][exodus]:
 
-{{ exodus_screenshot(lang='en') }}
+{{ exodus_screenshot(lang='id') }}
 
 Organic Maps tidak meminta izin berlebihan untuk memata-matai Anda:
 
-{{ privacy_screenshots(lang='en') }}
+{{ privacy_screenshots(lang='id') }}
 
 Di Organic Maps, kami percaya bahwa privasi adalah hak asasi manusia yang
 mendasar:
@@ -91,7 +91,7 @@ mendukung kami!
 
 ### Ada berbagai cara untuk berdonasi:
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons(lang='id') }}
 
 ### Sponsor kami:
 
@@ -124,4 +124,4 @@ dilisensikan di bawah lisensi Apache 2.0.
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
-{{ references(lang='en') }}
+{{ references(lang='id') }}

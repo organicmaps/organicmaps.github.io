@@ -43,4 +43,4 @@ Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami. ❤️
 
 [telegram_chat]: https://t.me/OrganicMaps
 
-{{ references(lang='en') }}
+{{ references(lang='id') }}

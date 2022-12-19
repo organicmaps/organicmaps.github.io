@@ -26,6 +26,12 @@ msgstr ""
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr ""
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Home"
+msgstr ""
+
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
@@ -434,6 +440,12 @@ msgstr ""
 msgid "Donate to support the development of Organic Maps"
 msgstr ""
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Donate"
+msgstr ""
+
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
@@ -640,6 +652,12 @@ msgstr ""
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr ""
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "News"
+msgstr ""
+
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
 #, no-wrap
@@ -650,6 +668,12 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
+msgstr ""
+
+#. type: YAML Front Matter: extra.menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "Privacy"
 msgstr ""
 
 #. type: Plain text
@@ -692,6 +716,12 @@ msgstr ""
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
+msgstr ""
+
+#. type: YAML Front Matter: extra.menu_title
+#: content/support-us/index.md
+#, no-wrap
+msgid "Support Us"
 msgstr ""
 
 #. type: Plain text
@@ -796,6 +826,12 @@ msgstr ""
 msgid "Organic Maps: terms"
 msgstr ""
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
 #. type: Plain text
 #: content/terms/index.md
 #, markdown-text
@@ -860,4 +896,57 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text, no-wrap
 msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+
+#. type: Zola TOML Translations: address
+#: config.toml
+#, no-wrap
+msgid "Address"
+msgstr ""
+
+#. type: Zola TOML Translations: back
+#: config.toml
+#, no-wrap
+msgid "Back to News"
+msgstr ""
+
+#. type: Zola TOML Translations: install-appgallery
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from Huawei AppGallery"
+msgstr ""
+
+#. type: Zola TOML Translations: install-appstore
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from the AppStore"
+msgstr ""
+
+#. type: Zola TOML Translations: install-googleplay
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr ""
+
+#. type: Zola TOML Translations: install-fdroid
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from F-Droid"
+msgstr ""
+
+#. type: Zola TOML Translations: language
+#, no-wrap
+msgid "English"
+msgstr ""
+
+#. type: Zola TOML Translations: name
+#: config.toml
+#, no-wrap
+msgid "Name"
+msgstr ""
+
+#. type: Zola TOML Translations: token
+#: config.toml
+#, no-wrap
+msgid "Token"
 msgstr ""
