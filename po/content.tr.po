@@ -6,8 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"POT-Creation-Date: 2022-12-10 15:37+0200\n"
-"PO-Revision-Date: 2022-12-11 12:59+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/organicmaps/"
 "website/tr/>\n"
