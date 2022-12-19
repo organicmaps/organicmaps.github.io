@@ -16,7 +16,7 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi]
 - Tanpa pemberitahuan dorong
 - Sumber terbuka
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons(lang='id') }}
 
 ## Mengapa berdonasi ke Organic Maps?
 
@@ -53,7 +53,7 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi]
 
 ## Bagaimana cara berdonasi?
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons(lang='id') }}
 
 Donasi berulang adalah cara terbaik untuk memastikan pendapatan yang relatif
 stabil untuk proyek dan memotivasi kami untuk tugas dan tujuan jangka
@@ -61,14 +61,14 @@ panjang. Tetapi Anda juga dapat menyumbang satu kali.
 
 ### Transfer Bank
 
-{{ bank_transfer(lang='en') }}
+{{ bank_transfer(lang='id') }}
 
 ### Kripto
 
 Silakan pertimbangkan untuk menyumbang setiap tahun untuk mengurangi total
 biaya.
 
-{{ crypto_table(lang='en') }}
+{{ crypto_table(lang='id') }}
 
 ## Dapatkah Anda membantu kami dengan cara lain?
 
