@@ -550,8 +550,8 @@ msgstr "Dapatkah Anda membantu kami dengan cara lain?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman [Dukung Kami](@/support-us/index.md) untuk lebih jelasnya."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.id.md) page for more details."
+msgstr "Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman [Dukung Kami](@/support-us/index.id.md) untuk lebih jelasnya."
 
 #. type: Plain text
 #: content/donate/index.md

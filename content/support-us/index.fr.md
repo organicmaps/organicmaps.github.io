@@ -11,7 +11,7 @@ Organic Maps est une application gratuite et open-source. Elle ne contient pas d
 
 Il existe différentes façons de soutenir le développement :
 
-- [Donnez](@/donate/index.md)! Chaque dollar ou euro compte et nous aide à payer les serveurs et la montée en charge.
+- [Donnez](@/donate/index.fr.md)! Chaque dollar ou euro compte et nous aide à payer les serveurs et la montée en charge.
 - Signalez les bogues et partagez vos idées sur notre [GitHub](https://github.com/organicmaps/organicmaps/issues)
   ou via [email](mailto:support@organicmaps.app).
 - Aidez-nous à [corriger les bugs](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md)
