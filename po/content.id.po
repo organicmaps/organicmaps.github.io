@@ -48,17 +48,17 @@ msgstr "Unduh dan instal Organic Maps dari [AppStore][appstore], [Google Play][g
 #. type: Plain text
 #: content/_index.md
 msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='id')}}}"
+msgstr "{{ badges(lang='id') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}}"
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha')}}}"
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -360,20 +360,14 @@ msgstr "Kunjungi [laman GitHub][github] kami."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
-msgstr "Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgstr "Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-
-#. type: Plain text
-#: content/_index.md content/support-us/index.md
-#, no-wrap
-msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
-msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md

@@ -7,8 +7,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"POT-Creation-Date: 2022-12-14 09:54+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_US\n"
@@ -409,19 +407,13 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 msgstr ""
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md content/support-us/index.md
-#, markdown-text, no-wrap
-msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
 msgstr ""
 
 #. type: Plain text

@@ -12,5 +12,5 @@ fi
 
 po4a .po4a.cfg
 
-sed -e '/"PO-Revision-Date/d' -e '/"POT-Creation-Date/d' -i'~' po/content.*.po
-rm -f po/content.*.po~
+sed -e '/"PO-Revision-Date/d' -e '/"POT-Creation-Date/d' -i'~' po/content.*.po po/content.pot
+rm -f po/content.*.po*~ po/content.pot~

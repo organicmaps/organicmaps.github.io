@@ -13,11 +13,11 @@ title: 'Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring'
 
 ### Unduh dan instal Organic Maps dari [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='id')}}}
+{{ badges(lang='id') }}
 
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}}
+{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}
 
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha')}}}
+{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}
 
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Pencarian Luring')
 }}
@@ -120,10 +120,8 @@ dilisensikan di bawah lisensi Apache 2.0.
   dengan pengguna lain.
 - Kunjungi [laman GitHub][github] kami.
 - Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram].
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
-
-[telegram_chat]: https://t.me/OrganicMaps
 
 {{ references(lang='en') }}

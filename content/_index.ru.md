@@ -12,6 +12,8 @@ extra:
 
 *Organic Maps* поддерживает 100% функций без активного Интернет-подключения. Загрузите нужные карты, выбросьте SIM-карту (кстати, ваш оператор постоянно отслеживает вас) и отправляйтесь в недельное путешествие на одном заряде батареи.
 
+### Загрузить и установить Organic Maps из [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+
 {{ badges(lang='ru') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}
