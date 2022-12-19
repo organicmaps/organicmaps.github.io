@@ -120,7 +120,7 @@ dilisensikan di bawah lisensi Apache 2.0.
   dengan pengguna lain.
 - Kunjungi [laman GitHub][github] kami.
 - Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram].
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
