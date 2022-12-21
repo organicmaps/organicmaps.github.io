@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
+"PO-Revision-Date: 2022-12-21 11:50+0000\n"
 "Last-Translator: Linerly <linerly@protonmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/organicmaps/"
 "website/id/>\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -889,7 +890,7 @@ msgstr "Organic Maps: persyaratan"
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Ketentuan"
 
 #. type: Plain text
 #: content/terms/index.md
