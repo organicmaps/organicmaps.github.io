@@ -20,9 +20,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
-"Mappe offline veloci e dettagliate per viaggiatori, turisti, automobilisti, "
-"escursionisti e ciclisti create dai fondatori dell'app MapsWithMe (Maps.Me)."
+msgstr "Mappe offline veloci e dettagliate per viaggiatori, turisti, automobilisti, escursionisti e ciclisti create dai fondatori dell'app MapsWithMe (Maps.Me)."
 
 #. type: YAML Front Matter: title
 #: content/_index.md
@@ -30,109 +28,108 @@ msgstr ""
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organic Maps: Escursioni in bicicletta, sentieri e navigazione offline"
 
-#. type: Plain text
+#. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, markdown-text, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
+#, no-wrap
+msgid "Home"
 msgstr ""
-"**Organic Maps** è un'applicazione gratuita per Android e iOS di mappe "
-"offline per viaggiatori, turisti, escursionisti e ciclisti, basata sui dati "
-"**[OpenStreetMap][openstreetmap]** crowd-sourced. È un [fork][fork] open-"
-"source, incentrato sulla privacy, dell'app **Maps.me** (precedentemente nota "
-"come [**MapsWithMe**][mapswithme], gestita dalle stesse persone che hanno "
-"creato **MapsWithMe** nel 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**Organic Maps** è un'applicazione gratuita per Android e iOS di mappe offline per viaggiatori, turisti, escursionisti e ciclisti, basata sui dati **[OpenStreetMap][openstreetmap]** crowd-sourced. È un [fork][fork] open-source, incentrato sulla privacy, dell'app **Maps.me** (precedentemente nota come [**MapsWithMe**][mapswithme], gestita dalle stesse persone che hanno creato **MapsWithMe** nel 2011.\n"
+
+#. type: Plain text
+#: content/_index.md
+#, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
-"**Organic Maps** è una delle poche applicazioni che supporta il 100% delle "
-"funzioni senza una connessione Internet attiva. Installate Organic Maps, "
-"scaricate le mappe, buttate via la scheda SIM (a proposito, il vostro "
-"operatore vi traccia costantemente) e partite per un viaggio settimanale con "
-"una sola carica della batteria senza inviare alcun byte alla rete.\n"
+msgstr "**Organic Maps** è una delle poche applicazioni che supporta il 100% delle funzioni senza una connessione Internet attiva. Installate Organic Maps, scaricate le mappe, buttate via la scheda SIM (a proposito, il vostro operatore vi traccia costantemente) e partite per un viaggio settimanale con una sola carica della batteria senza inviare alcun byte alla rete.\n"
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
-"Scarica e installa Organic Maps da [AppStore][appstore], [Google "
-"Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] "
-"{#install}"
+msgstr "Scarica e installa Organic Maps da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ badges(lang='en') }}"
 msgstr "{{ badges(lang='en') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
 msgstr ""
 "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Escursioni') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
 msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praga') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+#, fuzzy
+msgid ""
+"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
 msgstr ""
 "{{ screenshot(src='/images/screenshots/search.jpg', alt='Ricerca offline') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
+#, fuzzy
+msgid ""
+"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark "
+"mode') }}"
 msgstr ""
 "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigazione in "
 "modalità dark') }}"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Features"
 msgstr "Caratteristiche"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
+#, fuzzy
+msgid ""
+"Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
+"and cyclists:"
 msgstr ""
 "Organic Maps è l'app definitiva per viaggiatori, turisti, escursionisti e "
 "ciclisti:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
+#, fuzzy
+msgid ""
+"Detailed offline maps with places that don't exist on other maps, thanks to "
+"[OpenStreetMap][openstreetmap]"
 msgstr ""
 "Mappe offline dettagliate con luoghi che non esistono su altre mappe, grazie "
 "a [OpenStreetMap][openstreetmap]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Cycling routes, hiking trails, and walking paths"
 msgstr "Percorsi ciclabili, sentieri escursionistici e percorsi pedonali"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Contour lines, elevation profiles, peaks, and slopes"
 msgstr "Linee di contorno, profili altimetrici, picchi e pendenze"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
 msgstr ""
 "Navigazione a piedi, in bicicletta e in auto con guida vocale, svolta per "
@@ -140,160 +137,161 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Fast offline search on the map"
 msgstr "Ricerca veloce offline sulla mappa"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+#, fuzzy
+msgid ""
+"Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
 msgstr ""
 "Esportazione e importazione dei segnalibri nei formati KML/KMZ (GPX è "
 "[previsto][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Dark Mode to protect your eyes"
 msgstr "Modalità scura per proteggere gli occhi"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Countries and regions don't take a lot of space"
 msgstr "I paesi e le regioni non occupano molto spazio"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Free and open-source"
 msgstr "Gratuito e open-source"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Why Organic?"
 msgstr "Perché il biologico?"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Organic Maps is pure and organic, made with love:"
 msgstr "Le Mappe Biologiche sono pure e biologiche, fatte con amore:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Respects your privacy"
 msgstr "Rispetta la vostra privacy"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Saves your battery"
 msgstr "Risparmia la batteria"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No unexpected mobile data charges"
 msgstr "Nessun costo inaspettato per i dati mobili"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Organic Maps app is free from trackers and other bad stuff:"
 msgstr ""
 "L'applicazione Organic Maps è priva di tracker e di altri elementi negativi:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No ads"
 msgstr "Nessun annuncio"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No tracking"
 msgstr "Nessuna tracciabilità"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No data collection"
 msgstr "Nessuna raccolta dati"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No phoning home"
 msgstr "Non si telefona a casa"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No annoying registration"
 msgstr "Nessuna registrazione fastidiosa"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No mandatory tutorials"
 msgstr "Nessuna esercitazione obbligatoria"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No noisy email spam"
 msgstr "Niente spam di e-mail rumorose"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No push notifications"
 msgstr "Nessuna notifica push"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No crapware"
 msgstr "Nessun crapware"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "~~No pesticides~~ Purely organic!"
 msgstr "~~Nessun pesticida~~ Puramente biologico!"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
 msgstr "L'applicazione è verificata da [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ exodus_screenshot(lang='en') }}"
 msgstr "{{ exodus_screenshot(lang='en') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
 msgstr "Organic Maps non richiede permessi eccessivi per spiare l'utente:"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ privacy_screenshots(lang='en') }}"
 msgstr "{{ privacy_screenshots(lang='en') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
 msgstr ""
 "Noi di Organic Maps crediamo che la privacy sia un diritto umano "
@@ -301,92 +299,97 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Organic Maps is an indie community-driven open-source project"
 msgstr ""
 "Organic Maps è un progetto open-source indipendente guidato dalla comunità."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "We protect your privacy from Big Tech's prying eyes"
 msgstr "Proteggiamo la vostra privacy dagli occhi indiscreti di Big Tech"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Stay safe no matter wherever you are"
 msgstr "Rimanete al sicuro ovunque vi troviate"
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Reject surveillance - embrace your freedom."
 msgstr "Rifiutate la sorveglianza - abbracciate la vostra libertà."
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
 msgstr "**[Prova le Mappe organiche!](#installa)**\n"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Who is paying for the free app?"
 msgstr "Chi paga per l'app gratuita?"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "The app is free for everyone. Please [donate][donate] to support us!"
 msgstr ""
 "L'applicazione è gratuita per tutti. Per favore, [dona][dona] per sostenerci!"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "There are different ways to donate:"
 msgstr "Ci sono diversi modi per donare:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ donate_buttons(lang='en') }}"
 msgstr "{{ donate_buttons(lang='en') }}"
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Our sponsors:"
 msgstr "I nostri sponsor:"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
+#, fuzzy
+msgid ""
+"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
+"[mythic_beasts_donation] two virtual servers with 400 TB/month of free "
+"bandwidth to help our users with maps downloads and updates."
 msgstr ""
-"L'ISP [Mythic Beasts](https://www.mythic-beasts.com/) ci "
-"[fornisce][mythic_beasts_donation] due server virtuali con 400 TB/mese di "
-"banda gratuita per aiutare i nostri utenti a scaricare le mappe e gli "
+"L'ISP [Mythic Beasts](https://www.mythic-beasts.com/) ci [fornisce]"
+"[mythic_beasts_donation] due server virtuali con 400 TB/mese di banda "
+"gratuita per aiutare i nostri utenti a scaricare le mappe e gli "
 "aggiornamenti."
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Community"
 msgstr "Comunità"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
+#, fuzzy
+msgid ""
+"Organic Maps is an [open-source software][github] licensed under the Apache "
+"License 2.0."
 msgstr ""
 "Organic Maps è un [software open-source][github] con licenza Apache 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Please join our beta program, suggest your features, and report bugs:"
 msgstr ""
 "Partecipate al nostro programma beta, suggerite le vostre funzionalità e "
@@ -394,51 +397,55 @@ msgstr ""
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[iOS Beta (TestFlight)][testflight]"
 msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[Android Beta (Firebase)][firebase]"
 msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[Linux Desktop Beta (packages)][repology]"
 msgstr "[Linux Desktop Beta (pacchetti)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr "Segnalate bug o problemi a [issue tracker][issues] o [email us][email]."
+#, fuzzy
+msgid ""
+"Report bugs or issues to [the issue tracker][issues] or [email us][email]."
+msgstr ""
+"Segnalate bug o problemi a [issue tracker][issues] o [email us][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[Discuss][ideas] ideas or propose feature requests."
 msgstr "[Discutere][idee] idee o proporre richieste di funzionalità."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
+#, fuzzy
+msgid ""
+"Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
+"[matrix] for updates."
 msgstr ""
-"Iscrivetevi al nostro [canale Telegram][telegram] o allo [spazio "
-"matrix][matrix] per ricevere aggiornamenti."
+"Iscrivetevi al nostro [canale Telegram][telegram] o allo [spazio matrix]"
+"[matrix] per ricevere aggiornamenti."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
 msgstr ""
 "Unitevi al nostro [Gruppo Telegram][telegram_chat] per discutere con altri "
@@ -446,33 +453,29 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Visit our [GitHub page][github]."
 msgstr "Visitate la nostra [pagina GitHub][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
+#, fuzzy
+msgid ""
+"Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
+"[twitter], [Instagram][instagram], [Reddit][reddit]."
 msgstr ""
-"Seguite i nostri aggiornamenti su [Mastodon][mastodon], [Facebook][facebook]"
-", [Twitter][twitter], [Instagram][instagram]."
+"Seguite i nostri aggiornamenti su [Mastodon][mastodon], [Facebook]"
+"[facebook], [Twitter][twitter], [Instagram][instagram]."
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 msgstr "[https://en.wikipedia.org/wiki/Fork_(sviluppo_software)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-#, fuzzy, markdown-text, no-wrap
-msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
-msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"
-
-#. type: Plain text
-#: content/_index.md content/support-us/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ references(lang='en') }}"
 msgstr "{{ references(lang='en') }}"
 
@@ -480,9 +483,7 @@ msgstr "{{ references(lang='en') }}"
 #: content/donate/index.md
 #, fuzzy, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
-msgstr ""
-"I vostri soldi pagano tutte le spese relative al progetto e ci motivano a "
-"migliorare le Mappe organiche."
+msgstr "I vostri soldi pagano tutte le spese relative al progetto e ci motivano a migliorare le Mappe organiche."
 
 #. type: YAML Front Matter: title
 #: content/donate/index.md
@@ -490,50 +491,62 @@ msgstr ""
 msgid "Donate to support the development of Organic Maps"
 msgstr "Donazione per sostenere lo sviluppo di Organic Maps"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Donate"
+msgstr ""
+
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+#, fuzzy
+msgid ""
+"Organic Maps app is _free for everyone_ thanks to your **[donations]"
+"[stripe]**:"
 msgstr ""
 "L'applicazione Organic Maps è _gratuita per tutti_ grazie alle vostre "
 "**[donazioni][striscia]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No trackers"
 msgstr "Nessun tracker"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "No registration"
 msgstr "Nessuna registrazione"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Open source"
 msgstr "Fonte aperta"
 
 #. type: Title ##
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Why donate to Organic Maps?"
 msgstr "Perché donare a Organic Maps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
+#, fuzzy
+msgid ""
+"We rely on your donations to carry out our mission to keep Organic Maps open "
+"and free.  And free from ads."
 msgstr ""
 "Ci affidiamo alle vostre donazioni per portare avanti la nostra missione di "
 "mantenere Organic Maps aperta e libera.  E senza pubblicità."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+#, fuzzy
+msgid ""
+"We are a few enthusiasts contributing in our free time, and spending our "
+"families' money on the project.  We love what we do, and we love our users ❤️."
 msgstr ""
 "Siamo pochi appassionati che contribuiscono nel tempo libero e spendono i "
 "soldi delle nostre famiglie per il progetto.  Amiamo quello che facciamo e "
@@ -541,22 +554,27 @@ msgstr ""
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
+#, fuzzy
+msgid ""
+"With your support, we want to become a better, privacy-focused version of "
+"Google Maps."
 msgstr ""
 "Con il vostro supporto, vogliamo diventare una versione di Google Maps "
 "migliore e attenta alla privacy."
 
 #. type: Title ##
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "What will the money be used for?"
 msgstr "A cosa servirà il denaro?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy
+msgid ""
+"We pay for fast servers, so anyone in the World can download free map data "
+"updates without delays.  It's hundreds of terabytes monthly, and the amount "
+"is growing."
 msgstr ""
 "Paghiamo per avere server veloci, in modo che chiunque nel mondo possa "
 "scaricare gratuitamente gli aggiornamenti delle mappe senza ritardi.  Si "
@@ -565,18 +583,23 @@ msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+#, fuzzy
+msgid ""
+"User support, bugfixing, and improving the stability of the app are at the "
+"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
+"and this number is growing every day.  AppStore, Google Play, and support "
+"emails are overflooded with comments and bugs. We want to deliver a high-"
+"quality product."
 msgstr ""
 "Il supporto agli utenti, la risoluzione dei bug e il miglioramento della "
-"stabilità dell'applicazione sono in cima alle nostre priorità.  Ci sono ["
-"oltre 1200 problemi su GitHub][github issues], e questo numero cresce ogni "
+"stabilità dell'applicazione sono in cima alle nostre priorità.  Ci sono "
+"[oltre 1200 problemi su GitHub][github issues], e questo numero cresce ogni "
 "giorno.  AppStore, Google Play e le e-mail di supporto sono invasi da "
 "commenti e bug. Vogliamo fornire un prodotto di alta qualità."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "With enough money, new features can be developed faster, for example:"
 msgstr ""
 "Con una quantità di denaro sufficiente, è possibile sviluppare più "
@@ -584,75 +607,78 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Weekly and automated map data updates"
 msgstr "Aggiornamenti settimanali e automatici dei dati delle mappe"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Bookmarks backup and sync"
 msgstr "Backup e sincronizzazione dei segnalibri"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Android Auto"
 msgstr "Android Auto"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "GPS track recorder with GPX support"
 msgstr "Registratore di tracce GPS con supporto GPX"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Better map styles for different activities"
 msgstr "Migliori stili di mappa per le diverse attività"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Hill shading and 3D terrain"
 msgstr "Ombreggiatura delle colline e terreno 3D"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Improve the OpenStreetMap editor"
 msgstr "Migliorare l'editor di OpenStreetMap"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Better offline address search, routing, and navigation"
 msgstr "Migliore ricerca, instradamento e navigazione degli indirizzi offline"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Public Transport"
 msgstr "Public Transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "… and [many other][github issues] features you want and love"
 msgstr ""
 "... e [molte altre][questioni di github] funzionalità che desiderate e amate"
 
 #. type: Title ##
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "How to donate?"
 msgstr "Come donare?"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+#, fuzzy
+msgid ""
+"Recurring donations are the best way to ensure a relatively stable income "
+"for the project and motivate us for long-term tasks and goals. But you can "
+"also donate one time."
 msgstr ""
 "Le donazioni ricorrenti sono il modo migliore per garantire un reddito "
 "relativamente stabile al progetto e per motivarci ad affrontare compiti e "
@@ -660,25 +686,25 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Bank Transfer"
 msgstr "Bonifico bancario"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ bank_transfer(lang='en') }}"
 msgstr "{{ bank_transfer(lang='en') }}"
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Crypto"
 msgstr "Cripto"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Please consider donating annually to reduce total fees."
 msgstr ""
 "Considerate la possibilità di fare una donazione annuale per ridurre le "
@@ -686,40 +712,41 @@ msgstr ""
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "{{ crypto_table(lang='en') }}"
 msgstr "{{ crypto_table(lang='en') }}"
 
 #. type: Title ##
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "Can you help us in any other way?"
 msgstr "Può aiutarci in qualche altro modo?"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
+#, fuzzy
+msgid ""
+"Yes! There are many ways to support Organic Maps. Please see [Support Us](@/"
+"support-us/index.md) page for more details."
 msgstr ""
 "Sì! Ci sono molti modi per sostenere Organic Maps. Per maggiori dettagli, "
 "consultare la pagina [Support Us](@/support-us/index.md)."
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy, markdown-text, no-wrap
-msgid "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
+#, fuzzy, no-wrap
+msgid ""
+"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 msgstr ""
 "[stripe]: https://donate.organicmaps.app/ \"Donare tramite Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"Problemi"
-" di GitHub\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"Problemi di GitHub\"\n"
 
 #. type: YAML Front Matter: description
 #: content/news/_index.md
 #, fuzzy, no-wrap
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
-msgstr ""
-"Rimanete in contatto con gli ultimi rilasci di Organic Maps, le novità e gli "
-"aggiornamenti del nostro team."
+msgstr "Rimanete in contatto con gli ultimi rilasci di Organic Maps, le novità e gli aggiornamenti del nostro team."
 
 #. type: YAML Front Matter: title
 #: content/news/_index.md
@@ -727,13 +754,17 @@ msgstr ""
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Mappe organiche: Ultime notizie e aggiornamenti dal nostro team"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "News"
+msgstr ""
+
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
 #, fuzzy, no-wrap
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
-msgstr ""
-"Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessuna "
-"raccolta di statistiche, nessun spyware"
+msgstr "Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessuna raccolta di statistiche, nessun spyware"
 
 #. type: YAML Front Matter: title
 #: content/privacy/index.md
@@ -741,16 +772,24 @@ msgstr ""
 msgid "Organic Maps: Privacy Policy"
 msgstr "Mappe organiche: Informativa sulla privacy"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "Privacy"
+msgstr ""
+
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Organic Maps respects your privacy and DOES NOT TRACK YOU."
 msgstr "Organic Maps rispetta la vostra privacy e non vi traccia."
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy, markdown-text
-msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
+#, fuzzy
+msgid ""
+"Unlike most other applications, there is no tracking, no ads, no spyware, no "
+"data and statistics collection in Organic Maps."
 msgstr ""
 "A differenza della maggior parte delle altre applicazioni, in Organic Maps "
 "non c'è tracciamento, né pubblicità, né spyware, né raccolta di dati e "
@@ -758,21 +797,23 @@ msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Stay away from Big Tech's prying eyes!"
 msgstr "State lontani dagli occhi indiscreti di Big Tech!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-#, fuzzy, markdown-text
-msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+#, fuzzy
+msgid ""
+"If you have any questions or suggestions, please contact us at "
+"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
 msgstr ""
 "Se avete domande o suggerimenti, contattateci all'indirizzo "
 "[legal@organicmaps.app](mailto:legal@organicmaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
 msgstr "<sub>Questa politica è efficace a partire dal 2021-04-24.</sub>\n"
 
@@ -780,8 +821,7 @@ msgstr "<sub>Questa politica è efficace a partire dal 2021-04-24.</sub>\n"
 #: content/support-us/index.md
 #, fuzzy, no-wrap
 msgid "Different ways to support the development of our free application"
-msgstr ""
-"Diversi modi per sostenere lo sviluppo della nostra applicazione gratuita"
+msgstr "Diversi modi per sostenere lo sviluppo della nostra applicazione gratuita"
 
 #. type: YAML Front Matter: title
 #: content/support-us/index.md
@@ -789,10 +829,19 @@ msgstr ""
 msgid "Support the development of Organic Maps"
 msgstr "Sostenere lo sviluppo di Mappe organiche"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/support-us/index.md
+#, no-wrap
+msgid "Support Us"
+msgstr ""
+
 #. type: Plain text
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+#, fuzzy
+msgid ""
+"Organic Maps is a free, open-source app. It is free from ads, it does not "
+"collect your personal information, and it is developed by a few enthusiasts "
+"with the help of the community."
 msgstr ""
 "Organic Maps è un'applicazione gratuita e open-source. È priva di "
 "pubblicità, non raccoglie informazioni personali ed è sviluppata da alcuni "
@@ -800,66 +849,77 @@ msgstr ""
 
 #. type: Plain text
 #: content/support-us/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "There are different ways to support the development:"
 msgstr "Esistono diversi modi per sostenere lo sviluppo:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "[Donate][donate]! Every dollar or euro counts and helps us to pay for servers and scale."
+#, fuzzy
+msgid ""
+"[Donate][donate]! Every dollar or euro counts and helps us to pay for "
+"servers and scale."
 msgstr ""
 "[Dona][dona]! Ogni dollaro o euro è importante e ci aiuta a pagare i server "
 "e la scala."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+#, fuzzy
+msgid ""
+"Report bugs and share ideas on our [GitHub][github] or via [email][email]."
 msgstr ""
 "Segnalate bug e condividete idee su [GitHub][github] o via [email][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
+#, fuzzy
+msgid ""
+"Help us to [fix bugs][contributing] and do code reviews if you are a "
+"developer. Every fixed small issue makes someone happier."
 msgstr ""
 "Aiutateci a [risolvere i bug][contribuire] e a fare revisioni del codice se "
 "siete sviluppatori. Ogni piccolo problema risolto rende qualcuno più felice."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[Translate][translations] missing strings in the app's interface."
 msgstr "[Stringhe mancanti nell'interfaccia dell'app."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
+#, fuzzy
+msgid ""
+"Translate [App Store][translations_appstore] and [Android]"
+"[translations_googleplay] descriptions into your language."
 msgstr ""
-"Tradurre le descrizioni di [App Store][translations_appstore] e "
-"[Android][translations_googleplay] nella propria lingua."
+"Tradurre le descrizioni di [App Store][translations_appstore] e [Android]"
+"[translations_googleplay] nella propria lingua."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "[Translate][translations_website] our web site into your language."
 msgstr ""
 "[Tradurre][translations_website] il nostro sito web nella vostra lingua."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Join the [OpenStreetMap][openstreemap] community and contribute to the maps data."
+#, fuzzy
+msgid ""
+"Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
+"data."
 msgstr ""
 "Unitevi alla comunità [OpenStreetMap][openstreemap] e contribuite ai dati "
 "delle mappe."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
+#, fuzzy
+msgid ""
+"Fix red cities found by our [public transport validator]"
+"[public_transport_validator], for subways and light rails to work in the app."
 msgstr ""
 "Correggere le città rosse trovate dal nostro [validatore di trasporto "
 "pubblico][validatore_di_trasporto_pubblico], per far funzionare le "
@@ -867,39 +927,46 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+#, fuzzy
+msgid ""
+"Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix]"
+"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr ""
 "Supportate gli altri utenti su [GitHub][issues], [Telegram][telegram_chat], "
-"[matrix][matrix], [Twitter][twitter], [Facebook][facebook], "
-"[Instagram][instagram]."
+"[matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram]"
+"[instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
+#, fuzzy
+msgid ""
+"Tell everyone about Organic Maps. A bigger community is a stronger community."
 msgstr ""
 "Parlate a tutti di Organic Maps. Una comunità più grande è una comunità più "
 "forte."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+#, fuzzy
+msgid ""
+"Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei "
+"Appgallery][appgallery]."
 msgstr ""
 "Valutateci in [Google Play][googleplay], [Apple Store][appstore], [Huawei "
 "Appgallery][appgallery]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "Any help is welcome!"
 msgstr "Ogni aiuto è ben accetto!"
 
 #. type: Plain text
 #: content/support-us/index.md
-#, fuzzy, markdown-text
-msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+#, fuzzy
+msgid ""
+"Our small team is very grateful for your feedback and support. Organic Maps "
+"would not be possible without our users ❤️."
 msgstr ""
 "Il nostro piccolo team è molto grato per il vostro feedback e supporto. "
 "Organic Maps non sarebbe possibile senza i nostri utenti ❤️."
@@ -916,10 +983,18 @@ msgstr "Condizioni d'uso dell'applicazione Organic Maps"
 msgid "Organic Maps: terms"
 msgstr "Mappe organiche: termini"
 
+#. type: YAML Front Matter: extra.menu_title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text
-msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
+#, fuzzy
+msgid ""
+"This app is licensed under the Apache License, Version 2.0 (the \"License"
+"\"); you may not use this application except in compliance with the License."
 msgstr ""
 "Questa applicazione è concessa in licenza secondo la Licenza Apache, "
 "versione 2.0 (la \"Licenza\"); l'utente non può utilizzare questa "
@@ -927,16 +1002,23 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text
-msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
+#, fuzzy
+msgid ""
+"You may obtain a copy of the License at [http://www.apache.org/licenses/"
+"LICENSE-2.0][license]"
 msgstr ""
-"È possibile ottenere una copia della Licenza all'indirizzo [http://www.apache"
-".org/licenses/LICENSE-2.0][license]"
+"È possibile ottenere una copia della Licenza all'indirizzo [http://www."
+"apache.org/licenses/LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text
-msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+#, fuzzy
+msgid ""
+"Unless required by applicable law or agreed to in writing, software "
+"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
+"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
+"License for the specific language governing permissions and limitations "
+"under the License."
 msgstr ""
 "A meno che non sia richiesto dalla legge o concordato per iscritto, il "
 "software distribuito con la Licenza è distribuito \"COSÌ COM'È\", SENZA "
@@ -946,55 +1028,115 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text
-msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
+#, fuzzy
+msgid ""
+"Most libraries in the following directories on [GitHub][github] made by "
+"other people and organizations and licensed in different ways:"
 msgstr ""
-"La maggior parte delle librerie presenti nelle seguenti directory su "
-"[GitHub][github] sono state realizzate da altre persone e organizzazioni e "
-"hanno ottenuto licenze diverse:"
+"La maggior parte delle librerie presenti nelle seguenti directory su [GitHub]"
+"[github] sono state realizzate da altre persone e organizzazioni e hanno "
+"ottenuto licenze diverse:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "3party"
 msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy, markdown-text
+#, fuzzy
 msgid "tools"
 msgstr "strumenti"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text
-msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+#, fuzzy
+msgid ""
+"Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr "Per le condizioni d'uso, consultare i file LICENZA, COPIA o AVVISO."
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text
-msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
+#, fuzzy
+msgid ""
+"See also [data/copyright.html][copyright] file for a full list of copyright "
+"notices for Organic Maps application."
 msgstr ""
 "Vedere anche il file [data/copyright.html][copyright] per un elenco completo "
 "delle note di copyright per l'applicazione Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "[github]: https://github.com/organicmaps/organicmaps\n"
 msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 msgstr "[licenza]: http://www.apache.org/licenses/LICENSE-2.0\n"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, markdown-text, no-wrap
+#, fuzzy, no-wrap
 msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+
+#. type: Zola TOML Translations: address
+#: config.toml
+#, no-wrap
+msgid "Address"
 msgstr ""
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/"
-"copyright.html\n"
+
+#. type: Zola TOML Translations: back
+#: config.toml
+#, no-wrap
+msgid "Back to News"
+msgstr ""
+
+#. type: Zola TOML Translations: install-appgallery
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from Huawei AppGallery"
+msgstr ""
+
+#. type: Zola TOML Translations: install-appstore
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from the AppStore"
+msgstr ""
+
+#. type: Zola TOML Translations: install-googleplay
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr ""
+
+#. type: Zola TOML Translations: install-fdroid
+#: config.toml
+#, no-wrap
+msgid "Install Organic Maps from F-Droid"
+msgstr ""
+
+#. type: Zola TOML Translations: language
+#, no-wrap
+msgid "English"
+msgstr ""
+
+#. type: Zola TOML Translations: name
+#: config.toml
+#, no-wrap
+msgid "Name"
+msgstr ""
+
+#. type: Zola TOML Translations: token
+#: config.toml
+#, no-wrap
+msgid "Token"
+msgstr ""
+
+#, fuzzy, no-wrap
+#~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
+#~ msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"

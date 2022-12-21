@@ -7,7 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "Last-Translator: Linerly <linerly@protonmail.com>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/organicmaps/website/id/>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/organicmaps/"
+"website/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +60,8 @@ msgstr "{{ badges(lang='id') }}"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}"
+msgstr ""
+"{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -68,13 +70,20 @@ msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Pencarian Luring') }}"
+msgid ""
+"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+msgstr ""
+"{{ screenshot(src='/images/screenshots/search.jpg', alt='Pencarian "
+"Luring') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigasi dalam mode gelap') }}"
+msgid ""
+"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark "
+"mode') }}"
+msgstr ""
+"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigasi dalam mode "
+"gelap') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -84,13 +93,21 @@ msgstr "Fitur"
 
 #. type: Plain text
 #: content/_index.md
-msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr "Organic Maps adalah aplikasi pendamping terlengkap bagi para pelancong, turis, pejalan kaki, dan pengendara sepeda:"
+msgid ""
+"Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
+"and cyclists:"
+msgstr ""
+"Organic Maps adalah aplikasi pendamping terlengkap bagi para pelancong, "
+"turis, pejalan kaki, dan pengendara sepeda:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr "Peta luring terperinci dengan tempat-tempat yang tidak ada di peta lain, berkat [OpenStreetMap][openstreetmap]"
+msgid ""
+"Detailed offline maps with places that don't exist on other maps, thanks to "
+"[OpenStreetMap][openstreetmap]"
+msgstr ""
+"Peta luring terperinci dengan tempat-tempat yang tidak ada di peta lain, "
+"berkat [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -105,7 +122,9 @@ msgstr "Garis kontur, profil ketinggian, puncak, dan lereng"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "Navigasi berjalan kaki, bersepeda, dan mobil belok demi belok dengan panduan suara"
+msgstr ""
+"Navigasi berjalan kaki, bersepeda, dan mobil belok demi belok dengan panduan "
+"suara"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -114,8 +133,10 @@ msgstr "Pencarian luring cepat pada peta"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Ekspor dan impor penanda dalam format KML/KMZ (GPX [direncanakan][gpx_issue])"
+msgid ""
+"Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgstr ""
+"Ekspor dan impor penanda dalam format KML/KMZ (GPX [direncanakan][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -236,12 +257,16 @@ msgstr "{{ privacy_screenshots(lang='en') }}"
 #. type: Plain text
 #: content/_index.md
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr "Di Organic Maps, kami percaya bahwa privasi adalah hak asasi manusia yang mendasar:"
+msgstr ""
+"Di Organic Maps, kami percaya bahwa privasi adalah hak asasi manusia yang "
+"mendasar:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "Organic Maps adalah proyek sumber terbuka yang digerakkan oleh komunitas tersendiri"
+msgstr ""
+"Organic Maps adalah proyek sumber terbuka yang digerakkan oleh komunitas "
+"tersendiri"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -273,7 +298,9 @@ msgstr "Siapa yang membayar untuk aplikasi gratis ini?"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate][donate] to support us!"
-msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi][donate] untuk mendukung kami!"
+msgstr ""
+"Aplikasi ini gratis untuk semua orang. Silakan [berdonasi][donate] untuk "
+"mendukung kami!"
 
 #. type: Title ###
 #: content/_index.md
@@ -294,8 +321,15 @@ msgstr "Sponsor kami:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr "Penyedia layanan internet [Mythic Beasts](https://www.mythic-beasts.com/) [menyediakan kami][mythic_beasts_donation] dua peladen virtual dengan bandwidth 400 TB/bulan gratis untuk membantu pengguna kami dengan unduhan dan pembaruan peta."
+msgid ""
+"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
+"[mythic_beasts_donation] two virtual servers with 400 TB/month of free "
+"bandwidth to help our users with maps downloads and updates."
+msgstr ""
+"Penyedia layanan internet [Mythic Beasts](https://www.mythic-beasts.com/) "
+"[menyediakan kami][mythic_beasts_donation] dua peladen virtual dengan "
+"bandwidth 400 TB/bulan gratis untuk membantu pengguna kami dengan unduhan "
+"dan pembaruan peta."
 
 #. type: Title ##
 #: content/_index.md
@@ -305,13 +339,19 @@ msgstr "Komunitas"
 
 #. type: Plain text
 #: content/_index.md
-msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "Organic Maps adalah [perangkat lunak sumber terbuka][github] yang dilisensikan di bawah lisensi Apache 2.0."
+msgid ""
+"Organic Maps is an [open-source software][github] licensed under the Apache "
+"License 2.0."
+msgstr ""
+"Organic Maps adalah [perangkat lunak sumber terbuka][github] yang "
+"dilisensikan di bawah lisensi Apache 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr "Silakan bergabung dengan program beta kami, sarankan fitur Anda, dan laporkan kutu:"
+msgstr ""
+"Silakan bergabung dengan program beta kami, sarankan fitur Anda, dan "
+"laporkan kutu:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -335,8 +375,11 @@ msgstr "[Beta Desktop Linux (paket)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr "Laporkan kutu atau masalah ke [pelacak masalah][issues] atau [kirim surel kepada kami][email]."
+msgid ""
+"Report bugs or issues to [the issue tracker][issues] or [email us][email]."
+msgstr ""
+"Laporkan kutu atau masalah ke [pelacak masalah][issues] atau [kirim surel "
+"kepada kami][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -345,13 +388,19 @@ msgstr "[Diskusikan][ideas] ide atau usulkan permintaan fitur."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr "Berlangganan ke [saluran Telegram][telegram] atau ke [space Matrix][matrix] untuk pembaruan."
+msgid ""
+"Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
+"[matrix] for updates."
+msgstr ""
+"Berlangganan ke [saluran Telegram][telegram] atau ke [space Matrix][matrix] "
+"untuk pembaruan."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr "Bergabunglah dengan [grup Telegram][telegram_chat] kami untuk berdiskusi dengan pengguna lain."
+msgstr ""
+"Bergabunglah dengan [grup Telegram][telegram_chat] kami untuk berdiskusi "
+"dengan pengguna lain."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -360,8 +409,12 @@ msgstr "Kunjungi [laman GitHub][github] kami."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
-msgstr "Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgid ""
+"Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
+"[twitter], [Instagram][instagram], [Reddit][reddit]."
+msgstr ""
+"Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
+"[twitter], [Instagram][instagram], [Reddit][reddit]."
 
 #. type: Plain text
 #: content/_index.md
@@ -394,8 +447,12 @@ msgstr "Donasi"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi] [stripe]**:"
+msgid ""
+"Organic Maps app is _free for everyone_ thanks to your **[donations]"
+"[stripe]**:"
+msgstr ""
+"Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi] "
+"[stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -420,18 +477,31 @@ msgstr "Mengapa berdonasi ke Organic Maps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "Kami mengandalkan donasi Anda untuk menjalankan misi kami agar Organic Maps tetap terbuka dan bebas.  Dan bebas dari iklan."
+msgid ""
+"We rely on your donations to carry out our mission to keep Organic Maps open "
+"and free.  And free from ads."
+msgstr ""
+"Kami mengandalkan donasi Anda untuk menjalankan misi kami agar Organic Maps "
+"tetap terbuka dan bebas.  Dan bebas dari iklan."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Kami adalah beberapa penggemar yang berkontribusi di waktu luang kami, dan menghabiskan uang keluarga kami untuk proyek ini.  Kami mencintai apa yang kami lakukan, dan kami mencintai pengguna kami. ❤️"
+msgid ""
+"We are a few enthusiasts contributing in our free time, and spending our "
+"families' money on the project.  We love what we do, and we love our users ❤️."
+msgstr ""
+"Kami adalah beberapa penggemar yang berkontribusi di waktu luang kami, dan "
+"menghabiskan uang keluarga kami untuk proyek ini.  Kami mencintai apa yang "
+"kami lakukan, dan kami mencintai pengguna kami. ❤️"
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr "Dengan dukungan Anda, kami ingin menjadi versi Google Maps yang lebih baik dan berfokus pada privasi."
+msgid ""
+"With your support, we want to become a better, privacy-focused version of "
+"Google Maps."
+msgstr ""
+"Dengan dukungan Anda, kami ingin menjadi versi Google Maps yang lebih baik "
+"dan berfokus pada privasi."
 
 #. type: Title ##
 #: content/donate/index.md
@@ -441,18 +511,35 @@ msgstr "Untuk apa uang itu akan digunakan?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Kami membayar untuk server yang cepat, sehingga siapa pun di Dunia dapat mengunduh pembaruan data peta gratis tanpa penundaan.  Ratusan terabyte setiap bulan, dan jumlahnya terus bertambah."
+msgid ""
+"We pay for fast servers, so anyone in the World can download free map data "
+"updates without delays.  It's hundreds of terabytes monthly, and the amount "
+"is growing."
+msgstr ""
+"Kami membayar untuk server yang cepat, sehingga siapa pun di Dunia dapat "
+"mengunduh pembaruan data peta gratis tanpa penundaan.  Ratusan terabyte "
+"setiap bulan, dan jumlahnya terus bertambah."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi adalah prioritas utama kami.  Ada [1200+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari.  App Store, Google Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin memberikan produk berkualitas tinggi."
+msgid ""
+"User support, bugfixing, and improving the stability of the app are at the "
+"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
+"and this number is growing every day.  AppStore, Google Play, and support "
+"emails are overflooded with comments and bugs. We want to deliver a high-"
+"quality product."
+msgstr ""
+"Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi "
+"adalah prioritas utama kami.  Ada [1200+ masalah di GitHub][github issues], "
+"dan jumlah ini terus bertambah setiap hari.  App Store, Google Play, dan "
+"email dukungan dibanjiri dengan komentar dan kutu. Kami ingin memberikan "
+"produk berkualitas tinggi."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
-msgstr "Dengan uang yang cukup, fitur baru bisa dikembangkan lebih cepat, misalnya:"
+msgstr ""
+"Dengan uang yang cukup, fitur baru bisa dikembangkan lebih cepat, misalnya:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -512,8 +599,14 @@ msgstr "Bagaimana cara berdonasi?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
-msgstr "Donasi berulang adalah cara terbaik untuk memastikan pendapatan yang relatif stabil untuk proyek dan memotivasi kami untuk tugas dan tujuan jangka panjang. Tetapi Anda juga dapat menyumbang satu kali."
+msgid ""
+"Recurring donations are the best way to ensure a relatively stable income "
+"for the project and motivate us for long-term tasks and goals. But you can "
+"also donate one time."
+msgstr ""
+"Donasi berulang adalah cara terbaik untuk memastikan pendapatan yang relatif "
+"stabil untuk proyek dan memotivasi kami untuk tugas dan tujuan jangka "
+"panjang. Tetapi Anda juga dapat menyumbang satu kali."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -535,7 +628,9 @@ msgstr "Kripto"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Please consider donating annually to reduce total fees."
-msgstr "Silakan pertimbangkan untuk menyumbang setiap tahun untuk mengurangi total biaya."
+msgstr ""
+"Silakan pertimbangkan untuk menyumbang setiap tahun untuk mengurangi total "
+"biaya."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -550,8 +645,12 @@ msgstr "Dapatkah Anda membantu kami dengan cara lain?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman [Dukung Kami](@/support-us/index.md) untuk lebih jelasnya."
+msgid ""
+"Yes! There are many ways to support Organic Maps. Please see [Support Us](@/"
+"support-us/index.md) page for more details."
+msgstr ""
+"Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman "
+"[Dukung Kami](@/support-us/index.md) untuk lebih jelasnya."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -606,8 +705,13 @@ msgstr "Organic Maps menghormati privasi Anda dan TIDAK MELACAK ANDA."
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
-msgstr "Tidak seperti kebanyakan aplikasi lain, ini tidak memiliki pelacakan, tanpa iklan, tanpa perangkat lunak pengintai, tanpa pengumpulan data dan statistik di Organic Maps."
+msgid ""
+"Unlike most other applications, there is no tracking, no ads, no spyware, no "
+"data and statistics collection in Organic Maps."
+msgstr ""
+"Tidak seperti kebanyakan aplikasi lain, ini tidak memiliki pelacakan, tanpa "
+"iklan, tanpa perangkat lunak pengintai, tanpa pengumpulan data dan statistik "
+"di Organic Maps."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -616,8 +720,12 @@ msgstr "Jauhi mata-mata Teknologi Besar!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr "Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgid ""
+"If you have any questions or suggestions, please contact us at "
+"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgstr ""
+"Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di "
+"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -645,8 +753,14 @@ msgstr "Dukung Kami"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr "Organic Maps adalah aplikasi sumber terbuka bebas. Aplikasi ini bebas dari iklan, tidak mengumpulkan informasi pribadi Anda, dan dikembangkan oleh beberapa penggemar dengan bantuan komunitas."
+msgid ""
+"Organic Maps is a free, open-source app. It is free from ads, it does not "
+"collect your personal information, and it is developed by a few enthusiasts "
+"with the help of the community."
+msgstr ""
+"Organic Maps adalah aplikasi sumber terbuka bebas. Aplikasi ini bebas dari "
+"iklan, tidak mengumpulkan informasi pribadi Anda, dan dikembangkan oleh "
+"beberapa penggemar dengan bantuan komunitas."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -655,28 +769,45 @@ msgstr "Ada berbagai cara untuk mendukung pengembangan:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "[Donate][donate]! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Donasi] [donasi]! Setiap dolar atau euro sangat berarti dan membantu kami membayar peladen dan skala."
+msgid ""
+"[Donate][donate]! Every dollar or euro counts and helps us to pay for "
+"servers and scale."
+msgstr ""
+"[Donasi] [donasi]! Setiap dolar atau euro sangat berarti dan membantu kami "
+"membayar peladen dan skala."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr "Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui [surel][email]."
+msgid ""
+"Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+msgstr ""
+"Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui "
+"[surel][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Bantu kami untuk [memperbaiki kutu] [contributing] dan melakukan tinjauan kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki membuat seseorang lebih bahagia."
+msgid ""
+"Help us to [fix bugs][contributing] and do code reviews if you are a "
+"developer. Every fixed small issue makes someone happier."
+msgstr ""
+"Bantu kami untuk [memperbaiki kutu] [contributing] dan melakukan tinjauan "
+"kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki "
+"membuat seseorang lebih bahagia."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations] missing strings in the app's interface."
-msgstr "[Terjemahkan][translations] string yang belum ada di antarmuka aplikasi."
+msgstr ""
+"[Terjemahkan][translations] string yang belum ada di antarmuka aplikasi."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr "Terjemahkan deskripsi [App Store][translations_appstore] dan [Android][translations_googleplay] ke dalam bahasa Anda."
+msgid ""
+"Translate [App Store][translations_appstore] and [Android]"
+"[translations_googleplay] descriptions into your language."
+msgstr ""
+"Terjemahkan deskripsi [App Store][translations_appstore] dan [Android]"
+"[translations_googleplay] ke dalam bahasa Anda."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -685,28 +816,48 @@ msgstr "[Terjemahkan][translations_website] situs web kami ke bahasa Anda."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Bergabunglah dengan komunitas [OpenStreetMap][openstreetmap] dan berkontribusi pada data peta."
+msgid ""
+"Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
+"data."
+msgstr ""
+"Bergabunglah dengan komunitas [OpenStreetMap][openstreetmap] dan "
+"berkontribusi pada data peta."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr "Perbaiki kota merah yang ditemukan oleh [validator transportasi umum][public_transport_validator] kami, agar kereta bawah tanah dan kereta ringan dapat berfungsi di aplikasi."
+msgid ""
+"Fix red cities found by our [public transport validator]"
+"[public_transport_validator], for subways and light rails to work in the app."
+msgstr ""
+"Perbaiki kota merah yang ditemukan oleh [validator transportasi umum]"
+"[public_transport_validator] kami, agar kereta bawah tanah dan kereta ringan "
+"dapat berfungsi di aplikasi."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr "Dukung pengguna lain di [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgid ""
+"Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix]"
+"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr ""
+"Dukung pengguna lain di [GitHub][issues], [Telegram][telegram_chat], [Matrix]"
+"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr "Beri tahu semua orang tentang Organic Maps. Komunitas yang lebih besar adalah komunitas yang lebih kuat."
+msgid ""
+"Tell everyone about Organic Maps. A bigger community is a stronger community."
+msgstr ""
+"Beri tahu semua orang tentang Organic Maps. Komunitas yang lebih besar "
+"adalah komunitas yang lebih kuat."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "Beri ulasan di [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgid ""
+"Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei "
+"Appgallery][appgallery]."
+msgstr ""
+"Beri ulasan di [Google Play][googleplay], [Apple Store][appstore], [Huawei "
+"Appgallery][appgallery]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -715,8 +866,12 @@ msgstr "Bantuan apa pun diterima!"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
-msgstr "Tim kecil kami sangat berterima kasih atas masukan dan dukungan Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami. ❤️"
+msgid ""
+"Our small team is very grateful for your feedback and support. Organic Maps "
+"would not be possible without our users ❤️."
+msgstr ""
+"Tim kecil kami sangat berterima kasih atas masukan dan dukungan Anda. "
+"Organic Maps tidak akan mungkin terjadi tanpa pengguna kami. ❤️"
 
 #. type: YAML Front Matter: description
 #: content/terms/index.md
@@ -738,23 +893,45 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
-msgstr "Aplikasi ini dilisensikan di bawah lisensi Apache, Versi 2.0 (\"Lisensi\"); Anda tidak boleh menggunakan aplikasi ini kecuali sesuai dengan Lisensi."
+msgid ""
+"This app is licensed under the Apache License, Version 2.0 (the \"License"
+"\"); you may not use this application except in compliance with the License."
+msgstr ""
+"Aplikasi ini dilisensikan di bawah lisensi Apache, Versi 2.0 (\"Lisensi\"); "
+"Anda tidak boleh menggunakan aplikasi ini kecuali sesuai dengan Lisensi."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
-msgstr "Anda dapat mendapatkan salinan Lisensi di [http://www.apache.org/licenses/LICENSE-2.0][license]"
+msgid ""
+"You may obtain a copy of the License at [http://www.apache.org/licenses/"
+"LICENSE-2.0][license]"
+msgstr ""
+"Anda dapat mendapatkan salinan Lisensi di [http://www.apache.org/licenses/"
+"LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr "Kecuali diwajibkan oleh hukum yang berlaku atau disetujui secara tertulis, perangkat lunak yang didistribusikan berdasarkan Lisensi didistribusikan dengan DASAR \"SEBAGAIMANA ADANYA\", TANPA JAMINAN ATAU KONDISI APA PUN, baik tersurat maupun tersirat. Lihat Lisensi untuk bahasa spesifik yang mengatur izin dan batasan berdasarkan Lisensi."
+msgid ""
+"Unless required by applicable law or agreed to in writing, software "
+"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
+"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
+"License for the specific language governing permissions and limitations "
+"under the License."
+msgstr ""
+"Kecuali diwajibkan oleh hukum yang berlaku atau disetujui secara tertulis, "
+"perangkat lunak yang didistribusikan berdasarkan Lisensi didistribusikan "
+"dengan DASAR \"SEBAGAIMANA ADANYA\", TANPA JAMINAN ATAU KONDISI APA PUN, "
+"baik tersurat maupun tersirat. Lihat Lisensi untuk bahasa spesifik yang "
+"mengatur izin dan batasan berdasarkan Lisensi."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
-msgstr "Sebagian besar pustaka dalam direktori berikut di [GitHub][github] dibuat oleh orang dan organisasi lain dan dilisensikan dengan cara yang berbeda:"
+msgid ""
+"Most libraries in the following directories on [GitHub][github] made by "
+"other people and organizations and licensed in different ways:"
+msgstr ""
+"Sebagian besar pustaka dalam direktori berikut di [GitHub][github] dibuat "
+"oleh orang dan organisasi lain dan dilisensikan dengan cara yang berbeda:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -768,13 +945,20 @@ msgstr "alat"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr "Silakan merujuk ke berkas LISENSI, COPYING, atau NOTICE mereka untuk ketentuan penggunaan."
+msgid ""
+"Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr ""
+"Silakan merujuk ke berkas LISENSI, COPYING, atau NOTICE mereka untuk "
+"ketentuan penggunaan."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
-msgstr "Lihat juga berkas [data/copyright.html][copyright] untuk daftar lengkap pemberitahuan hak cipta untuk aplikasi Organic Maps."
+msgid ""
+"See also [data/copyright.html][copyright] file for a full list of copyright "
+"notices for Organic Maps application."
+msgstr ""
+"Lihat juga berkas [data/copyright.html][copyright] untuk daftar lengkap "
+"pemberitahuan hak cipta untuk aplikasi Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -847,8 +1031,12 @@ msgstr "Nama"
 msgid "Token"
 msgstr "Token"
 
-#~ msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
-#~ msgstr "Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
+#~ msgid ""
+#~ "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], "
+#~ "[Twitter][twitter], [Instagram][instagram]."
+#~ msgstr ""
+#~ "Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], "
+#~ "[Twitter][twitter], [Instagram][instagram]."
 
 #, no-wrap
 #~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
