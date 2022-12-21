@@ -9,7 +9,7 @@ extra:
 
 Stiamo cercando il vostro aiuto per finanziare l'ulteriore sviluppo dell'applicazione Organic Maps.
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='it') }}
 
 ## Perché?
 
@@ -27,7 +27,6 @@ Organic Maps promuove una nuova ideologia, unica sul mercato. La nostra applicaz
 - Nessun crapware
 - Nessun pesticida
 
-
 Nessuna pubblicità, nessun tracciamento, nessun accordo segreto sottobanco! Non esiste nemmeno una versione premium a pagamento! Tutti possono installare la versione completa di Organic Maps dall'AppStore, da Google Play, da F-Droid o da GitHub senza alcun costo.
 
 Inoltre, Organic Maps è una delle poche applicazioni che supporta il 100% delle funzioni senza una connessione Internet attiva. Installate Organic Maps, scaricate le mappe, buttate via la scheda SIM (BTW, il vostro operatore vi traccia costantemente) e partite per un viaggio settimanale con una sola carica della batteria senza inviare alcun byte alla rete.
@@ -35,7 +34,6 @@ Inoltre, Organic Maps è una delle poche applicazioni che supporta il 100% delle
 Come si può intuire, i Big Money Brothers non sono interessati a questo progetto. Non c'è nulla da vendere. Fin dall'inizio, nel dicembre 2020, Organic Maps ha coinvolto 0 (zero, null, ноль) soldi di aziende e/o investitori. Lo sviluppo di questo fork è stato finanziato solo dal nostro denaro personale e continueremo a farlo. Si tratta di un massiccio investimento di denaro e tempo personale, a carico dei nostri bilanci familiari.
 
 Contiamo sulle vostre donazioni per portare avanti la nostra missione di mantenere Organic Maps aperta e libera!
-
 
 ## Per che cosa verrà utilizzato il denaro?
 
@@ -56,33 +54,32 @@ In terzo luogo, ci sono molte altre cose interessanti da fare:
 - Trasporto pubblico
 - ... e molte altre funzioni che desiderate e amate
 
-
 ## Come donare?
 
 Ci sono molti modi per donare al progetto:
 
 - **[GitHub Sponsors][] - raccomandato**, nessuna commissione
 - [Liberapay][] - commissioni moderate
-- [PayPal donate@organicmaps.app][PayPal] - commissioni elevate
-- [SEPA/bonifico bancario diretto][SEPA] - commissioni trascurabili
-- [Criptovalute][Crypto] - commissioni estreme
+- [PayPal donate@organicmaps.app][paypal] - commissioni elevate
+- [SEPA/bonifico bancario diretto][sepa] - commissioni trascurabili
+- [Criptovalute][crypto] - commissioni estreme
 
 Le donazioni ricorrenti sono il modo migliore per garantire un'entrata relativamente stabile al
 progetto e motivarci per i compiti e gli obiettivi a lungo termine. Ma potete anche
 donare una volta sola.
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='it') }}
 
 ### SEPA e bonifico bancario diretto
 
-|   |   |
-|---|---|
-Titolare del conto: | Organic Maps OÜ
-BIC: | TRWIBEB1XXX
-IBAN: | BE39967200310319
-Nome della banca: | TransferWise Europe SA
-Indirizzo della banca: | Avenue Louise 54/S52, Brussels 1050, Belgium
-Descrizione del pagamento: | Donation
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| Titolare del conto:        | Organic Maps OÜ                              |
+| BIC:                       | TRWIBEB1XXX                                  |
+| IBAN:                      | BE39967200310319                             |
+| Nome della banca:          | TransferWise Europe SA                       |
+| Indirizzo della banca:     | Avenue Louise 54/S52, Brussels 1050, Belgium |
+| Descrizione del pagamento: | Donation                                     |
 
 ### Crypto
 
@@ -94,11 +91,10 @@ Litecoin e Monero offrono commissioni basse, ma la situazione cambia ogni giorno
 ## Puoi aiutarci in qualche altro modo?
 
 Sì! Ci sono molti modi per sostenere Organic Maps. Vedi la pagina
-[Supportaci](@/support-us/index.md) per maggiori dettagli.
+[Supportaci](@/support-us/index.it.md) per maggiori dettagli.
 
-
-[PayPal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
-[GitHub Sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"
-[Liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
-[SEPA]: #sepa-e-bonifico-bancario-diretto "SEPA e bonifico bancario diretto"
-[Crypto]: #crypto "Donazioni in criptovalute"
+[paypal]: https://www.paypal.com/donate?hosted_button_id=JYM34AADM87V8 "PayPal donate@organicmaps.app"
+[github sponsors]: https://github.com/sponsors/organicmaps "GitHub Sponsors"
+[liberapay]: https://liberapay.com/OrganicMaps/donate "Liberapay"
+[sepa]: #sepa-e-bonifico-bancario-diretto "SEPA e bonifico bancario diretto"
+[crypto]: #crypto "Donazioni in criptovalute"

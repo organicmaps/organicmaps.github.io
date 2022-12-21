@@ -8,7 +8,7 @@ extra:
 ---
 
 **Organic Maps** è un'applicazione gratuita di mappe offline per Android e iOS per viaggiatori, turisti, escursionisti e ciclisti, basata su dati crowd-sourced di **[OpenStreetMap](https://www.openstreetmap.org)**.
-Si tratta di un [fork](https://it.wikipedia.org/wiki/Fork_(sviluppo_software)) open source dell'applicazione **Maps.me** (precedentemente nota come [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), incentrato sulla privacy e gestito dalle stesse persone che hanno creato **MapsWithMe** nel 2011.
+Si tratta di un [fork][fork] open source dell'applicazione **Maps.me** (precedentemente nota come [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), incentrato sulla privacy e gestito dalle stesse persone che hanno creato **MapsWithMe** nel 2011.
 
 {{ badges(lang='it') }}
 
@@ -74,17 +74,19 @@ Rifiuta la sorveglianza - difendi la tua libertà.
 
 ## Chi paga per l'app gratuita?
 
-L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.md) per sostenerci!
+L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.it.md) per sostenerci!
 
-{{ donate_buttons() }}
+### Ci sono diversi modi per donare:
 
-### I nostri sponsor
+{{ donate_buttons(lang='it') }}
+
+### I nostri sponsor:
 
 [Mythic Beasts](https://www.mythic-beasts.com/) ISP [ci offre](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/) due server virtuali con 400 TB/mese di larghezza di banda gratuita per aiutare i nostri utenti a scaricare e aggiornare le mappe.
 
 ### Supportaci
 
-Ci sono molti modi per sostenerci, elencati [qui](@/support-us/index.md).
+Ci sono molti modi per sostenerci, elencati [qui](@/support-us/index.it.md).
 
 ## Beta
 
@@ -101,9 +103,13 @@ Organic Maps è un [software open-source](https://github.com/organicmaps/organic
 
 - Segnala bug o problemi tramite il [tracker dei problemi](https://github.com/organicmaps/organicmaps/issues) o [inviaci un email](mailto:hello@organicmaps.app).
 - [Discuti](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) idee o proponi richieste di funzionalità.
-- Iscriviti al nostro [Canale Telegram](https://t.me/OrganicMapsApp) o allo spazio [[matrix]](https://matrix.to/#/#organicmaps:matrix.org) per ricevere aggiornamenti.
+- Iscriviti al nostro [Canale Telegram](https://t.me/OrganicMapsApp) o allo spazio [matrix](https://matrix.to/#/#organicmaps:matrix.org) per ricevere aggiornamenti.
 - Unisciti al nostro [Gruppo Telegram](https://t.me/OrganicMaps) per discutere con altri utenti.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи.
 - Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
 - Visita la nostra [pagina GitHub](https://github.com/organicmaps/organicmaps).
 - Segui i nostri aggiornamenti su [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).
+
+[fork]: https://it.wikipedia.org/wiki/Fork_(sviluppo_software)
+
+{{ references(lang='it') }}

@@ -8,17 +8,15 @@ slug: "organic-maps-is-live"
 
 iOS:
 
-* Apple AppStore: <https://apps.apple.com/app/organic-maps/id1567437057>
-* Beta: <https://testflight.apple.com/join/lrKCl08I>
+* [Apple AppStore](https://apps.apple.com/app/organic-maps/id1567437057)
+* [Beta version](https://testflight.apple.com/join/lrKCl08I)
 
 Android:
 
-* Google Play: <https://play.google.com/store/apps/details?id=app.organicmaps>
-* Huawei AppGallery: <https://appgallery.huawei.com/#/app/C104325611>
-* F-Droid: <https://f-droid.org/en/packages/app.organicmaps/>
-* Beta: <https://appdistribution.firebase.dev/i/3c5fcf9cd72f775f>
-
-GitHub: <https://github.com/organicmaps/organicmaps>
+* [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
+* [Huawei AppGallery](https://appgallery.huawei.com/#/app/C104325611)
+* [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
+* [Beta](https://appdistribution.firebase.dev/i/3c5fcf9cd72f775f)
 
 Please give us ⭐ ⭐ ⭐ ⭐ ⭐ on AppStore and Google Play to help this project survive! 🔥
 
@@ -41,7 +39,8 @@ Organic Maps is pure and organic, and **free from trackers and other bad stuff**
 ✅ No crapware
 ✅ No pesticides 😇
 
-<https://t.me/OrganicMaps>
-<https://t.me/OrganicMapsRu> (для русскоговорящих)
-<https://organicmaps.app/>
-<https://github.com/organicmaps/organicmaps>
+[Telegram Channel for Updates](https://t.me/OrganicMaps)
+[Telegram discussions](https://t.me/OrganicMaps)
+[Telegram](https://t.me/OrganicMapsRu) для русскоговорящих
+[Our website](https://organicmaps.app/)
+[Our GitHub](https://github.com/organicmaps/organicmaps)

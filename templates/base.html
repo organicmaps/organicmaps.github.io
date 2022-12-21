@@ -18,6 +18,8 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
   {% endblock %}
 
+  <link rel="canonical" href="{{ config.base_url | safe }}{{ resource.path | safe }}">
+
   {%- set preview_image = 'images/screenshots/prague.jpg' -%}
   {%- if resource.extra.preview_image -%}
   {%- set preview_image = resource.extra.preview_image -%}
@@ -55,15 +57,20 @@
   <link href="/main.css?h={{ get_file_hash(path='sass/main.scss', sha_type=256, base64=false) }}" rel="stylesheet" type="text/css">
 
   <title>{{ resource.title }}</title>
+
+  {# TODO: Replace 'en' with config.default_language after upgrading Zola #}
+  {%- if lang == 'en' %}
+  {% include 'language_redirect.html' %}
+  {% endif -%}
 </head>
 
 <body>
   <header>
-    {% include 'menu.html' %}
+    {% include 'top_menu.html' %}
   </header>
 
   <main>
-    {% block content %} {% endblock %}
+    {% block content %}{% endblock %}
   </main>
 
   <footer>

@@ -10,14 +10,14 @@ This update fixes several bugs and includes the latest May data.
 
 **iOS**:
 
-\- Fix a crash in bookmarks
+- Fixed crash in bookmarks
 
-Install from TestFlight: <https://testflight.apple.com/join/62l4Qh2K>
+Install from [TestFlight](https://testflight.apple.com/join/lrKCl08I)
 
 **Android**:
 
-\- Fix a crash in Settings.
-\- Fix random crashes in the background.
+- Fixed crash in Settings
+- Fixed random crashes in the background
 
-Get it on Google Play (Beta) - <https://play.google.com/store/apps/details?id=app.organicmaps>
-Download APK from GitHub - <https://github.com/organicmaps/organicmaps/releases/tag/2021-05-08>
+Get it on [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
+Download [APK from GitHub](https://github.com/organicmaps/organicmaps/releases/tag/2021-05-08)

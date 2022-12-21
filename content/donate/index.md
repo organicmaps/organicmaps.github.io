@@ -7,14 +7,15 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Organic Maps app is *free for everyone* thanks to your **[donations][Stripe]**:
+Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
+
 - No ads
 - No trackers
 - No registration
 - No push notifications
 - Open source
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='en') }}
 
 ## Why donate to Organic Maps?
 
@@ -29,7 +30,7 @@ Organic Maps app is *free for everyone* thanks to your **[donations][Stripe]**:
 1. We pay for fast servers, so anyone in the World can download free map data updates without delays.
    It's hundreds of terabytes monthly, and the amount is growing.
 2. User support, bugfixing, and improving the stability of the app are at the top of our priorities.
-   There are [1200+ issues on GitHub][GitHub issues], and this number is growing every day.
+   There are [1200+ issues on GitHub][github issues], and this number is growing every day.
    AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
 3. With enough money, new features can be developed faster, for example:
    - Weekly and automated map data updates
@@ -41,13 +42,11 @@ Organic Maps app is *free for everyone* thanks to your **[donations][Stripe]**:
    - Improve the OpenStreetMap editor
    - Better offline address search, routing, and navigation
    - Public Transport
-   - … and [many other][GitHub issues] features you want and love
+   - … and [many other][github issues] features you want and love
 
 ## How to donate?
 
-There are many ways to donate to the project:
-
-{{ donate_buttons() }}
+{{ donate_buttons(lang='en') }}
 
 Recurring donations are the best way to ensure a relatively stable income for
 the project and motivate us for long-term tasks and goals. But you can also
@@ -59,8 +58,7 @@ donate one time.
 
 ### Crypto
 
-Please consider donating annually to reduce total fees. Algorand, Tron,
-Litecoin and Monero networks offer low fees, but situation changes every day.
+Please consider donating annually to reduce total fees.
 
 {{ crypto_table(lang='en') }}
 
@@ -69,6 +67,5 @@ Litecoin and Monero networks offer low fees, but situation changes every day.
 Yes! There are many ways to support Organic Maps. Please see
 [Support Us](@/support-us/index.md) page for more details.
 
-
-[Stripe]: https://donate.organicmaps.app/ "Donate via Stripe"
-[GitHub issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+[stripe]: https://donate.organicmaps.app/ "Donate via Stripe"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

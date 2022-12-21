@@ -13,72 +13,52 @@ $baseBgColor: black;
 
 @mixin MenuItemsTextStyling {
   color: green;
-  //font-size: $baseFontSize;
-  //font-weight: 500;
   cursor: pointer;
   text-align: center;
   // All menu texts should be in one line.
   white-space: nowrap;
 }
 
-@mixin MenuItemButtonBorder {
-  //border: 1px solid $logoColor;
-  //padding: 7px 15px;
-}
-
 @mixin MenuItemInvertedButton {
   color: red;
-  //background-color: $logoColor;
 }
 
-.menu {
+.lang-menu {
   display: none;
   // It's a list, so remove list padding (where bullets are usually drawn).
   padding: 0;
   list-style: none;
 
-  &__item {
-    // Stretch/shrink all menu items proportionally.
-    flex: 1 1 auto;
-    -webkit-flex: 1 1 auto;
-    margin-left: 20px;
+  &-item {
+    margin-left: 1em;
 
     &:first-child {
       margin-left: 0;
     }
   }
 
-  &__link {
+  &-link {
     @include MenuItemsTextStyling;
+
     text-decoration: none;
   }
 }
 
-input.menu_trigger {
+input.lang-menu-trigger {
   // Hide input checkbox, label is used for touch events instead.
   position: absolute;
   clip: rect(0, 0, 0, 0);
 
   // Show menu on checkbox click.
-  &:checked ~ .menu {
+  &:checked ~ .lang-menu {
     // Turn flexbox ul again into a block and reset it's properties.
-    display: block;
-    //top: $headerAndLogoHeight;
-    //left: 0;
-    //width: 100%;
-    // position: absolute;
-    // margin: 0;
-    // padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     z-index: 999;
-    //background-color: $logoColor;
 
-    .menu__item {
+    .lang-menu-item {
       text-align: center;
-      margin: 1em;
-    }
-
-    .menu__link {
-      //color: $baseBgColor;
     }
   }
 
@@ -88,9 +68,6 @@ input.menu_trigger {
 }
 
 // Menu button
-label[for="menu_trigger"] {
-//   display: block;
-
+label[for="lang-menu-trigger"] {
   @include MenuItemsTextStyling;
-  @include MenuItemButtonBorder;
 }

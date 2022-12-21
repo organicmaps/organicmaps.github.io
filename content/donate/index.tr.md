@@ -9,7 +9,7 @@ extra:
 
 Organic Maps'i özgür tutma misyonumuzu yerine getirmek için **[bağışlarınıza][donate]** güveniyoruz!
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='tr') }}
 
 Organic Maps kötü şeylerden arınmıştır:
 
@@ -21,7 +21,7 @@ Organic Maps kötü şeylerden arınmıştır:
 - Crapware yok
 - <s>Böcek ilacı yok</s> Tamamen organik!
 
-Organic Maps'i sevgiyle yaptık  ❤️:
+Organic Maps'i sevgiyle yaptık ❤️:
 
 - Gizliliğinize saygı duyar
 - Pil gücünden tasarruf sağlar
@@ -34,7 +34,6 @@ Dahası, Organic Maps günümüzde aktif bir İnternet bağlantısı olmadan öz
 Tahmin edebileceğiniz gibi, Büyük Para Yatırımcıları bu projeyle pek ilgilenmiyor. Satacak herhangi bir şey yok. Aralık 2020'deki başlangıcından bu yana, Organic Maps kurumlardan ve/veya yatırımcılardan tek bir kuruş dahi almadı. Bu çatal programın gelişimi yalnızca kişisel paramızla finanse edildi ve edilmeye de devam ediyor. Bu, aile bütçelerimizden büyük bir para ve zaman yatırımıdır.
 
 Organic Maps'i açık ve özgür tutma misyonumuzu yerine getirmek için bağışlarınıza güveniyoruz!
-
 
 ## Paralar ne için kullanılacak?
 
@@ -59,42 +58,43 @@ Organic Maps'i açık ve özgür tutma misyonumuzu yerine getirmek için bağı�
 
 Projeye bağış yapmanın birçok yolu var:
 
-{{ donate_buttons() }}
+{{ donate_buttons(lang='tr') }}
 
-Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için 
-en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive 
+Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için
+en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive
 eder. Ancak tek seferlik bağış da yapabilirsiniz.
 
 ### Banka Havalesi
 
 #### Avro
 
-|   |   |
-|---|---|
-Hesap sahibi: | Organic Maps OÜ
-BIC: | TRWIBEB1XXX
-IBAN: | BE39967200310319
-Banka adı: | TransferWise Europe SA
-Banka adresi: | Avenue Louise 54/S52, Brussels 1050, Belgium
-Ödeme açıklaması: | Donation
+|                   |                                              |
+| ----------------- | -------------------------------------------- |
+| Hesap sahibi:     | Organic Maps OÜ                              |
+| BIC:              | TRWIBEB1XXX                                  |
+| IBAN:             | BE39967200310319                             |
+| Banka adı:        | TransferWise Europe SA                       |
+| Banka adresi:     | Avenue Louise 54/S52, Brussels 1050, Belgium |
+| Ödeme açıklaması: | Donation                                     |
 
 #### Türk Lirası (TL, TRY)
 
-|   |   |
-|---|---|
-IBAN: | TR740010300000000047306089
-Ad Soyad: | Organic Maps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş)
-Açıklama: | Donation
+|           |                                                                    |
+| --------- | ------------------------------------------------------------------ |
+| IBAN:     | TR740010300000000047306089                                         |
+| Ad Soyad: | Organic Maps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş) |
+| Açıklama: | Donation                                                           |
 
 ### Kripto
 
-Lütfen toplam ücretleri azaltmak için yıllık bağış yapmayı düşünün. 
+Lütfen toplam ücretleri azaltmak için yıllık bağış yapmayı düşünün.
 Algorand, Tron, Litecoin ve Monero ağları düşük ücretler sunuyor ancak durum her gün değişiyor.
 
 {{ crypto_table(lang='tr') }}
+
 ## Size başka bir şekilde yardımcı olabilir miyim?
 
 Evet! Organic Maps'i desteklemenin birçok yolu var. Daha fazla
 detay için lütfen [Bizi Destekleyin](@/support-us/index.tr.md) sayfasına bakın.
 
-[Donate]: https://donate.organicmaps.app
+[donate]: https://donate.organicmaps.app

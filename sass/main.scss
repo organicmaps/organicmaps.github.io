@@ -1,13 +1,30 @@
+@import "./language_selector";
+@import "./top_menu";
+
 body {
   margin: 1rem;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "segoe ui",
+    Helvetica,
+    Arial,
+    sans-serif,
+    "apple color emoji",
+    "segoe ui emoji",
+    "segoe ui symbol";
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
 }
 
-// Top menu.
+code,
+a {
+  // Prevents horizontal scrolling in Safari on narrow screen for long links and code lines.
+  word-wrap: anywhere;
+}
+
 header {
   text-align: center;
 }
@@ -18,7 +35,11 @@ main {
   width: 100%;
 }
 
-img[alt=logo] {
+img {
+  max-width: 90%;
+}
+
+img[alt="logo"] {
   width: 60px;
   position: absolute;
   top: 0;
@@ -32,6 +53,23 @@ strong {
 .badge {
   img {
     width: 180px;
+  }
+}
+
+.donate_buttons {
+  form,
+  input {
+    display: inline;
+    border-width: 0;
+  }
+
+  img,
+  input[type="image"] {
+    height: 48px;
+    width: 48px;
+    padding: 2px;
+    background-color: white;
+    border-radius: 10px;
   }
 }
 
@@ -63,7 +101,7 @@ h3 {
 }
 
 p {
-  margin: 0 0 16px 0;
+  margin: 0 0 16px;
 }
 
 footer {
@@ -92,7 +130,7 @@ footer {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #000;
+    background: #121212;
     color: #bbb;
   }
 
@@ -126,42 +164,9 @@ footer {
   left: 0;
 }
 
-.logo {
-  background-image: url("/logos/green-on-transparent.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-origin: content-box;
-  width: 32px;
-  height: 32px;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.github svg {
-  fill: black;
-  @media (prefers-color-scheme: dark) {
-    fill: white;
-  }
-  display: inline-block;
-  overflow: visible!important;
-  margin-right: 0.5rem;
-}
-
-.menuitems {
-  display: flex;
-  justify-content: center;
-}
-
-.menuitem, .menuitem_active {
-  white-space: nowrap;
-  a {
-    text-decoration: none;
-  }
-}
-
-#bottom_menu {
+#bottom-menu {
   margin-bottom: 1em;
+
   a {
     text-decoration: none;
   }
@@ -171,25 +176,11 @@ footer {
   text-decoration: none;
   border: red 2px solid;
   border-radius: 1rem;
-  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
+  padding: 0.3rem 0.5rem;
   margin: 0;
 }
 
-.donate_buttons {
-  form, input {
-    display: inline;
-    border-width: 0;
-  }
-  img, input[type="image"] {
-    height: 48px;
-    width: 48px;
-    padding: 2px;
-    background-color: white;
-    border-radius: 10px;
-  }
-}
-
-#crypto_table + table {
+#crypto-table + table {
   font-size: smaller;
   display: block;
   overflow-x: auto;
@@ -201,24 +192,25 @@ footer {
   flex-basis: 100%;
   align-items: center;
   margin: 1rem 0;
-  &:before, &:after {
+
+  &::before,
+  &::after {
     content: "";
     flex-grow: 1;
     background-color: gray;
     height: 1px;
-    font-size: 0px;
+    font-size: 0;
     line-height: 0px;
     margin: 0;
   }
 }
-img {
-  max-width: 90%;
-}
+
 .news_content_image {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
 }
+
 .news_image {
   max-height: 520px;
   margin-left: 0.5rem;
@@ -226,11 +218,11 @@ img {
   vertical-align: top;
   width: auto;
 }
+
 .news_content {
   display: inline-block;
 }
+
 .back_to_news {
   margin-top: 1rem;
 }
-
-@import "language_selector";

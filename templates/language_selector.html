@@ -1,15 +1,23 @@
 <span>
+  <script>
+    function onLanguageClick(langCode) {
+      window.localStorage.setItem('lang', langCode);
+      return true;
+    }
+  </script>
   <!-- Hidden checkbox is used for pure CSS toggle menu. -->
-  <input type="checkbox" id="menu_trigger" class="menu_trigger" />
-  <label class="no-print" for="menu_trigger">
-     🌐 {{ lang | upper }} {# trans(key="language", lang=lang) #}
+  {% if resource.translations | length > 1 %}
+  <input type="checkbox" id="lang-menu-trigger" class="lang-menu-trigger" />
+  {% endif %}
+  <label class="no-print" for="lang-menu-trigger">
+     🌐 {{ lang | upper }}
   </label>
 
-  <ul class="menu no-print" role="navigation">
-    {% for translation in resource.translations %}
+  <ul class="lang-menu no-print" role="navigation">
+    {% for translation in resource.translations | sort(attribute="lang") %}
     {% if lang != translation.lang %}
-    <li class="menu__item" role="menuitem">
-      <a class="menu__link" href="{{ translation.permalink }}">
+    <li class="lang-menu-item" role="menuitem">
+      <a class="lang-menu-link" onclick="return onLanguageClick('{{ translation.lang }}');" href="{{ translation.permalink | replace(from=config.base_url, to="") }}">
         {{ trans(key="language", lang=translation.lang) }}
       </a>
     </li>

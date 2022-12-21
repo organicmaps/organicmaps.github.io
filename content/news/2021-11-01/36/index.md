@@ -6,4 +6,4 @@ slug: "please-help-with-translating-organic-maps-into-your-language"
 
 Please help with translating Organic Maps into `$your_language` 🗺️
 
-<https://github.com/organicmaps/organicmaps/discussions/1489>
+Read more details in our [GitHub Discussions](https://github.com/organicmaps/organicmaps/discussions/1489).

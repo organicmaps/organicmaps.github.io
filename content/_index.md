@@ -7,29 +7,32 @@ extra:
   menu_title: Home
 ---
 
-**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
-**[OpenStreetMap](https://www.openstreetmap.org)** data.
-It is a privacy-focused, open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of **Maps.me** app (previously known as [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), maintained by the same people who created **MapsWithMe** in 2011.
+**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.
 
 **Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.
+
+### Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges(lang='en') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
+
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
+
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
+
 {{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 
 ## Features
 
 Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:
 
-- Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap](https://osm.org)
+- Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]
 - Cycling routes, hiking trails, and walking paths
 - Contour lines, elevation profiles, peaks, and slopes
 - Turn-by-turn walking, cycling, and car navigation with voice guidance
 - Fast offline search on the map
-- Bookmarks export and import in KML/KMZ formats (GPX is [planned](https://github.com/organicmaps/organicmaps/issues/624))
+- Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])
 - Dark Mode to protect your eyes
 - Countries and regions don't take a lot of space
 - Free and open-source
@@ -55,14 +58,13 @@ Organic Maps app is free from trackers and other bad stuff:
 - No crapware
 - ~~No pesticides~~ Purely organic!
 
-The application is verified by <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
-<br/>
-<img src='images/privacy/exodus.png' width='400'>
+The application is verified by [Exodus Privacy Project][exodus]:
+
+{{ exodus_screenshot(lang='en') }}
 
 Organic Maps doesn't request excessive permissions to spy on you:
 
-<img src='images/privacy/om.jpg' width='400'>
-<img src='images/privacy/mm.jpg' width='400'>
+{{ privacy_screenshots(lang='en') }}
 
 At Organic Maps, we believe that privacy is a fundamental human right:
 
@@ -72,45 +74,36 @@ At Organic Maps, we believe that privacy is a fundamental human right:
 
 Reject surveillance - embrace your freedom.
 
-
-<a href="#install"><strong>Give Organic Maps a try!</strong></a>
+**[Give Organic Maps a try!](#install)**
 
 ## Who is paying for the free app?
 
-The app is free for everyone. Please [donate](@/donate/index.md) to support us!
+The app is free for everyone. Please [donate][donate] to support us!
 
-{{ donate_buttons() }}
+### There are different ways to donate:
 
-### Our sponsors
+{{ donate_buttons(lang='en') }}
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/)
-two virtual servers with 400 TB/month of free bandwidth to help our users with
-maps downloads and updates.
+### Our sponsors:
 
-### Support us
-
-There are many ways to support us, listed [here](@/support-us/index.md).
-
-## Beta
-
-Please join our beta program, suggest your features, and report bugs:
-
-- [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
-- [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
-- [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
+[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates.
 
 ## Community
 
-Organic Maps is an [open-source software](https://github.com/organicmaps/organicmaps)
-licensed under the Apache License 2.0.
+Organic Maps is an [open-source software][github] licensed under the Apache License 2.0.
 
-- Report bugs or issues to [the issue tracker](https://github.com/organicmaps/organicmaps/issues) or [email us](mailto:hello@organicmaps.app).
-- [Discuss](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) ideas or propose feature requests.
-- Subscribe to our [Telegram Channel](https://t.me/OrganicMapsApp) or to the [[matrix] space](https://matrix.to/#/#organicmaps:matrix.org) for updates.
-- Join our [Telegram Group](https://t.me/OrganicMaps) to discuss with other users.
-- Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи.
-- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
-- Visit our [GitHub page](https://github.com/organicmaps/organicmaps).
-- Follow our updates in <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp),
-[Instagram](https://instagram.com/organicmaps.app/).
+- Please join our beta program, suggest your features, and report bugs:
+  * [iOS Beta (TestFlight)][testflight]
+  * [Android Beta (Firebase)][firebase]
+  * [Linux Desktop Beta (Flatpak)][flatpak]
+  * [Linux Desktop Beta (packages)][repology]
+- Report bugs or issues to [the issue tracker][issues] or [email us][email].
+- [Discuss][ideas] ideas or propose feature requests.
+- Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates.
+- Join our [Telegram Group][telegram_chat] to discuss with other users.
+- Visit our [GitHub page][github].
+- Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit].
+
+[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
+
+{{ references(lang='en') }}

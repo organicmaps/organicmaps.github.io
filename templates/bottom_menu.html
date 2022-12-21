@@ -1,17 +1,19 @@
-{% set langMd = '.' ~ lang %}
-{# TODO: Replace 'en' with config.default_language after upgrading Zola #}
-{% if lang == 'en' %}
-  {% set langMd = '' %}
-{% endif %}  
-{% set home = get_section(path='_index' ~ langMd ~ '.md') %}
-{% set news = get_section(path='news/_index' ~ langMd ~ '.md') %}
+{% set home = get_section(path='_index.md') %}
+{% set news = get_section(path='news/_index.md') %}
 
-<nav id="bottom_menu" role="navigation">
+<nav id="bottom-menu" role="navigation">
   {% for page in [home, news] | concat(with=home.pages) %}
-  {% set page = page.translations | filter(attribute='lang', value=lang) %}
+  {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
+  {% if translated %}
+    {% if "_index" in translated.path %}
+      {% set page = get_section(path=translated.path) %}
+    {% else %}
+      {% set page = get_page(path=translated.path) %}
+    {% endif %}
+  {% endif %}
 
   {% if page.extra.menu_title %}
-  {% if resource.path != page.path %}<a href="{{ page.path }}">{% endif %}
+  {% if resource.path != page.path %}<a href="{{ page.permalink | replace(from=config.base_url, to="") }}">{% endif %}
     <span>{{ page.extra.menu_title }}</span>
     {%- if resource.path != page.path %}</a>{% endif %}
   &nbsp;
