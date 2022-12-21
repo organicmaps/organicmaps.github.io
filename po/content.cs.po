@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
+"PO-Revision-Date: 2022-12-19 10:42+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/organicmaps/"
 "website/cs/>\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -30,9 +31,9 @@ msgstr "Organické mapy: Offline pěší turistika, cykloturistika, stezky a nav
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Domov"
 
 #. type: Plain text
 #: content/_index.md
@@ -493,9 +494,9 @@ msgstr "Přispějte na podporu vývoje Organic Maps"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Přispějte"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -749,9 +750,9 @@ msgstr "Organické mapy: Nejnovější zprávy a aktualizace od našeho týmu"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Novinky"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -767,9 +768,9 @@ msgstr "Organické mapy: Zásady ochrany osobních údajů"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Soukromí"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -976,9 +977,9 @@ msgstr "Organické mapy: termíny"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Podmínky"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -1077,9 +1078,9 @@ msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data
 
 #. type: Zola TOML Translations: address
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Adresa"
 
 #. type: Zola TOML Translations: back
 #: config.toml
@@ -1112,21 +1113,21 @@ msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
 #. type: Zola TOML Translations: language
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Čeština"
 
 #. type: Zola TOML Translations: name
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Název"
 
 #. type: Zola TOML Translations: token
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #, fuzzy, no-wrap
 #~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"

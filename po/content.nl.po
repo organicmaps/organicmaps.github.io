@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: AT <owje@protonmail.com>\n"
+"PO-Revision-Date: 2022-12-19 10:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/organicmaps/"
 "website/nl/>\n"
 "Language: nl\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -30,9 +31,9 @@ msgstr "Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #. type: Plain text
 #: content/_index.md
@@ -419,9 +420,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Doneer"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -629,9 +630,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Nieuws"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -647,9 +648,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -695,9 +696,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/support-us/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "Steun de ontwikkeling"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -809,9 +810,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Voorwaarden"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -888,9 +889,9 @@ msgstr ""
 
 #. type: Zola TOML Translations: address
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 #. type: Zola TOML Translations: back
 #: config.toml
@@ -923,18 +924,18 @@ msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
 #. type: Zola TOML Translations: language
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Engels"
 
 #. type: Zola TOML Translations: name
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #. type: Zola TOML Translations: token
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Token"

@@ -5,16 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Roman Tsisyk <roman@tsisyk.com>\n"
+"PO-Revision-Date: 2022-12-19 10:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/organicmaps/"
 "website/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -30,9 +31,9 @@ msgstr "Organic Maps: бесплатные офлайн карты и навиг
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Домой"
 
 #. type: Plain text
 #: content/_index.md
@@ -440,9 +441,9 @@ msgstr "Поддержите разработку Organic Maps"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Пожертвуйте"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -676,9 +677,9 @@ msgstr "Organic Maps: Свежие новости и обновления от �
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Новости"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -694,9 +695,9 @@ msgstr "Organic Maps: Политика конфиденциальности"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Приватность"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -749,9 +750,9 @@ msgstr "Как поддержать разработку Organic Maps"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/support-us/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "Помочь развитию"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -892,9 +893,9 @@ msgstr "Organic Maps: Условия использования"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Положения"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -986,9 +987,9 @@ msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data
 
 #. type: Zola TOML Translations: address
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Адрес"
 
 #. type: Zola TOML Translations: back
 #: config.toml
@@ -1021,21 +1022,21 @@ msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
 #. type: Zola TOML Translations: language
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Английский"
 
 #. type: Zola TOML Translations: name
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #. type: Zola TOML Translations: token
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Токен"
 
 #, no-wrap
 #~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"

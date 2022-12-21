@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
+"PO-Revision-Date: 2022-12-19 10:42+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/"
 "website/ca/>\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -30,9 +31,9 @@ msgstr "Mapes orgànics Senderisme fora de línia Rutes i navegació en biciclet
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Inici"
 
 #. type: Plain text
 #: content/_index.md
@@ -410,9 +411,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Fes una donació"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -620,9 +621,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Notícies"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -638,9 +639,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Privadesa"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -800,9 +801,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Condicions"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -879,9 +880,9 @@ msgstr ""
 
 #. type: Zola TOML Translations: address
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Adreça"
 
 #. type: Zola TOML Translations: back
 #: config.toml
@@ -914,18 +915,18 @@ msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
 #. type: Zola TOML Translations: language
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "anglès"
 
 #. type: Zola TOML Translations: name
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. type: Zola TOML Translations: token
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Token"

@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
+"PO-Revision-Date: 2022-12-19 10:42+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/organicmaps/"
 "website/tr/>\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -30,9 +31,9 @@ msgstr "Organik Haritalar: Çevrimdışı Yürüyüş, Bisiklet, Parkurlar ve Na
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Ana sayfa"
 
 #. type: Plain text
 #: content/_index.md
@@ -493,9 +494,9 @@ msgstr "Organic Maps'in gelişimini desteklemek için bağışta bulunun"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Bağışta bulunun"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -750,9 +751,9 @@ msgstr "Organik Haritalar: Ekibimizden son haberler ve güncellemeler"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Haberler"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -768,9 +769,9 @@ msgstr "Organik Haritalar: Gizlilik Politikası"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Gizlilik"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -824,9 +825,9 @@ msgstr "Organik Haritaların geliştirilmesini destekleyin"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/support-us/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "Bizi Destekleyin"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -979,9 +980,9 @@ msgstr "Organik Haritalar: terimler"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Koşullar"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -1080,9 +1081,9 @@ msgstr "[telif hakkı]: https://github.com/organicmaps/organicmaps/blob/master/d
 
 #. type: Zola TOML Translations: address
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 #. type: Zola TOML Translations: back
 #: config.toml
@@ -1115,21 +1116,21 @@ msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
 #. type: Zola TOML Translations: language
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Türkçe"
 
 #. type: Zola TOML Translations: name
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Ad"
 
 #. type: Zola TOML Translations: token
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Belirteç"
 
 #, fuzzy, no-wrap
 #~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"

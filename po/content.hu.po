@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: d4f5409d <d4f5409d-4b6a-4640-9ff3-155ebcdc7ab7@anonaddy."
-"me>\n"
+"PO-Revision-Date: 2022-12-19 10:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/"
 "website/hu/>\n"
 "Language: hu\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -31,9 +31,9 @@ msgstr "Szerves térképek: Túra, kerékpár, nyomvonalak és navigáció: Offl
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Kezdőlap"
 
 #. type: Plain text
 #: content/_index.md
@@ -492,9 +492,9 @@ msgstr "Adományozzon az Organic Maps fejlesztésének támogatására"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Támogatás"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -751,9 +751,9 @@ msgstr "Szerves térképek: Csapatunk legfrissebb hírei és frissítései"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Hírek"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -769,9 +769,9 @@ msgstr "Szerves térképek: Adatvédelmi irányelvek"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Adatvédelem"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -981,9 +981,9 @@ msgstr "Szerves térképek: kifejezések"
 
 #. type: YAML Front Matter: extra.menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Feltételek"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -1081,9 +1081,9 @@ msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data
 
 #. type: Zola TOML Translations: address
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Cím"
 
 #. type: Zola TOML Translations: back
 #: config.toml
@@ -1116,21 +1116,21 @@ msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
 #. type: Zola TOML Translations: language
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Angol"
 
 #. type: Zola TOML Translations: name
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #. type: Zola TOML Translations: token
 #: config.toml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #, fuzzy, no-wrap
 #~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
