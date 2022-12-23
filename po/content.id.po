@@ -794,55 +794,62 @@ msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
-#. type: Zola TOML Translations: address
-#: config.toml
+#. type: Hash Value: address
+#: translations.yaml
 #, no-wrap
 msgid "Address"
 msgstr "Alamat"
 
-#. type: Zola TOML Translations: back
-#: config.toml
+#. type: Hash Value: back
+#: translations.yaml
 #, no-wrap
 msgid "Back to News"
 msgstr "Kembali ke Berita"
 
-#. type: Zola TOML Translations: install-appgallery
-#: config.toml
+#. type: Hash Value: contact
+#: translations.yaml
+#, no-wrap
+msgid "Contact Us"
+msgstr ""
+
+#. type: Hash Value: install-appgallery
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
 msgstr "Instal Organic Maps dari Huawei AppGallery"
 
-#. type: Zola TOML Translations: install-appstore
-#: config.toml
+#. type: Hash Value: install-appstore
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
 msgstr "Instal Organic Maps dari AppStore"
 
-#. type: Zola TOML Translations: install-googleplay
-#: config.toml
-#, no-wrap
-msgid "Install Organic Maps from Google Play"
-msgstr "Instal Organic Maps dari Google Play"
-
-#. type: Zola TOML Translations: install-fdroid
-#: config.toml
+#. type: Hash Value: install-fdroid
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
 msgstr "Instal Peta Organik dari F-Droid"
 
-#. type: Zola TOML Translations: language
+#. type: Hash Value: install-googleplay
+#: translations.yaml
+#, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr "Instal Organic Maps dari Google Play"
+
+#. type: Hash Value: language
+#: translations.yaml
 #, no-wrap
 msgid "English"
 msgstr "Bahasa Indonesia"
 
-#. type: Zola TOML Translations: name
-#: config.toml
+#. type: Hash Value: name
+#: translations.yaml
 #, no-wrap
 msgid "Name"
 msgstr "Nama"
 
-#. type: Zola TOML Translations: token
-#: config.toml
+#. type: Hash Value: token
+#: translations.yaml
 #, no-wrap
 msgid "Token"
 msgstr "Token"
