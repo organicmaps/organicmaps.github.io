@@ -7,6 +7,8 @@ extra:
   preview_image: donate/donate.png
 ---
 
+Přejeme vám krásné Vánoce 🎅 a šťastný nový rok 🎄! Nejlepším dárkem je pro nás vědomí, že děláme Správnou věc a že náš čas a úsilí někomu na planetě pomáhá.
+
 Organic Maps aplikace je _zdarma pro každého_ díky vaším **[darům][stripe]**:
 
 - Žádné reklamy
