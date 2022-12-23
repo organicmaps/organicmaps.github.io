@@ -1,8 +1,8 @@
 ---
-description: 'Términos de uso para la aplicación Organic Maps'
+description: "Términos de uso para la aplicación Organic Maps"
 extra:
   menu_title: Términos
-title: 'Organic Maps: términos'
+title: "Organic Maps: términos"
 weight: 1000
 ---
 
@@ -35,7 +35,5 @@ Si tienes preguntas o sugerencias, por favor contacta con nosotros en
 [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaos/organicmaos
-
 [license]: http://www.apache.org/licenses/LICENSE-2.0
-
 [copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html

@@ -1,8 +1,8 @@
 ---
-description: 'Ketentuan penggunaan untuk aplikasi Organic Maps'
+description: "Ketentuan penggunaan untuk aplikasi Organic Maps"
 extra:
   menu_title: Persyaratan
-title: 'Organic Maps: persyaratan'
+title: "Organic Maps: persyaratan"
 weight: 1000
 ---
 
@@ -34,7 +34,5 @@ Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di
 [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps
-
 [license]: http://www.apache.org/licenses/LICENSE-2.0
-
 [copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html

@@ -65,7 +65,7 @@ Litecoin a Monero sítě nabízejí nízké poplatky, ale situace se mění kaž
 
 ## Můžete nám pomoct nějakým jiným způsobem?
 
-Ano!  Organic Maps. Navštivte prosím
+Ano! Organic Maps. Navštivte prosím
 [Podpořte nás](@/support-us/index.cs.md) stránku pro více detailů.
 
 [stripe]: https://donate.organicmaps.app/ "Darujte přes Stripe"

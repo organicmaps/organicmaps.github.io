@@ -1,8 +1,8 @@
 ---
-description: 'Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik'
+description: "Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik"
 extra:
   menu_title: Pribatutasuna
-title: 'Organic Maps: Pribatutasun politika'
+title: "Organic Maps: Pribatutasun politika"
 weight: 900
 ---
 

@@ -1,9 +1,9 @@
 ---
-description: 'Seu dinheiro paga por todas as despesas relacionadas ao projeto e nos motiva a melhorar o Organic Maps.'
+description: "Seu dinheiro paga por todas as despesas relacionadas ao projeto e nos motiva a melhorar o Organic Maps."
 extra:
   menu_title: Doar
   preview_image: donate/donate.png
-title: 'Doe para apoiar o desenvolvimento do Organic Maps'
+title: "Doe para apoiar o desenvolvimento do Organic Maps"
 weight: 10
 ---
 
@@ -21,9 +21,9 @@ O app Organic Maps é _gratuito para todos_ graças as suas
 ## Por que doar para Organic Maps?
 
 1. Contamos com suas doações para cumprir nossa missão de manter o Organic
-   Maps aberto e livre.  E livre de anúncios.
+   Maps aberto e livre. E livre de anúncios.
 2. Somos alguns entusiastas contribuindo em nosso tempo livre e gastando o
-   dinheiro de nossas famílias no projeto.  Adoramos o que fazemos e nossos
+   dinheiro de nossas famílias no projeto. Adoramos o que fazemos e nossos
    usuários ❤️.
 3. Com seu apoio, queremos nos tornar uma versão melhor e focada na
    privacidade do Google Maps.
@@ -31,10 +31,10 @@ O app Organic Maps é _gratuito para todos_ graças as suas
 ## Para que será usado o dinheiro?
 
 1. Pagamos por servidores rápidos, para que qualquer pessoa no mundo possa
-   baixar gratuitamente as atualizações de dados do mapa sem atrasos.  São
+   baixar gratuitamente as atualizações de dados do mapa sem atrasos. São
    centenas de terabytes por mês, que cresce mais e mais.
 2. Suporte ao usuário, correção de erros e melhoria da estabilidade do app
-   estão no topo de nossas prioridades.  Existem [mais de 1200 problemas no
+   estão no topo de nossas prioridades. Existem [mais de 1200 problemas no
    GitHub][github issues], e este número está crescendo a cada dia.
    AppStore, Google Play, e e-mails de suporte estão sobrecarregados com
    comentários e erros. Queremos entregar um produto de alta qualidade.

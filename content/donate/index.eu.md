@@ -1,9 +1,9 @@
 ---
-description: 'Zure dohaintzak ordaintzen ditu proiektuaren inguruko gastu guztiak eta Organic Maps hobetzen bultzatzen gaitu.'
+description: "Zure dohaintzak ordaintzen ditu proiektuaren inguruko gastu guztiak eta Organic Maps hobetzen bultzatzen gaitu."
 extra:
-  menu_title: 'Egizu dohaintza'
+  menu_title: "Egizu dohaintza"
   preview_image: donate/donate.png
-title: 'Dohaintza egin Organic Maps-en garapenari eusteko'
+title: "Dohaintza egin Organic Maps-en garapenari eusteko"
 weight: 10
 ---
 
@@ -21,9 +21,9 @@ esker:
 ## Zergatik eman dirua Organic Maps-i?
 
 1. Zuen dohaintzak behar ditugu Organic Maps-ek irekia eta librea izaten
-   jarrai dezan.  Eta publizitatetik libre.
+   jarrai dezan. Eta publizitatetik libre.
 2. Zaletu batzuk gara gure aisian garatzen, eta gure familien dirua
-   proiektuan xahutzen.   Egiten duguna maite dugu eta gure erabiltzaileak
+   proiektuan xahutzen. Egiten duguna maite dugu eta gure erabiltzaileak
    maite ditugu ❤️.
 3. Zure laguntzarekin, Google Maps-en bertsio hobe eta pribatutasunean
    zentratutakoa egin nahi dugu.
@@ -34,7 +34,7 @@ esker:
    deskargatu ahal izango ditu mapa eguneraketak atzerapenik gabe. Hilero
    ehunka Terabyte dira hauek, eta tamaina handitzen doa.
 2. Erabiltzaileei laguntza, akats-konponketa eta app-aren egonkortasuna
-   hobetzea dira gure lehentasunak.  [1200 eskaera baino gehiago daude
+   hobetzea dira gure lehentasunak. [1200 eskaera baino gehiago daude
    GitHub-en][github issues] eta zenbaki hau egunero handitzen da.
    AppStore, Google Play eta arretako eposta helbideak iradokizun eta
    akatsekin beteta daude. Kalitate handiko produktu bat eman nahi dugu.

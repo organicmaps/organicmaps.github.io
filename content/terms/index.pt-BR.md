@@ -1,8 +1,8 @@
 ---
-description: 'Termos de uso para o app Organic Maps'
+description: "Termos de uso para o app Organic Maps"
 extra:
-  menu_title: 'Termos de Uso'
-title: 'Organic Maps: termos'
+  menu_title: "Termos de Uso"
+title: "Organic Maps: termos"
 weight: 1000
 ---
 
@@ -35,7 +35,5 @@ Se você tiver alguma dúvida ou sugestão, por favor entre em contato conosco
 em [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps
-
 [license]: http://www.apache.org/licenses/LICENSE-2.0
-
 [copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
