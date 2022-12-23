@@ -138,14 +138,16 @@ function parseHtml(html) {
       // Handle special cases when image is published as a separate message immediately after
       // the main text message (Telegram has 1024 chars limit for image caption).
       if (!text && prevDate && (new Date(date) - new Date(prevDate)) <= kPostsDiffInMs) {
-        // Do not download jpg if manual png already exists.
-        if (!fs.existsSync(`${prevDir}/${i}.png`)) {
+        // Do not download jpg if images already exist.
+        if (!fs.existsSync(`${prevDir}/${i}.png`)
+            && !fs.existsSync(`${prevDir}/${i}.jpg`)
+            && !fs.existsSync(`${prevDir}/${i}.jpeg`)) {
           downloads.push(downloadAsync(photo, `${prevDir}/${fileName}`));
           fs.rmSync(dir, { recursive: true, force: true });
         }
-        return;
+      } else {
+        downloads.push(downloadAsync(photo, `${dir}/${fileName}`));
       }
-      downloads.push(downloadAsync(photo, `${dir}/${fileName}`));
     }
 
     const markdown = toMarkdown(text, date);
