@@ -82,7 +82,7 @@ Rejeter la surveillance - embrasser votre liberté.
 
 ## Qui paie pour l'application gratuite ?
 
-L'application est gratuite pour tous. Veuillez [faire un don](@/donate/index.md) pour nous soutenir !
+L'application est gratuite pour tous. Veuillez [faire un don](@/donate/index.fr.md) pour nous soutenir !
 
 ### Il y a plusieurs façons de faire un don :
 
@@ -94,7 +94,7 @@ Le FAI [Mythic Beasts](https://www.mythic-beasts.com/) [nous][mythic_beasts_dona
 
 ### Contribuer
 
-Il existe de nombreuses façons de nous soutenir, énumérées [ici](@/support-us/index.md).
+Il existe de nombreuses façons de nous soutenir, énumérées [ici](@/support-us/index.fr.md).
 
 ## Beta
 

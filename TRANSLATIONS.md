@@ -55,7 +55,7 @@ brew install po4a
 ### I am a content writer
 
 - Add/edit source **English** Markdown files in the repo.
-- Refresh `.pot` and `.po` files when English is changed by running `./i18n.sh`.
+- Refresh `.pot` and `.po` files when English is changed by running `./tools/i18n.sh`.
 - Push both updated content and refreshed `.pot`/`.po` files in the single PR to GitHub.
 - Translation teams will be notified via Weblate when your PR is merged.
 - All new strings will be in English until localized (see the next step).
@@ -69,7 +69,7 @@ brew install po4a
 ### I am a repository maintainer
 
 - Checkout `weblate-i18n` branch when it is updated by Weblate.
-- Run `./i18n.sh` tool to regenerate `.lang.md` files from updated `.po` files.
+- Run `./tools/i18n.sh` tool to regenerate `.lang.md` files from updated `.po` files.
 - Update `.config.toml` if a new language is added.
 - Translate `menu.title` YAML Front Matters key manually, this is a [well-known limitation](https://github.com/mquinson/po4a/issues/392).
 - Run `zola server` to check changes locally.
@@ -79,9 +79,8 @@ brew install po4a
 
 ## Known Limitations
 
-- Menu item names in `menu.title` YAML Front Matters are not updated properly, see [a relevant ticket for po4a](https://github.com/mquinson/po4a/issues/392).
-- `./i18n.sh` removes line wrapping in `.po` files when a new language is added initially via WebLate. 
-- New web-site pages should be added to `.po4a.cfg` configuration file manually.
+- `./tools/i18n.sh` removes line wrapping in `.po` files when a new language is added initially via WebLate. 
+- New web-site pages and languages should be added to `.po4a.cfg` configuration file manually.
 
 [po4a]: https://po4a.org/index.php.en
 [weblate]: https://hosted.weblate.org/projects/organicmaps/website/

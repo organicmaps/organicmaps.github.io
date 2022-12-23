@@ -11,7 +11,7 @@ Organic Maps is a free, open-source app. It is free from ads, it does not collec
 
 There are different ways to support the development:
 
-- [Donate][donate]! Every dollar or euro counts and helps us to pay for servers and scale.
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - Report bugs and share ideas on our [GitHub][github] or via [email][email].
 - Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Translate][translations] missing strings in the app's interface.
@@ -25,7 +25,5 @@ There are different ways to support the development:
 - Any help is welcome!
 
 Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
-
-[telegram_chat]: https://t.me/OrganicMaps
 
 {{ references(lang='en') }}

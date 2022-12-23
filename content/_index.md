@@ -78,7 +78,7 @@ Reject surveillance - embrace your freedom.
 
 ## Who is paying for the free app?
 
-The app is free for everyone. Please [donate][donate] to support us!
+The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
 ### There are different ways to donate:
 

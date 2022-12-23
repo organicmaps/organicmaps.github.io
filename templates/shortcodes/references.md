@@ -1,8 +1,6 @@
 [appgallery]: https://appgallery.huawei.com/#/app/C104325611?local={{ lang }} "{{ trans(key='install-appgallery', lang=lang) }}"
 [appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "{{ trans(key='install-appstore', lang=lang) }}"
-[contribute]: @/support-us/index.md
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
-[donate]: @/donate/index.md
 [email]: mailto:hello@organicmaps.app
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
 [facebook]: https://facebook.com/OrganicMaps

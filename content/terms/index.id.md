@@ -1,7 +1,7 @@
 ---
 description: 'Ketentuan penggunaan untuk aplikasi Organic Maps'
 extra:
-  menu_title: Terms
+  menu_title: Persyaratan
 title: 'Organic Maps: persyaratan'
 weight: 1000
 ---

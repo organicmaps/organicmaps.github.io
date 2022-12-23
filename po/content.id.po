@@ -21,17 +21,17 @@ msgstr ""
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr "Peta luring cepat terperinci untuk pelancong, turis, pengemudi, pejalan kaki, dan pengendara sepeda yang dibuat oleh pendiri aplikasi MapsWithMe (Maps.Me)."
 
+#. type: YAML Front Matter: extra menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Home"
+msgstr "Halaman depan"
+
 #. type: YAML Front Matter: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, no-wrap
-msgid "Home"
-msgstr "Halaman depan"
 
 #. type: Plain text
 #: content/_index.md
@@ -221,7 +221,7 @@ msgstr "Aplikasi ini diverifikasi oleh [Proyek Privasi Exodus][exodus]:"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='en') }}"
+msgstr "{{ exodus_screenshot(lang='id') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -231,7 +231,7 @@ msgstr "Organic Maps tidak meminta izin berlebihan untuk memata-matai Anda:"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='en') }}"
+msgstr "{{ privacy_screenshots(lang='id') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -272,8 +272,8 @@ msgstr "Siapa yang membayar untuk aplikasi gratis ini?"
 
 #. type: Plain text
 #: content/_index.md
-msgid "The app is free for everyone. Please [donate][donate] to support us!"
-msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi][donate] untuk mendukung kami!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
+msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi](@/donate/index.md) untuk mendukung kami!"
 
 #. type: Title ###
 #: content/_index.md
@@ -284,7 +284,7 @@ msgstr "Ada berbagai cara untuk berdonasi:"
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='en') }}"
+msgstr "{{ donate_buttons(lang='id') }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -372,7 +372,7 @@ msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='en') }}"
+msgstr "{{ references(lang='id') }}"
 
 #. type: YAML Front Matter: description
 #: content/donate/index.md
@@ -380,22 +380,22 @@ msgstr "{{ references(lang='en') }}"
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr "Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memotivasi kami untuk meningkatkan Organic Maps."
 
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/index.md
+#, no-wrap
+msgid "Donate"
+msgstr "Donasi"
+
 #. type: YAML Front Matter: title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr "Berdonasi untuk mendukung pengembangan Organic Maps"
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, no-wrap
-msgid "Donate"
-msgstr "Donasi"
-
 #. type: Plain text
 #: content/donate/index.md
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi] [stripe]**:"
+msgstr "Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -524,7 +524,7 @@ msgstr "Transfer Bank"
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='en') }}"
+msgstr "{{ bank_transfer(lang='id') }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -540,7 +540,7 @@ msgstr "Silakan pertimbangkan untuk menyumbang setiap tahun untuk mengurangi tot
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='en') }}"
+msgstr "{{ crypto_table(lang='id') }}"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -551,7 +551,7 @@ msgstr "Dapatkah Anda membantu kami dengan cara lain?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman [Dukung Kami](@/support-us/index.md) untuk lebih jelasnya."
+msgstr "Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman [Dukung Kami](@/support-us/index.id.md) untuk lebih jelasnya."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -569,17 +569,17 @@ msgstr ""
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr "Tetap terhubung dengan rilis Organic Maps terbaru, berita dan pembaruan dari tim kami"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/news/_index.md
+#, no-wrap
+msgid "News"
+msgstr "Berita"
+
 #. type: YAML Front Matter: title
 #: content/news/_index.md
 #, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organic Maps: Berita dan pembaruan terbaru dari tim kami"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, no-wrap
-msgid "News"
-msgstr "Berita"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -587,17 +587,17 @@ msgstr "Berita"
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan statistik, tanpa perangkat lunak pengintai"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/index.md
+#, no-wrap
+msgid "Privacy"
+msgstr "Privasi"
+
 #. type: YAML Front Matter: title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
 msgstr "Organic Maps: Kebijakan Privasi"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, no-wrap
-msgid "Privacy"
-msgstr "Privasi"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -631,17 +631,17 @@ msgstr "<sub>Kebijakan ini berlaku mulai 2021-04-24.</sub>\n"
 msgid "Different ways to support the development of our free application"
 msgstr "Berbagai cara untuk mendukung pengembangan aplikasi gratis kami"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/support-us/index.md
+#, no-wrap
+msgid "Support Us"
+msgstr "Dukung Kami"
+
 #. type: YAML Front Matter: title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
 msgstr "Dukung pengembangan Organic Maps"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support Us"
-msgstr "Dukung Kami"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -655,8 +655,8 @@ msgstr "Ada berbagai cara untuk mendukung pengembangan:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "[Donate][donate]! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Donasi] [donasi]! Setiap dolar atau euro sangat berarti dan membantu kami membayar peladen dan skala."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
+msgstr "[Donasi](@/donate/index.id.md)! Setiap dolar atau euro sangat berarti dan membantu kami membayar peladen dan skala."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -666,7 +666,7 @@ msgstr "Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui [
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Bantu kami untuk [memperbaiki kutu] [contributing] dan melakukan tinjauan kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki membuat seseorang lebih bahagia."
+msgstr "Bantu kami untuk [memperbaiki kutu][contributing] dan melakukan tinjauan kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki membuat seseorang lebih bahagia."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -724,17 +724,17 @@ msgstr "Tim kecil kami sangat berterima kasih atas masukan dan dukungan Anda. Or
 msgid "Terms of use for Organic Maps application"
 msgstr "Ketentuan penggunaan untuk aplikasi Organic Maps"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr "Persyaratan"
+
 #. type: YAML Front Matter: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"
 msgstr "Organic Maps: persyaratan"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/terms/index.md
-#, no-wrap
-msgid "Terms"
-msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
@@ -794,62 +794,62 @@ msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
-#. type: Zola TOML Translations: address
-#: config.toml
+#. type: Hash Value: address
+#: translations.yaml
 #, no-wrap
 msgid "Address"
 msgstr "Alamat"
 
-#. type: Zola TOML Translations: back
-#: config.toml
+#. type: Hash Value: back
+#: translations.yaml
 #, no-wrap
 msgid "Back to News"
 msgstr "Kembali ke Berita"
 
-#. type: Zola TOML Translations: install-appgallery
-#: config.toml
+#. type: Hash Value: contact
+#: translations.yaml
+#, no-wrap
+msgid "Contact Us"
+msgstr ""
+
+#. type: Hash Value: install-appgallery
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
 msgstr "Instal Organic Maps dari Huawei AppGallery"
 
-#. type: Zola TOML Translations: install-appstore
-#: config.toml
+#. type: Hash Value: install-appstore
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
 msgstr "Instal Organic Maps dari AppStore"
 
-#. type: Zola TOML Translations: install-googleplay
-#: config.toml
-#, no-wrap
-msgid "Install Organic Maps from Google Play"
-msgstr "Instal Organic Maps dari Google Play"
-
-#. type: Zola TOML Translations: install-fdroid
-#: config.toml
+#. type: Hash Value: install-fdroid
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
 msgstr "Instal Peta Organik dari F-Droid"
 
-#. type: Zola TOML Translations: language
+#. type: Hash Value: install-googleplay
+#: translations.yaml
+#, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr "Instal Organic Maps dari Google Play"
+
+#. type: Hash Value: language
+#: translations.yaml
 #, no-wrap
 msgid "English"
 msgstr "Bahasa Indonesia"
 
-#. type: Zola TOML Translations: name
-#: config.toml
+#. type: Hash Value: name
+#: translations.yaml
 #, no-wrap
 msgid "Name"
 msgstr "Nama"
 
-#. type: Zola TOML Translations: token
-#: config.toml
+#. type: Hash Value: token
+#: translations.yaml
 #, no-wrap
 msgid "Token"
 msgstr "Token"
-
-#~ msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
-#~ msgstr "Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
-
-#, no-wrap
-#~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
-#~ msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"

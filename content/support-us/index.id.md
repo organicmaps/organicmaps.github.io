@@ -13,11 +13,11 @@ beberapa penggemar dengan bantuan komunitas.
 
 Ada berbagai cara untuk mendukung pengembangan:
 
-- [Donasi] [donasi]! Setiap dolar atau euro sangat berarti dan membantu kami
-  membayar peladen dan skala.
+- [Donasi](@/donate/index.id.md)! Setiap dolar atau euro sangat berarti dan
+  membantu kami membayar peladen dan skala.
 - Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui
   [surel][email].
-- Bantu kami untuk [memperbaiki kutu] [contributing] dan melakukan tinjauan
+- Bantu kami untuk [memperbaiki kutu][contributing] dan melakukan tinjauan
   kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki
   membuat seseorang lebih bahagia.
 - [Terjemahkan][translations] string yang belum ada di antarmuka aplikasi.
@@ -40,7 +40,5 @@ Ada berbagai cara untuk mendukung pengembangan:
 
 Tim kecil kami sangat berterima kasih atas masukan dan dukungan
 Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami. ❤️
-
-[telegram_chat]: https://t.me/OrganicMaps
 
 {{ references(lang='id') }}
