@@ -20,16 +20,16 @@ msgstr ""
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr ""
 
-#. type: YAML Front Matter: title
-#: content/_index.md
-#, no-wrap
-msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
-
 #. type: YAML Front Matter: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: content/_index.md
+#, no-wrap
+msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr ""
 
 #. type: Plain text
@@ -434,16 +434,16 @@ msgstr ""
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/index.md
+#, no-wrap
+msgid "Donate"
+msgstr ""
+
 #. type: YAML Front Matter: title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
-msgstr ""
-
-#. type: YAML Front Matter: extra menu_title
-#: content/donate/_index.md
-#, no-wrap
-msgid "Donate"
 msgstr ""
 
 #. type: Plain text
@@ -646,16 +646,16 @@ msgstr ""
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr ""
 
-#. type: YAML Front Matter: title
-#: content/news/_index.md
-#, no-wrap
-msgid "Organic Maps: Latest news and updates from our team"
-msgstr ""
-
 #. type: YAML Front Matter: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: content/news/_index.md
+#, no-wrap
+msgid "Organic Maps: Latest news and updates from our team"
 msgstr ""
 
 #. type: YAML Front Matter: description
@@ -664,16 +664,16 @@ msgstr ""
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/index.md
+#, no-wrap
+msgid "Privacy"
+msgstr ""
+
 #. type: YAML Front Matter: title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
-msgstr ""
-
-#. type: YAML Front Matter: extra menu_title
-#: content/privacy/_index.md
-#, no-wrap
-msgid "Privacy"
 msgstr ""
 
 #. type: Plain text
@@ -712,16 +712,16 @@ msgstr ""
 msgid "Different ways to support the development of our free application"
 msgstr ""
 
-#. type: YAML Front Matter: title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support the development of Organic Maps"
-msgstr ""
-
 #. type: YAML Front Matter: extra menu_title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: content/support-us/index.md
+#, no-wrap
+msgid "Support the development of Organic Maps"
 msgstr ""
 
 #. type: Plain text
@@ -820,16 +820,16 @@ msgstr ""
 msgid "Terms of use for Organic Maps application"
 msgstr ""
 
-#. type: YAML Front Matter: title
-#: content/terms/index.md
-#, no-wrap
-msgid "Organic Maps: terms"
-msgstr ""
-
 #. type: YAML Front Matter: extra menu_title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: content/terms/index.md
+#, no-wrap
+msgid "Organic Maps: terms"
 msgstr ""
 
 #. type: Plain text
