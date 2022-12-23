@@ -86,8 +86,8 @@ Tolak pengawasan — rangkul kebebasan Anda.
 
 ## Siapa yang membayar untuk aplikasi gratis ini?
 
-Aplikasi ini gratis untuk semua orang. Silakan [berdonasi][donate] untuk
-mendukung kami!
+Aplikasi ini gratis untuk semua orang. Silakan
+[berdonasi](@/donate/index.md) untuk mendukung kami!
 
 ### Ada berbagai cara untuk berdonasi:
 

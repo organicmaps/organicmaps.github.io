@@ -311,7 +311,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "The app is free for everyone. Please [donate][donate] to support us!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr ""
 
 #. type: Title ###
@@ -739,7 +739,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
-msgid "[Donate][donate]! Every dollar or euro counts and helps us to pay for servers and scale."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
 msgstr ""
 
 #. type: Bullet: '- '

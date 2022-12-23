@@ -272,8 +272,8 @@ msgstr "Siapa yang membayar untuk aplikasi gratis ini?"
 
 #. type: Plain text
 #: content/_index.md
-msgid "The app is free for everyone. Please [donate][donate] to support us!"
-msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi][donate] untuk mendukung kami!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
+msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi](@/donate/index.md) untuk mendukung kami!"
 
 #. type: Title ###
 #: content/_index.md
@@ -395,7 +395,7 @@ msgstr "Berdonasi untuk mendukung pengembangan Organic Maps"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi] [stripe]**:"
+msgstr "Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -655,8 +655,8 @@ msgstr "Ada berbagai cara untuk mendukung pengembangan:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "[Donate][donate]! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Donasi] [donasi]! Setiap dolar atau euro sangat berarti dan membantu kami membayar peladen dan skala."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
+msgstr "[Donasi](@/donate/index.id.md)! Setiap dolar atau euro sangat berarti dan membantu kami membayar peladen dan skala."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -666,7 +666,7 @@ msgstr "Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui [
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Bantu kami untuk [memperbaiki kutu] [contributing] dan melakukan tinjauan kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki membuat seseorang lebih bahagia."
+msgstr "Bantu kami untuk [memperbaiki kutu][contributing] dan melakukan tinjauan kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki membuat seseorang lebih bahagia."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
