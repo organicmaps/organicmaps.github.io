@@ -1,8 +1,8 @@
 ---
-description: 'Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de estatísticas, sem spyware'
+description: "Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de estatísticas, sem spyware"
 extra:
-  menu_title: 'Política de Privacidade'
-title: 'Organic Maps: Política de Privacidade'
+  menu_title: "Política de Privacidade"
+title: "Organic Maps: Política de Privacidade"
 weight: 900
 ---
 

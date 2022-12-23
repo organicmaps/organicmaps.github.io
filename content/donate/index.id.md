@@ -1,9 +1,9 @@
 ---
-description: 'Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memotivasi kami untuk meningkatkan Organic Maps.'
+description: "Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memotivasi kami untuk meningkatkan Organic Maps."
 extra:
   menu_title: Donasi
   preview_image: donate/donate.png
-title: 'Berdonasi untuk mendukung pengembangan Organic Maps'
+title: "Berdonasi untuk mendukung pengembangan Organic Maps"
 weight: 10
 ---
 
@@ -25,9 +25,9 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat
 ## Mengapa berdonasi ke Organic Maps?
 
 1. Kami mengandalkan donasi Anda untuk menjalankan misi kami agar Organic
-   Maps tetap terbuka dan bebas.  Dan bebas dari iklan.
+   Maps tetap terbuka dan bebas. Dan bebas dari iklan.
 2. Kami adalah beberapa penggemar yang berkontribusi di waktu luang kami,
-   dan menghabiskan uang keluarga kami untuk proyek ini.  Kami mencintai apa
+   dan menghabiskan uang keluarga kami untuk proyek ini. Kami mencintai apa
    yang kami lakukan, dan kami mencintai pengguna kami. ❤️
 3. Dengan dukungan Anda, kami ingin menjadi versi Google Maps yang lebih
    baik dan berfokus pada privasi.
@@ -35,11 +35,10 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat
 ## Untuk apa uang itu akan digunakan?
 
 1. Kami membayar untuk server yang cepat, sehingga siapa pun di Dunia dapat
-   mengunduh pembaruan data peta gratis tanpa penundaan.  Ratusan terabyte
+   mengunduh pembaruan data peta gratis tanpa penundaan. Ratusan terabyte
    setiap bulan, dan jumlahnya terus bertambah.
 2. Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi
-   adalah prioritas utama kami.  Ada [1200+ masalah di GitHub][github
-   issues], dan jumlah ini terus bertambah setiap hari.  App Store, Google
+   adalah prioritas utama kami. Ada [1200+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari. App Store, Google
    Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin
    memberikan produk berkualitas tinggi.
 3. Dengan uang yang cukup, fitur baru bisa dikembangkan lebih cepat,

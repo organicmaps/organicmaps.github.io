@@ -1,9 +1,9 @@
 ---
-description: 'Tu dinero parga para todos los gastos relacionados con el proyecto y nos motiva a mejorar Organic Maps.'
+description: "Tu dinero parga para todos los gastos relacionados con el proyecto y nos motiva a mejorar Organic Maps."
 extra:
   menu_title: Donar
   preview_image: donate/donate.png
-title: 'Dona para apoyar al desarrollo de Organic Maps'
+title: "Dona para apoyar al desarrollo de Organic Maps"
 weight: 10
 ---
 
@@ -25,9 +25,9 @@ Organic Maps es _gratis para todo el mundo_ gracias a tus
 ## ¿Por qué donar a Organic Maps?
 
 1. Dependemos de tus donacions para seguir con nuestra misión de mantener
-   Organic Maps abierta y gratis.  Y libre de anuncios.
+   Organic Maps abierta y gratis. Y libre de anuncios.
 2. Somos un grupo de entusiastas contribuyendo en nuestro tempo libre, y
-   gastando el dinero de nuestras familias en el proyecto.  Nos encanta lo
+   gastando el dinero de nuestras familias en el proyecto. Nos encanta lo
    que hacemos, y amamos a nuestros usuarios ❤️.
 3. Con tu apoyo, queremos convertirnos en una major versión, centrada en la
    privacidad de Google Maps.
@@ -36,12 +36,12 @@ Organic Maps es _gratis para todo el mundo_ gracias a tus
 
 1. Pagamos por servidores rápidos, por lo que cualquier en el mundo puede
    descargar actualizaciones de las características de los mapas rápido y
-   sin esperas.  Son cientos de terabytes al mes, y la cantidad está
+   sin esperas. Son cientos de terabytes al mes, y la cantidad está
    creciendo.
 2. El apoyo a los usuarios, el arreglo de errores, y la mejora de la
-   estabilidad de la aplicación son nuestras principales prioridades.  Hay
+   estabilidad de la aplicación son nuestras principales prioridades. Hay
    más de [1200 incidencias en GitHub][github issues], y este número crece
-   cada día.  AppStore, Google Play y los correos de soporte están inundados
+   cada día. AppStore, Google Play y los correos de soporte están inundados
    con comentarios y errores. Queremos enviar un producto de calidad.
 3. Con suficiente dinero, pueden desarrollarse características nuevas más
    rápido, por ejemplo:
