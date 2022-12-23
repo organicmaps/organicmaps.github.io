@@ -7,6 +7,8 @@ extra:
   preview_image: donate/donate.png
 ---
 
+Wir wünschen Ihnen ein frohes Weihnachtsfest 🎅 und ein gutes neues Jahr 🎄! Das beste Geschenk für uns ist zu wissen, dass wir das Richtige tun und dass unsere Zeit und unsere Bemühungen jemandem auf dem Planeten helfen.
+
 Organic Maps ist _kostenlos für alle_ dank deiner **[Spenden][stripe]**:
 
 - Keine Werbung
