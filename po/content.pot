@@ -26,7 +26,7 @@ msgstr ""
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
@@ -440,8 +440,8 @@ msgstr ""
 msgid "Donate to support the development of Organic Maps"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/_index.md
 #, no-wrap
 msgid "Donate"
 msgstr ""
@@ -652,7 +652,7 @@ msgstr ""
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
@@ -670,8 +670,8 @@ msgstr ""
 msgid "Organic Maps: Privacy Policy"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/_index.md
 #, no-wrap
 msgid "Privacy"
 msgstr ""
@@ -718,7 +718,7 @@ msgstr ""
 msgid "Support the development of Organic Maps"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
@@ -826,7 +826,7 @@ msgstr ""
 msgid "Organic Maps: terms"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"

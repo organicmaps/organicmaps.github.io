@@ -79,7 +79,6 @@ brew install po4a
 
 ## Known Limitations
 
-- Menu item names in `menu.title` YAML Front Matters are not updated properly, see [a relevant ticket for po4a](https://github.com/mquinson/po4a/issues/392).
 - `./i18n.sh` removes line wrapping in `.po` files when a new language is added initially via WebLate. 
 - New web-site pages should be added to `.po4a.cfg` configuration file manually.
 

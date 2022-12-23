@@ -1,7 +1,7 @@
 ---
 description: 'Peta luring cepat terperinci untuk pelancong, turis, pengemudi, pejalan kaki, dan pengendara sepeda yang dibuat oleh pendiri aplikasi MapsWithMe (Maps.Me).'
 extra:
-  menu_title: Halaman depan
+  menu_title: 'Halaman depan'
 page_template: index.html
 sort_by: weight
 title: 'Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring'

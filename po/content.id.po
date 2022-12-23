@@ -27,7 +27,7 @@ msgstr "Peta luring cepat terperinci untuk pelancong, turis, pengemudi, pejalan 
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring"
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
@@ -386,8 +386,8 @@ msgstr "Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memo
 msgid "Donate to support the development of Organic Maps"
 msgstr "Berdonasi untuk mendukung pengembangan Organic Maps"
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/_index.md
 #, no-wrap
 msgid "Donate"
 msgstr "Donasi"
@@ -550,7 +550,7 @@ msgstr "Dapatkah Anda membantu kami dengan cara lain?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.id.md) page for more details."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr "Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman [Dukung Kami](@/support-us/index.id.md) untuk lebih jelasnya."
 
 #. type: Plain text
@@ -575,7 +575,7 @@ msgstr "Tetap terhubung dengan rilis Organic Maps terbaru, berita dan pembaruan 
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organic Maps: Berita dan pembaruan terbaru dari tim kami"
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
@@ -593,8 +593,8 @@ msgstr "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan 
 msgid "Organic Maps: Privacy Policy"
 msgstr "Organic Maps: Kebijakan Privasi"
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/_index.md
 #, no-wrap
 msgid "Privacy"
 msgstr "Privasi"
@@ -637,7 +637,7 @@ msgstr "Berbagai cara untuk mendukung pengembangan aplikasi gratis kami"
 msgid "Support the development of Organic Maps"
 msgstr "Dukung pengembangan Organic Maps"
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
@@ -730,11 +730,11 @@ msgstr "Ketentuan penggunaan untuk aplikasi Organic Maps"
 msgid "Organic Maps: terms"
 msgstr "Organic Maps: persyaratan"
 
-#. type: YAML Front Matter: extra.menu_title
+#. type: YAML Front Matter: extra menu_title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Persyaratan"
 
 #. type: Plain text
 #: content/terms/index.md
