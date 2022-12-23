@@ -41,6 +41,4 @@ Ada berbagai cara untuk mendukung pengembangan:
 Tim kecil kami sangat berterima kasih atas masukan dan dukungan
 Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami. ❤️
 
-[telegram_chat]: https://t.me/OrganicMaps
-
 {{ references(lang='id') }}
