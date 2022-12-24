@@ -18,7 +18,7 @@ set -x
 
 $TOOLS/extract-zola-translations.py
 
-touch content/_index.md # force re-generation
+touch content/_index.md po/content.pot po/*.po # force re-generation
 po4a .po4a.cfg
 
 sed -e '/"PO-Revision-Date/d' -e '/"POT-Creation-Date/d' -i'~' po/content.*.po po/content.pot
