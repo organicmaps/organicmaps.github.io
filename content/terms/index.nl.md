@@ -36,5 +36,5 @@ Als u vragen of opmerkingen heeft, neem alstublieft contact met ons op
 via[legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps
-[licentie]: http://www.apache.org/licenses/LICENSE-2.0
+[license]: http://www.apache.org/licenses/LICENSE-2.0
 [copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html

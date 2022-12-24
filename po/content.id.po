@@ -395,10 +395,7 @@ msgstr "Berdonasi untuk mendukung pengembangan Organic Maps"
 #. type: Plain text
 #: content/donate/index.md
 msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr ""
-"Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi "
-"kami adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu "
-"dan upaya kami membantu seseorang di Planet ini."
+msgstr "Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi kami adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu dan upaya kami membantu seseorang di Planet ini."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -787,20 +784,14 @@ msgstr "Lihat juga berkas [data/copyright.html][copyright] untuk daftar lengkap 
 #. type: Plain text
 #: content/terms/index.md
 #, no-wrap
-msgid "[github]: https://github.com/organicmaps/organicmaps\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
-
-#. type: Plain text
-#: content/terms/index.md
-#, no-wrap
-msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-
-#. type: Plain text
-#: content/terms/index.md
-#, no-wrap
-msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgid ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml

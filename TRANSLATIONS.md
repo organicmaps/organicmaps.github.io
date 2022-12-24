@@ -80,7 +80,6 @@ brew install po4a
 
 ## Known Limitations
 
-- `./tools/i18n.sh` removes line wrapping in `.po` files when a new language is added initially via WebLate.
 - New web-site pages and languages should be added to `.po4a.cfg` configuration file manually.
 
 [po4a]: https://po4a.org/index.php.en

@@ -2,7 +2,8 @@
 
 set -euo pipefail
 
-TOOLS="$(cd "$(dirname "$0")"; pwd)"
+cd "$(dirname "$0")"
+TOOLS="$(pwd)"
 
 if ! which po4a; then
     echo "ERROR: Missing po4a">&2
@@ -12,9 +13,16 @@ if ! which po4a; then
     exit 1
 fi
 
-cd "$TOOLS/.."
-
 set -x
+
+if [ ! -x venv/bin/python3 ]; then
+    python3 -m venv venv
+fi
+source venv/bin/activate
+pip3 install -r requirements.txt
+
+cd ..
+npm ci
 
 $TOOLS/extract-zola-translations.py
 
@@ -25,3 +33,5 @@ sed -e '/"PO-Revision-Date/d' -e '/"POT-Creation-Date/d' -i'~' po/content.*.po p
 rm -f po/content.*.po*~ po/content.pot~
 
 $TOOLS/update-zola-translations.py
+
+npm run format

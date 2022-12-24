@@ -34,5 +34,5 @@ Galdera edo iradokizunik baduzu, mesedez jarri gurekin harremanetan helbide
 honetan [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps
-[lizentzia]: http://www.apache.org/licenses/LICENSE-2.0
+[license]: http://www.apache.org/licenses/LICENSE-2.0
 [copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
