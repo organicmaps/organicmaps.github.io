@@ -7,7 +7,9 @@ title: 'Dohaintza egin Organic Maps-en garapenari eusteko'
 weight: 10
 ---
 
-Gabon zoriontsuak 🎅 eta Urte Berri on 🎄 opa dizkizuegu! Guretzat oparirik onena The Right Thing egiten ari garela jakitea da, eta gure denbora eta ahaleginak planetako norbait laguntzen ari direla.
+Gabon zoriontsuak 🎅 eta Urte Berri on 🎄 opa dizkizuegu! Guretzat oparirik
+onena The Right Thing egiten ari garela jakitea da, eta gure denbora eta
+ahaleginak planetako norbait laguntzen ari direla.
 
 Organic Maps app-a _denontzat doakoa_ da, zure **[dohaintzari][stripe]**
 esker:

@@ -7,7 +7,9 @@ title: 'Doneer om de ontwikkeling van Organic Maps te ondersteunen'
 weight: 10
 ---
 
-Wij wensen u een vrolijk kerstfeest 🎅 en een gelukkig nieuwjaar 🎄! Het mooiste geschenk voor ons is te weten dat we Het Goede Doen en dat onze tijd en inspanningen iemand op de Planeet helpen.
+Wij wensen u een vrolijk kerstfeest 🎅 en een gelukkig nieuwjaar 🎄! Het
+mooiste geschenk voor ons is te weten dat we Het Goede Doen en dat onze tijd
+en inspanningen iemand op de Planeet helpen.
 
 Organic Maps app is _gratis voor iedereen_ dankzij jullie
 **[donaties][stripe]**:

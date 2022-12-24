@@ -7,7 +7,9 @@ title: 'Berdonasi untuk mendukung pengembangan Organic Maps'
 weight: 10
 ---
 
-Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi kami adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu dan upaya kami membantu seseorang di Planet ini.
+Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi kami
+adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu dan
+upaya kami membantu seseorang di Planet ini.
 
 Aplikasi Organic Maps _gratis untuk semua orang_ berkat
 **[donasi][stripe]**:
