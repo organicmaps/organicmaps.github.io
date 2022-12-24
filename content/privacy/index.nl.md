@@ -1,8 +1,8 @@
 ---
-description: 'Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware'
+description: "Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware"
 extra:
   menu_title: Privacy
-title: 'Organic Maps: pricavyovereenkomst'
+title: "Organic Maps: pricavyovereenkomst"
 weight: 900
 ---
 

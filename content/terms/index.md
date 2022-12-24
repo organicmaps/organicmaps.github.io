@@ -24,7 +24,5 @@ See also [data/copyright.html][copyright] file for a full list of copyright noti
 If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps
-
 [license]: http://www.apache.org/licenses/LICENSE-2.0
-
 [copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html

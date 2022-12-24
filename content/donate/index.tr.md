@@ -7,6 +7,8 @@ extra:
   preview_image: donate/bağış.png
 ---
 
+Size Mutlu Noeller 🎅 ve Mutlu Yıllar 🎄 diliyoruz! Bizim için en güzel hediye, Doğru Şeyi yaptığımızı ve zamanımızın ve çabalarımızın Gezegendeki birilerine yardımcı olduğunu bilmektir.
+
 Organic Maps'i özgür tutma misyonumuzu yerine getirmek için **[bağışlarınıza][donate]** güveniyoruz!
 
 {{ donate_buttons(lang='tr') }}

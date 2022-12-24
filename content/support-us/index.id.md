@@ -1,9 +1,9 @@
 ---
-description: 'Berbagai cara untuk mendukung pengembangan aplikasi gratis kami'
+description: "Berbagai cara untuk mendukung pengembangan aplikasi gratis kami"
 extra:
-  menu_title: 'Dukung Kami'
+  menu_title: "Dukung Kami"
   preview_image: support-us/support-us.jpg
-title: 'Dukung pengembangan Organic Maps'
+title: "Dukung pengembangan Organic Maps"
 weight: 20
 ---
 

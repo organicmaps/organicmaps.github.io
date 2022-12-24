@@ -1,8 +1,8 @@
 ---
-description: 'Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan statistik, tanpa perangkat lunak pengintai'
+description: "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan statistik, tanpa perangkat lunak pengintai"
 extra:
   menu_title: Privasi
-title: 'Organic Maps: Kebijakan Privasi'
+title: "Organic Maps: Kebijakan Privasi"
 weight: 900
 ---
 
