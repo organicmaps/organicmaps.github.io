@@ -7,7 +7,7 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym prezentem dla nas jest świadomość, że robimy The Right Thing i że nasz czas i wysiłek pomaga komuś na Planecie.
+Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym prezentem dla nas jest świadomość, że robimy coś właściwego i że nasz czas i wysiłek pomaga komuś na świecie.
 
 Aplikacja Organic Maps jest _darmowa dla każdego_ dzięki Waszym **[datkom][stripe]**:
 
