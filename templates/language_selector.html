@@ -17,7 +17,7 @@
     {% for translation in resource.translations | sort(attribute="lang") %}
     {% if lang != translation.lang %}
     <li class="lang-menu-item" role="menuitem">
-      <a class="lang-menu-link" onclick="return onLanguageClick('{{ translation.lang }}');" href="{{ translation.permalink | replace(from=config.base_url, to="") }}">
+      <a class="lang-menu-link" onclick="return onLanguageClick('{{ translation.lang }}');" href="{{ translation.permalink | replace(from=config.base_url, to="") | safe }}">
         {{ trans(key="language", lang=translation.lang) }}
       </a>
     </li>
