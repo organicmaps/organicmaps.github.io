@@ -4,7 +4,7 @@
   {% set langPathPrefix = '/' ~ lang %}
 {% endif %}
 <nav id="menu" role="navigation">
-  <a href="{{ langPathPrefix }}/"><span class="top_menu_logo"></span></a>
+  <a href="{{ langPathPrefix | safe }}/"><span class="top_menu_logo"></span></a>
   <span>
     {% for page in [
       get_section(path="news/_index.md"),
@@ -20,7 +20,7 @@
       {% endif %}
     {% endif %}
     <span class="top_menu_{{ page.path | split(pat="/") | reverse | nth(n=1) }} top_menu_item{% if page.path != resource.path %}">
-      <a href="{{ page.permalink | replace(from=config.base_url, to="") }}">{% else %}_active">{% endif %}
+      <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
         <span>{{ page.extra.menu_title }}</span>
         {%- if page.path != resource.path %}</a>{% endif %}
     </span>
