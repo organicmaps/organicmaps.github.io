@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"PO-Revision-Date: 2022-12-19 10:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-01-02 08:08+0000\n"
+"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/organicmaps/"
 "website/cs/>\n"
 "Language: cs\n"
@@ -19,9 +19,17 @@ msgstr ""
 
 #. type: YAML Front Matter: description
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, turisty a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me)."
+msgstr ""
+"Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a "
+"cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me)."
+
+#. type: YAML Front Matter: extra menu_title
+#: content/_index.md
+#, no-wrap
+msgid "Home"
+msgstr "Domů"
 
 #. type: YAML Front Matter: title
 #: content/_index.md
@@ -29,35 +37,42 @@ msgstr "Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, turis
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organické mapy: Offline pěší turistika, cykloturistika, stezky a navigace"
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, fuzzy, no-wrap
-msgid "Home"
-msgstr "Domov"
-
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, pěší turisty a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [fork][vidličku] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme], kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.\n"
+msgstr ""
+"**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS "
+"pro cestovatele, turisty, výletníky a cyklisty založená na datech "
+"**[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] "
+"zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako "
+"[**MapsWithMe**][mapswithme], kterou spravují stejní lidé, kteří v roce 2011 "
+"vytvořili **MapsWithMe**.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Aplikace Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.\n"
+msgstr ""
+"**Aplikace Organic Maps** je jednou z mála aplikací, která v dnešní době "
+"podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si "
+"Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor "
+"vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez "
+"jakéhokoli bajtu odeslaného do sítě.\n"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+msgstr ""
+"Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google "
+"Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] "
+"{#install}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='en') }}"
+msgstr "{{ badges(lang='cs') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -108,13 +123,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid ""
 "Detailed offline maps with places that don't exist on other maps, thanks to "
 "[OpenStreetMap][openstreetmap]"
 msgstr ""
 "Podrobné offline mapy s místy, která na jiných mapách neexistují, díky "
-"[OpenStreetMap][openstreetmap]."
+"[OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -297,11 +311,10 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Organic Maps is an indie community-driven open-source project"
 msgstr ""
 "Organic Maps je nezávislý projekt s otevřeným zdrojovým kódem, který je "
-"řízen komunitou."
+"řízen komunitou"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -337,7 +350,9 @@ msgstr "Kdo platí za bezplatnou aplikaci?"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid "The app is free for everyone. Please [donate][donate] to support us!"
+msgid ""
+"The app is free for everyone. Please [donate](@/donate/index.md) to support "
+"us!"
 msgstr "Aplikace je pro všechny zdarma. Podpořte nás prosím [donate][donate]!"
 
 #. type: Title ###
@@ -354,9 +369,9 @@ msgstr "{{ donate_buttons(lang='en') }}"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Our sponsors:"
-msgstr "Naši sponzoři"
+msgstr "Naši sponzoři:"
 
 #. type: Plain text
 #: content/_index.md
@@ -486,17 +501,29 @@ msgstr "{{ reference(lang='en') }}"
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr "Z vašich peněz se hradí všechny výdaje spojené s projektem a motivují nás ke zlepšování Organic Maps."
 
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/index.md
+#, fuzzy, no-wrap
+msgid "Donate"
+msgstr "Přispějte"
+
 #. type: YAML Front Matter: title
 #: content/donate/index.md
 #, fuzzy, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr "Přispějte na podporu vývoje Organic Maps"
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, fuzzy, no-wrap
-msgid "Donate"
-msgstr "Přispějte"
+#. type: Plain text
+#: content/donate/index.md
+#, fuzzy
+msgid ""
+"We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us "
+"is to know that we are doing The Right Thing and that our time and efforts "
+"are helping someone on the Planet."
+msgstr ""
+"Přejeme vám krásné Vánoce 🎅 a šťastný nový rok 🎄! Nejlepším dárkem je pro "
+"nás vědomí, že děláme Správnou věc a že náš čas a úsilí někomu na planetě "
+"pomáhá."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -657,9 +684,8 @@ msgstr "Veřejná doprava"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
 msgid "… and [many other][github issues] features you want and love"
-msgstr "... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi."
+msgstr "... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -742,17 +768,17 @@ msgstr ""
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr "Zůstaňte v kontaktu s nejnovějšími verzemi Organic Maps, novinkami a aktualizacemi od našeho týmu"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/news/_index.md
+#, fuzzy, no-wrap
+msgid "News"
+msgstr "Novinky"
+
 #. type: YAML Front Matter: title
 #: content/news/_index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organické mapy: Nejnovější zprávy a aktualizace od našeho týmu"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, fuzzy, no-wrap
-msgid "News"
-msgstr "Novinky"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -760,17 +786,17 @@ msgstr "Novinky"
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr "Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/index.md
+#, fuzzy, no-wrap
+msgid "Privacy"
+msgstr "Soukromí"
+
 #. type: YAML Front Matter: title
 #: content/privacy/index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: Privacy Policy"
 msgstr "Organické mapy: Zásady ochrany osobních údajů"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, fuzzy, no-wrap
-msgid "Privacy"
-msgstr "Soukromí"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -816,17 +842,17 @@ msgstr "<sub>Tyto zásady jsou účinné od 2021-04-24.</sub>\n"
 msgid "Different ways to support the development of our free application"
 msgstr "Různé způsoby podpory vývoje naší bezplatné aplikace"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/support-us/index.md
+#, fuzzy, no-wrap
+msgid "Support Us"
+msgstr "Podpořte nás"
+
 #. type: YAML Front Matter: title
 #: content/support-us/index.md
 #, fuzzy, no-wrap
 msgid "Support the development of Organic Maps"
 msgstr "Podpora vývoje organických map"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support Us"
-msgstr ""
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -850,8 +876,8 @@ msgstr "Vývoj lze podpořit různými způsoby:"
 #: content/support-us/index.md
 #, fuzzy
 msgid ""
-"[Donate][donate]! Every dollar or euro counts and helps us to pay for "
-"servers and scale."
+"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
+"for servers and scale."
 msgstr ""
 "[Donate][donate]! Každý dolar nebo euro se počítá a pomáhá nám zaplatit "
 "servery a škálu."
@@ -969,17 +995,17 @@ msgstr ""
 msgid "Terms of use for Organic Maps application"
 msgstr "Podmínky používání aplikace Organic Maps"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/terms/index.md
+#, fuzzy, no-wrap
+msgid "Terms"
+msgstr "Podmínky"
+
 #. type: YAML Front Matter: title
 #: content/terms/index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: terms"
 msgstr "Organické mapy: termíny"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "Terms"
-msgstr "Podmínky"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -993,13 +1019,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid ""
 "You may obtain a copy of the License at [http://www.apache.org/licenses/"
 "LICENSE-2.0][license]"
 msgstr ""
 "Kopii licence můžete získat na adrese [http://www.apache.org/licenses/"
-"LICENSE-2.0][licence]."
+"LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -1061,73 +1086,79 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy, no-wrap
-msgid "[github]: https://github.com/organicmaps/organicmaps\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
-
-#. type: Plain text
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-msgstr "[licence]: http://www.apache.org/licenses/LICENSE-2.0\n"
-
-#. type: Plain text
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgid ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
-#. type: Zola TOML Translations: address
-#: config.toml
+#. type: Hash Value: address
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Address"
 msgstr "Adresa"
 
-#. type: Zola TOML Translations: back
-#: config.toml
-#, no-wrap
+#. type: Hash Value: back
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "Zpět na novinky"
 
-#. type: Zola TOML Translations: install-appgallery
-#: config.toml
-#, no-wrap
+#. type: Hash Value: contact
+#: translations.yaml
+#, fuzzy, no-wrap
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+#. type: Hash Value: install-appgallery
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Instalace aplikace Organic Maps z galerie aplikací Huawei"
 
-#. type: Zola TOML Translations: install-appstore
-#: config.toml
-#, no-wrap
+#. type: Hash Value: install-appstore
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "Instalace aplikace Organic Maps z AppStore"
 
-#. type: Zola TOML Translations: install-googleplay
-#: config.toml
-#, no-wrap
-msgid "Install Organic Maps from Google Play"
-msgstr ""
-
-#. type: Zola TOML Translations: install-fdroid
-#: config.toml
-#, no-wrap
+#. type: Hash Value: install-fdroid
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "Instalace organických map z aplikace F-Droid"
 
-#. type: Zola TOML Translations: language
+#. type: Hash Value: install-googleplay
+#: translations.yaml
+#, fuzzy, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr "Instalace organických map z Google Play"
+
+#. type: Hash Value: language
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "English"
 msgstr "Čeština"
 
-#. type: Zola TOML Translations: name
-#: config.toml
+#. type: Hash Value: name
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Name"
 msgstr "Název"
 
-#. type: Zola TOML Translations: token
-#: config.toml
+#. type: Hash Value: token
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Token"
 msgstr "Token"
+
+#, fuzzy, no-wrap
+#~ msgid "[github]: https://github.com/organicmaps/organicmaps\n"
+#~ msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
+
+#, fuzzy, no-wrap
+#~ msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+#~ msgstr "[licence]: http://www.apache.org/licenses/LICENSE-2.0\n"
 
 #, fuzzy, no-wrap
 #~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
