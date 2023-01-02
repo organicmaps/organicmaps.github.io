@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"PO-Revision-Date: 2022-12-19 10:42+0000\n"
+"PO-Revision-Date: 2022-12-23 15:14+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/organicmaps/"
 "website/be/>\n"
@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
@@ -24,17 +24,17 @@ msgstr ""
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr "Хуткія, падрабязныя афлайн мапы для падарожнікаў, турыстаў, кіроўцаў і веласіпедыстаў, створаныя заснавальнікамі праграмы MapsWithMe (пазней перайменаванай у Maps.Me)."
 
+#. type: YAML Front Matter: extra menu_title
+#: content/_index.md
+#, fuzzy, no-wrap
+msgid "Home"
+msgstr "Дом"
+
 #. type: YAML Front Matter: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organic Maps: афлайн мапы"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, fuzzy, no-wrap
-msgid "Home"
-msgstr "Дом"
 
 #. type: Plain text
 #: content/_index.md
@@ -283,7 +283,9 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-msgid "The app is free for everyone. Please [donate][donate] to support us!"
+msgid ""
+"The app is free for everyone. Please [donate](@/donate/index.md) to support "
+"us!"
 msgstr ""
 
 #. type: Title ###
@@ -401,17 +403,25 @@ msgstr ""
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/index.md
+#, fuzzy, no-wrap
+msgid "Donate"
+msgstr "Зрабіць ахвяраванне"
+
 #. type: YAML Front Matter: title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr ""
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, fuzzy, no-wrap
-msgid "Donate"
-msgstr "Зрабіць ахвяраванне"
+#. type: Plain text
+#: content/donate/index.md
+msgid ""
+"We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us "
+"is to know that we are doing The Right Thing and that our time and efforts "
+"are helping someone on the Planet."
+msgstr ""
 
 #. type: Plain text
 #: content/donate/index.md
@@ -611,17 +621,17 @@ msgstr ""
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/news/_index.md
+#, fuzzy, no-wrap
+msgid "News"
+msgstr "Навіны"
+
 #. type: YAML Front Matter: title
 #: content/news/_index.md
 #, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr ""
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, fuzzy, no-wrap
-msgid "News"
-msgstr "Навіны"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -629,17 +639,17 @@ msgstr "Навіны"
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/index.md
+#, fuzzy, no-wrap
+msgid "Privacy"
+msgstr "Прыватнасць"
+
 #. type: YAML Front Matter: title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
 msgstr ""
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, fuzzy, no-wrap
-msgid "Privacy"
-msgstr "Прыватнасць"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -677,16 +687,16 @@ msgstr ""
 msgid "Different ways to support the development of our free application"
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/support-us/index.md
+#, no-wrap
+msgid "Support Us"
+msgstr ""
+
 #. type: YAML Front Matter: title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
-msgstr ""
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support Us"
 msgstr ""
 
 #. type: Plain text
@@ -705,8 +715,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid ""
-"[Donate][donate]! Every dollar or euro counts and helps us to pay for "
-"servers and scale."
+"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
+"for servers and scale."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -791,17 +801,17 @@ msgstr ""
 msgid "Terms of use for Organic Maps application"
 msgstr ""
 
+#. type: YAML Front Matter: extra menu_title
+#: content/terms/index.md
+#, fuzzy, no-wrap
+msgid "Terms"
+msgstr "Умовы"
+
 #. type: YAML Front Matter: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"
 msgstr ""
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "Terms"
-msgstr "Умовы"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -861,70 +871,68 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 #, no-wrap
-msgid "[github]: https://github.com/organicmaps/organicmaps\n"
+msgid ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr ""
 
-#. type: Plain text
-#: content/terms/index.md
-#, no-wrap
-msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-#, no-wrap
-msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr ""
-
-#. type: Zola TOML Translations: address
-#: config.toml
+#. type: Hash Value: address
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Address"
 msgstr "Адрас"
 
-#. type: Zola TOML Translations: back
-#: config.toml
+#. type: Hash Value: back
+#: translations.yaml
 #, no-wrap
 msgid "Back to News"
 msgstr ""
 
-#. type: Zola TOML Translations: install-appgallery
-#: config.toml
+#. type: Hash Value: contact
+#: translations.yaml
+#, fuzzy, no-wrap
+msgid "Contact Us"
+msgstr "Звязацца з намі"
+
+#. type: Hash Value: install-appgallery
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
 msgstr ""
 
-#. type: Zola TOML Translations: install-appstore
-#: config.toml
+#. type: Hash Value: install-appstore
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
 msgstr ""
 
-#. type: Zola TOML Translations: install-googleplay
-#: config.toml
-#, no-wrap
-msgid "Install Organic Maps from Google Play"
-msgstr ""
-
-#. type: Zola TOML Translations: install-fdroid
-#: config.toml
+#. type: Hash Value: install-fdroid
+#: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
 msgstr ""
 
-#. type: Zola TOML Translations: language
+#. type: Hash Value: install-googleplay
+#: translations.yaml
+#, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr ""
+
+#. type: Hash Value: language
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "English"
 msgstr "Англійская"
 
-#. type: Zola TOML Translations: name
-#: config.toml
+#. type: Hash Value: name
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Name"
 msgstr "Імя"
 
-#. type: Zola TOML Translations: token
-#: config.toml
+#. type: Hash Value: token
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Token"
 msgstr "токен"
