@@ -809,7 +809,7 @@ msgstr "Voltar às Notícias"
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Contate-nos"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
