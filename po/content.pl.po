@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"PO-Revision-Date: 2022-12-19 10:42+0000\n"
+"PO-Revision-Date: 2022-12-24 08:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/organicmaps/"
 "website/pl/>\n"
@@ -24,17 +24,17 @@ msgstr ""
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr "Szybkie szczegółowe mapy offline dla podróżników, turystów, kierowców, turystów pieszych i rowerzystów stworzone przez założycieli aplikacji MapsWithMe (Maps.Me)."
 
+#. type: YAML Front Matter: extra menu_title
+#: content/_index.md
+#, fuzzy, no-wrap
+msgid "Home"
+msgstr "Główna"
+
 #. type: YAML Front Matter: title
 #: content/_index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
 msgstr "Organic Maps: Offline Hike, Bike, Trails i Nawigacja"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, fuzzy, no-wrap
-msgid "Home"
-msgstr "Główna"
 
 #. type: Plain text
 #: content/_index.md
@@ -337,10 +337,12 @@ msgstr "Kto płaci za darmową aplikację?"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid "The app is free for everyone. Please [donate][donate] to support us!"
+msgid ""
+"The app is free for everyone. Please [donate](@/donate/index.md) to support "
+"us!"
 msgstr ""
-"Aplikacja jest darmowa dla wszystkich. Proszę [donate][donate] aby nas "
-"wesprzeć!"
+"Aplikacja jest darmowa dla wszystkich. Proszę [donate](@/donate/index.md) "
+"aby nas wesprzeć!"
 
 #. type: Title ###
 #: content/_index.md
@@ -467,7 +469,7 @@ msgid ""
 "[twitter], [Instagram][instagram], [Reddit][reddit]."
 msgstr ""
 "Śledź nasze aktualizacje w [Mastodon][mastodon], [Facebook][facebook], "
-"[Twitter][twitter], [Instagram][instagram]."
+"[Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 
 #. type: Plain text
 #: content/_index.md
@@ -487,17 +489,29 @@ msgstr "{{ references(lang='en') }}"
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr "Twoje pieniądze pokrywają wszystkie wydatki związane z projektem i motywują nas do ulepszania Organic Maps."
 
+#. type: YAML Front Matter: extra menu_title
+#: content/donate/index.md
+#, fuzzy, no-wrap
+msgid "Donate"
+msgstr "Wspomóż finansowo"
+
 #. type: YAML Front Matter: title
 #: content/donate/index.md
 #, fuzzy, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr "Przekaż darowiznę, aby wesprzeć rozwój Organic Maps"
 
-#. type: YAML Front Matter: extra.menu_title
-#: content/_index.md
-#, fuzzy, no-wrap
-msgid "Donate"
-msgstr "Wspomóż finansowo"
+#. type: Plain text
+#: content/donate/index.md
+#, fuzzy
+msgid ""
+"We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us "
+"is to know that we are doing The Right Thing and that our time and efforts "
+"are helping someone on the Planet."
+msgstr ""
+"Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym "
+"prezentem dla nas jest świadomość, że robimy The Right Thing i że nasz czas "
+"i wysiłek pomaga komuś na Planecie."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -748,17 +762,17 @@ msgstr ""
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr "Bądź na bieżąco z najnowszymi wydaniami Organic Maps, wiadomościami i aktualizacjami od naszego zespołu"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/news/_index.md
+#, fuzzy, no-wrap
+msgid "News"
+msgstr "Nowości"
+
 #. type: YAML Front Matter: title
 #: content/news/_index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organic Maps: Najnowsze wiadomości i aktualizacje od naszego zespołu"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, fuzzy, no-wrap
-msgid "News"
-msgstr "Nowości"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
@@ -766,17 +780,17 @@ msgstr "Nowości"
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr "Bez śledzenia, bez reklam, bez zbierania danych, bez zbierania statystyk, bez spyware"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/privacy/index.md
+#, fuzzy, no-wrap
+msgid "Privacy"
+msgstr "Prywatność"
+
 #. type: YAML Front Matter: title
 #: content/privacy/index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: Privacy Policy"
 msgstr "Organic Maps: Polityka prywatności"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/news/_index.md
-#, fuzzy, no-wrap
-msgid "Privacy"
-msgstr "Prywatność"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -823,17 +837,17 @@ msgstr "<sub>Polityka ta obowiązuje od dnia 2021-04-24.</sub>\n"
 msgid "Different ways to support the development of our free application"
 msgstr "Różne sposoby wsparcia rozwoju naszej darmowej aplikacji"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/support-us/index.md
+#, fuzzy, no-wrap
+msgid "Support Us"
+msgstr "Pomóż w rozwoju"
+
 #. type: YAML Front Matter: title
 #: content/support-us/index.md
 #, fuzzy, no-wrap
 msgid "Support the development of Organic Maps"
 msgstr "Wspieranie rozwoju map ekologicznych"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/support-us/index.md
-#, fuzzy, no-wrap
-msgid "Support Us"
-msgstr "Pomóż w rozwoju"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -857,11 +871,11 @@ msgstr "Wspierać rozwój można na różne sposoby:"
 #: content/support-us/index.md
 #, fuzzy
 msgid ""
-"[Donate][donate]! Every dollar or euro counts and helps us to pay for "
-"servers and scale."
+"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
+"for servers and scale."
 msgstr ""
-"[Donate][donate]! Każdy dolar lub euro się liczy i pomaga nam opłacić "
-"serwery i skalę."
+"[Donate](@/donate/index.md)! Każdy dolar lub euro się liczy i pomaga nam "
+"opłacić serwery i skalę."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -913,8 +927,8 @@ msgid ""
 "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
 "data."
 msgstr ""
-"Dołącz do społeczności [OpenStreetMap][openstreemap] i przyczyniaj się do "
-"rozwoju danych map."
+"Dołącz do społeczności [OpenStreetMap][openstreetmap] i przyczyniaj się do "
+"powstawania danych map."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -979,17 +993,17 @@ msgstr ""
 msgid "Terms of use for Organic Maps application"
 msgstr "Warunki korzystania z aplikacji Organic Maps"
 
+#. type: YAML Front Matter: extra menu_title
+#: content/terms/index.md
+#, fuzzy, no-wrap
+msgid "Terms"
+msgstr "Warunki"
+
 #. type: YAML Front Matter: title
 #: content/terms/index.md
 #, fuzzy, no-wrap
 msgid "Organic Maps: terms"
 msgstr "Mapy organiczne: warunki"
-
-#. type: YAML Front Matter: extra.menu_title
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "Terms"
-msgstr "Warunki"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -1070,74 +1084,76 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy, no-wrap
-msgid "[github]: https://github.com/organicmaps/organicmaps\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
-
-#. type: Plain text
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-msgstr "[licencja]: http://www.apache.org/licenses/LICENSE-2.0\n"
-
-#. type: Plain text
-#: content/terms/index.md
-#, fuzzy, no-wrap
-msgid "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgid ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
-#. type: Zola TOML Translations: address
-#: config.toml
+#. type: Hash Value: address
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Address"
 msgstr "Adres"
 
-#. type: Zola TOML Translations: back
-#: config.toml
-#, no-wrap
+#. type: Hash Value: back
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "Powrót do wiadomości"
 
-#. type: Zola TOML Translations: install-appgallery
-#: config.toml
-#, no-wrap
+#. type: Hash Value: contact
+#: translations.yaml
+#, fuzzy, no-wrap
+msgid "Contact Us"
+msgstr "Kontakt z nami"
+
+#. type: Hash Value: install-appgallery
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Zainstaluj Organic Maps z Huawei AppGallery"
 
-#. type: Zola TOML Translations: install-appstore
-#: config.toml
-#, no-wrap
+#. type: Hash Value: install-appstore
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "Zainstaluj Organic Maps z AppStore"
 
-#. type: Zola TOML Translations: install-googleplay
-#: config.toml
-#, no-wrap
-msgid "Install Organic Maps from Google Play"
-msgstr ""
-
-#. type: Zola TOML Translations: install-fdroid
-#: config.toml
-#, no-wrap
+#. type: Hash Value: install-fdroid
+#: translations.yaml
+#, fuzzy, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "Zainstaluj Organic Maps z F-Droid"
 
-#. type: Zola TOML Translations: language
+#. type: Hash Value: install-googleplay
+#: translations.yaml
+#, fuzzy, no-wrap
+msgid "Install Organic Maps from Google Play"
+msgstr "Zainstaluj Organic Maps z Google Play"
+
+#. type: Hash Value: language
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "English"
 msgstr "Polski"
 
-#. type: Zola TOML Translations: name
-#: config.toml
+#. type: Hash Value: name
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Name"
 msgstr "Nazwa"
 
-#. type: Zola TOML Translations: token
-#: config.toml
+#. type: Hash Value: token
+#: translations.yaml
 #, fuzzy, no-wrap
 msgid "Token"
 msgstr "Token"
 
 #, fuzzy, no-wrap
-#~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
-#~ msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"
+#~ msgid "[github]: https://github.com/organicmaps/organicmaps\n"
+#~ msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
+
+#, fuzzy, no-wrap
+#~ msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+#~ msgstr "[licencja]: http://www.apache.org/licenses/LICENSE-2.0\n"
