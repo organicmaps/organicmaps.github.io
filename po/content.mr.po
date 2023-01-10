@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: संकेत गराडे <garade@proton.me>\n"
-"Language-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\n"
-"Language: mr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 17:52+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -835,7 +826,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "मराठी"
+msgstr "इंग्रजी"
 
 #. type: Hash Value: name
 #: translations.yaml
