@@ -1,64 +1,56 @@
 ---
-title: Geliştiricileri destekleyin
-description: Ücretsiz uygulamamızın gelişimini desteklemek için bağış yapın
+title: Organic Maps'in gelişimini desteklemek için bağış yapın
+description: Paranız, projeyle ilgili tüm masrafları karşılamamızı sağlıyor ve Organic Maps'i iyileştirmemiz için bizi motive ediyor.
 weight: 10
 extra:
   menu_title: Bağış Yapın
   preview_image: donate/bağış.png
 ---
 
-Size Mutlu Noeller 🎅 ve Mutlu Yıllar 🎄 diliyoruz! Bizim için en güzel hediye, Doğru Şeyi yaptığımızı ve zamanımızın ve çabalarımızın Gezegendeki birilerine yardımcı olduğunu bilmektir.
+Mutlu Yıllar🎄 dileriz! Bizim için en güzel hediye; doğru şeyi yaptığımızı, zamanımızın ve çabalarımızın birilerine yardımcı olduğunu bilmektir.
 
 Organic Maps'i özgür tutma misyonumuzu yerine getirmek için **[bağışlarınıza][donate]** güveniyoruz!
 
 {{ donate_buttons(lang='tr') }}
 
-Organic Maps kötü şeylerden arınmıştır:
+Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizdir_:
 
-- **Reklam yok**
-- **İzleme yok**
-- **Veri toplama yok**
-- Rahatsız edici kayıt yok
+- Reklam yok
+- Takipçi yok
+- Kayıt yok
 - Push bildirimleri yok
-- Crapware yok
-- <s>Böcek ilacı yok</s> Tamamen organik!
+- Açık kaynak
 
-Organic Maps'i sevgiyle yaptık ❤️:
+{{ donate_buttons(lang='tr') }}
 
-- Gizliliğinize saygı duyar
-- Pil gücünden tasarruf sağlar
-- Beklenmeyen mobil veri ücreti olmaz
+## Neden Organic Maps'e bağış yapmalıyım?
 
-Organic Maps, piyasada benzersiz olan yeni bir ideolojiyi desteklemektedir. Reklam yok, takip yok, masa altından gizli anlaşmalar yok! Herkes Organic Maps'in tam özellikli sürümünü AppStore, Google Play, F-Droid veya GitHub'dan ücretsiz olarak yükleyebilir.
-
-Dahası, Organic Maps günümüzde aktif bir İnternet bağlantısı olmadan özelliklerin %100'ünü destekleyen birkaç uygulamadan biridir. Organic Maps'i yükleyin, haritaları indirin, SIM kartınızı atın (Bu arada, operatörünüz sizi sürekli izliyor) ve internete herhangi bir bayt bile göndermeden tek şarjla bir haftalık yolculuğa çıkın.
-
-Tahmin edebileceğiniz gibi, Büyük Para Yatırımcıları bu projeyle pek ilgilenmiyor. Satacak herhangi bir şey yok. Aralık 2020'deki başlangıcından bu yana, Organic Maps kurumlardan ve/veya yatırımcılardan tek bir kuruş dahi almadı. Bu çatal programın gelişimi yalnızca kişisel paramızla finanse edildi ve edilmeye de devam ediyor. Bu, aile bütçelerimizden büyük bir para ve zaman yatırımıdır.
-
-Organic Maps'i açık ve özgür tutma misyonumuzu yerine getirmek için bağışlarınıza güveniyoruz!
+1. Organic Maps'i aktif ve ücretsiz tutma misyonumuzu yerine getirmek için bağışlarınıza güveniyoruz.
+   Ve tek bir reklam dahi yok.
+2. Boş zamanlarımızda katkıda bulunan ve ailelerimizin parasını bu projeye harcayan birkaç teknoloji tutkunuyuz.
+   Yaptığımız işi ve kullanıcılarımızı seviyoruz ❤️.
+3. Desteğinizle, Google Haritalar'ın daha iyi, gizlilik odaklı bir sürümü olmak istiyoruz.
 
 ## Paralar ne için kullanılacak?
 
-Öncelikle, her ay sunucularımız ve veri aktarım maliyetlerimiz için ödeme yapıyoruz. Mevcut aylık OSM güncellemeleri ile ortalama bir kullanıcının her ay yaklaşık 500MB harita verisi indirdiğini varsayalım. Mevcut 100 binden fazla kullanıcımız için bu, ayda 50TB'tan fazla harita indirilmesi anlamına geliyor (ve haftalık harita güncellemeleriyle bu rakam daha da fazlasına denk geliyor!). Örneğin [AWS GB başına 0,08$ ücretlendiriyor](https://aws.amazon.com/ec2/pricing/on-demand/#Data_Transfer). Bu da sadece trafik için aylık 4,4 bin dolar eder. Elbette Kaliforniya'da AWS için tüm yatırımcıların parasını yakacak değiliz, ancak en azından karşı karşıya olduğumuz sorunu anlamalısınız.
-
-İkinci olarak, hataları düzeltmeye ve uygulamanın kararlılığını artırmaya odaklanmak istiyoruz. GitHub'da halihazırda bildirilmiş yüzlerce sorun var ve bu sayı her geçen gün artıyor. AppStore, Google Play ve e-postalarımız yorum ve hatalarla dolup taşıyor. Yüksek kaliteli bir ürün sunmak istiyoruz. Bu, listemizdeki en önemli öncelik.
-
-Üçüncüsü, yapılacak daha pek çok harika şey var:
-
-- Harita verilerini -en az haftada bir kez olmak üzere- daha sık güncellemek
-- GPS takip kaydedicisi eklemek
-- Yerel GPX desteği eklemek
-- Yer imlerini yedeklemek ve senkronize etmek
-- Harita stillerini iyileştirmek ve topoğrafik haritaları daha iyi hale getirmek
-- OpenStreetMap düzenleyiciyi geliştirmek
-- Çevrimdışı arama, rota ve navigasyonu iyileştirmek
-- Android Auto
-- Toplu Ulaşım
-- ... ve istediğiniz ve sevdiğiniz diğer birçok özellik
+1. Daha hızlı sunucular için ödeme yapıyoruz, böylece dünyadaki herkes ücretsiz harita güncellemelerini gecikme olmadan indirebiliyor.
+   Aylık yüzlerce terabayt harita indiriliyor ve bu rakam her geçen gün artıyor.
+2. Kullanıcı desteği, hata düzeltme ve uygulamanın kararlılığını iyileştirme, önceliklerimizin başında geliyor.
+   [GitHub sayfamızda 1200'den fazla sorun][github issues] var ve bu sayı her geçen gün artıyor.
+   App Store, Google Play ve destek e-postamız; yorum ve hatalarla dolu. Yüksek kaliteli bir ürün sunmak istiyoruz.
+3. Yeterli para ile yeni özellikler daha hızlı geliştirilebilir, örneğin:
+   - Haftalık ve otomatik harita güncellemeleri
+   - Yer imleri yedekleme ve senkronizasyon
+   - Android Auto desteği
+   - GPX desteği sunan bir GPS kaydedici
+   - Farklı etkinlikler için daha iyi harita stilleri
+   - Tepe gölgeleri ve 3B arazi görünümü
+   - Geliştirilmil OpenStreetMap editörü
+   - Daha iyi çevrimdışı adres arama, rota ve navigasyon
+   - Toplu taşıma
+   - … ve isteyeceğiniz ve seveceğiniz [diğer birçok][github issues] özellik
 
 ## Nasıl bağış yapabilirim?
-
-Projeye bağış yapmanın birçok yolu var:
 
 {{ donate_buttons(lang='tr') }}
 
@@ -67,6 +59,8 @@ en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive
 eder. Ancak tek seferlik bağış da yapabilirsiniz.
 
 ### Banka Havalesi
+
+{{ bank_transfer(lang='tr') }}
 
 #### Avro
 
