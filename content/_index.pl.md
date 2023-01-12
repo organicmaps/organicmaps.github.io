@@ -13,6 +13,8 @@ Jest aplikacją z [otwartym kodem źródłowym][fork], z naciskiem na prywatnoś
 
 **Organic Maps** to jedna z niewielu aplikacji w dzisiejszych czasach która obsługuje 100% funkcji bez aktywnego połączenia z internetem. Zainstaluj Organic Maps, pobierz mapy, wyrzuć kartę SIM (tak przy okazji, Twój operator stale Cię śledzi) i wybierz się na tygodniową wycieczkę na jednym naładowaniu baterii bez żadnego bajtu wysłanego do sieci.
 
+### Pobierz i zainstaluj Mapy Organiczne z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+
 {{ badges(lang='pl') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wspinaczka') }}

@@ -11,6 +11,8 @@ extra:
 Topluluk kaynaklı [**OpenStreetMap**][openstreetmap] verilerine dayanmaktadır.
 Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı][fork] olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
 
+### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] adresinden indirin ve yükleyin {#install}
+
 {{ badges(lang='tr') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
