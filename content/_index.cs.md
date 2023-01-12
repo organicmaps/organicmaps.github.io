@@ -13,6 +13,8 @@ Je to open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_developmen
 
 **Organic Maps** je v dnešní době jedna z mála aplikací, co podporuje 100% funkcí bez aktivního Internetového připojení. Nainstalujte Organic Maps, stáhněte mapy, zahoďte vaši SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyražte na týdenní výlet na jedno nabití baterie a bez jediného bajtu odeslaného do sítě.
 
+### Stáhněte a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+
 {{ badges(lang='cs') }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}
@@ -115,3 +117,5 @@ licencovaný pod Apache License 2.0.
 - Navštivte naši [GitHub stránku](https://github.com/organicmaps/organicmaps).
 - Sledujte naše novinky na <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodonu</a>, [Facebooku](https://facebook.com/OrganicMaps), [Twitteru](https://twitter.com/OrganicMapsApp) a
 [Instagramu](https://instagram.com/organicmaps.app/).
+
+{{ references(lang='cs') }}

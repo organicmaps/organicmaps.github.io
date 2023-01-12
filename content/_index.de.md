@@ -12,6 +12,7 @@ Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung][fork] d
 
 **Organic Maps** ist heutzutage eine der wenigen Anwendungen, die 100% der Funktionen ohne aktive Internetverbindung unterstützt. Installiere Organic Maps, lade Karten herunter, wirf deine SIM-Karte weg (dein Betreiber verfolgt dich übrigens ständig) und mache einen Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.
 
+### Organic Maps herunterladen und installieren von [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges(lang='de') }}
 
@@ -113,4 +114,4 @@ Organic Maps ist eine [Open Source Software](https://github.com/organicmaps/orga
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
-{{ references(lang='tr') }}
+{{ references(lang='de') }}
