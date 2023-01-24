@@ -14,7 +14,7 @@ Ve son olarak, yeni yıl güncellemesinin tüm değişiklik notu:
 
 Öne Çıkanlar:
 * 16 Aralık 2022 tarihine ait yeni [OpenStreetMap](https://openstreetmap.org/) harita verileri
-* İyileştirilmiş rota algoritması (thala çözülmesi gereken bazı sorunlar var, lütfen bize bildirin)
+* İyileştirilmiş rota algoritması (hâlâ çözülmesi gereken bazı sorunlar var, lütfen bize bildirin)
 * Artık highway=construction üzerinden rota oluşturulmuyor 🙂
 * KML dosyalarında artık çoklu yol geometriler destekleniyor
 * OpenTracks üzerinden KML 2.3 rota içe aktarırken oluşan hatalar düzeltildi
