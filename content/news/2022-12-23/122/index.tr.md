@@ -15,12 +15,12 @@ Ve son olarak, yeni yıl güncellemesinin tüm değişiklik notu:
 Öne Çıkanlar:
 * 16 Aralık 2022 tarihine ait yeni [OpenStreetMap](https://openstreetmap.org/) harita verileri
 * İyileştirilmiş rota algoritması (hâlâ çözülmesi gereken bazı sorunlar var, lütfen bize bildirin)
-* Artık highway=construction üzerinden rota oluşturulmuyor 🙂
-* KML dosyalarında artık çoklu yol geometriler destekleniyor
-* OpenTracks üzerinden KML 2.3 rota içe aktarırken oluşan hatalar düzeltildi
+* Artık highway=construction (yapım aşamasındaki yollar) üzerinden rota oluşturulmuyor 🙂
+* KML dosyalarında artık çoklu yol geometrileri destekleniyor
+* OpenTracks'tan KML 2.3 dosyası içe aktarırken oluşan hatalar düzeltildi
 * Karmaşık KML dosyaları artık daha hızlı ayrıştırılıyor ve işleniyor
-* Artık harita düzenleyici üzerinden bazı mağaza, galeri ve müzik okulları ekleyebilirsiniz
-* Improved city borders in search results
+* Artık harita düzenleyici üzerinden bazı mağaza, galeri ve müzik okullarını ekleyebilirsiniz
+* Arama sonuçlarında iyileştirilmiş şehir sınırları
 
 Android:
 * Bazı durumlar için "Konumu Etkinleştirin" kutucuğu düzeltildi
@@ -38,12 +38,12 @@ Harita Stilleri:
 * Bazı şehirlerde metro simgeleri düzeltildi
 * Bariyerler artık alanlar ve ilişkiler için uygun şekilde gösteriliyor
 * Dünya haritasında tekrarlayan isimler düzeltildi
-* Mağara, boğaz, zirve, yanardağ, acil telefon, antik gemi, dondurma, gece kulübü, müzik mağazası, stadyum, video oyunları simgeleri güncellendi
+* Mağara, boğaz, zirve, yanardağ, acil telefon, antik gemi, dondurma, gece kulübü, müzik mağazası, stadyum ve video oyunları simgeleri güncellendi
 * leisure=pitch, historic, post office nesnelerine ait yanlış öncelikler düzeltildi
 * Daha tutarlı dolu/yuvarlak simgeler
 
 Çeviriler:
-* Portekizce (Brezilya), İspanyolca (Meksika) ve Norveççe için TTS (Text-To-Speech - Metinden Konuşmaya)
+* Portekizce (Brezilya), İspanyolca (Meksika) ve Norveççe için TTS (Text-To-Speech — Metinden Konuşmaya) eklendi
 * Almanca ve Macarca arama dizeleri düzeltildi
 * Çekçe ve İspanyolca çeviriler güncellendi
 
