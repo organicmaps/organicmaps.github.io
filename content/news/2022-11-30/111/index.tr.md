@@ -6,7 +6,7 @@ slug: "meet-the-second-november-update-of-organic-maps"
 
 Organic Maps’in ikinci Kasım güncellemesi karşınızda! Seyahatlerinizin tadını çıkarın ve deneyiminizi bizimle paylaşın. Gizlilik odaklı, en hızlı, kullanımı en kolay olan en iyi çevrimdışı haritaları birlikte yapalım!
 
-* Yeni [OpenStreetMaps](https://www.openstreetmap.org/) harita verileri (19 Kasım)
+* Yeni [OpenStreetMap](https://www.openstreetmap.org/) harita verileri (19 Kasım)
 * Yardım sayfasına [Organic Maps Mastodon hesabı](https://fosstodon.org/@organicmaps) eklendi
 * Rota algoritmasında hesaplama için kullanılan bisiklet hızı düzeltildi
 
