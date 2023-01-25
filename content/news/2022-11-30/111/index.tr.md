@@ -18,7 +18,6 @@ Organic Maps’in ikinci Kasım güncellemesi karşınızda! Seyahatlerinizin ta
  iOS
 * Bazı URL'lerin # ve ? sembolleri ile açılması sorunu düzeltildi
 * Hakkında kısmından [Matrix bağlantısının](https://omaps.app/matrix) açılmaması sorunu düzeltildi
-* Hakkında bölümüne Mastodon sayfamız eklendi
 * Mekan Sayfasında yerin adı artık yerel dilde gösteriliyor
 * Yerin kapanmasına tam olarak 1 saat kaldığında daha iyi şekilde gösteriliyor
 
