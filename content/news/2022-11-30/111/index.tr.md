@@ -35,7 +35,7 @@ Organic Maps’in ikinci Kasım güncellemesi karşınızda! Seyahatlerinizin ta
 * Uygulama içerisinde web sitemize verilen bağlantılar artık Türkçe sayfalara yönlendiriyor.
 * Eksik karavan kategorileri çevirileri düzeltildi
 
-💻💻💻Desktop (Linux, macOS, Windows)
+💻Desktop (Linux, macOS, Windows)
 * GCC-12'de yapı hataları düzeltildi
 * Fareyi kullanarak haritayı sürüklerken oluşan hatalar düzeltildi
 * "+" tuşu artık haritayı yakınlaştırıyor 
