@@ -7,8 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/"
-"website/hu/>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,34 +37,19 @@ msgstr "Organic Maps: Offline túra, kerékpár, nyomvonalak és navigáció"
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
-"Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás "
-"utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes "
-"**[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi "
-"fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban "
-"[**MapsWithMe**][mapswithme] néven volt ismert, amelyet ugyanazok az emberek "
-"tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.\n"
+msgstr "Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert, amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
-"**Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-"
-"ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az "
-"Organic Maps-et, töltse le a térképeket, dobja el a SIM-kártyáját ("
-"máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen "
-"akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el "
-"egy egyhetes útra.\n"
+msgstr "**Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az Organic Maps-et, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
-"Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google "
-"Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] "
-"{#install} alkalmazásboltokból"
+msgstr "Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install} alkalmazásboltokból"
 
 #. type: Plain text
 #: content/_index.md
@@ -84,19 +68,13 @@ msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prága') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline keresés') }}"
+msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline keresés') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark "
-"mode') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigáció sötét "
-"módban') }}"
+msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigáció sötét módban') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -106,20 +84,13 @@ msgstr "Funkciók"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
-"and cyclists:"
-msgstr ""
-"Az Organic Maps az utazók, turisták, túrázók és kerékpárosok tökéletes társa:"
+msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
+msgstr "Az Organic Maps az utazók, turisták, túrázók és kerékpárosok tökéletes társa:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Detailed offline maps with places that don't exist on other maps, thanks to "
-"[OpenStreetMap][openstreetmap]"
-msgstr ""
-"Részletes offline térképek olyan helyekkel, amelyek más térképeken nem "
-"léteznek, az [OpenStreetMap][openstreetmap] jóvoltából"
+msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
+msgstr "Részletes offline térképek olyan helyekkel, amelyek más térképeken nem léteznek, az [OpenStreetMap][openstreetmap] jóvoltából"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -143,11 +114,8 @@ msgstr "Gyors offline keresés a térképen"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
-"Könyvjelzők exportálása és importálása KML/KMZ formátumba/ból (GPX "
-"[tervezett][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgstr "Könyvjelzők exportálása és importálása KML/KMZ formátumba/ból (GPX [tervezett][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -193,8 +161,7 @@ msgstr "Nincsenek váratlan mobil adatforgalmi díjak"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
-"Az Organic Maps alkalmazás mentes a nyomkövetőktől és egyéb rossz dolgoktól:"
+msgstr "Az Organic Maps alkalmazás mentes a nyomkövetőktől és egyéb rossz dolgoktól:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -278,9 +245,7 @@ msgstr "Az Organic Mapsnél hiszünk abban, hogy a magánélet alapvető emberi 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
-"Az Organic Maps egy független közösség által irányított nyílt forráskódú "
-"projekt"
+msgstr "Az Organic Maps egy független közösség által irányított nyílt forráskódú projekt"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -313,12 +278,8 @@ msgstr "Ki fizet az ingyenes alkalmazásért?"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"The app is free for everyone. Please [donate](@/donate/index.md) to support "
-"us!"
-msgstr ""
-"Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon]"
-"[adományozzon], hogy támogasson minket!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
+msgstr "Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon][adományozzon], hogy támogasson minket!"
 
 #. type: Title ###
 #: content/_index.md
@@ -341,15 +302,8 @@ msgstr "Szponzoraink:"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
-"[mythic_beasts_donation] two virtual servers with 400 TB/month of free "
-"bandwidth to help our users with maps downloads and updates."
-msgstr ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [biztosít nekünk]"
-"[mythic_beasts_donation] két virtuális szervert 400 TB/hó ingyenes "
-"sávszélességgel, hogy segítsük felhasználóinkat a térképek letöltésében és "
-"frissítésében."
+msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
+msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [biztosít nekünk][mythic_beasts_donation] két virtuális szervert 400 TB/hó ingyenes sávszélességgel, hogy segítsük felhasználóinkat a térképek letöltésében és frissítésében."
 
 #. type: Title ##
 #: content/_index.md
@@ -359,19 +313,13 @@ msgstr "Közösség"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"Organic Maps is an [open-source software][github] licensed under the Apache "
-"License 2.0."
-msgstr ""
-"Az Organic Maps egy [nyílt forráskódú szoftver][github], amely az Apache "
-"License 2.0-t használja."
+msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
+msgstr "Az Organic Maps egy [nyílt forráskódú szoftver][github], amely az Apache License 2.0-t használja."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
-"Kérjük, csatlakozzon a béta programunkhoz, javasoljon funkciókat, és jelezze "
-"a hibákat:"
+msgstr "Kérjük, csatlakozzon a béta programunkhoz, javasoljon funkciókat, és jelezze a hibákat:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -400,11 +348,8 @@ msgstr "[Linux Desktop Beta (csomagok)][repology]"
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
-"Jelentsd a hibákat vagy problémákat [a hibakövetőbe][issues] vagy [email us]"
-"[email]."
+msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
+msgstr "Jelentsd a hibákat vagy problémákat [a hibakövetőbe][issues] vagy [email us][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -415,20 +360,14 @@ msgstr "[Vita][ötletek] ötletek vagy funkciókérések."
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
-"[matrix] for updates."
-msgstr ""
-"Iratkozz fel a [Telegram csatornánkra][telegram] vagy a [mátrix space]-"
-"re[mátrix] a frissítésekért."
+msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
+msgstr "Iratkozz fel a [Telegram csatornánkra][telegram] vagy a [mátrix space]-re[mátrix] a frissítésekért."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
-"Csatlakozz a [Telegram csoportunkhoz][telegram_chat], hogy megvitasd a többi "
-"felhasználóval."
+msgstr "Csatlakozz a [Telegram csoportunkhoz][telegram_chat], hogy megvitasd a többi felhasználóval."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -439,12 +378,8 @@ msgstr "Látogasson el a [GitHub oldalunkra][github]."
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
-"[twitter], [Instagram][instagram], [Reddit][reddit]."
-msgstr ""
-"Kövesse frissítéseinket a [Mastodon][mastodon], [Facebook][facebook], "
-"[Twitter][twitter], [Instagram][instagram] oldalakon."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgstr "Kövesse frissítéseinket a [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram] oldalakon."
 
 #. type: Plain text
 #: content/_index.md
@@ -479,24 +414,14 @@ msgstr "Adományozzon az Organic Maps fejlesztésének támogatására"
 #. type: Plain text
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us "
-"is to know that we are doing The Right Thing and that our time and efforts "
-"are helping someone on the Planet."
-msgstr ""
-"Kellemes karácsonyi ünnepeket 🎅 és boldog új évet 🎄 kívánunk! A legjobb "
-"ajándék számunkra az a tudat, hogy a Jó dolgot tesszük, és hogy az időnkkel "
-"és erőfeszítéseinkkel segítünk valakinek a bolygón."
+msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+msgstr "Kellemes karácsonyi ünnepeket 🎅 és boldog új évet 🎄 kívánunk! A legjobb ajándék számunkra az a tudat, hogy a Jó dolgot tesszük, és hogy az időnkkel és erőfeszítéseinkkel segítünk valakinek a bolygón."
 
 #. type: Plain text
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"Organic Maps app is _free for everyone_ thanks to your **[donations]"
-"[stripe]**:"
-msgstr ""
-"Az Organic Maps alkalmazás _mindenki számára ingyenes_ a **[adományoknak]"
-"[stripe]** köszönhetően :"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgstr "Az Organic Maps alkalmazás _mindenki számára ingyenes_ a **[adományoknak][stripe]** köszönhetően :"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -524,31 +449,18 @@ msgstr "Miért adományozzon az Organic Maps-nek?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid ""
-"We rely on your donations to carry out our mission to keep Organic Maps open "
-"and free.  And free from ads."
-msgstr ""
-"Az Ön adományaira támaszkodunk, hogy teljesíteni tudjuk küldetésünket, hogy "
-"az Organic Maps nyitott és szabad maradjon.  MIndezt hirdetések nélkül."
+msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
+msgstr "Az Ön adományaira támaszkodunk, hogy teljesíteni tudjuk küldetésünket, hogy az Organic Maps nyitott és szabad maradjon.  MIndezt hirdetések nélkül."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid ""
-"We are a few enthusiasts contributing in our free time, and spending our "
-"families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr ""
-"Maroknyian vagyunk, akik a szabadidőnkben hozzájárulunk a projekthez és a "
-"családunk pénzét költjük rá.  Szeretjük, amit csinálunk, és szeretjük a "
-"felhasználóinkat ❤️."
+msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgstr "Maroknyian vagyunk, akik a szabadidőnkben hozzájárulunk a projekthez és a családunk pénzét költjük rá.  Szeretjük, amit csinálunk, és szeretjük a felhasználóinkat ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid ""
-"With your support, we want to become a better, privacy-focused version of "
-"Google Maps."
-msgstr ""
-"Az Ön támogatásával szeretnénk a Google Maps jobb, az adatvédelemre "
-"összpontosító változatává válni."
+msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
+msgstr "Az Ön támogatásával szeretnénk a Google Maps jobb, az adatvédelemre összpontosító változatává válni."
 
 #. type: Title ##
 #: content/donate/index.md
@@ -558,30 +470,14 @@ msgstr "Mire lesz felhasználva a pénz?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid ""
-"We pay for fast servers, so anyone in the World can download free map data "
-"updates without delays.  It's hundreds of terabytes monthly, and the amount "
-"is growing."
-msgstr ""
-"Gyors szerverekért fizetünk, így a világon bárki késedelem nélkül letöltheti "
-"az ingyenes térképadat-frissítéseket.  Ez havonta több száz terabájt, és a "
-"mennyiség folyamatosan növekszik."
+msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+msgstr "Gyors szerverekért fizetünk, így a világon bárki késedelem nélkül letöltheti az ingyenes térképadat-frissítéseket.  Ez havonta több száz terabájt, és a mennyiség folyamatosan növekszik."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"User support, bugfixing, and improving the stability of the app are at the "
-"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
-"and this number is growing every day.  AppStore, Google Play, and support "
-"emails are overflooded with comments and bugs. We want to deliver a high-"
-"quality product."
-msgstr ""
-"A felhasználói támogatás, a hibajavítás és az alkalmazás stabilitásának "
-"javítása a prioritások között az első helyen áll.  A GitHubon [1200+ issue "
-"van][github issues], és ez a szám napról napra nő.  Az AppStore, a Google "
-"Play és a támogatási e-maileket elárasztják a megjegyzések és a hibák. "
-"Minőségi terméket akarunk szállítani."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "A felhasználói támogatás, a hibajavítás és az alkalmazás stabilitásának javítása a prioritások között az első helyen áll.  A GitHubon [1200+ issue van][github issues], és ez a szám napról napra nő.  Az AppStore, a Google Play és a támogatási e-maileket elárasztják a megjegyzések és a hibák. Minőségi terméket akarunk szállítani."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -654,15 +550,8 @@ msgstr "Hogyan adományozhatok?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Recurring donations are the best way to ensure a relatively stable income "
-"for the project and motivate us for long-term tasks and goals. But you can "
-"also donate one time."
-msgstr ""
-"Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil "
-"bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú "
-"feladatok és célok megvalósításában. De egyszeri adományozásra is van "
-"lehetőség."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgstr "Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú feladatok és célok megvalósításában. De egyszeri adományozásra is van lehetőség."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -685,8 +574,7 @@ msgstr "Kriptovaluta"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Please consider donating annually to reduce total fees."
-msgstr ""
-"Kérjük, fontolja meg az éves adományozást, hogy csökkentse a teljes díjat."
+msgstr "Kérjük, fontolja meg az éves adományozást, hogy csökkentse a teljes díjat."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -702,12 +590,8 @@ msgstr "Tud más módon is segíteni nekünk?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Yes! There are many ways to support Organic Maps. Please see [Support Us](@/"
-"support-us/index.md) page for more details."
-msgstr ""
-"Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért "
-"lásd a [Support Us](@/support-us/index.md) oldalt."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
+msgstr "Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért lásd a [Support Us](@/support-us/index.md) oldalt."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -741,9 +625,7 @@ msgstr "Organic Maps: Legfrissebb hírek és újdonságok a csapatunktól"
 #: content/privacy/index.md
 #, no-wrap
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
-msgstr ""
-"Nincs nyomkövetés, nincsenek hirdetések, nincs adatgyűjtés, nincs "
-"statisztikai adatgyűjtés, nincs kémprogram."
+msgstr "Nincs nyomkövetés, nincsenek hirdetések, nincs adatgyűjtés, nincs statisztikai adatgyűjtés, nincs kémprogram."
 
 #. type: YAML Front Matter: extra menu_title
 #: content/privacy/index.md
@@ -760,18 +642,12 @@ msgstr "Organic Maps: Adatvédelmi irányelvek"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Organic Maps respects your privacy and DOES NOT TRACK YOU."
-msgstr ""
-"Az Organic Maps tiszteletben tartja az Ön magánéletét, és NEM KÖVETI Önt."
+msgstr "Az Organic Maps tiszteletben tartja az Ön magánéletét, és NEM KÖVETI Önt."
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid ""
-"Unlike most other applications, there is no tracking, no ads, no spyware, no "
-"data and statistics collection in Organic Maps."
-msgstr ""
-"A legtöbb más alkalmazással ellentétben az Organic Maps-ben nincs "
-"nyomkövetés, nincsenek hirdetések, nincsenek kémprogramok, nincs "
-"statisztikai vagy más adat gyűjtése."
+msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
+msgstr "A legtöbb más alkalmazással ellentétben az Organic Maps-ben nincs nyomkövetés, nincsenek hirdetések, nincsenek kémprogramok, nincs statisztikai vagy más adat gyűjtése."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -780,12 +656,8 @@ msgstr "Maradj rejtve a nagy techcégek kíváncsi szemei elől!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid ""
-"If you have any questions or suggestions, please contact us at "
-"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr ""
-"Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen kapcsolatba velünk a "
-"[legal@organicmaps.app](mailto:legal@organicmaps.app) címen."
+msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgstr "Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen kapcsolatba velünk a [legal@organicmaps.app](mailto:legal@organicmaps.app) címen."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -813,14 +685,8 @@ msgstr "Támogassa az Organic Maps fejlesztését"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid ""
-"Organic Maps is a free, open-source app. It is free from ads, it does not "
-"collect your personal information, and it is developed by a few enthusiasts "
-"with the help of the community."
-msgstr ""
-"Az Organic Maps egy ingyenes, nyílt forráskódú alkalmazás. Nem tartalmaz "
-"hirdetéseket, nem gyűjti az Ön személyes adatait, és néhány lelkes rajongó "
-"fejlesztette a közösség segítségével."
+msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+msgstr "Az Organic Maps egy ingyenes, nyílt forráskódú alkalmazás. Nem tartalmaz hirdetéseket, nem gyűjti az Ön személyes adatait, és néhány lelkes rajongó fejlesztette a közösség segítségével."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -830,31 +696,20 @@ msgstr "A fejlesztést különböző módokon lehet támogatni:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
-"for servers and scale."
-msgstr ""
-"[Adományozni][adományozni]! Minden dollár vagy euró számít, és segít nekünk "
-"a szerverek és a skála kifizetésében."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
+msgstr "[Adományozni][adományozni]! Minden dollár vagy euró számít, és segít nekünk a szerverek és a skála kifizetésében."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr ""
-"Jelentsd a hibákat és oszd meg ötleteidet a [GitHub][github] vagy az [email]"
-"[email] oldalon."
+msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+msgstr "Jelentsd a hibákat és oszd meg ötleteidet a [GitHub][github] vagy az [email][email] oldalon."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Help us to [fix bugs][contributing] and do code reviews if you are a "
-"developer. Every fixed small issue makes someone happier."
-msgstr ""
-"Segíts nekünk [hibák kijavításában][közreműködés] és kódellenőrzésben, ha "
-"fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz."
+msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
+msgstr "Segíts nekünk [hibák kijavításában][közreműködés] és kódellenőrzésben, ha fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -865,12 +720,8 @@ msgstr "[Fordítás][fordítások] hiányzó karakterláncok az alkalmazás fel�
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Translate [App Store][translations_appstore] and [Android]"
-"[translations_googleplay] descriptions into your language."
-msgstr ""
-"Fordítsa le az [App Store][translations_appstore] és [Android]"
-"[translations_googleplay] leírásokat az Ön nyelvére."
+msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
+msgstr "Fordítsa le az [App Store][translations_appstore] és [Android][translations_googleplay] leírásokat az Ön nyelvére."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -881,53 +732,32 @@ msgstr "[Translate][translations_website] weboldalunk az Ön nyelvére."
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
-"data."
-msgstr ""
-"Csatlakozzon az [OpenStreetMap][openstreemap] közösséghez, és járuljon hozzá "
-"a térképek adataihoz."
+msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
+msgstr "Csatlakozzon az [OpenStreetMap][openstreemap] közösséghez, és járuljon hozzá a térképek adataihoz."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Fix red cities found by our [public transport validator]"
-"[public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
-"A [tömegközlekedési validátor][public_transport_validator] által talált "
-"piros városok javítása, hogy a metrók és a kisvasutak működjenek az "
-"alkalmazásban."
+msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
+msgstr "A [tömegközlekedési validátor][public_transport_validator] által talált piros városok javítása, hogy a metrók és a kisvasutak működjenek az alkalmazásban."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix]"
-"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr ""
-"Támogasd a többi felhasználót a [GitHub][issues], [Telegram][telegram_chat], "
-"[mátrix][mátrix], [Twitter][twitter], [Facebook][facebook], [Instagram]"
-"[instagram] oldalakon."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "Támogasd a többi felhasználót a [GitHub][issues], [Telegram][telegram_chat], [mátrix][mátrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] oldalakon."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr ""
-"Meséljen mindenkinek az Organic Mapsről. Egy nagyobb közösség egy erősebb "
-"közösség."
+msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
+msgstr "Meséljen mindenkinek az Organic Mapsről. Egy nagyobb közösség egy erősebb közösség."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei "
-"Appgallery][appgallery]."
-msgstr ""
-"Értékelj minket a [Google Play][googleplay], [Apple Store][appstore], "
-"[Huawei Appgallery][appgallery]."
+msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgstr "Értékelj minket a [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -938,12 +768,8 @@ msgstr "Bármilyen segítséget szívesen fogadunk!"
 #. type: Plain text
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Our small team is very grateful for your feedback and support. Organic Maps "
-"would not be possible without our users ❤️."
-msgstr ""
-"Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az Organic "
-"Maps nem lenne lehetséges a felhasználóink nélkül ❤️."
+msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+msgstr "Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az Organic Maps nem lenne lehetséges a felhasználóink nélkül ❤️."
 
 #. type: YAML Front Matter: description
 #: content/terms/index.md
@@ -966,48 +792,26 @@ msgstr "Organic Maps: feltételek"
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"This app is licensed under the Apache License, Version 2.0 (the \"License"
-"\"); you may not use this application except in compliance with the License."
-msgstr ""
-"Ezt az alkalmazást az Apache License, Version 2.0 (a \"License\") licenc alá "
-"helyezték; ezt az alkalmazást csak a Licencnek megfelelően használhatja."
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
+msgstr "Ezt az alkalmazást az Apache License, Version 2.0 (a \"License\") licenc alá helyezték; ezt az alkalmazást csak a Licencnek megfelelően használhatja."
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"You may obtain a copy of the License at [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
-msgstr ""
-"A licenc egy példányát a [http://www.apache.org/licenses/LICENSE-2.0]"
-"[licenc] címen szerezheti be."
+msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
+msgstr "A licenc egy példányát a [http://www.apache.org/licenses/LICENSE-2.0][licenc] címen szerezheti be."
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"Unless required by applicable law or agreed to in writing, software "
-"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
-"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
-"License for the specific language governing permissions and limitations "
-"under the License."
-msgstr ""
-"Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem "
-"állapodtak meg, a Licenc alapján terjesztett szoftver \"AZONOS\" ALAPON "
-"kerül terjesztésre, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁMOGATÁS ÉS "
-"FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra "
-"vonatkozó konkrét nyelvezetet lásd a Licencben."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr "Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem állapodtak meg, a Licenc alapján terjesztett szoftver \"AZONOS\" ALAPON kerül terjesztésre, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁMOGATÁS ÉS FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra vonatkozó konkrét nyelvezetet lásd a Licencben."
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"Most libraries in the following directories on [GitHub][github] made by "
-"other people and organizations and licensed in different ways:"
-msgstr ""
-"A [GitHub][github] következő könyvtáraiban található könyvtárak többsége más "
-"emberek és szervezetek által készített és különböző módon engedélyezett:"
+msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
+msgstr "A [GitHub][github] következő könyvtáraiban található könyvtárak többsége más emberek és szervezetek által készített és különböző módon engedélyezett:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -1022,20 +826,14 @@ msgstr "eszközök"
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
-"A felhasználási feltételeket lásd a LICENSE, COPYING vagy NOTICE fájlokban."
+msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr "A felhasználási feltételeket lásd a LICENSE, COPYING vagy NOTICE fájlokban."
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"See also [data/copyright.html][copyright] file for a full list of copyright "
-"notices for Organic Maps application."
-msgstr ""
-"Lásd még a [data/copyright.html][copyright] fájlt az Organic Maps alkalmazás "
-"szerzői jogi közleményeinek teljes listájáért."
+msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
+msgstr "Lásd még a [data/copyright.html][copyright] fájlt az Organic Maps alkalmazás szerzői jogi közleményeinek teljes listájáért."
 
 #. type: Plain text
 #: content/terms/index.md

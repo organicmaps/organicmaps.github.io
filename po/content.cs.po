@@ -7,8 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/organicmaps/"
-"website/cs/>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/organicmaps/website/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,9 +19,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
-"Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a "
-"cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me)."
+msgstr "Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me)."
 
 #. type: YAML Front Matter: extra menu_title
 #: content/_index.md
@@ -40,33 +37,19 @@ msgstr "Organické mapy: Offline pěší turistika, cykloturistika, stezky a nav
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
-"**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS "
-"pro cestovatele, turisty, výletníky a cyklisty založená na datech "
-"**[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] "
-"zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako "
-"[**MapsWithMe**][mapswithme], kterou spravují stejní lidé, kteří v roce 2011 "
-"vytvořili **MapsWithMe**.\n"
+msgstr "**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme], kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
-"**Aplikace Organic Maps** je jednou z mála aplikací, která v dnešní době "
-"podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si "
-"Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor "
-"vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez "
-"jakéhokoli bajtu odeslaného do sítě.\n"
+msgstr "**Aplikace Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
-"Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google "
-"Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] "
-"{#install}"
+msgstr "Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -88,21 +71,14 @@ msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline "
-"vyhledávání') }}"
+msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline vyhledávání') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark "
-"mode') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigace v tmavém "
-"režimu') }}"
+msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigace v tmavém režimu') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -113,21 +89,13 @@ msgstr "Vlastnosti"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
-"and cyclists:"
-msgstr ""
-"Organic Maps je dokonalá aplikace pro cestovatele, turisty, pěší turisty a "
-"cyklisty:"
+msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
+msgstr "Organic Maps je dokonalá aplikace pro cestovatele, turisty, pěší turisty a cyklisty:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Detailed offline maps with places that don't exist on other maps, thanks to "
-"[OpenStreetMap][openstreetmap]"
-msgstr ""
-"Podrobné offline mapy s místy, která na jiných mapách neexistují, díky "
-"[OpenStreetMap][openstreetmap]"
+msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
+msgstr "Podrobné offline mapy s místy, která na jiných mapách neexistují, díky [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -145,8 +113,7 @@ msgstr "Kontury, výškové profily, vrcholy a svahy"
 #: content/_index.md
 #, fuzzy
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
-"Pěší, cyklistická a automobilová navigace turn-by-turn s hlasovými pokyny"
+msgstr "Pěší, cyklistická a automobilová navigace turn-by-turn s hlasovými pokyny"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -157,10 +124,8 @@ msgstr "Rychlé offline vyhledávání na mapě"
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
-"Export a import záložek ve formátech KML/KMZ (GPX je [plánováno][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgstr "Export a import záložek ve formátech KML/KMZ (GPX je [plánováno][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -214,8 +179,7 @@ msgstr "Žádné neočekávané poplatky za mobilní data"
 #: content/_index.md
 #, fuzzy
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
-"Aplikace Organic Maps neobsahuje sledovací zařízení a další špatné věci:"
+msgstr "Aplikace Organic Maps neobsahuje sledovací zařízení a další špatné věci:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -305,22 +269,18 @@ msgstr "{{ privacy_screenshots(lang='en') }}"
 #: content/_index.md
 #, fuzzy
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
-"Ve společnosti Organic Maps věříme, že soukromí je základním lidským právem:"
+msgstr "Ve společnosti Organic Maps věříme, že soukromí je základním lidským právem:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
-"Organic Maps je nezávislý projekt s otevřeným zdrojovým kódem, který je "
-"řízen komunitou"
+msgstr "Organic Maps je nezávislý projekt s otevřeným zdrojovým kódem, který je řízen komunitou"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
-"Chráníme vaše soukromí před zvědavýma očima velkých technologických firem"
+msgstr "Chráníme vaše soukromí před zvědavýma očima velkých technologických firem"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -349,9 +309,7 @@ msgstr "Kdo platí za bezplatnou aplikaci?"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"The app is free for everyone. Please [donate](@/donate/index.md) to support "
-"us!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "Aplikace je pro všechny zdarma. Podpořte nás prosím [donate][donate]!"
 
 #. type: Title ###
@@ -375,15 +333,8 @@ msgstr "Naši sponzoři:"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
-"[mythic_beasts_donation] two virtual servers with 400 TB/month of free "
-"bandwidth to help our users with maps downloads and updates."
-msgstr ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [nám]"
-"[mythic_beasts_donation] poskytuje dva virtuální servery s 400 TB/měsíc "
-"šířky pásma zdarma, abychom našim uživatelům pomohli se stahováním map a "
-"aktualizací."
+msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
+msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [nám][mythic_beasts_donation] poskytuje dva virtuální servery s 400 TB/měsíc šířky pásma zdarma, abychom našim uživatelům pomohli se stahováním map a aktualizací."
 
 #. type: Title ##
 #: content/_index.md
@@ -394,20 +345,14 @@ msgstr "Komunita"
 #. type: Plain text
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Organic Maps is an [open-source software][github] licensed under the Apache "
-"License 2.0."
-msgstr ""
-"Organic Maps je [open-source software][github] licencovaný pod Apache "
-"License 2.0."
+msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
+msgstr "Organic Maps je [open-source software][github] licencovaný pod Apache License 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
-"Zapojte se prosím do našeho beta programu, navrhujte funkce a nahlašujte "
-"chyby:"
+msgstr "Zapojte se prosím do našeho beta programu, navrhujte funkce a nahlašujte chyby:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -436,11 +381,8 @@ msgstr "[Linux Desktop Beta (balíčky)][repology]"
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
-"Chyby nebo problémy nahlaste na [issue tracker][issues] nebo [napište nám]"
-"[email]."
+msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
+msgstr "Chyby nebo problémy nahlaste na [issue tracker][issues] nebo [napište nám][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -451,20 +393,14 @@ msgstr "[Diskutovat] [nápady] nápady nebo navrhnout požadavky na funkce."
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
-"[matrix] for updates."
-msgstr ""
-"Přihlaste se k odběru novinek na našem [Telegram Channel][telegram] nebo na "
-"[matrix space][matrix]."
+msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
+msgstr "Přihlaste se k odběru novinek na našem [Telegram Channel][telegram] nebo na [matrix space][matrix]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
-"Připojte se k naší [Telegram Group][telegram_chat] a diskutujte s ostatními "
-"uživateli."
+msgstr "Připojte se k naší [Telegram Group][telegram_chat] a diskutujte s ostatními uživateli."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -475,12 +411,8 @@ msgstr "Navštivte naši stránku [GitHub][github]."
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid ""
-"Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
-"[twitter], [Instagram][instagram], [Reddit][reddit]."
-msgstr ""
-"Sledujte naše aktualizace na [Mastodon][mastodon], [Facebook][facebook], "
-"[Twitter][twitter], [Instagram][instagram]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgstr "Sledujte naše aktualizace na [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram]."
 
 #. type: Plain text
 #: content/_index.md
@@ -515,23 +447,14 @@ msgstr "Přispějte na podporu vývoje Organic Maps"
 #. type: Plain text
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us "
-"is to know that we are doing The Right Thing and that our time and efforts "
-"are helping someone on the Planet."
-msgstr ""
-"Přejeme vám krásné Vánoce 🎅 a šťastný nový rok 🎄! Nejlepším dárkem je pro "
-"nás vědomí, že děláme Správnou věc a že náš čas a úsilí někomu na planetě "
-"pomáhá."
+msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+msgstr "Přejeme vám krásné Vánoce 🎅 a šťastný nový rok 🎄! Nejlepším dárkem je pro nás vědomí, že děláme Správnou věc a že náš čas a úsilí někomu na planetě pomáhá."
 
 #. type: Plain text
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"Organic Maps app is _free for everyone_ thanks to your **[donations]"
-"[stripe]**:"
-msgstr ""
-"Aplikace Organic Maps je pro všechny _zdarma_ díky vašim **[darům][stripe]**:"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgstr "Aplikace Organic Maps je pro všechny _zdarma_ díky vašim **[darům][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -560,33 +483,20 @@ msgstr "Proč darovat Organic Maps?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"We rely on your donations to carry out our mission to keep Organic Maps open "
-"and free.  And free from ads."
-msgstr ""
-"Při plnění našeho poslání udržovat Organic Maps otevřené a svobodné "
-"spoléháme na vaše dary.  A bez reklam."
+msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
+msgstr "Při plnění našeho poslání udržovat Organic Maps otevřené a svobodné spoléháme na vaše dary.  A bez reklam."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"We are a few enthusiasts contributing in our free time, and spending our "
-"families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr ""
-"Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase a "
-"utrácejí peníze svých rodin.  Milujeme to, co děláme, a milujeme naše "
-"uživatele ❤️."
+msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgstr "Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase a utrácejí peníze svých rodin.  Milujeme to, co děláme, a milujeme naše uživatele ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"With your support, we want to become a better, privacy-focused version of "
-"Google Maps."
-msgstr ""
-"S vaší podporou se chceme stát lepší verzí Map Google zaměřenou na ochranu "
-"soukromí."
+msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
+msgstr "S vaší podporou se chceme stát lepší verzí Map Google zaměřenou na ochranu soukromí."
 
 #. type: Title ##
 #: content/donate/index.md
@@ -597,29 +507,14 @@ msgstr "Na co budou peníze použity?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"We pay for fast servers, so anyone in the World can download free map data "
-"updates without delays.  It's hundreds of terabytes monthly, and the amount "
-"is growing."
-msgstr ""
-"Platíme za rychlé servery, takže kdokoli na světě může stahovat bezplatné "
-"aktualizace mapových dat bez zpoždění.  Jsou to stovky terabajtů měsíčně a "
-"jejich množství stále roste."
+msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+msgstr "Platíme za rychlé servery, takže kdokoli na světě může stahovat bezplatné aktualizace mapových dat bez zpoždění.  Jsou to stovky terabajtů měsíčně a jejich množství stále roste."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"User support, bugfixing, and improving the stability of the app are at the "
-"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
-"and this number is growing every day.  AppStore, Google Play, and support "
-"emails are overflooded with comments and bugs. We want to deliver a high-"
-"quality product."
-msgstr ""
-"Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou našimi "
-"hlavními prioritami.  Na GitHubu je [1200+ issues] [github issues] a toto "
-"číslo každým dnem roste.  AppStore, Google Play a e-maily podpory jsou "
-"zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní produkt."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou našimi hlavními prioritami.  Na GitHubu je [1200+ issues] [github issues] a toto číslo každým dnem roste.  AppStore, Google Play a e-maily podpory jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní produkt."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -695,14 +590,8 @@ msgstr "Jak darovat?"
 #. type: Plain text
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"Recurring donations are the best way to ensure a relatively stable income "
-"for the project and motivate us for long-term tasks and goals. But you can "
-"also donate one time."
-msgstr ""
-"Opakované dary jsou nejlepším způsobem, jak zajistit relativně stabilní "
-"příjem projektu a motivovat nás k dlouhodobým úkolům a cílům. Můžete však "
-"přispět i jednorázově."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgstr "Opakované dary jsou nejlepším způsobem, jak zajistit relativně stabilní příjem projektu a motivovat nás k dlouhodobým úkolům a cílům. Můžete však přispět i jednorázově."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -726,8 +615,7 @@ msgstr "Kryptoměna"
 #: content/donate/index.md
 #, fuzzy
 msgid "Please consider donating annually to reduce total fees."
-msgstr ""
-"Zvažte prosím možnost ročního příspěvku, abyste snížili celkové poplatky."
+msgstr "Zvažte prosím možnost ročního příspěvku, abyste snížili celkové poplatky."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -744,12 +632,8 @@ msgstr "Můžete nám pomoci i jinak?"
 #. type: Plain text
 #: content/donate/index.md
 #, fuzzy
-msgid ""
-"Yes! There are many ways to support Organic Maps. Please see [Support Us](@/"
-"support-us/index.md) page for more details."
-msgstr ""
-"Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací "
-"naleznete na stránce [Support Us](@/support-us/index.md)."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
+msgstr "Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací naleznete na stránce [Support Us](@/support-us/index.md)."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -806,12 +690,8 @@ msgstr "Služba Organic Maps respektuje vaše soukromí a NESNÍMÁ VÁS."
 #. type: Plain text
 #: content/privacy/index.md
 #, fuzzy
-msgid ""
-"Unlike most other applications, there is no tracking, no ads, no spyware, no "
-"data and statistics collection in Organic Maps."
-msgstr ""
-"Na rozdíl od většiny ostatních aplikací neobsahuje aplikace Organic Maps "
-"žádné sledování, reklamy, spyware ani sběr dat a statistik."
+msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
+msgstr "Na rozdíl od většiny ostatních aplikací neobsahuje aplikace Organic Maps žádné sledování, reklamy, spyware ani sběr dat a statistik."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -822,12 +702,8 @@ msgstr "Držte se dál od zvědavých očí velkých technologických firem!"
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 #, fuzzy
-msgid ""
-"If you have any questions or suggestions, please contact us at "
-"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr ""
-"Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás prosím na adrese "
-"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgstr "Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás prosím na adrese [legal@organicmaps.app](mailto:legal@organicmaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -856,14 +732,8 @@ msgstr "Podpora vývoje organických map"
 #. type: Plain text
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Organic Maps is a free, open-source app. It is free from ads, it does not "
-"collect your personal information, and it is developed by a few enthusiasts "
-"with the help of the community."
-msgstr ""
-"Organic Maps je bezplatná aplikace s otevřeným zdrojovým kódem. Neobsahuje "
-"reklamy, neshromažďuje vaše osobní údaje a vyvíjí ji několik nadšenců s "
-"pomocí komunity."
+msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+msgstr "Organic Maps je bezplatná aplikace s otevřeným zdrojovým kódem. Neobsahuje reklamy, neshromažďuje vaše osobní údaje a vyvíjí ji několik nadšenců s pomocí komunity."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -874,31 +744,20 @@ msgstr "Vývoj lze podpořit různými způsoby:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
-"for servers and scale."
-msgstr ""
-"[Donate][donate]! Každý dolar nebo euro se počítá a pomáhá nám zaplatit "
-"servery a škálu."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
+msgstr "[Donate][donate]! Každý dolar nebo euro se počítá a pomáhá nám zaplatit servery a škálu."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr ""
-"Nahlašujte chyby a sdílejte nápady na našem [GitHub][github] nebo "
-"prostřednictvím [email][email]."
+msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+msgstr "Nahlašujte chyby a sdílejte nápady na našem [GitHub][github] nebo prostřednictvím [email][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Help us to [fix bugs][contributing] and do code reviews if you are a "
-"developer. Every fixed small issue makes someone happier."
-msgstr ""
-"Pokud jste vývojář, pomozte nám [opravovat chyby] [přispívat] a provádět "
-"recenze kódu. Každý opravený malý problém udělá někoho šťastnějším."
+msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
+msgstr "Pokud jste vývojář, pomozte nám [opravovat chyby] [přispívat] a provádět recenze kódu. Každý opravený malý problém udělá někoho šťastnějším."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -909,68 +768,44 @@ msgstr "[Přeložit][překlady] chybějící řetězce v rozhraní aplikace."
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Translate [App Store][translations_appstore] and [Android]"
-"[translations_googleplay] descriptions into your language."
-msgstr ""
-"Přeložte popisy [App Store][translations_appstore] a [Android]"
-"[translations_googleplay] do svého jazyka."
+msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
+msgstr "Přeložte popisy [App Store][translations_appstore] a [Android][translations_googleplay] do svého jazyka."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
 msgid "[Translate][translations_website] our web site into your language."
-msgstr ""
-"[Translate][translations_website] naše webové stránky do vašeho jazyka."
+msgstr "[Translate][translations_website] naše webové stránky do vašeho jazyka."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
-"data."
-msgstr ""
-"Připojte se ke komunitě [OpenStreetMap][openstreemap] a přispívejte k datům "
-"map."
+msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
+msgstr "Připojte se ke komunitě [OpenStreetMap][openstreemap] a přispívejte k datům map."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Fix red cities found by our [public transport validator]"
-"[public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
-"Oprava červených měst nalezených naším validátorem [public "
-"transport_validator][public_transport_validator], aby v aplikaci fungovalo "
-"metro a rychlodráha."
+msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
+msgstr "Oprava červených měst nalezených naším validátorem [public transport_validator][public_transport_validator], aby v aplikaci fungovalo metro a rychlodráha."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix]"
-"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr ""
-"Podpořte ostatní uživatele na [GitHub][issues], [Telegram][telegram_chat], "
-"[matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram]"
-"[instagram]."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "Podpořte ostatní uživatele na [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Tell everyone about Organic Maps. A bigger community is a stronger community."
+msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
 msgstr "Řekněte všem o Organic Maps. Větší komunita je silnější komunita."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei "
-"Appgallery][appgallery]."
-msgstr ""
-"Ohodnoťte nás v [Google Play][googleplay], [Apple Store][appstore], [Huawei "
-"Appgallery][appgallery]."
+msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgstr "Ohodnoťte nás v [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -981,12 +816,8 @@ msgstr "Jakákoli pomoc je vítána!"
 #. type: Plain text
 #: content/support-us/index.md
 #, fuzzy
-msgid ""
-"Our small team is very grateful for your feedback and support. Organic Maps "
-"would not be possible without our users ❤️."
-msgstr ""
-"Náš malý tým je velmi vděčný za vaši zpětnou vazbu a podporu. Organické mapy "
-"by nebyly možné bez našich uživatelů ❤️."
+msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+msgstr "Náš malý tým je velmi vděčný za vaši zpětnou vazbu a podporu. Organické mapy by nebyly možné bez našich uživatelů ❤️."
 
 #. type: YAML Front Matter: description
 #: content/terms/index.md
@@ -1009,47 +840,25 @@ msgstr "Organické mapy: termíny"
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"This app is licensed under the Apache License, Version 2.0 (the \"License"
-"\"); you may not use this application except in compliance with the License."
-msgstr ""
-"Tato aplikace je licencována pod licencí Apache License, verze 2.0 (dále jen "
-"\"Licence\"); tuto aplikaci můžete používat pouze v souladu s Licencí."
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
+msgstr "Tato aplikace je licencována pod licencí Apache License, verze 2.0 (dále jen \"Licence\"); tuto aplikaci můžete používat pouze v souladu s Licencí."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"You may obtain a copy of the License at [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
-msgstr ""
-"Kopii licence můžete získat na adrese [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
+msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
+msgstr "Kopii licence můžete získat na adrese [http://www.apache.org/licenses/LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"Unless required by applicable law or agreed to in writing, software "
-"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
-"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
-"License for the specific language governing permissions and limitations "
-"under the License."
-msgstr ""
-"Pokud to nevyžadují platné právní předpisy nebo to není písemně dohodnuto, "
-"je software distribuovaný v rámci licence distribuován tak, jak je, BEZ "
-"ZÁRUK A PODMÍNEK JAKÉHOKOLI DRUHU, ať už výslovných nebo předpokládaných. "
-"Konkrétní znění upravující oprávnění a omezení v rámci Licence naleznete v "
-"Licenci."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr "Pokud to nevyžadují platné právní předpisy nebo to není písemně dohodnuto, je software distribuovaný v rámci licence distribuován tak, jak je, BEZ ZÁRUK A PODMÍNEK JAKÉHOKOLI DRUHU, ať už výslovných nebo předpokládaných. Konkrétní znění upravující oprávnění a omezení v rámci Licence naleznete v Licenci."
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"Most libraries in the following directories on [GitHub][github] made by "
-"other people and organizations and licensed in different ways:"
-msgstr ""
-"Většina knihoven v následujících adresářích na [GitHub][github] vytvořených "
-"jinými lidmi a organizacemi a licencovaných různými způsoby:"
+msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
+msgstr "Většina knihoven v následujících adresářích na [GitHub][github] vytvořených jinými lidmi a organizacemi a licencovaných různými způsoby:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -1066,21 +875,14 @@ msgstr "nástroje"
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
-"Podmínky použití naleznete v jejich souborech LICENCE, KOPÍROVÁNÍ nebo "
-"UPOZORNĚNÍ."
+msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr "Podmínky použití naleznete v jejich souborech LICENCE, KOPÍROVÁNÍ nebo UPOZORNĚNÍ."
 
 #. type: Plain text
 #: content/terms/index.md
 #, fuzzy
-msgid ""
-"See also [data/copyright.html][copyright] file for a full list of copyright "
-"notices for Organic Maps application."
-msgstr ""
-"Úplný seznam upozornění na autorská práva pro aplikaci Organic Maps najdete "
-"také v souboru [data/copyright.html][copyright]."
+msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
+msgstr "Úplný seznam upozornění na autorská práva pro aplikaci Organic Maps najdete také v souboru [data/copyright.html][copyright]."
 
 #. type: Plain text
 #: content/terms/index.md

@@ -7,8 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Basque <https://hosted.weblate.org/projects/organicmaps/"
-"website/eu/>\n"
+"Language-Team: Basque <https://hosted.weblate.org/projects/organicmaps/website/eu/>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,20 +68,13 @@ msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praga') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline "
-"bilaketa') }}"
+msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline bilaketa') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark "
-"mode') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Nabigazioa modu "
-"ilunean') }}"
+msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Nabigazioa modu ilunean') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -92,21 +84,13 @@ msgstr "Berezitasunak"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
-"and cyclists:"
-msgstr ""
-"Organic Maps da bidaiari, turista, mendizale eta txirrindularientzat app "
-"egokiena:"
+msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
+msgstr "Organic Maps da bidaiari, turista, mendizale eta txirrindularientzat app egokiena:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Detailed offline maps with places that don't exist on other maps, thanks to "
-"[OpenStreetMap][openstreetmap]"
-msgstr ""
-"Beste mapetan azaltzen ez diren tokietako offline mapa detailatuak, "
-"[OpenStreetMap][openstreetmap]-i esker"
+msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
+msgstr "Beste mapetan azaltzen ez diren tokietako offline mapa detailatuak, [OpenStreetMap][openstreetmap]-i esker"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -121,9 +105,7 @@ msgstr "Profil lerroak, sestra kurbak, gailur eta aldapak"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
-"Pausoz-pausoko nabigazioa oinez, bizikletan edo autoz ibiltzeko, ahotsaren "
-"aukerarekin"
+msgstr "Pausoz-pausoko nabigazioa oinez, bizikletan edo autoz ibiltzeko, ahotsaren aukerarekin"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -132,11 +114,8 @@ msgstr "Mapan offline bilaketa azkarra"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
-"Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan "
-"(GPX [planned][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgstr "Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan (GPX [planned][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -257,20 +236,17 @@ msgstr "{{ privacy_screenshots(lang='eu') }}"
 #. type: Plain text
 #: content/_index.md
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
-"Organic Maps-en sinesten dugu pribatutasuna oinarrizko eskubide bat dela:"
+msgstr "Organic Maps-en sinesten dugu pribatutasuna oinarrizko eskubide bat dela:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
-"Organic Maps komunitateak bultzatutako kode irekiko proiektu independentea da"
+msgstr "Organic Maps komunitateak bultzatutako kode irekiko proiektu independentea da"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
-"Enpresa teknologiko handien begietatik babesten dugu zure pribatutasuna"
+msgstr "Enpresa teknologiko handien begietatik babesten dugu zure pribatutasuna"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -296,12 +272,8 @@ msgstr "Nork ordaintzen du doako app hau?"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"The app is free for everyone. Please [donate](@/donate/index.md) to support "
-"us!"
-msgstr ""
-"App-a denontzat doakoa da. Mesedez [donate](@/donate/index.eu.md) guri "
-"laguntzeko!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
+msgstr "App-a denontzat doakoa da. Mesedez [donate](@/donate/index.eu.md) guri laguntzeko!"
 
 #. type: Title ###
 #: content/_index.md
@@ -322,15 +294,8 @@ msgstr "Gure babesleak:"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
-"[mythic_beasts_donation] two virtual servers with 400 TB/month of free "
-"bandwidth to help our users with maps downloads and updates."
-msgstr ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
-"[mythic_beasts_donation] bi zerbitzari eskaintzen dizkigu hilero 400 TB-ko "
-"doako banda zabalerarekin, gure erabiltzaileei mapa deskarga eta "
-"eguneraketekin laguntzeko."
+msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
+msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] bi zerbitzari eskaintzen dizkigu hilero 400 TB-ko doako banda zabalerarekin, gure erabiltzaileei mapa deskarga eta eguneraketekin laguntzeko."
 
 #. type: Title ##
 #: content/_index.md
@@ -340,19 +305,13 @@ msgstr "Komunitatea"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"Organic Maps is an [open-source software][github] licensed under the Apache "
-"License 2.0."
-msgstr ""
-"Organic Maps [open-source software][github] da, Apache License 2.0 "
-"lizentziapean."
+msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
+msgstr "Organic Maps [open-source software][github] da, Apache License 2.0 lizentziapean."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
-"Mesedez parte-hartu gure beta programan, iradoki zure ideia berriak eta "
-"akatsen berri eman:"
+msgstr "Mesedez parte-hartu gure beta programan, iradoki zure ideia berriak eta akatsen berri eman:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -376,11 +335,8 @@ msgstr "[Linux Desktop Beta (packages)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
-"Akats edo arazoen berri eman [issue tracker-ean][issues] edo [idatzi guri]"
-"[email]."
+msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
+msgstr "Akats edo arazoen berri eman [issue tracker-ean][issues] edo [idatzi guri][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -389,19 +345,13 @@ msgstr "[Eztabaidatu][ideas] ideiak edo proposatu berezitasun berriak."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
-"[matrix] for updates."
-msgstr ""
-"Harpidetu gure [Telegram kanalera][telegram] edo [matrix space][matrix]-era "
-"eguneraketak jasotzeko."
+msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
+msgstr "Harpidetu gure [Telegram kanalera][telegram] edo [matrix space][matrix]-era eguneraketak jasotzeko."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
-"Sartu gure [Telegram taldean][telegram_chat] beste erabiltzaileekin hitz "
-"egiteko."
+msgstr "Sartu gure [Telegram taldean][telegram_chat] beste erabiltzaileekin hitz egiteko."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -410,12 +360,8 @@ msgstr "Bisitatu gure [GitHub orria][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
-"[twitter], [Instagram][instagram], [Reddit][reddit]."
-msgstr ""
-"Jarrai itzazu gure eguneraketak [Mastodon][mastodon], [Facebook][facebook], "
-"[Twitter][twitter], [Instagram][instagram], eta [Reddit][reddit]-en."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgstr "Jarrai itzazu gure eguneraketak [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], eta [Reddit][reddit]-en."
 
 #. type: Plain text
 #: content/_index.md
@@ -448,23 +394,13 @@ msgstr "Dohaintza egin Organic Maps-en garapenari eusteko"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us "
-"is to know that we are doing The Right Thing and that our time and efforts "
-"are helping someone on the Planet."
-msgstr ""
-"Gabon zoriontsuak 🎅 eta Urte Berri on 🎄 opa dizkizuegu! Guretzat oparirik "
-"onena The Right Thing egiten ari garela jakitea da, eta gure denbora eta "
-"ahaleginak planetako norbait laguntzen ari direla."
+msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+msgstr "Gabon zoriontsuak 🎅 eta Urte Berri on 🎄 opa dizkizuegu! Guretzat oparirik onena The Right Thing egiten ari garela jakitea da, eta gure denbora eta ahaleginak planetako norbait laguntzen ari direla."
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Organic Maps app is _free for everyone_ thanks to your **[donations]"
-"[stripe]**:"
-msgstr ""
-"Organic Maps app-a _denontzat doakoa_ da, zure **[dohaintzari][stripe]** "
-"esker:"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgstr "Organic Maps app-a _denontzat doakoa_ da, zure **[dohaintzari][stripe]** esker:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -489,30 +425,18 @@ msgstr "Zergatik eman dirua Organic Maps-i?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid ""
-"We rely on your donations to carry out our mission to keep Organic Maps open "
-"and free.  And free from ads."
-msgstr ""
-"Zuen dohaintzak behar ditugu Organic Maps-ek irekia eta librea izaten jarrai "
-"dezan.  Eta publizitatetik libre."
+msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
+msgstr "Zuen dohaintzak behar ditugu Organic Maps-ek irekia eta librea izaten jarrai dezan.  Eta publizitatetik libre."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid ""
-"We are a few enthusiasts contributing in our free time, and spending our "
-"families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr ""
-"Zaletu batzuk gara gure aisian garatzen, eta gure familien dirua proiektuan "
-"xahutzen.   Egiten duguna maite dugu eta gure erabiltzaileak maite ditugu ❤️."
+msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgstr "Zaletu batzuk gara gure aisian garatzen, eta gure familien dirua proiektuan xahutzen.   Egiten duguna maite dugu eta gure erabiltzaileak maite ditugu ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid ""
-"With your support, we want to become a better, privacy-focused version of "
-"Google Maps."
-msgstr ""
-"Zure laguntzarekin, Google Maps-en bertsio hobe eta pribatutasunean "
-"zentratutakoa egin nahi dugu."
+msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
+msgstr "Zure laguntzarekin, Google Maps-en bertsio hobe eta pribatutasunean zentratutakoa egin nahi dugu."
 
 #. type: Title ##
 #: content/donate/index.md
@@ -522,35 +446,18 @@ msgstr "Zertarako erabiliko da dirua?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid ""
-"We pay for fast servers, so anyone in the World can download free map data "
-"updates without delays.  It's hundreds of terabytes monthly, and the amount "
-"is growing."
-msgstr ""
-"Zerbitzari azkarrak ordaintzen ditugu, horrela munduan dagoen edonork "
-"deskargatu ahal izango ditu mapa eguneraketak atzerapenik gabe. Hilero "
-"ehunka Terabyte dira hauek, eta tamaina handitzen doa."
+msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+msgstr "Zerbitzari azkarrak ordaintzen ditugu, horrela munduan dagoen edonork deskargatu ahal izango ditu mapa eguneraketak atzerapenik gabe. Hilero ehunka Terabyte dira hauek, eta tamaina handitzen doa."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid ""
-"User support, bugfixing, and improving the stability of the app are at the "
-"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
-"and this number is growing every day.  AppStore, Google Play, and support "
-"emails are overflooded with comments and bugs. We want to deliver a high-"
-"quality product."
-msgstr ""
-"Erabiltzaileei laguntza, akats-konponketa eta app-aren egonkortasuna "
-"hobetzea dira gure lehentasunak.  [1200 eskaera baino gehiago daude GitHub-"
-"en][github issues] eta zenbaki hau egunero handitzen da.  AppStore, Google "
-"Play eta arretako eposta helbideak iradokizun eta akatsekin beteta daude. "
-"Kalitate handiko produktu bat eman nahi dugu."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Erabiltzaileei laguntza, akats-konponketa eta app-aren egonkortasuna hobetzea dira gure lehentasunak.  [1200 eskaera baino gehiago daude GitHub-en][github issues] eta zenbaki hau egunero handitzen da.  AppStore, Google Play eta arretako eposta helbideak iradokizun eta akatsekin beteta daude. Kalitate handiko produktu bat eman nahi dugu."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
-msgstr ""
-"Nahikoa diru bagenu, garapen berriak azkarrago egingo genituzke, adibidez:"
+msgstr "Nahikoa diru bagenu, garapen berriak azkarrago egingo genituzke, adibidez:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -600,8 +507,7 @@ msgstr "Garraio publikoa"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "… and [many other][github issues] features you want and love"
-msgstr ""
-"… eta [beste ehunka][github issues] ezaugarri, zuek nahi eta maite dituzuenak"
+msgstr "… eta [beste ehunka][github issues] ezaugarri, zuek nahi eta maite dituzuenak"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -611,14 +517,8 @@ msgstr "Nola egin dohaintza?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Recurring donations are the best way to ensure a relatively stable income "
-"for the project and motivate us for long-term tasks and goals. But you can "
-"also donate one time."
-msgstr ""
-"Aldizkako dohaintzak dira proiektuarentzat sarrera jarri batzuk ziurtatzeko "
-"modu onena eta epe luzerako ekintza eta helburuetarako motibatuko gaituzte. "
-"Baina behingoagatik ere eman dezakezu."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgstr "Aldizkako dohaintzak dira proiektuarentzat sarrera jarri batzuk ziurtatzeko modu onena eta epe luzerako ekintza eta helburuetarako motibatuko gaituzte. Baina behingoagatik ere eman dezakezu."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -640,9 +540,7 @@ msgstr "Crypto"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Please consider donating annually to reduce total fees."
-msgstr ""
-"Mesedez pentsatu urteroko ordainketak prestatzeaz, banku komisio orokorrak "
-"gutxitzeko."
+msgstr "Mesedez pentsatu urteroko ordainketak prestatzeaz, banku komisio orokorrak gutxitzeko."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -657,12 +555,8 @@ msgstr "Beste moduren batean lagun gaitzakezu?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Yes! There are many ways to support Organic Maps. Please see [Support Us](@/"
-"support-us/index.md) page for more details."
-msgstr ""
-"Bai! Organic Map-i laguntzeko modu asko daude. Mesedez begiratu [Lagun "
-"gaitzazu](@/support-us/index.md) orria detaile gehiagorako."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
+msgstr "Bai! Organic Map-i laguntzeko modu asko daude. Mesedez begiratu [Lagun gaitzazu](@/support-us/index.md) orria detaile gehiagorako."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -713,18 +607,12 @@ msgstr "Organic Maps: Pribatutasun politika"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Organic Maps respects your privacy and DOES NOT TRACK YOU."
-msgstr ""
-"Organic Maps-ek zure pribatutasuna errespetatzen du eta EZ DIZU JARRAIPENIK "
-"EGITEN."
+msgstr "Organic Maps-ek zure pribatutasuna errespetatzen du eta EZ DIZU JARRAIPENIK EGITEN."
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid ""
-"Unlike most other applications, there is no tracking, no ads, no spyware, no "
-"data and statistics collection in Organic Maps."
-msgstr ""
-"Beste aplikazio gehienek ez bezala, ez dago datu jarraipenik, "
-"publizitaterik, spywarerik, datu edo estatistika bilketarik Organic Maps-en."
+msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
+msgstr "Beste aplikazio gehienek ez bezala, ez dago datu jarraipenik, publizitaterik, spywarerik, datu edo estatistika bilketarik Organic Maps-en."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -733,12 +621,8 @@ msgstr "Babestu zaitez enpresa teknologiko handien begietatik!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid ""
-"If you have any questions or suggestions, please contact us at "
-"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr ""
-"Galdera edo iradokizunik baduzu, mesedez jarri gurekin harremanetan helbide "
-"honetan [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgstr "Galdera edo iradokizunik baduzu, mesedez jarri gurekin harremanetan helbide honetan [legal@organicmaps.app](mailto:legal@organicmaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -766,14 +650,8 @@ msgstr "Lagundu Organic Maps-en garapenean"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid ""
-"Organic Maps is a free, open-source app. It is free from ads, it does not "
-"collect your personal information, and it is developed by a few enthusiasts "
-"with the help of the community."
-msgstr ""
-"Organic Maps doako, kode-irekiko app bat da. Publizitaterik ez du, ez du "
-"zure informazio pertsonala biltzen eta zaletu batzuek komunitatearen "
-"laguntzaz garatzen dugu."
+msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+msgstr "Organic Maps doako, kode-irekiko app bat da. Publizitaterik ez du, ez du zure informazio pertsonala biltzen eta zaletu batzuek komunitatearen laguntzaz garatzen dugu."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -782,30 +660,18 @@ msgstr "Garapenean laguntzeko hainbat modu daude:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
-"for servers and scale."
-msgstr ""
-"[Dohaintzak](@/donate/index.eu.md)! Dolar edo Euro guztiak behar ditugu eta "
-"zerbitzariak ordaindu eta handitzen laguntzen digute."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
+msgstr "[Dohaintzak](@/donate/index.eu.md)! Dolar edo Euro guztiak behar ditugu eta zerbitzariak ordaindu eta handitzen laguntzen digute."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr ""
-"Bidali akatsak edo zure ideiak elkarbanatu [GitHub-en][github] edo [epostaz]"
-"[email]."
+msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+msgstr "Bidali akatsak edo zure ideiak elkarbanatu [GitHub-en][github] edo [epostaz][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Help us to [fix bugs][contributing] and do code reviews if you are a "
-"developer. Every fixed small issue makes someone happier."
-msgstr ""
-"Lagundu egiguzu [akatsak konpontzen][contributing] eta kodea gainbegiratu "
-"garatzailea bazara. Konpontzen dugun arazo txiki bakoitzak zoriontsuago "
-"egiten du norbait."
+msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
+msgstr "Lagundu egiguzu [akatsak konpontzen][contributing] eta kodea gainbegiratu garatzailea bazara. Konpontzen dugun arazo txiki bakoitzak zoriontsuago egiten du norbait."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -814,12 +680,8 @@ msgstr "[Itzuli][translations] aplikazioaren interfazean falta diren testuak."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Translate [App Store][translations_appstore] and [Android]"
-"[translations_googleplay] descriptions into your language."
-msgstr ""
-"Itzuli [App Store][translations_appstore] eta [Android]"
-"[translations_googleplay] deskribapenak zure hizkuntzara."
+msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
+msgstr "Itzuli [App Store][translations_appstore] eta [Android][translations_googleplay] deskribapenak zure hizkuntzara."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -828,49 +690,28 @@ msgstr "[Itzuli][translations_website] gure webgunea zure hizkuntzara."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
-"data."
-msgstr ""
-"Parte hartu [OpenStreetMap][openstreetmap] komunitatean eta hobetu mapako "
-"datuak."
+msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
+msgstr "Parte hartu [OpenStreetMap][openstreetmap] komunitatean eta hobetu mapako datuak."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Fix red cities found by our [public transport validator]"
-"[public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
-"Konpondu gure [garraio publikoaren balidatzaileak]"
-"[public_transport_validator] aurkitutako hiri gorriak, metro eta tranbiak "
-"ondo funtzionatu dezan app-ean."
+msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
+msgstr "Konpondu gure [garraio publikoaren balidatzaileak][public_transport_validator] aurkitutako hiri gorriak, metro eta tranbiak ondo funtzionatu dezan app-ean."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix]"
-"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr ""
-"Lagundu beste erabiltzaileei hemen: [GitHub][issues], [Telegram]"
-"[telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], "
-"[Instagram][instagram]."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "Lagundu beste erabiltzaileei hemen: [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr ""
-"Jende guztiari kontatu guri buruz. Komunitate handiago bat indartsuagoa "
-"izango da."
+msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
+msgstr "Jende guztiari kontatu guri buruz. Komunitate handiago bat indartsuagoa izango da."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei "
-"Appgallery][appgallery]."
-msgstr ""
-"Baloratu gaitzazu [Google Play][googleplay], [Apple Store][appstore], eta "
-"[Huawei Appgallery][appgallery]-n."
+msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgstr "Baloratu gaitzazu [Google Play][googleplay], [Apple Store][appstore], eta [Huawei Appgallery][appgallery]-n."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -879,12 +720,8 @@ msgstr "Edozein laguntza da ongi-etorria!"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid ""
-"Our small team is very grateful for your feedback and support. Organic Maps "
-"would not be possible without our users ❤️."
-msgstr ""
-"Gure talde txikia oso eskertuta dago zure iradokizun eta laguntzagatik. "
-"Organic Maps ez litzateke posible izango gure erabiltzaileen gabe ❤️."
+msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+msgstr "Gure talde txikia oso eskertuta dago zure iradokizun eta laguntzagatik. Organic Maps ez litzateke posible izango gure erabiltzaileen gabe ❤️."
 
 #. type: YAML Front Matter: description
 #: content/terms/index.md
@@ -906,45 +743,23 @@ msgstr "Organic Maps: baldintzak"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"This app is licensed under the Apache License, Version 2.0 (the \"License"
-"\"); you may not use this application except in compliance with the License."
-msgstr ""
-"App hau Apache License, Version 2.0 (the \"License\") lizentziapean dago; "
-"Lizentzia honekin bat eginez bakarrik erabili dezakezu app-a."
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
+msgstr "App hau Apache License, Version 2.0 (the \"License\") lizentziapean dago; Lizentzia honekin bat eginez bakarrik erabili dezakezu app-a."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"You may obtain a copy of the License at [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
-msgstr ""
-"Lizentziaren kopia bat lor dezakezu hemen: [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
+msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
+msgstr "Lizentziaren kopia bat lor dezakezu hemen: [http://www.apache.org/licenses/LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Unless required by applicable law or agreed to in writing, software "
-"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
-"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
-"License for the specific language governing permissions and limitations "
-"under the License."
-msgstr ""
-"Ez badu dagokion lege batek eskatzen edo idatziz adosten, lizentzia honen "
-"pean banatutako softwarea \"DAGOEN MODUAN EMATEN DA, INOLAKO GARANTIA EDO "
-"BALDINTZARIK GABE\", dela adierazitakoak edo barne ulertutakoak. Irakurri "
-"lizentzia dagokion baimen edo muga berezietaz gehiago jakiteko."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr "Ez badu dagokion lege batek eskatzen edo idatziz adosten, lizentzia honen pean banatutako softwarea \"DAGOEN MODUAN EMATEN DA, INOLAKO GARANTIA EDO BALDINTZARIK GABE\", dela adierazitakoak edo barne ulertutakoak. Irakurri lizentzia dagokion baimen edo muga berezietaz gehiago jakiteko."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Most libraries in the following directories on [GitHub][github] made by "
-"other people and organizations and licensed in different ways:"
-msgstr ""
-"Ondoko karpetetan dauden liburutegi gehienak ([GitHub][github]) beste "
-"pertsona eta erakunde batzuek egindakoak eta lizentziatukoak dira, hainbat "
-"modutan:"
+msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
+msgstr "Ondoko karpetetan dauden liburutegi gehienak ([GitHub][github]) beste pertsona eta erakunde batzuek egindakoak eta lizentziatukoak dira, hainbat modutan:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -958,20 +773,13 @@ msgstr "tresnak"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
-"Mesedez, irakurri beraien LICENSE, COPYING edo NOTICE fitxategiak erabilera "
-"baldintzak jakiteko."
+msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr "Mesedez, irakurri beraien LICENSE, COPYING edo NOTICE fitxategiak erabilera baldintzak jakiteko."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"See also [data/copyright.html][copyright] file for a full list of copyright "
-"notices for Organic Maps application."
-msgstr ""
-"Irakurri baita ere [data/copyright.html][copyright] fitxategia, Organic Maps "
-"app-aren copyright zerrenda oso bat lortzeko."
+msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
+msgstr "Irakurri baita ere [data/copyright.html][copyright] fitxategia, Organic Maps app-aren copyright zerrenda oso bat lortzeko."
 
 #. type: Plain text
 #: content/terms/index.md
