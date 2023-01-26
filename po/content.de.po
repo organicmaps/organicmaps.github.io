@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: nautilusx <translate@disroot.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-03 11:47+0000\nLast-Translator: nautilusx <translate@disroot.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -37,7 +28,7 @@ msgstr "Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation"
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine datenschutzfreundliche, quelloffene [fork][fork] der **Maps.me** App (früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.\n"
+msgstr "**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung][fork] der **Maps.me** App (früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -273,7 +264,7 @@ msgstr "Wer zahlt für die kostenlose App?"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende][donate]!"
+msgstr "Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende](@/donate/index.md)!"
 
 #. type: Title ###
 #: content/_index.md
@@ -540,7 +531,7 @@ msgstr "Krypto"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Please consider donating annually to reduce total fees."
-msgstr "Bitte ziehe es in Erwägung, jährlich zu spenden, um die enstehenden Gebühren zu reduzieren."
+msgstr "Bitte ziehe es in Erwägung, jährlich zu spenden, um die entstehenden Gebühren zu reduzieren."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -661,7 +652,7 @@ msgstr "Es gibt verschiedene Möglichkeiten, die Entwicklung zu unterstützen:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Spenden][spenden]! Jeder Dollar oder Euro zählt und hilft uns, die Server zu bezahlen und zu skalieren."
+msgstr "[Spenden](@/donate/index.md)! Jeder Dollar oder Euro zählt und hilft uns, die Server zu bezahlen und zu skalieren."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -671,7 +662,7 @@ msgstr "Melde Fehler und teile Ideen auf unserem [GitHub][github] oder per [E-Ma
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Hilf uns, [Fehler zu beheben][beizutragen] und führe Code-Reviews durch, wenn du ein Entwickler bist. Jedes behobene, noch so kleine, Problem macht jemanden glücklicher."
+msgstr "Hilf uns, [Fehler zu beheben][contributing] und führe Code-Reviews durch, wenn du ein Entwickler bist. Jedes behobene, noch so kleine, Problem macht jemanden glücklicher."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
