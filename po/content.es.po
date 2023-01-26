@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-11 10:19+0000\nLast-Translator: Roman Tsisyk <roman@tsisyk.com>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-12 19:49+0000\nLast-Translator: Carlos Brys <carlos.brys@gmail.com>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -101,12 +101,12 @@ msgstr "Navegación giro-a-giro con guía por voz caminando, en bici y en coche"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Fast offline search on the map"
-msgstr "Búsqueda rápida y sin conexión en el mapa"
+msgstr "Búsqueda rápida en el mapa y sin conexión"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Los marcadores de exportan e importan en los formatos KML/KMZ (GPX está [planeado][gpx_issue])"
+msgstr "Los marcadores se exportan e importan en los formatos KML/KMZ (está [planificadoado][gpx_issue] GPX)"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -121,7 +121,7 @@ msgstr "Los países y regiones no ocupan demasiado espacio"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Free and open-source"
-msgstr "Gratis y software abierto"
+msgstr "Gratis y software abierto"
 
 #. type: Title ##
 #: content/_index.md
