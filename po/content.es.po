@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Iago <translate@delthia.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\n"
-"Language: es\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-11 10:19+0000\nLast-Translator: Roman Tsisyk <roman@tsisyk.com>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -130,13 +121,13 @@ msgstr "Los países y regiones no ocupan demasiado espacio"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Free and open-source"
-msgstr "Libre y abierta"
+msgstr "Gratis y software abierto"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Why Organic?"
-msgstr "¿Por qué orgánica?"
+msgstr "¿Por qué Orgánico?"
 
 #. type: Plain text
 #: content/_index.md
@@ -206,7 +197,7 @@ msgstr "Sin notificaciones"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No crapware"
-msgstr "Sin crapware"
+msgstr "Sin software basura"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -241,12 +232,12 @@ msgstr "En Organic Maps, creemos que la privacidad es un derecho humano fundamen
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "Organic Maps es un proyecto abierto indie llevado por la comunidad"
+msgstr "Organic Maps es un proyecto independiente de código abierto impulsado por la comunidad"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr "Protegemos tu privacidad de los ojos de las Grande Compañías"
+msgstr "Protegemos tu privacidad de los ojos espías de las Grandes Tecnológicas"
 
 #. type: Bullet: '- '
 #: content/_index.md
