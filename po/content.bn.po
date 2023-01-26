@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Bengali <https://hosted.weblate.org/projects/organicmaps/website/bn/>\n"
-"Language: bn\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-11 10:19+0000\nLast-Translator: Oymate <dhruboadittya96@gmail.com>\nLanguage-Team: Bengali <https://hosted.weblate.org/projects/organicmaps/website/bn/>\nLanguage: bn\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.15.1-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
@@ -23,9 +14,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra menu_title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Home"
-msgstr "হোম"
+msgstr "নীড়"
 
 #. type: YAML Front Matter: title
 #: content/_index.md
@@ -53,8 +44,9 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
+#, fuzzy
 msgid "{{ badges(lang='en') }}"
-msgstr ""
+msgstr "{{ badges(lang='bn') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -78,9 +70,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Features"
-msgstr "বৈশিষ্ট্য:"
+msgstr "বৈশিষ্ট্য"
 
 #. type: Plain text
 #: content/_index.md
@@ -129,15 +121,14 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Free and open-source"
-msgstr "ফ্রি এবং ওপেন সোর্স"
+msgstr "ফ্রি এবং মুক্ত উৎস"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "কেন অর্গানিক?"
 
 #. type: Plain text
 #: content/_index.md
@@ -147,7 +138,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Respects your privacy"
-msgstr ""
+msgstr "তোমার গোপনীয়তা সম্মান করে"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -167,13 +158,12 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No ads"
-msgstr ""
+msgstr "কোনো বিজ্ঞাপন নেই"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "No tracking"
-msgstr "ট্র্যাকিংবিহীন"
+msgstr "নজরদারী নেই"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -209,7 +199,7 @@ msgstr "Push notifications"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No crapware"
-msgstr ""
+msgstr "জঞ্জাল নেই"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -293,7 +283,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "আমাদের পৃষ্ঠপোষক:"
 
 #. type: Plain text
 #: content/_index.md
@@ -302,9 +292,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Community"
-msgstr "Community"
+msgstr "সম্প্রদায়"
 
 #. type: Plain text
 #: content/_index.md
@@ -370,7 +360,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr ""
+msgstr "[ফর্ক]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
@@ -385,9 +375,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra menu_title
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Donate"
-msgstr "ডনেট করুন"
+msgstr "অনুদান"
 
 #. type: YAML Front Matter: title
 #: content/donate/index.md
@@ -408,17 +398,17 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No trackers"
-msgstr ""
+msgstr "কোনো ট্র্যাকার নেই"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No registration"
-msgstr ""
+msgstr "নিবন্ধন করতে হবে না"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "Open source"
-msgstr ""
+msgstr "মুক্ত উৎস"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -475,7 +465,7 @@ msgstr ""
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Android Auto"
-msgstr ""
+msgstr "অ্যান্ড্রয়েড অটো"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -504,7 +494,6 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
 msgid "Public Transport"
 msgstr "গণপরিবহন"
 
@@ -526,7 +515,7 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Bank Transfer"
 msgstr "ব্যাংক ট্রান্সফার"
 
@@ -537,7 +526,7 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Crypto"
 msgstr "ক্রিপ্টো"
 
@@ -578,9 +567,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra menu_title
 #: content/news/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "News"
-msgstr "News"
+msgstr "খবর"
 
 #. type: YAML Front Matter: title
 #: content/news/_index.md
@@ -596,7 +585,7 @@ msgstr ""
 
 #. type: YAML Front Matter: extra menu_title
 #: content/privacy/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Privacy"
 msgstr "গোপনীয়তা"
 
@@ -642,7 +631,7 @@ msgstr ""
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "আমাদের সমর্থন করো"
 
 #. type: YAML Front Matter: title
 #: content/support-us/index.md
@@ -733,9 +722,9 @@ msgstr ""
 
 #. type: YAML Front Matter: extra menu_title
 #: content/terms/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Terms"
-msgstr "শর্তসমূহ"
+msgstr "শর্তাবলী"
 
 #. type: YAML Front Matter: title
 #: content/terms/index.md
@@ -766,13 +755,12 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr ""
+msgstr "৩য় পক্ষ"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy
 msgid "tools"
-msgstr "যন্ত্রপাতি"
+msgstr "যন্ত্র"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -795,9 +783,9 @@ msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Address"
-msgstr "ঠিকানা:"
+msgstr "ঠিকানা"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -809,7 +797,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "যোগাযোগ করো"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -837,18 +825,18 @@ msgstr ""
 
 #. type: Hash Value: language
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "English"
 msgstr "ইংরেজি"
 
 #. type: Hash Value: name
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Name"
 msgstr "নাম"
 
 #. type: Hash Value: token
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Token"
 msgstr "টোকেন"
