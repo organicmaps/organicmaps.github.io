@@ -4,57 +4,48 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/website/ca/>\n"
-"Language: ca\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-26 10:54+0000\nLast-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/website/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: YAML Front Matter: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "Mapes detallats, ràpids i sense connexió per a viatgers, turistes, conductors, excursionistes i ciclistes creats pels fundadors de l’aplicació MapsWithMe (Maps.Me)."
 
 #. type: YAML Front Matter: extra menu_title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Home"
 msgstr "Inici"
 
 #. type: YAML Front Matter: title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "Mapes orgànics Senderisme fora de línia Rutes i navegació en bicicleta"
+msgstr "Organic Maps: passejos, bici, rutes i GPS sense connexió"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "L’**Organic Maps** és una aplicació gratuïta de mapes sense connexió per a l’Android i l’iOS per a viatgers, turistes, excursionistes i ciclistes, basada en dades d’origen col·lectiu de l’**[OpenStreetMap][openstreetmap]**. És una [bifurcació][fork] centrada en la privadesa del **Maps.me** (anteriorment conegut com a [**MapsWithMe**][mapswithme], mantinguda per les mateixes persones que van crear el **MapsWithMe** el 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
+msgstr "L’**Organic Maps** és una de les poques aplicacions actuals que admet fer servir totes les seves funcions sense una connexió a Internet activa. Instal·leu l’Organic Maps, baixeu mapes, llenceu la vostra targeta SIM (per cert, el vostre operador us rastreja constantment) i feu un viatge setmanal amb una sola càrrega de bateria sense que cap byte s’enviï a la xarxa.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ badges(lang='en') }}"
-msgstr ""
+msgstr "{{ badges(lang='ca') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -74,18 +65,18 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navegació en el mode fosc') }}"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Features"
 msgstr "Funcionalitats"
 
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "L’Organic Maps és l’aplicació definitiva per a viatgers, turistes, excursionistes i ciclistes:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -110,7 +101,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "Cerques ràpides al mapa, sense connexió"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -120,39 +111,38 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Dark Mode to protect your eyes"
-msgstr ""
+msgstr "Mode fosc per a protegir els vostres ulls"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "Els països i les regions usen poc espai"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Free and open-source"
-msgstr "Codi lliure i obert"
+msgstr "De codi lliure i obert"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "Per què triar l’Organic?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "L’Organic Maps és pur i orgànic i el fem amb amor:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Respects your privacy"
-msgstr ""
+msgstr "Respecta la vostra privadesa"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Saves your battery"
-msgstr ""
+msgstr "Estalvia la bateria"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -173,7 +163,7 @@ msgstr "Sense anuncis"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No tracking"
-msgstr ""
+msgstr "No inclou rastrejadors"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -193,7 +183,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "No hi ha tutorials obligatoris"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -224,7 +214,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr ""
+msgstr "{{ exodus_screenshot(lang='ca') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -234,7 +224,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md
 msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr ""
+msgstr "{{ privacy_screenshots(lang='ca') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -359,7 +349,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Visit our [GitHub page][github]."
-msgstr ""
+msgstr "Visiteu la nostra [pàgina al GitHub][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -375,13 +365,13 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 msgid "{{ references(lang='en') }}"
-msgstr ""
+msgstr "{{ references(lang='ca') }}"
 
 #. type: YAML Front Matter: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
-msgstr ""
+msgstr "Els vostres diners paguen totes les despeses relacionades amb el projecte i ens motiven a millorar l’Organic Maps."
 
 #. type: YAML Front Matter: extra menu_title
 #: content/donate/index.md
@@ -425,7 +415,7 @@ msgstr "Codi obert"
 #: content/donate/index.md
 #, no-wrap
 msgid "Why donate to Organic Maps?"
-msgstr ""
+msgstr "Per què fer donatius a l’Organic Maps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -471,12 +461,12 @@ msgstr ""
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Bookmarks backup and sync"
-msgstr ""
+msgstr "Còpia de seguretat i sincronització dels llocs d’interès"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Android Auto"
-msgstr ""
+msgstr "Android Auto"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -486,7 +476,7 @@ msgstr ""
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better map styles for different activities"
-msgstr ""
+msgstr "Millors estils cartogràfics per a diferents activitats"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -505,7 +495,6 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
 msgid "Public Transport"
 msgstr "Transport públic"
 
@@ -527,20 +516,20 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Bank Transfer"
 msgstr "Transferència bancària"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ bank_transfer(lang='en') }}"
-msgstr ""
+msgstr "{{ bank_transfer(lang='ca') }}"
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Crypto"
-msgstr "Crypto"
+msgstr "Criptomonedes"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -550,13 +539,13 @@ msgstr ""
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ crypto_table(lang='en') }}"
-msgstr ""
+msgstr "{{ crypto_table(lang='ca') }}"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Can you help us in any other way?"
-msgstr ""
+msgstr "És possible ajudar-vos d’alguna altra manera?"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -579,7 +568,7 @@ msgstr ""
 
 #. type: YAML Front Matter: extra menu_title
 #: content/news/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "News"
 msgstr "Notícies"
 
@@ -587,17 +576,17 @@ msgstr "Notícies"
 #: content/news/_index.md
 #, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
-msgstr ""
+msgstr "Organic Maps: les notícies i novetats més recents del nostre equip"
 
 #. type: YAML Front Matter: description
 #: content/privacy/index.md
 #, no-wrap
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
-msgstr ""
+msgstr "Sense rastrejament, anuncis, recopilació de dades i estadístiques o programari espia"
 
 #. type: YAML Front Matter: extra menu_title
 #: content/privacy/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Privacy"
 msgstr "Privadesa"
 
@@ -605,12 +594,12 @@ msgstr "Privadesa"
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
-msgstr ""
+msgstr "Organic Maps: política de privadesa"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Organic Maps respects your privacy and DOES NOT TRACK YOU."
-msgstr ""
+msgstr "L’Organic Maps respecta la vostra privadesa i NO US RASTREJA."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -694,7 +683,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr ""
+msgstr "Uniu-vos a la comunitat de l’[OpenStreetMap][openstreetmap] i contribuïu a les dades del mapa."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -730,11 +719,11 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms of use for Organic Maps application"
-msgstr ""
+msgstr "Condicions d’ús de l’aplicació Organic Maps"
 
 #. type: YAML Front Matter: extra menu_title
 #: content/terms/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Terms"
 msgstr "Condicions"
 
@@ -742,7 +731,7 @@ msgstr "Condicions"
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"
-msgstr ""
+msgstr "Organic Maps: condicions"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -767,23 +756,22 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr ""
+msgstr "Tercers"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy
 msgid "tools"
-msgstr "Eines"
+msgstr "eines"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Consulteu-ne els fitxers LICENSE, COPYING o NOTICE per a les condicions d’ús."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
-msgstr ""
+msgstr "Vegeu també el fitxer [data/copyright.html][copyright] per a una llista completa d’avisos de drets d’autor per a l’aplicació Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -796,7 +784,7 @@ msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Address"
 msgstr "Adreça"
 
@@ -804,7 +792,7 @@ msgstr "Adreça"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "Torna a Notícies"
 
 #. type: Hash Value: contact
 #: translations.yaml
@@ -816,25 +804,25 @@ msgstr "Contacte"
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Instal·leu l’Organic Maps des de l’AppGallery de Huawei"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "Instal·leu l’Organic Maps des de l’AppStore"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "Instal·leu l’Organic Maps des del F-Droid"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Google Play"
-msgstr ""
+msgstr "Instal·leu l’Organic Maps des del Google Play"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -844,12 +832,12 @@ msgstr "anglès"
 
 #. type: Hash Value: name
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Name"
 msgstr "Nom"
 
 #. type: Hash Value: token
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Token"
-msgstr "Token"
+msgstr "Testimoni"
