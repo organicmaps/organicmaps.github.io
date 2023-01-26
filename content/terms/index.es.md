@@ -6,32 +6,32 @@ title: "Organic Maps: términos"
 weight: 1000
 ---
 
-Esta aplicación está licenciada bajo la Apache License, Version 2.0 (la
-"Licencia"); no puedes utilizar esta aplicación excepto en cumplimiento con
-la Licencia.
+Esta aplicación está disponible en virtud de la Licencia Apache, versión 2.0
+(la «Licencia»); no puede utilizar esta aplicación excepto en cumplimiento
+con la Licencia.
 
-Puedes obtener una copia de la Licencia en
+Puede obtener una copia de la Licencia en
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
 A menos que lo exija la legislación aplicable o se acuerde por escrito, el
-software distribuido bajo la Licencia se distribuye "TAL CUAL", SIN
+software distribuido bajo la Licencia se distribuye «TAL CUAL», SIN
 GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean expresas o
 implícitas. Consulte la Licencia para conocer el lenguaje específico que
 rige los permisos y limitaciones bajo la Licencia.
 
-La mayoría de las librerías en los siguientes directorios en
-[GitHub][github] están hechas por otra gente y organizaciones y licenciadas
-de maneras diferentes:
+La mayoría de las bibliotecas en los siguientes directorios en
+[GitHub][github] fueron creadas por otras personas y organizaciones y
+licenciadas de maneras diferentes:
 
 - terceras partes
 - herramientas
 
-Por favor ve a su LICENSE, COPYING o NOTICE para los términos de uso.
+Refiérase a su LICENSE, COPYING o NOTICE para los términos de uso.
 
-Mira también el archivo [data/copyright.html][copyright] para una lista
-completa de los avisos de copyright para la aplicación Organic Maps.
+Vea también el archivo [data/copyright.html][copyright] para una lista
+completa de los avisos de derechos de copia para la aplicación Organic Maps.
 
-Si tienes preguntas o sugerencias, por favor contacta con nosotros en
+Si tiene preguntas o sugerencias, póngase en contacto con nosotros en
 [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps

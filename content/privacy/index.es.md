@@ -1,21 +1,21 @@
 ---
-description: "Sin rastreadores, sin anuncios, sin recolección de datos, sin recolección de estadísticas, sin spyware"
+description: "Sin rastreadores, ni anuncios, ni recolección de datos, ni recolección de estadísticas ni «spyware»"
 extra:
   menu_title: Privacidad
-title: "Organic Maps: Política de Privacidad"
+title: "Organic Maps: normativa de privacidad"
 weight: 900
 ---
 
-Organic Maps respeta tu privacidad y NO TE RASTREA.
+Organic Maps respeta su privacidad y NO LE RASTREA.
 
 A diferencia de otras aplicaciones, no hay rastreadores, ni anuncios, ni
-spyware, ni recolección de datos y estadísticas en Organic Maps.
+programas espía, ni recolección de datos y estadísticas en Organic Maps.
 
-Rechaza la vigilancia - acepta tu libertad.
+Rechace la vigilancia. Asuma su libertad.
 
-¡Mantente lejos de los ojos de las Grandes Compañías!
+¡Manténgase lejos de la vista de las grandes tecnológicas!
 
-Si tienes preguntas o sugerencias, por favor contacta con nosotros en
+Si tiene preguntas o sugerencias, póngase en contacto con nosotros en
 [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
-<sub>Esta política es efectiva desde el 24/04/2021.</sub>
+<sub>Esta normativa es efectiva desde el 24/04/2021.</sub>
