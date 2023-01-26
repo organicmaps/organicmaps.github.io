@@ -35,12 +35,12 @@ senderistas y ciclistas:
 - Rutas ciclistas, pistas de senderismo y caminos
 - Líneas de contorno, perfiles de elevación, picos y pendientes
 - Navegación paso a paso con guía por voz a pie, en bici y en coche
-- Búsqueda rápida y sin conexión en el mapa
+- Búsqueda rápida en el mapa y sin conexión
 - Los marcadores se exportan e importan en los formatos KML/KMZ (está
   [planificado][gpx_issue] GPX)
 - Modo oscuro para proteger sus ojos
 - Los países y regiones no ocupan demasiado espacio
-- Libre y de código abierto
+- Gratis y software abierto
 
 ## ¿Por qué Organic?
 
