@@ -1,5 +1,5 @@
 ---
-title: 'Artık Telegram, [matrix], Twitter, Facebook ve Instagram'a ek olarak bizi Mastodon üzerinden de takip edebilirsiniz.'
+title: "Artık Telegram, [matrix], Twitter, Facebook ve Instagram'a ek olarak bizi Mastodon üzerinden de takip edebilirsiniz."
 date: 2022-11-21T22:28:48+00:00
 slug: "now-in-addition-to-telegram-matrix-twitter-facebook-and-instagram-you-can-follow-us-on-mastodon"
 ---
