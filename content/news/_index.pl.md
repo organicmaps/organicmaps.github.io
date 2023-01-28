@@ -1,9 +1,9 @@
 ---
-title: "Organic Maps: Najnowsze wiadomości i uaktualnienia od naszego zespołu"
-description: Bądź na bieżąco z najnowszymi wydaniami Organic Maps, wiadomościami i uaktualnieniami od naszego zespołu
-template: news.html
+description: "Bądź na bieżąco z najnowszymi wydaniami Organic Maps, wiadomościami i aktualizacjami od naszego zespołu"
+extra:
+  menu_title: Nowości
 page_template: news_post.html
 sort_by: date
-extra:
-  menu_title: Wiadomości
+template: news.html
+title: "Organic Maps: Najnowsze wiadomości i aktualizacje od naszego zespołu"
 ---

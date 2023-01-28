@@ -1,39 +1,44 @@
 ---
-title: Przyczyń się do rozwoju Organic Maps
-description: Różne sposoby na wspieranie rozwoju naszej darmowej aplikacji
-weight: 20
+description: "Różne sposoby wsparcia rozwoju naszej darmowej aplikacji"
 extra:
-  menu_title: Przyczyń się
+  menu_title: "Wesprzyj nas"
   preview_image: support-us/support-us.jpg
+title: "Wspieranie rozwoju Organic Maps"
+weight: 20
 ---
 
-Organic Maps jest darmową aplikacją z otwartym kodem źródłowym. Jest wolna od reklam, nie zbiera Twoich danych osobowych,
-i jest rozwijana przez entuzjastów z pomocą społeczności.
+Organic Maps to darmowa aplikacja typu open-source. Jest wolna od reklam,
+nie zbiera Twoich danych osobowych i jest rozwijana przez nielicznych
+entuzjastów z pomocą społeczności.
 
-Jest wiele sposobów na przyczynienie się do rozwoju Organic Maps:
+Wspierać rozwój można na różne sposoby:
 
-- [Wspomóż](@/donate/index.pl.md)! Każda złotówka się liczy i pomaga nam opłacić serwery i ich skalowanie.
-- Zgłaszaj błędy i dziel się pomysłami na naszym [GitHubie](https://github.com/organicmaps/organicmaps/issues)
-  lub przez [email](mailto:support@organicmaps.app).
-- Pomóż w [naprawianiu błędów](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md)
-  i rób przeglądy kodu, jeśli jesteś programistą. Każdy mały błąd naprawiony kogoś uszczęśliwia.
-- [Przetłumacz](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md#translations)
-  brakujące teksty w interfejsie aplikacji.
-- Przetłumacz opisy [App Store](https://github.com/organicmaps/organicmaps/tree/master/iphone/metadata/en-US)
-  i [Android](https://github.com/organicmaps/organicmaps/tree/master/android/src/google/play/listings/en-US)
-  na swój język.
-- [Przetłumacz](https://github.com/organicmaps/organicmaps.github.io) naszą stronę internetową na swój język.
-- Dołącz się do społeczności [OpenStreetMap](https://www.openstreetmap.org/about) i edytuj dane mapy.
-- Popraw czerwone miasta znalezione przez nasz [walidator transportu zbiorowego](https://cdn.organicmaps.app/subway/), aby metro i koleje miejskie działały w aplikacji..
-- Pomóż innym użytkownikom na [GitHubie](https://github.com/organicmaps/organicmaps/issues),
-  [Telegramie](https://t.me/OrganicMaps) ([на русском](https://t.me/OrganicMapsRu)),
-  [[matrixie]](https://matrix.to/#/#organicmaps:matrix.org),
-  [Twitterze](https://twitter.com/OrganicMapsApp), [Facebook](https://facebook.com/OrganicMaps),
-  i [Instagramie](https://instagram.com/OrganicMaps.app).
-- Powiedz wszystkim o Organic Maps. Większa społeczność to silniejsza społeczność.
-- Oceń nas na [Google Play](market://details?id=app.organicmaps),
-  [App Store](https://itunes.apple.com/app/id1567437057?action=write-review) lub
-  [Huawei AppGallery](appmarket://details?id=app.organicmaps).
-- Wszelka pomoc jest mile widziana!
+- [Podaruj](@/donate/index.md)! Każdy dolar lub euro się liczy i pomaga nam
+  opłacić serwery i skalę działań.
+- Zgłaszaj błędy i dziel się pomysłami na naszym [GitHub][github] lub przez
+  [e-mail][email].
+- Pomóż nam [naprawiać błędy][contributing] i rób przeglądy kodu, jeśli
+  jesteś programistą. Każdy naprawiony mały błąd czyni kogoś szczęśliwszym.
+- [Tłumacz][translations] brakujące ciągi znaków w interfejsie aplikacji.
+- Przetłumacz opisy [App Store][translations_appstore] i
+  [Android][translations_googleplay] na swój język.
+- [Przetłumacz][translations_website] naszą stronę internetową na swój
+  język.
+- Dołącz do społeczności [OpenStreetMap][openstreetmap] i przyczyniaj się do
+  powstawania danych map.
+- Napraw czerwone miasta znalezione przez nasz [walidator transportu
+  publicznego][public_transport_validator], dla metra i tramwajów/kolejek
+  dojazdowych, aby działały w aplikacji.
+- Wspieraj innych użytkowników na [GitHub][issues],
+  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
+  [Facebook][facebook], [Instagram][instagram].
+- Powiedz wszystkim o Organic Maps. Większa społeczność to silniejsza
+  społeczność.
+- Oceń nas w [Google Play][googleplay], [Apple Store][appstore], [Huawei
+  Appgallery][appgallery].
+- Każda pomoc jest mile widziana!
 
-Nasz mały zespół jest bardzo wdzięczny za Wasze opinie i wsparcie. Organic Maps nie byłoby możliwe bez naszych użytkowników ❤️.
+Nasz mały zespół jest bardzo wdzięczny za Wasze opinie i wsparcie. Organic
+Maps nie byłoby możliwe bez naszych użytkowników ❤️.
+
+{{ references(lang='pl') }}
