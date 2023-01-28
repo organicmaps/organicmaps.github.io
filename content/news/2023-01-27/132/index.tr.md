@@ -17,7 +17,7 @@ iOS
 * Koyu tema etkinleştirildiğinde ayarlardaki görünmeyen ipucu metinleri düzeltildi
 
 Android
-* Baskça, Belarusça, Hırvatça, Norveççe, Marathi, Swahili dillerini TTS'de etkinleştirdi
+* Baskça, Belarusça, Hırvatça, Norveççe, Marathi, Swahili dillleri için TTS desteği eklendi
 
 Rota
 * Artık yürüyüş ve bisiklet için yükseklik uygun şekilde hesaplanıyor
