@@ -1,121 +1,127 @@
 ---
-title: "Organic Maps: Darmowe mapy offline i nawigacja"
-description: Darmowe szczegółowe mapy offline dla podróżników, turystów, kierowców, wędrowców i rowerzystów stworzona przez twórców aplikacji MapsWithMe (Maps.Me).
+description: 'Szybkie szczegółowe mapy offline dla podróżników, turystów, kierowców, turystów pieszych i rowerzystów stworzone przez założycieli aplikacji MapsWithMe (Maps.Me).'
+extra:
+  menu_title: Główna
 page_template: index.html
 sort_by: weight
-extra:
-  menu_title: Strona główna
+title: 'Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline'
 ---
 
-**Organic Maps** to darmowa aplikacja z mapami offline na Androida i iOS oparta na współtworzonych danych 
-**[OpenStreetMap](https://www.openstreetmap.org)**.
-Jest aplikacją z [otwartym kodem źródłowym][fork], z naciskiem na prywatność, na podstawie aplikacji **Maps.me** (wcześniej [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), tworzona przez te same osoby, które stworzyły **MapsWithMe** w 2011.
+**Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline dla podróżników, turystów, wędrowców i rowerzystów, bazująca na danych crowd-sourced **[OpenStreetMap][openstreetmap]**. Jest to zorientowany na prywatność, otwartoźródłowy [fork][fork] aplikacji **Maps.me** (wcześniej znanej jako [**MapsWithMe**][mapswithme], utrzymywanej przez tych samych ludzi, którzy stworzyli **MapsWithMe** w 2011 roku.
 
-**Organic Maps** to jedna z niewielu aplikacji w dzisiejszych czasach która obsługuje 100% funkcji bez aktywnego połączenia z internetem. Zainstaluj Organic Maps, pobierz mapy, wyrzuć kartę SIM (tak przy okazji, Twój operator stale Cię śledzi) i wybierz się na tygodniową wycieczkę na jednym naładowaniu baterii bez żadnego bajtu wysłanego do sieci.
+**Organic Maps** to jedna z niewielu obecnie aplikacji, która obsługuje 100% funkcji bez aktywnego połączenia z Internetem. Zainstaluj Organic Maps, pobierz mapy, wyrzuć kartę SIM (przy okazji operator stale Cię śledzi) i wybierz się na tygodniową wycieczkę na jednym ładowaniu baterii bez żadnego bajtu wysłanego do sieci.
 
-### Pobierz i zainstaluj Mapy Organiczne z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Pobierz i zainstaluj Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges(lang='pl') }}
 
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wspinaczka') }}
+{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turystyka piesza')
+}}
+
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Praga') }}
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Wyszukiwanie offline') }}
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Nawigacja w motywie ciemnym') }}
+
+{{ screenshot(src='/images/screenshots/search.jpg', alt='Wyszukiwanie
+offline') }}
+
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Nawigacja w trybie
+ciemnym') }}
 
 ## Funkcje
 
-Organic Maps to doskonała aplikacja towarzysząca dla podróżników, turystów, wędrowców i rowerzystów:
+Organic Maps to doskonała aplikacja towarzysząca dla podróżników, turystów,
+wędrowców i rowerzystów:
 
-- Szczegółowe mapy offline z miejscami, które nie istnieją na innych mapach, dzięki [OpenStreetMap](https://osm.org)
-- Trasy rowerowe, szlaki turystyczne, ścieżki dla pieszych
-- Izolinie, profile wysokościowe, szczyty i stoki
-- Głosowa nawigacja piesza, rowerowa i samochodowa
-- Szybkie wyszukiwanie offline
-- Eksport i import zakładek w formatach KML/KMZ (GPX jest [planowany](https://github.com/organicmaps/organicmaps/issues/624))
+- Szczegółowe mapy offline z miejscami, które nie istnieją na innych mapach,
+  dzięki [OpenStreetMap][openstreetmap]
+- Trasy rowerowe, szlaki turystyczne, ścieżki spacerowe
+- Linie konturowe, profile wysokościowe, szczyty i zbocza
+- Nawigacja piesza, rowerowa i samochodowa "zakręt po zakręcie" ze
+  wskazówkami głosowymi
+- Szybkie wyszukiwanie offline na mapie
+- Eksport i import zakładek w formatach KML/KMZ (GPX jest
+  [planowane][gpx_issue])
 - Tryb ciemny, aby chronić Twoje oczy
-- Kraje i regiony nie zajmują dużo miejsca na dysku
-- Darmowość, wolny i otwarty kod źródłowy
+- Kraje i regiony nie zajmują dużo miejsca
+- Wolne i otwarte źródło
 
-## Dlaczego akurat Organic?
+## Dlaczego Organic?
 
-Organic Maps jest czyste i organiczne, wykonane z miłością:
+Organic Maps są czyste i organiczne, wykonane z miłością:
 
-- Szanuje Twoją prywatność
-- Oszczędza baterię
-- Brak niespodziewanych opłat za dane mobilne
+- Szanują Twoją prywatność
+- Oszczędzają baterię
+- Brak nieoczekiwanych opłat za transmisję danych w sieci komórkowej
 
-Aplikacja Organic Maps jest wolna od śledzenia i innych złych rzeczy:
+Aplikacja Organic Maps jest wolna od mechanizmów śledzących i innych złych
+rzeczy:
 
 - Brak reklam
-- Brak śledzenia
-- Brak zbierania danych
-- Brak telemetrii
-- Brak denerwującej rejestracji
-- Brak obowiązkowych poradników
-- Brak hałaśliwego spamu e-mailowego
-- Brak powiadomień
-- Brak niepotrzebnych funkcji
-- ~~Brak pestycydów~~ Czysto organiczne!
+- Bez śledzenia
+- Brak gromadzenia danych
+- Brak możliwości dzwonienia do domu
+- Brak irytującej rejestracji
+- Brak obowiązkowych samouczków
+- Brak hałaśliwego spamu pocztowego
+- Brak wyskakujących powiadomień push
+- Brak programów typu "crapware"
+- ~~Bez pestycydów~~ Czysto organiczne!
 
-Ta aplikacja jest zweryfikowana przez <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Projekt Exodus Privacy</a>:
-<br/>
-<img src='/images/privacy/exodus.png' width='400'>
+Aplikacja jest weryfikowana przez [Projekt Prywatności Exodus][exodus]:
 
-Organic Maps nie żąda nadmiernych uprawnień by Cię szpiegować:
+{{ exodus_screenshot(lang='pl') }}
 
-<img src='/images/privacy/om.jpg' width='400'>
-<img src='/images/privacy/mm.jpg' width='400'>
+Organic Maps nie żąda nadmiernych uprawnień celem szpiegowania użytkownika:
 
-Organic Maps wierzy, że prywatność jest podstawowym prawem człowieka:
+{{ privacy_screenshots(lang='pl') }}
 
-- Organic Maps to niezależny, kierowany przez społeczność projekt z otwartym kodem źródłowym
-- Chronimy Twoją prywatność przed wścibskimi oczami megakorporacji technologicznych
-- Utrzymuj bezpieczeństwo bez względu na to, gdzie jesteś
+W Organic Maps wierzymy, że prywatność jest podstawowym prawem człowieka:
 
-Odrzuć inwigilację - doceń swoją wolność.
+- Organic Maps to niezależny, kierowany przez społeczność projekt
+  open-source
+- Chronimy Twoją prywatność przed wścibskimi oczami Big Tech
+- Bądź bezpieczny bez względu na to, gdzie jesteś
 
+Odrzuć inwigilację - ogarnij swoją wolność.
 
-<a href="#install"><strong>Wypróbuj Organic Maps!</strong></a>
+**[Daj szansę Organic Maps!](#install).**
 
 ## Kto płaci za darmową aplikację?
 
-Aplikacja jest darmowa dla wszystkich. Proszę [przekaż darowiznę](@/donate/index.pl.md) by nas wspierać!
+Aplikacja jest darmowa dla wszystkich. Prosimy o
+[podarunek](@/donate/index.md), aby nas wesprzeć!
+
+### Istnieją różne sposoby wsparcia:
 
 {{ donate_buttons(lang='pl') }}
 
 ### Nasi sponsorzy:
 
-Dostawca internetu [Mythic Beasts](https://www.mythic-beasts.com/) [dostarcza nam](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/)
-dwa wirtualne serwery z 400 TB/miesiąc darmowego transferu by pomóc naszym użytkownikom pobierać i aktualizować mapy 
-
-### Wspieraj nas
-
-Jest wiele sposobów by nas wspierać, są wymienione [tutaj](@/support-us/index.pl.md).
-
-## Beta
-
-Dołącz do naszego programu beta, zaproponuj funkcje i zgłoś błędy:
-
-- [Beta iOS (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-- [Beta Android (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
-- [Beta Linux(PC) (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
-- [Beta Linux(PC) (pakiety)](https://repology.org/project/organicmaps/versions)
+Dostawca usług internetowych [Mythic Beasts](https://www.mythic-beasts.com/)
+[udostępnia nam][mythic_beasts_donation] dwa wirtualne serwery z 400
+TB/miesiąc darmowej przepustowości, aby pomóc naszym użytkownikom w
+pobieraniu map i aktualizacji.
 
 ## Społeczność
 
-Organic Maps jest [otwartym oprogramowaniem](https://github.com/organicmaps/organicmaps)
-udostępnionym na Licencji Apache 2.0.
+Organic Maps to oprogramowanie [open-source][github] na licencji Apache
+License 2.0.
 
-- Zgłaszaj bugi lub błędy na [GitHubie](https://github.com/organicmaps/organicmaps/issues) lub [wyślij nam emaila](mailto:hello@organicmaps.app).
-- [Dyskutuj o](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) pomysłach lub zaproponuj nowe funkcje.
-- Subskrybuj nasz [kanał Telegram](https://t.me/OrganicMapsApp) lub [przestrzeń matrix](https://matrix.to/#/#organicmaps:matrix.org) dla uaktualnień.
-- Dołącz do naszej [grupy Telegram](https://t.me/OrganicMaps) aby dyskutować z innymi użytkownikami.
-- Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи.
-- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
-- Odwiedź naszą [stronę na GitHubie](https://github.com/organicmaps/organicmaps).
-- Śledź nasze aktualizacje na [Mastodonie](https://fosstodon.org/@organicmaps), [Facebooku](https://facebook.com/OrganicMaps), [Twitterze](https://twitter.com/OrganicMapsApp), bądź
-[Instagramie](https://instagram.com/organicmaps.app/).
+- Dołącz do naszego programu beta, zaproponuj swoje funkcje i zgłoś błędy:
+  * [iOS Beta (TestFlight)][testflight]
+  * [Android Beta (Firebase)][firebase]
+  * [Pulpitowy Linux Beta (Flatpak)][flatpak]
+  * [Pulpitowy Linux Beta (pakiety)][repology]
+- Zgłoś błędy lub problemy do [narzędzia do śledzenia problemów][issues] lub
+  [napisz nam e-mail][email].
+- [Dyskutuj][pomysły] pomysły lub zaproponuj oczekiwane funkcje.
+- Subskrybuj nasz [Kanał Telegram][telegram] lub [przestrzeń Matrix][matrix]
+  dla aktualizacji.
+- Dołącz do naszej [Grupy Telegram][telegram_chat], aby dyskutować z innymi
+  użytkownikami.
+- Odwiedź naszą stronę [GitHub][github].
+- Śledź nasze aktualizacje w [Mastodon][mastodon], [Facebook][facebook],
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit].
 
-[fork]: https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie
+[fork]: https://pl.wikipedia.org/wiki/Fork
 
 {{ references(lang='pl') }}

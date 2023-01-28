@@ -1,76 +1,84 @@
 ---
-title: Przekaż darowiznę by wesprzeć rozwój Organic Maps
-description: Wasze pieniądze pokrywają wszystkie wydatki związane z projektem i motywują nas do ulepszania Organic Maps
-weight: 10
+description: "Twoje pieniądze pokrywają wszystkie wydatki związane z projektem i motywują nas do ulepszania Organic Maps."
 extra:
-  menu_title: Wspomóż
+  menu_title: "Wspomóż finansowo"
   preview_image: donate/donate.png
+title: "Przekaż darowiznę, aby wesprzeć rozwój Organic Maps"
+weight: 10
 ---
 
-Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym prezentem dla nas jest świadomość, że robimy coś właściwego i że nasz czas i wysiłek pomaga komuś na świecie.
+Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym
+prezentem dla nas jest świadomość, że robimy SŁUSZNĄ RZECZ i że nasz czas i
+wysiłek pomaga komuś na Planecie.
 
-Aplikacja Organic Maps jest _darmowa dla każdego_ dzięki Waszym **[datkom][stripe]**:
+Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
+**[donacjom][stripe]**:
 
 - Brak reklam
-- Brak śledzenia
+- Brak mechanizmów śledzących
 - Brak rejestracji
-- Brak powiadomień
-- Otwarty kod źródłowy
+- Brak wyskakujących powiadomień push
+- Otwarte źródła
 
 {{ donate_buttons(lang='pl') }}
 
 ## Dlaczego warto przekazać darowiznę na rzecz Organic Maps?
 
-1. Polegamy na Waszych darowiznach by realizować naszą misję, polegającą na utrzymaniu otwartego i wolnego Organic Maps.
-   Oraz wolnego od reklam.
-2. Jesteśmy kilkoma entuzjastami, którzy w wolnym czasie przyczyniają się do rozwoju projektu i wydają na niego pieniądze naszych rodzin.
-   Kochamy to co robimy i kochamy naszych użytkowników ❤️.
-3. Z Waszym wsparciem chcemy stać się lepszą, dbającą o prywatność wersją Map Google.
+1. Polegamy na Twoich darowiznach, aby realizować naszą misję polegającą na
+   utrzymaniu Organic Maps otwartymi i wolnymi. I wolnymi od reklam.
+2. Jesteśmy nielicznymi entuzjastami, którzy w wolnym czasie przyczyniają
+   się do rozwoju projektu i wydają na niego pieniądze naszych
+   rodzin. Kochamy to, co robimy i kochamy naszych użytkowników ❤️.
+3. Dzięki Waszemu wsparciu chcemy stać się lepszą, dbającą o prywatność
+   wersją Map Google.
 
-## Na co będą przeznaczone pieniądze?
+## Na co zostaną przeznaczone te pieniądze?
 
-1. Płacimy za szybkie serwery, by każdy na świecie mógł pobierać darmowe aktualizacje danych map bez opóźnień.
-   To setki terabajtów miesięcznie, a ilość ta stale rośnie.
-2. Obsługa użytkowników, naprawianie błędów i zwiększanie stabilności aplikacji są na szczycie naszych priorytetów.
-   Mamy [1200+ zgłoszeń na GitHubie][github issues], a liczba ta rośnie z każdym dniem.
-   AppStore, Google Play i emaile wsparcia są zalane komentarzami i błędami. Chcemy dostarczać produkt wysokiej jakości.
-3. Z odpowiednią ilością pieniędzy można szybciej tworzyć nowe funkcje, np.:
+1. Płacimy za szybkie serwery, więc każdy na świecie może pobierać darmowe
+   aktualizacje danych mapowych bez opóźnień. To setki terabajtów
+   miesięcznie, a ilość ta stale rośnie.
+2. Wsparcie użytkowników, usuwanie błędów i poprawa stabilności aplikacji są
+   na szczycie naszych priorytetów. Mamy [ponad 1200 zgłoszonych na GitHubie
+   problemów do rozwiązania][github issues], a liczba ta rośnie każdego
+   dnia. AppStore, Google Play i e-maile wsparcia są zalane komentarzami i
+   błędami. Chcemy dostarczać produkt wysokiej jakości.
+3. Mając wystarczająco dużo pieniędzy, można na przykład szybciej rozwijać
+   nowe funkcje:
    - Cotygodniowe i automatyczne aktualizacje danych mapowych
-   - Kopie zapasowe i synchronizacja zakładek
+   - Kopia zapasowa i synchronizacja zakładek
    - Android Auto
    - Rejestrator śladów GPS z obsługą GPX
-   - Lepsze style mapy dla różnych aktywności
+   - Lepsze style map dla różnych działań
    - Cieniowanie wzgórz i teren 3D
    - Ulepszenie edytora OpenStreetMap
-   - Lepsze wyszukiwanie adresów w trybie offline, wyznaczanie trasy i nawigacja
-   - Transport zbiorowy
-   - … i [wiele więcej][github issues] funkcji, których chcesz i sobie wymarzysz
+   - Lepsze wyszukiwanie adresów w trybie offline, wyznaczanie tras i
+     nawigacja
+   - Transport publiczny
+   - ... i [wiele innych][github issues] funkcji, które chcesz i kochasz
 
 ## Jak przekazać darowiznę?
 
-Istnieje wiele sposobów na przekazanie darowizny na rzecz projektu:
-
 {{ donate_buttons(lang='pl') }}
 
-Cykliczne wpłaty to najlepszy sposób na zapewnienie względnie stabilnego dochodu dla
-projektu i zmotywowanie nas do realizacji długoterminowych zadań i celów. Ale możesz też
-wpłacić jednorazowo.
+Powtarzające się darowizny to najlepszy sposób na zapewnienie względnie
+stabilnego dochodu dla projektu i zmotywowanie nas do realizacji
+długoterminowych zadań i celów. Ale możesz też przekazać darowiznę
+jednorazowo.
 
 ### Przelew bankowy
 
 {{ bank_transfer(lang='pl') }}
 
-### Krypto
+### Kryptowaluta
 
-Prosimy rozważyć coroczną wpłatę, aby zmniejszyć dodatkowe opłaty. Algorand, Tron,
-sieci Litecoin i Monero oferują niskie dodatkowe opłaty, ale sytuacja zmienia się każdego dnia.
+Proszę rozważyć coroczną darowiznę, aby zmniejszyć całkowite opłaty.
 
 {{ crypto_table(lang='pl') }}
 
-## Czy można pomóc w inny sposób?
+## Czy można nam pomóc w jakiś inny sposób?
 
-Tak! Jest wiele innych sposobów by wesprzeć Organic Maps. Proszę zobacz
-stronę [Przyczyń się](@/support-us/index.pl.md) by uzyskać więcej informacji.
+Tak! Istnieje wiele sposobów na wsparcie Organic Maps. Więcej szczegółów
+znajdziesz na stronie [Wesprzyj nas](@/support-us/index.md).
 
-[stripe]: https://donate.organicmaps.app/ "Wspomóż przez Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "Zgłoszenia GitHub"
+[stripe]: https://donate.organicmaps.app/ "Wesprzyj przez Stripe"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "Problemy na GitHub"
