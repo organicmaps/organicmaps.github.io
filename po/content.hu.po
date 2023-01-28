@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 17:51+0000\nLast-Translator: 99 efi <fegyed71@gmail.com>\nLanguage-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 17:51+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -799,7 +799,7 @@ msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data
 
 #. type: Hash Value: address
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Address"
 msgstr "Cím"
 
@@ -811,9 +811,9 @@ msgstr "Vissza a Hírekhez"
 
 #. type: Hash Value: contact
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Contact Us"
-msgstr "Kapcsolatfelvétel"
+msgstr "Kapcsolat"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -841,19 +841,19 @@ msgstr "Telepítse az Organic Maps-et a Google Play-ről"
 
 #. type: Hash Value: language
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "English"
-msgstr "Magyar"
+msgstr "Angol"
 
 #. type: Hash Value: name
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Name"
 msgstr "Név"
 
 #. type: Hash Value: token
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Token"
 msgstr "Token"
 
