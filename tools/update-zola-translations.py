@@ -21,8 +21,11 @@ with open(ZOLA_CONFIG_TOML, "r") as f:
 # Merge changes from .po files into config.yaml
 languages = config['languages']
 sources = config['translations']
-for po_path in glob('po/content.*.po'):
-    lang = po_path.removeprefix('po/content.').removesuffix('.po')
+for index_path in glob('content/_index.*.md'):
+    lang = index_path.removeprefix('content/_index.').removesuffix('.md')
+    po_path = f"po/content.{lang}.po"
+    if not os.path.exists(po_path):
+        continue
 
     # Add a new section to TOML if needed
     if lang not in languages:
