@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 17:51+0000\nLast-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\nLanguage-Team: Czech <https://hosted.weblate.org/projects/organicmaps/website/cs/>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 17:51+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://hosted.weblate.org/projects/organicmaps/website/cs/>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -55,7 +55,7 @@ msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -212,7 +212,7 @@ msgstr "Žádný hlučný e-mailový spam"
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No push notifications"
-msgstr "Žádná oznámení push"
+msgstr "Push oznámení"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -411,7 +411,7 @@ msgstr "Z vašich peněz se hradí všechny výdaje spojené s projektem a motiv
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr "Přispějte"
+msgstr "Podpořte"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -612,9 +612,7 @@ msgstr "Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informa
 msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
-"[stripe]: https://donate.organicmaps.app/ \"Dar přes Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
+msgstr "[stripe]: https://donate.organicmaps.app/ \"Dar přes Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -831,7 +829,7 @@ msgstr "3party"
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "nástroje"
+msgstr "Nástroje"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -852,10 +850,7 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -873,7 +868,7 @@ msgstr "Zpět na novinky"
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr "Kontaktujte nás"
+msgstr "Kontakt"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
