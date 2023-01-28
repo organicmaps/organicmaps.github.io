@@ -75,10 +75,10 @@ token = "Token"
 [languages.pl]
 [languages.pl.translations]
 address = "Adres"
-back = "Z powrotem"
-contact = "Kontakt"
+back = "Powrót do Nowości"
+contact = "Kontakt z nami"
 install-appgallery = "Zainstaluj Organic Maps z Huawei AppGallery"
-install-appstore = "Zainstaluj Organic Maps z App Store"
+install-appstore = "Zainstaluj Organic Maps z AppStore"
 install-googleplay = "Zainstaluj Organic Maps z Google Play"
 install-fdroid = "Zainstaluj Organic Maps z F-Droid"
 language = "Polski"
