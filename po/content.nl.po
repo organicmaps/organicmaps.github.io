@@ -15,19 +15,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.15.1-dev\n"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr "Snelle, gedetailleerde, offline kaarten voor reizigers, toeristen, automobilisten, wandelaars, en fietsers gemaakt door de oprichters van de app MapsWithMe (Maps.Me)."
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
 msgstr "Start"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
@@ -374,19 +374,19 @@ msgstr "[fork]: https://nl.wikipedia.org/wiki/Fork_(ontwikkeling)\n"
 msgid "{{ references(lang='en') }}"
 msgstr "{{ references(lang='nl') }}"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr "Uw geld betaalt voor alle project-gerelateerde uitgaven en motiveert ons om Organic Maps te verbeteren."
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
 msgstr "Doneer"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
@@ -568,37 +568,37 @@ msgstr ""
 "[stripe]: https://donate.organicmaps.app/ \"Doneer via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
 #, no-wrap
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr "Blijf op de hoogte van nieuwe Organic Maps versies, nieuws en updates van ons team"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
 msgstr "Nieuws"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organic Maps: Laatste nieuws en updates van ons team"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/privacy/index.md
 #, no-wrap
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr "Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
 msgstr "Privacy"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
@@ -630,19 +630,19 @@ msgstr "Als u vragen of opmerkingen heeft, neem alstublieft contact met ons op v
 msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
 msgstr "<sub>Dit beleid is geldig vanaf 2021-04-24.</sub>\n"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/support-us/index.md
 #, no-wrap
 msgid "Different ways to support the development of our free application"
 msgstr "Verschillende manieren om de ontwikkeling van onze gratis applicatie te ondersteunen"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
 msgstr "Ondersteun ons"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
@@ -723,19 +723,19 @@ msgstr "Elke hulp is welkom!"
 msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
 msgstr "Ons kleine team is erg dankbaar voor jullie feedback en ondersteuning. Organic Maps zou niet mogelijk zijn zonder onze gebruikers ❤️."
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms of use for Organic Maps application"
 msgstr "Gebruiksvoorwaarden voor de Organic Maps applicatie"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
 msgstr "Voorwaarden"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"

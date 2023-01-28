@@ -15,19 +15,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.15.1-dev\n"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
 msgstr "Detaile handiko offline mapa azkarrak, bidaiari, turista, gidari, mendizale eta txirrindularientzat, MapsWithMe (Maps.me) app-aren sortzaileek garatutakoa."
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
 msgstr "Hasiera"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
@@ -374,19 +374,19 @@ msgstr "[fork]: https://eu.wikipedia.org/wiki/Fork\n"
 msgid "{{ references(lang='en') }}"
 msgstr "{{ references(lang='eu') }}"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
 msgstr "Zure dohaintzak ordaintzen ditu proiektuaren inguruko gastu guztiak eta Organic Maps hobetzen bultzatzen gaitu."
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
 msgstr "Egizu dohaintza"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
@@ -568,37 +568,37 @@ msgstr ""
 "[stripe]: https://donate.organicmaps.app/ \"Stripe bidezko dohaintzak\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub-eko arazoak\"\n"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
 #, no-wrap
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
 msgstr "Mantendu informatuta gure taldearen azken bertsio-publikazio, albiste eta eguneraketekin"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
 msgstr "Berriak"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "Organic Maps: Latest news and updates from our team"
 msgstr "Organic Maps: azken albiste eta eguneraketak gure lan-taldetik"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/privacy/index.md
 #, no-wrap
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
 msgstr "Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
 msgstr "Pribatutasuna"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
@@ -630,19 +630,19 @@ msgstr "Galdera edo iradokizunik baduzu, mesedez jarri gurekin harremanetan helb
 msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
 msgstr "<sub>Politika hau 2021-04-24-etik aurrera dago indarrean.</sub>\n"
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/support-us/index.md
 #, no-wrap
 msgid "Different ways to support the development of our free application"
 msgstr "Gure doako aplikazioaren garapenean laguntzeko hainbat modu daude"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
 msgstr "Lagundu garapena"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
@@ -723,19 +723,19 @@ msgstr "Edozein laguntza da ongi-etorria!"
 msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
 msgstr "Gure talde txikia oso eskertuta dago zure iradokizun eta laguntzagatik. Organic Maps ez litzateke posible izango gure erabiltzaileen gabe ❤️."
 
-#. type: YAML Front Matter: description
+#. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms of use for Organic Maps application"
 msgstr "Organic Maps aplikazioaren erabilera baldintzak"
 
-#. type: YAML Front Matter: extra menu_title
+#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
 msgstr "Baldintzak"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"

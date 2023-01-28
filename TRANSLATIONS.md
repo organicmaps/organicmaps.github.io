@@ -31,7 +31,7 @@ The translation process has three steps:
 
 ### Prerequiresites
 
-Install [po4a][po4a] tool. Version 0.68 is tested and supported. All other versions are tested.
+Install [po4a][po4a] tool. Version 0.69 version is required. Other versions are not tested and not supported.
 
 **Debian/Ubuntu**:
 
