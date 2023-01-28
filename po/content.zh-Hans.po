@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: 快乐的老鼠宝宝 <keaitianxinmail@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hans/>\n"
-"Language: zh_Hans\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 20:29+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hans/>\nLanguage: zh-Hans\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -58,9 +49,8 @@ msgstr "{{ badges(lang='zh-Hans') }}}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{截图(src='/images/screenshots/hiking.jpg', alt='Hiking') }}}"
+msgstr "{{截图(src='/images/screenshots/prague.jpg', alt='Prague') }}}"
 
 #. type: Plain text
 #: content/_index.md
@@ -138,9 +128,8 @@ msgstr "国家和地区并不占很大的空间"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Free and open-source"
-msgstr "免费和开放源代码"
+msgstr "自由且开源"
 
 #. type: Title ##
 #: content/_index.md
@@ -178,13 +167,11 @@ msgstr "Organic Maps 应用没有跟踪器和其他糟糕的东西："
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy
 msgid "No ads"
 msgstr "无广告"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "No tracking"
 msgstr "无跟踪"
 
@@ -220,9 +207,8 @@ msgstr "没有嘈杂的电子邮件垃圾邮件"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy
 msgid "No push notifications"
-msgstr "没有推送通知"
+msgstr "推送通知"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -328,7 +314,7 @@ msgstr "[神话兽](https://www.mythic-beasts.com/)ISP[为我们提供][神话�
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Community"
 msgstr "社区"
 
@@ -454,7 +440,6 @@ msgstr "没有登记"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, fuzzy
 msgid "Open source"
 msgstr "开放源代码"
 
@@ -555,7 +540,6 @@ msgstr "更好的离线地址搜索、路线选择和导航"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
 msgid "Public Transport"
 msgstr "公共交通要素"
 
@@ -579,7 +563,7 @@ msgstr "经常性捐款是确保项目有相对稳定收入的最好方式，并
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Bank Transfer"
 msgstr "银行转账"
 
@@ -590,7 +574,7 @@ msgstr "{{ bank_transfer(lang='zh-Hans') }}"
 
 #. type: Title ###
 #: content/donate/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Crypto"
 msgstr "加密货币"
 
@@ -847,7 +831,6 @@ msgstr "3方"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy
 msgid "tools"
 msgstr "工具"
 
