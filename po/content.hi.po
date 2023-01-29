@@ -46,7 +46,7 @@ msgstr "[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huaw
 #: content/_index.md
 #, markdown-text
 msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='en') }}"
+msgstr "{{ badges(lang='hi') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -238,13 +238,13 @@ msgstr "~~कोई कीटनाशक नहीं~~केवल आर्�
 #: content/_index.md
 #, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr "यह ऐप [Exodus Privacy Project] [exodus] द्वारा सत्यापित किया गया है:"
+msgstr "यह ऐप [Exodus Privacy Project][exodus] द्वारा सत्यापित किया गया है:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='en') }}"
+msgstr "{{ exodus_screenshot(lang='hi') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -256,7 +256,7 @@ msgstr "ऑर्गेनिक नक़्शे आपकी जासूस
 #: content/_index.md
 #, markdown-text
 msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='en') }}"
+msgstr "{{ privacy_screenshots(lang='hi') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -316,7 +316,7 @@ msgstr "दान करने के विभिन्न तरीके ह�
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='en') }}"
+msgstr "{{ donate_buttons(lang='hi') }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -328,7 +328,7 @@ msgstr "हमारे प्रायोजक:"
 #: content/_index.md
 #, markdown-text
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [हमें प्रदान करता है] [mythic_beasts_donation] 400 TB/महीने की मुफ्त बैंडविड्थ वाले दो वर्चुअल सर्वर जो हमारे उपयोगकर्ताओं को मैप डाउनलोड और अपडेट करने में मदद करते हैं।"
+msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [हमें प्रदान करता है][mythic_beasts_donation] 400 TB/महीने की मुफ्त बैंडविड्थ वाले दो वर्चुअल सर्वर जो हमारे उपयोगकर्ताओं को मैप डाउनलोड और अपडेट करने में मदद करते हैं।"
 
 #. type: Title ##
 #: content/_index.md
@@ -340,7 +340,7 @@ msgstr "समुदाय"
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "ऑर्गेनिक मैप्स एक [ओपन-सोर्स सॉफ्टवेयर] [github] है जिसे अपाचे(Apache) लाइसेंस 2.0 के तहत लाइसेंस दिया गया है।"
+msgstr "ऑर्गेनिक मैप्स एक [ओपन-सोर्स सॉफ्टवेयर][github] है जिसे अपाचे(Apache) लाइसेंस 2.0 के तहत लाइसेंस दिया गया है।"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -358,7 +358,7 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 #: content/_index.md
 #, markdown-text
 msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[एंड्रॉइड बीटा (फायरबेस)] [firebase]"
+msgstr "[एंड्रॉइड बीटा (फायरबेस)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -418,7 +418,7 @@ msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(सॉफ्टवेयर_
 #: content/_index.md content/support-us/index.md
 #, markdown-text
 msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='en') }}"
+msgstr "{{ references(lang='hi') }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -598,7 +598,7 @@ msgstr "बैंक ट्रांसफर"
 #: content/donate/index.md
 #, markdown-text
 msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='en') }}"
+msgstr "{{ bank_transfer(lang='hi') }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -616,7 +616,7 @@ msgstr "कृपया शुल्क कम करने के लिए स
 #: content/donate/index.md
 #, markdown-text
 msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='en') }}"
+msgstr "{{ crypto_table(lang='hi') }}"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -744,19 +744,19 @@ msgstr "[दान करें](@/donate/index.md)! हर डॉलर या 
 #: content/support-us/index.md
 #, markdown-text
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr "हमारे [Github] [github] या [ईमेल] [email] के माध्यम से बग्स की रिपोर्ट करें और विचार साझा करें।"
+msgstr "हमारे [Github][github] या [ईमेल][email] के माध्यम से बग्स की रिपोर्ट करें और विचार साझा करें।"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "अगर आप डेवलपर हैं तो [बग्स ठीक करें] [contributing] करने और कोड समीक्षा करने में हमारी सहायता करें। हर तय छोटा बग किसी को खुश करता है।"
+msgstr "अगर आप डेवलपर हैं तो [बग्स ठीक करें][contributing] करने और कोड समीक्षा करने में हमारी सहायता करें। हर तय छोटा बग किसी को खुश करता है।"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "[Translate][translations] missing strings in the app's interface."
-msgstr "ऐप के इंटरफ़ेस में [अनुवाद] [translations] करने में सहायता करें|"
+msgstr "ऐप के इंटरफ़ेस में [अनुवाद][translations] करने में सहायता करें|"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -768,7 +768,7 @@ msgstr "[App Store][translations_appstore] और [Android][translations_googlep
 #: content/support-us/index.md
 #, markdown-text
 msgid "[Translate][translations_website] our web site into your language."
-msgstr "हमारी वेबसाइट को अपनी भाषा में [अनुवाद] [translations_website] करें।"
+msgstr "हमारी वेबसाइट को अपनी भाषा में [अनुवाद][translations_website] करें।"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -780,7 +780,7 @@ msgstr "[OpenStreetMap][openstreetmap] समुदाय में शामि
 #: content/support-us/index.md
 #, markdown-text
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr "ऐप में काम करने के लिए सबवे और लाइट रेल के लिए हमारे [सार्वजनिक परिवहन सत्यापनकर्ता] [public_transport_validator] द्वारा पाए गए लाल शहरों को ठीक करें।"
+msgstr "ऐप में काम करने के लिए सबवे और लाइट रेल के लिए हमारे [सार्वजनिक परिवहन सत्यापनकर्ता][public_transport_validator] द्वारा पाए गए लाल शहरों को ठीक करें।"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -852,19 +852,19 @@ msgstr "जब तक लागू कानून की आवश्यकत�
 #: content/terms/index.md
 #, markdown-text
 msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
-msgstr "[GitHub] [github] पर निम्नलिखित निर्देशिकाओं में अधिकांश डायरेक्टरी अन्य लोगों और संगठनों द्वारा बनाए गए हैं और विभिन्न तरीकों से इनको लाइसेंस प्राप्त हैं:"
+msgstr "[GitHub][github] पर निम्नलिखित निर्देशिकाओं में अधिकांश डायरेक्टरी अन्य लोगों और संगठनों द्वारा बनाए गए हैं और विभिन्न तरीकों से इनको लाइसेंस प्राप्त हैं:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 #, markdown-text
 msgid "3party"
-msgstr "थर्ड पार्टी"
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr "उपकरण"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md
