@@ -119,6 +119,6 @@ Licencia Apache 2.0.
 - Siga nuestras novedades en [Mastodon][mastodon], [Facebook][facebook],
   [Twitter][twitter], [Instagram][instagram] y [Reddit][reddit].
 
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
+[fork]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)
 
 {{ references(lang='es') }}

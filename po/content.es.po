@@ -358,7 +358,7 @@ msgstr "Siga nuestras novedades en [Mastodon][mastodon], [Facebook][facebook], [
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[Bifurcación]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)\n"
+msgstr "[fork]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
@@ -777,7 +777,7 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[Github]: https://github.com/organicmaps/organicmaps\n[Licencia]: http://www.apache.org/licenses/LICENSE-2.0\n[Derechos de autor]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml

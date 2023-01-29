@@ -843,7 +843,7 @@ msgstr "Telepítse az Organic Maps-et a Google Play-ről"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Angol"
+msgstr "Magyar"
 
 #. type: Hash Value: name
 #: translations.yaml

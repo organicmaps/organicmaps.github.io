@@ -179,7 +179,7 @@ token = "token"
 [languages.hu.translations]
 address = "Cím"
 back = "Vissza a Hírekhez"
-contact = "Kapcsolatfelvétel"
+contact = "Kapcsolat"
 install-appgallery = "Telepítse az Organic Maps-et a Huawei AppGalériából"
 install-appstore = "Telepítse az Organic Maps-et az AppStore-ból"
 install-googleplay = "Telepítse az Organic Maps-et a Google Play-ről"
