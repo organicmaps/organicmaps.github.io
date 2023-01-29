@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-29 18:33+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -16,7 +16,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "الرئيسية"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "الخصائص"
 
 #. type: Plain text
 #: content/_index.md
@@ -136,7 +136,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Free and open-source"
-msgstr ""
+msgstr "مجاني ومفتوح المصدر"
 
 #. type: Title ##
 #: content/_index.md
@@ -178,7 +178,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "بدون إعلانات"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -220,7 +220,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "الإشعارات المدفوعة"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -322,7 +322,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "الرعاة"
 
 #. type: Plain text
 #: content/_index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "المجتمع"
 
 #. type: Plain text
 #: content/_index.md
@@ -430,7 +430,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "تبرع"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -466,7 +466,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Open source"
-msgstr ""
+msgstr "المصدر المفتوح"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -568,7 +568,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Public Transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -592,7 +592,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Bank Transfer"
-msgstr ""
+msgstr "تحويل بنكي"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -604,7 +604,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Crypto"
-msgstr ""
+msgstr "العملة المشفرة"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -648,7 +648,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "الأخبار"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -666,7 +666,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "الخصوصية"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
@@ -714,7 +714,7 @@ msgstr ""
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "ساهم في التطوير"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
@@ -822,7 +822,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "شروط"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -864,7 +864,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "الأدوات"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -891,7 +891,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "العنوان"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -903,7 +903,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "اتصل بنا"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -933,16 +933,16 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "الإنجليزية"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "الاسم"
 
 #. type: Hash Value: token
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "رمز"
