@@ -13,7 +13,7 @@
 {% endfor %}
 
 <div class="back_to_news">
-  <a href="/news/">{{ trans(key='back') }}</a>
+  <a href="{{ get_url(path="@/news/_index.md", lang=lang) }}">{{ trans(key='back', lang=lang) }}</a>
 </div>
 
 {% endblock content %}
