@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: nautilusx <translate@disroot.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-29 06:42+0000\nLast-Translator: Roman Tsisyk <roman@tsisyk.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -37,7 +28,7 @@ msgstr "Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation"
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine datenschutzfreundliche, quelloffene [fork][fork] der **Maps.me** App (früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.\n"
+msgstr "**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine datenschutzfreundliche, quelloffene [Fork][fork] der **Maps.me** App (früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -141,7 +132,7 @@ msgstr "Warum Organic?"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr "Organic Maps ist rein und nachhaltig, mit Liebe gemacht:"
+msgstr "Organic Maps ist rein, nachhaltig und mit Liebe gemacht:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -211,7 +202,7 @@ msgstr "Keine Crapware"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "~~No pesticides~~ Purely organic!"
-msgstr "~~Keine Pestizide~~ Rein biologisch!"
+msgstr "~~Keine Pestizide~~ Rein und nachhaltig!"
 
 #. type: Plain text
 #: content/_index.md
@@ -256,7 +247,7 @@ msgstr "Bleib sicher, egal wo du bist"
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 msgid "Reject surveillance - embrace your freedom."
-msgstr "Lehne Überwachung ab - nutze deine Freiheit."
+msgstr "Lehne Überwachung ab - lebe deine Freiheit."
 
 #. type: Plain text
 #: content/_index.md
@@ -273,7 +264,7 @@ msgstr "Wer zahlt für die kostenlose App?"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende][donate]!"
+msgstr "Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spende](@/donate/index.de.md)!"
 
 #. type: Title ###
 #: content/_index.md
@@ -426,7 +417,7 @@ msgstr "Warum für Organic Maps spenden?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "Wir sind auf deine Spenden angewiesen, damit wir Organic Maps offen und frei halten können.  Und frei von Werbung."
+msgstr "Wir sind auf deine Spenden angewiesen, damit wir Organic Maps offen und kostenlos halten können.  Und frei von Werbung."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
@@ -556,7 +547,7 @@ msgstr "Kannst du uns auf andere Weise helfen?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Weitere Details findest du auf der [Beitragen](@/support-us/index.md) Seite."
+msgstr "Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Weitere Details findest du auf der [Beitragen](@/support-us/index.de.md) Seite."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -661,7 +652,7 @@ msgstr "Es gibt verschiedene Möglichkeiten, die Entwicklung zu unterstützen:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Spenden][spenden]! Jeder Dollar oder Euro zählt und hilft uns, die Server zu bezahlen und zu skalieren."
+msgstr "[Spenden](@/donate/index.de.md)! Jeder Dollar oder Euro zählt und hilft uns, die Server zu bezahlen und zu skalieren."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -676,12 +667,12 @@ msgstr "Hilf uns, [Fehler zu beheben][beizutragen] und führe Code-Reviews durch
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations] missing strings in the app's interface."
-msgstr "[Übersetze][translations] fehlende Zeichenketten in der Benutzeroberfläche der App."
+msgstr "[Übersetze][translations] fehlende Wörter oder Sätze in der Benutzeroberfläche der App."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr "Übersetze [App Store][translations_appstore] und [Android][translations_googleplay] Beschreibungen in deiner Sprache."
+msgstr "Übersetze [App Store][translations_appstore] und [Android][translations_googleplay] Beschreibungen in deine Sprache."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -754,7 +745,7 @@ msgstr "Du kannst eine Kopie der Lizenz unter [http://www.apache.org/licenses/LI
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr "Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf einer \"Ist-Zustand\" BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART, weder explizit noch impliziert, angeboten. Nähere Informationen, die genaue Formulierung, Berechtigungen und Einschränkungen findest du in der Lizenz."
+msgstr "Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf einer \"Ist-Zustand\" BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART, weder explizit noch implizit, angeboten. Nähere Informationen, die genaue Formulierung, Berechtigungen und Einschränkungen findest du in der Lizenz."
 
 #. type: Plain text
 #: content/terms/index.md
