@@ -40,7 +40,7 @@ msgstr "**ऑर्गेनिक मैप्स** आजकल के कु�
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install} से ऑर्गेनिक मानचित्र डाउनलोड और इंस्टॉल करें"
+msgstr "[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] से ऑर्गेनिक मानचित्र डाउनलोड और इंस्टॉल करें {#install}"
 
 #. type: Plain text
 #: content/_index.md
