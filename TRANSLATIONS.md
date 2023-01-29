@@ -2,7 +2,6 @@
 
 This section applies only to the following languages:
 
-- German
 - French
 - Italian
 - Turkish

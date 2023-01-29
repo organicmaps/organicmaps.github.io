@@ -755,12 +755,12 @@ msgstr "Die meisten Bibliotheken in den folgenden Verzeichnissen auf [GitHub][gi
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr "Drittanbieter"
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "Tools"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md
