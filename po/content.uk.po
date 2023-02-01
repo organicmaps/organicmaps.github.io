@@ -4,13 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-01 21:23+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-01 21:23+0000\nLast-Translator: Michael Zadvornyi <michael.zadvornyi@gmail.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "Швидкі і детальні офлайн-карти для мандрівників, туристів, водіїв та велосипедистів, створені засновниками додатку MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -28,7 +28,7 @@ msgstr "Organic Maps офлайн карти та GPS навігатор"
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "**Organic Maps** - це безкоштовний офлайн додаток для Android та iOS для мандрівників, туристів та велосипедистів, що базується на даних з відкритих джерел **[OpenStreetMap][openstreetmap]**. Це орієнтований на конфіденційність, відкритий [форк][fork] додатку **Maps.me** (раніше відомий як [**MapsWithMe**][mapswithme]), який підтримується тими ж людьми, що створили **MapsWithMe** у 2011 році.\n"
 
 #. type: Plain text
 #: content/_index.md
