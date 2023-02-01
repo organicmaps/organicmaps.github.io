@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-11 16:31+0000\nLast-Translator: Ahmed Helmi Darwish <ahmed94helmi@gmail.com>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-11 16:31+0000\nLast-Translator: Mohamed El-Hasnaouy <elhasnaouymed@gmail.com>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -81,17 +81,14 @@ msgstr "الخصائص"
 msgid ""
 "Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
 "and cyclists:"
-msgstr ""
-"تطبيق Organic Maps هو الرفيق الأفضل للمسافرين،السياح، المتنزهين والدراجين:"
+msgstr "تطبيق Organic Maps هو الرفيق الأفضل للمسافرين،السياح، المتنزهين والدراجين:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid ""
 "Detailed offline maps with places that don't exist on other maps, thanks to "
 "[OpenStreetMap][openstreetmap]"
-msgstr ""
-"خرائط تفصيلية بدون إنترنت مع أماكن غير متواجدة في تطبيقات أخرى، بفضل "
-"[OpenStreetMap][openstreetmap]"
+msgstr "خرائط تفصيلية بدون إنترنت مع أماكن غير متواجدة في تطبيقات أخرى، بفضل [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -117,8 +114,7 @@ msgstr "بحث سريع في الخريطة بدون الحاجة لإنترنت
 #: content/_index.md
 msgid ""
 "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
-"تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ (GPX [مخطط له][gpx_issue])"
+msgstr "تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ (GPX [مخطط له][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -164,8 +160,7 @@ msgstr "لا يستخدم بيانات الموبايل بشكل غير متوق
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
-"تطبيق Organic Maps لا يحتوي على البرامج التجسسية والأشياء الأخرى السيئة:"
+msgstr "تطبيق Organic Maps لا يحتوي على البرامج التجسسية والأشياء الأخرى السيئة:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
