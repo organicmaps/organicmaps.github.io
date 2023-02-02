@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 20:29+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-03 04:14+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -81,108 +81,108 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr ""
+msgstr "[OpenStreetMap][openstreetmap] च्या आभारे, इतर नकाशांवर अस्तित्वात नसलेल्या ठिकाणांसोबत सखोल ऑफलाईन नकाशे"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "सायकलिंग मार्ग, भटकंती व चालण्याचे मार्ग"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "समोच्च रेषा, उंची प्रोफाइल, शिखरे व चढ-उतार"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
+msgstr "ध्वनी मार्गदर्शनासह कार, सायकल व चालण्याचे वळणावळणाप्रमाणे दिशा निर्देशन"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "नकाशावर वेगवान ऑफलाईन शोध"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
+msgstr "KML/KMZ स्वरूपात बुकमार्क निर्यात व आयात (GPS [नियोजित][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Dark Mode to protect your eyes"
-msgstr ""
+msgstr "तुमच्या डोळ्यांच्या संरक्षणासाठी, गडद मोड"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "देश आणि प्रदेश जास्त जागा घेत नाहीत"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Free and open-source"
-msgstr ""
+msgstr "विनामूल्य व मुक्त स्रोत"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "ऑर्गेनिक (सेंद्रिय) कशाला?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "Organic Maps हे शुद्ध व सेंद्रिय आहे, व प्रेमाने निर्मित आहे:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Respects your privacy"
-msgstr ""
+msgstr "तुमच्या गोपनीयतेचा आदर करते"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Saves your battery"
-msgstr ""
+msgstr "तुमची बॅटरी वाचवते"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No unexpected mobile data charges"
-msgstr ""
+msgstr "कोणतेही अनपेक्षित मोबाइल डेटा शुल्क नाही"
 
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
+msgstr "Organic Maps अॅप माहिती चोरांपासून आणि इतर वाईट गोष्टींपासून मुक्त आहे:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No ads"
-msgstr ""
+msgstr "विना जाहिराती"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No tracking"
-msgstr ""
+msgstr "महितीचा मागोवा नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No data collection"
-msgstr ""
+msgstr "डेटा संग्रह नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No phoning home"
-msgstr ""
+msgstr "घरी फोन येणार नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No annoying registration"
-msgstr ""
+msgstr "त्रासदायक नोंदणी नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "कोणतीही अनिवार्य शिकवणी नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
