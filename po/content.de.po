@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-31 07:43+0000\nLast-Translator: nautilusx <translate@disroot.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-04 20:45+0000\nLast-Translator: nautilusx <translate@disroot.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -96,7 +96,7 @@ msgstr "Höhenlinien, Höhenprofile, Bergspitzen und Steigungen"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "Schritt-für-Schritt-Navigation für Fußgänger, Radfahrer und Autos mit Sprachführung"
+msgstr "Schritt-für-Schritt-Navigation für Fußgänger, Radfahrer und Autofahrer mit Sprachführung"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -342,7 +342,7 @@ msgstr "Abonniere unseren [Telegram Channel][telegram] oder den [Matrix Raum][ma
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr "Tritt unserer [Telegram Gruppe][telegram_chat] bei, um mit anderen Benutzern zu diskutieren."
+msgstr "Tritt unserer [Telegram-Gruppe][telegram_chat] bei, um mit anderen Benutzern zu diskutieren."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -672,7 +672,7 @@ msgstr "[Übersetze][translations] fehlende Wörter oder Sätze in der Benutzero
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr "Übersetze [App Store][translations_appstore] und [Android][translations_googleplay] Beschreibungen in deine Sprache."
+msgstr "Übersetze [App Store][translations_appstore]- und [Android][translations_googleplay]-Beschreibungen in deiner Sprache."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
