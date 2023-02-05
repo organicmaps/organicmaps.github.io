@@ -1,5 +1,5 @@
 ---
-description: 'Mapas rápidos y detallados sin conexión para viajeros, turistas, conductores, senderistas y ciclistas creados por los fundadores de MapsWithMe (Maps.Me).'
+description: 'Mapas rápidos y detallados sin conexión para viajantes, turistas, conductores, senderistas y ciclistas creados por los fundadores de MapsWithMe (Maps.Me).'
 extra:
   menu_title: Inicio
 page_template: index.html
@@ -7,7 +7,7 @@ sort_by: weight
 title: 'Organic Maps: senderismo, ciclismo y GPS sin conexión'
 ---
 
-**Organic Maps** es una aplicación gratuita para Android y iOS de mapas sin conexión para viajantes, turistas, senderistas y ciclistas basados en los datos abiertos de **[OpenStreetMap][openstreetmap]**. Es una [bifurcación][fork] libre y centrada en la privacidad de la aplicación **Maps.me** (anteriormente conocida como [**MapsWithMe**][mapswithme], mentenida por la misma gente que creó **MapsWithMe** en 2011.
+**Organic Maps** es una aplicación libre para Android y iOS de mapas sin conexión para viajantes, turistas, senderistas y ciclistas basados en los datos cartográficos abiertos de **[OpenStreetMap][openstreetmap]**. Es una [bifurcación][fork] libre y centrada en la privacidad de la aplicación **Maps.me** (anteriormente conocida como [**MapsWithMe**][mapswithme], mantenida por la misma gente que creó **MapsWithMe** en 2011.
 
 **Organic Maps** es una de las pocas aplicaciones que hoy en día permiten usar todas las funcionalidades sin una conexión a Internet activa. Instale Organic Maps, descargue mapas, deseche su tarjeta SIM (por cierto, su operadora le rastrea constantemente) y emprenda un viaje semanal con una única carga sin ningún byte enviado a la red.
 
@@ -40,7 +40,7 @@ senderistas y ciclistas:
   [planificado][gpx_issue] GPX)
 - Modo oscuro para proteger sus ojos
 - Los países y regiones no ocupan demasiado espacio
-- Gratis y software abierto
+- Libre y de código abierto
 
 ## ¿Por qué Organic?
 
@@ -60,7 +60,7 @@ La aplicación Organic Maps está libre de rastreadores y otras cosas malas:
 - Sin tutoriales obligatorios
 - Sin spam por correo electrónico
 - Sin notificaciones
-- Sin crapware
+- Sin componentes basura
 - ~~Sin pesticidas~~ ¡Completamente orgánico!
 
 La aplicación está verificada por el [Proyecto Exodus Privacy][exodus]:
@@ -73,7 +73,7 @@ Organic Maps no pide permisos excesivos para espiarle:
 
 En Organic Maps, creemos que la privacidad es un derecho humano fundamental:
 
-- Organic Maps es un proyecto abierto indie llevado por la comunidad
+- Organic Maps es un proyecto independiente, comunitario y abierto
 - Protegemos su privacidad de los ojos espías de las grandes tecnológicas
 - Manténgase a salvo sin importar dónde esté
 

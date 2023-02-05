@@ -933,7 +933,7 @@ msgstr "Встановіть Organic Maps з Google Play"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Англійська"
+msgstr "Українська"
 
 #. type: Hash Value: name
 #: translations.yaml
