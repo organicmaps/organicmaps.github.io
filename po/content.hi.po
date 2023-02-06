@@ -33,7 +33,7 @@ msgstr "**ऑर्गेनिक मैप्स**[OpenStreetMap][openstreetma
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**ऑर्गेनिक मैप्स** आजकल के कुछ एप्लिकेशन में से एक है जो सक्रिय इंटरनेट कनेक्शन के बिना 100% सुविधाओं का समर्थन करता है। ऑर्गेनिक मैप्स इंस्टॉल करें, मैप्स डाउनलोड करें, अपना सिम कार्ड फेंक दें (वैसे, आपका ऑपरेटर आपको लगातार ट्रैक करता है), और नेटवर्क पर कुछ भी भेजे बिना सिर्फ एक बैटरी चार्ज पर साप्ताहिक यात्रा के लिए जाएं।\n"
 
 #. type: Title ###

@@ -33,7 +33,7 @@ msgstr "**Organic Maps** - це безкоштовний офлайн додат
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** - один з небагатьох додатків, який підтримує 100% функцій без активного інтернет-з'єднання. Встановіть Organic Maps, завантажте карти, викиньте SIM-карту (до речі, ваш оператор постійно стежить за вами) і вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.\n"
 
 #. type: Title ###
