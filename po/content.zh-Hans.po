@@ -33,7 +33,7 @@ msgstr "**Organic Maps** 是一个免费的安卓和iOS平台的离线地图应�
 #. type: Plain text
 #: content/_index.md
 #, fuzzy, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** ，是目前少数几个不需要活跃的互联网连接就能支持100%功能的应用程序之一。安装Organic Maps，下载地图，扔掉你的SIM卡（顺便说一下，你的运营商会不断地跟踪你），每周用一次电池充电就可以去旅行，不需要向网络发送任何字节。\n"
 
 #. type: Title ###

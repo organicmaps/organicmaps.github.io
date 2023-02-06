@@ -41,7 +41,7 @@ msgstr "**Organic Maps** – это бесплатные iOS и Android офла
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weekly trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** поддерживает 100% функций без активного Интернет-подключения. Загрузите нужные карты, выбросьте SIM-карту (кстати, ваш оператор постоянно отслеживает вас) и отправляйтесь в недельное путешествие на одном заряде батареи.\n"
 
 #. type: Title ###
