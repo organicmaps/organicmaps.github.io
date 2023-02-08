@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-05 15:19+0000\nLast-Translator: Skrripy <rozihrash.ya6w7@simplelogin.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-07 12:37+0000\nLast-Translator: Michael Zadvornyi <michael.zadvornyi@gmail.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -744,55 +744,55 @@ msgstr "[Пожертвуйте](@/donate/index.md)! Кожен долар чи 
 #: content/support-us/index.md
 #, markdown-text
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr ""
+msgstr "Повідомляйте про помилки та діліться ідеями на нашому [GitHub][github] або через [email][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr ""
+msgstr "Допомагайте нам [виправляти помилки][contributing] та перевіряти код, якщо ви розробник. Кожна виправлена помилка зробить когось щасливішим."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "[Translate][translations] missing strings in the app's interface."
-msgstr ""
+msgstr "[Перекладайте][translations] пропущені строки в інтерфейсі застосунка."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr ""
+msgstr "Перекладайте [App Store][translations_appstore] та [Android][translations_googleplay] опис на свою мову."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "[Translate][translations_website] our web site into your language."
-msgstr ""
+msgstr "[Перекладайте][translations_website] наш веб-сайт на свою мову."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr ""
+msgstr "Приєднуйтесь до [OpenStreetMap][openstreetmap] спільноти та робіть внесок у створення карт."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
+msgstr "Виправте червоні міста, знайдені нашим [валідатором громадського транспорту][public_transport_validator], щоб метро і швидкісний трамвай працювали в застосунку."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr ""
+msgstr "Підтримуйте інших користувачів на [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr ""
+msgstr "Розкажіть усім про Organic Maps. Більша спільнота – сильніша спільнота."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -846,7 +846,7 @@ msgstr "Ви можете отримати копію Ліцензії за ад
 #: content/terms/index.md
 #, markdown-text
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Якщо цього не вимагає чинне законодавство або не погоджено в письмовій формі, програмне забезпечення, що розповсюджується за цією Ліцензією, розповсюджується на умовах \"ЯК Є\", БЕЗ ГАРАНТІЙ ТА УМОВ БУДЬ-ЯКОГО ВИДУ, явних або неявних. Дивіться Ліцензію, щоб дізнатися про конкретні формулювання, що регулюють дозволи та обмеження за цією Ліцензією."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -870,7 +870,7 @@ msgstr "інструменти"
 #: content/terms/index.md
 #, markdown-text
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Будь ласка, зверніться до їхніх файлів LICENSE, COPYING або NOTICE для отримання інформації про умови використання."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -885,7 +885,7 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr ""
+msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
