@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-28 20:29+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -390,11 +399,6 @@ msgstr "Adományozás"
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr "Adományozzon az Organic Maps fejlesztésének támogatására"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr "Kellemes karácsonyi ünnepeket 🎅 és boldog új évet 🎄 kívánunk! A legjobb ajándék számunkra az a tudat, hogy a Jó dolgot tesszük, és hogy az időnkkel és erőfeszítéseinkkel segítünk valakinek a bolygón."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -856,6 +860,9 @@ msgstr "Név"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
+
+#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+#~ msgstr "Kellemes karácsonyi ünnepeket 🎅 és boldog új évet 🎄 kívánunk! A legjobb ajándék számunkra az a tudat, hogy a Jó dolgot tesszük, és hogy az időnkkel és erőfeszítéseinkkel segítünk valakinek a bolygón."
 
 #, fuzzy, no-wrap
 #~ msgid "[github]: https://github.com/organicmaps/organicmaps\n"

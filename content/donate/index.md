@@ -7,8 +7,6 @@ extra:
   preview_image: donate/donate.png
 ---
 
-We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet.
-
 Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
 
 - No ads

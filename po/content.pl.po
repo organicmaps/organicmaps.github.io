@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-31 07:43+0000\nLast-Translator: Luna <luna@anarchy.center>\nLanguage-Team: Polish <https://hosted.weblate.org/projects/organicmaps/website/pl/>\nLanguage: pl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.16-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Luna <luna@anarchy.center>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/organicmaps/website/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -382,11 +391,6 @@ msgstr "Wspomóż finansowo"
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr "Przekaż darowiznę, aby wesprzeć rozwój Organic Maps"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr "Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym prezentem dla nas jest świadomość, że robimy SŁUSZNĄ RZECZ i że nasz czas i wysiłek pomaga komuś na Planecie."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -843,3 +847,6 @@ msgstr "Nazwa"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
+
+#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+#~ msgstr "Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym prezentem dla nas jest świadomość, że robimy SŁUSZNĄ RZECZ i że nasz czas i wysiłek pomaga komuś na Planecie."

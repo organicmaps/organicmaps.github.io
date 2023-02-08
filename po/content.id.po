@@ -394,11 +394,6 @@ msgstr "Berdonasi untuk mendukung pengembangan Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr "Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi kami adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu dan upaya kami membantu seseorang di Planet ini."
-
-#. type: Plain text
-#: content/donate/index.md
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
 msgstr "Aplikasi Organic Maps _gratis untuk semua orang_ berkat **[donasi][stripe]**:"
 
@@ -852,3 +847,6 @@ msgstr "Nama"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
+
+#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+#~ msgstr "Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi kami adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu dan upaya kami membantu seseorang di Planet ini."

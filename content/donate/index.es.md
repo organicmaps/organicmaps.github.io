@@ -7,10 +7,6 @@ title: "Done para apoyar al desarrollo de Organic Maps"
 weight: 10
 ---
 
-¡Os deseamos una Feliz Navidad 🎅 y un Próspero Año Nuevo 🎄! El mejor regalo
-para nosotros es saber que estamos haciendo Lo Correcto y que nuestro tiempo
-y esfuerzo están ayudando a alguien en el Planeta.
-
 Organic Maps es _gratis para todo el mundo_ gracias a sus
 **[donaciones][stripe]**:
 

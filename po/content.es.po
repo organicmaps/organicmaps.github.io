@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-01-31 07:43+0000\nLast-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -385,11 +394,6 @@ msgstr "Done para apoyar al desarrollo de Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr "¡Os deseamos una Feliz Navidad 🎅 y un Próspero Año Nuevo 🎄! El mejor regalo para nosotros es saber que estamos haciendo Lo Correcto y que nuestro tiempo y esfuerzo están ayudando a alguien en el Planeta."
-
-#. type: Plain text
-#: content/donate/index.md
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
 msgstr "Organic Maps es _gratis para todo el mundo_ gracias a sus **[donaciones][stripe]**:"
 
@@ -555,7 +559,9 @@ msgstr "¡Sí! Hay varias maneras de apoyar a Organic Maps. Consulte la página 
 msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr "[stripe]: https://donate.organicmaps.app/ \"Donar vía Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"Informes en GitHub\"\n"
+msgstr ""
+"[stripe]: https://donate.organicmaps.app/ \"Donar vía Stripe\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"Informes en GitHub\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -777,7 +783,10 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -838,3 +847,6 @@ msgstr "Nombre"
 #, no-wrap
 msgid "Token"
 msgstr "Ficha"
+
+#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+#~ msgstr "¡Os deseamos una Feliz Navidad 🎅 y un Próspero Año Nuevo 🎄! El mejor regalo para nosotros es saber que estamos haciendo Lo Correcto y que nuestro tiempo y esfuerzo están ayudando a alguien en el Planeta."
