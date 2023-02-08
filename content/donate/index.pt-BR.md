@@ -7,10 +7,6 @@ title: "Doe para apoiar o desenvolvimento do Organic Maps"
 weight: 10
 ---
 
-Desejamos a você um Feliz Natal 🎅 e um Feliz Ano Novo 🎄! O melhor presente
-para nós é saber que estamos fazendo A Coisa Certa e que nosso tempo e
-nossos esforços estão ajudando alguém no Planeta.
-
 O app Organic Maps é _gratuito para todos_ graças as suas
 **[doações][stripe]**:
 

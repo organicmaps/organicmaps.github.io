@@ -7,10 +7,6 @@ title: "Adományozzon az Organic Maps fejlesztésének támogatására"
 weight: 10
 ---
 
-Kellemes karácsonyi ünnepeket 🎅 és boldog új évet 🎄 kívánunk! A legjobb
-ajándék számunkra az a tudat, hogy a Jó dolgot tesszük, és hogy az időnkkel
-és erőfeszítéseinkkel segítünk valakinek a bolygón.
-
 Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
 **[adományoknak][stripe]** köszönhetően :
 

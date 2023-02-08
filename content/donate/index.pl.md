@@ -7,10 +7,6 @@ title: "Przekaż darowiznę, aby wesprzeć rozwój Organic Maps"
 weight: 10
 ---
 
-Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym
-prezentem dla nas jest świadomość, że robimy SŁUSZNĄ RZECZ i że nasz czas i
-wysiłek pomaga komuś na Planecie.
-
 Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
 **[donacjom][stripe]**:
 
