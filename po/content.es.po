@@ -36,8 +36,8 @@ msgstr "Organic Maps: senderismo, ciclismo y GPS sin conexión"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** es una aplicación libre para Android y iOS de mapas sin conexión para viajantes, turistas, senderistas y ciclistas basados en los datos cartográficos abiertos de **[OpenStreetMap][openstreetmap]**. Es una [bifurcación][fork] libre y centrada en la privacidad de la aplicación **Maps.me** (anteriormente conocida como [**MapsWithMe**][mapswithme], mantenida por la misma gente que creó **MapsWithMe** en 2011.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**Organic Maps** es una aplicación libre para Android y iOS de mapas sin conexión para viajantes, turistas, senderistas y ciclistas basados en los datos cartográficos abiertos de **[OpenStreetMap][openstreetmap]**. Es una [bifurcación][fork] libre y centrada en la privacidad de la aplicación **Maps.me** (anteriormente conocida como [**MapsWithMe**][mapswithme]), mantenida por la misma gente que creó **MapsWithMe** en 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
