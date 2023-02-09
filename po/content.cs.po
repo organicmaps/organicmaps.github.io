@@ -27,8 +27,8 @@ msgstr "Organic Maps: Offline pěší turistika, cykloturistika, stezky a naviga
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme], kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.\n"
 
 #. type: Plain text
 #: content/_index.md

@@ -36,7 +36,7 @@ msgstr "Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabig
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "**Organic Maps** Android & iOS-erako offline-mapen app bat da, bidaiari, turista, mendizale eta txirrindularientzat, auzolanean sortutako **[OpenStreetMap][openstreetmap]** datuetan oinarrituta. Aurrez ezaguna zen **Maps.me** app-aren kode-irekiko eta pribazitate helburu duen [fork][fork] bat da (lehenago [**MapsWithMe**][mapswithme] izenarekin ezaguna), 2011an **MapsWithMe** app-a sortu zuten pertsona berdinek mantenduta.\n"
 
 #. type: Plain text
