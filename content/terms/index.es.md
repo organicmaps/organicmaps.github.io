@@ -23,8 +23,8 @@ La mayoría de las bibliotecas en los siguientes directorios en
 [GitHub][github] fueron creadas por otras personas y organizaciones y
 licenciadas de maneras diferentes:
 
-- terceras partes
-- herramientas
+- 3party
+- tools
 
 Refiérase a su LICENSE, COPYING o NOTICE para los términos de uso.
 

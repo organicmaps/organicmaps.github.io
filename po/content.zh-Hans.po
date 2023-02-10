@@ -831,12 +831,12 @@ msgstr "[GitHub][github] 上以下目录中的大多数库由其他人和组织�
 #: content/terms/index.md
 #, fuzzy
 msgid "3party"
-msgstr "3方"
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "工具"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md

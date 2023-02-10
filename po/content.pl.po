@@ -759,12 +759,12 @@ msgstr "Większość bibliotek w poniższych katalogach na [GitHub][github] wyko
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr "3 strony"
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "narzędzia"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md

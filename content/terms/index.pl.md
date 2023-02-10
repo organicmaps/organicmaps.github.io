@@ -22,8 +22,8 @@ ograniczenia w ramach Licencji.
 Większość bibliotek w poniższych katalogach na [GitHub][github] wykonanych
 przez inne osoby i organizacje i licencjonowanych na różne sposoby:
 
-- 3 strony
-- narzędzia
+- 3party
+- tools
 
 Warunki użytkowania można znaleźć w plikach LICENCJA, KOPIOWANIE i UWAGA.
 

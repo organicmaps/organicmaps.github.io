@@ -21,8 +21,8 @@ Ondoko karpetetan dauden liburutegi gehienak ([GitHub][github]) beste
 pertsona eta erakunde batzuek egindakoak eta lizentziatukoak dira, hainbat
 modutan:
 
-- Hirugarrengoek
-- tresnak
+- 3party
+- tools
 
 Mesedez, irakurri beraien LICENSE, COPYING edo NOTICE fitxategiak erabilera
 baldintzak jakiteko.

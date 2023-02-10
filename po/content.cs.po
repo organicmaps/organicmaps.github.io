@@ -768,7 +768,7 @@ msgstr "3party"
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "nástroje"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md

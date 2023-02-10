@@ -852,13 +852,13 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "3party"
-msgstr ""
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr "الأدوات"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md

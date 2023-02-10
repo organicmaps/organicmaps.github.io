@@ -759,12 +759,12 @@ msgstr "Sebagian besar pustaka dalam direktori berikut di [GitHub][github] dibua
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr "pihak ketiga"
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "alat"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md

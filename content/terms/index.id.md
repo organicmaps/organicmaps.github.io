@@ -21,8 +21,8 @@ izin dan batasan berdasarkan Lisensi.
 Sebagian besar pustaka dalam direktori berikut di [GitHub][github] dibuat
 oleh orang dan organisasi lain dan dilisensikan dengan cara yang berbeda:
 
-- pihak ketiga
-- alat
+- 3party
+- tools
 
 Silakan merujuk ke berkas LISENSI, COPYING, atau NOTICE mereka untuk
 ketentuan penggunaan.

@@ -759,12 +759,12 @@ msgstr "La mayoría de las bibliotecas en los siguientes directorios en [GitHub]
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr "terceras partes"
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "herramientas"
+msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md
