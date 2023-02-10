@@ -36,8 +36,8 @@ msgstr "Organic Maps: Offline túra, kerékpár, nyomvonalak és navigáció"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert, amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert), amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -860,18 +860,3 @@ msgstr "Név"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "Kellemes karácsonyi ünnepeket 🎅 és boldog új évet 🎄 kívánunk! A legjobb ajándék számunkra az a tudat, hogy a Jó dolgot tesszük, és hogy az időnkkel és erőfeszítéseinkkel segítünk valakinek a bolygón."
-
-#, fuzzy, no-wrap
-#~ msgid "[github]: https://github.com/organicmaps/organicmaps\n"
-#~ msgstr "[github]: https://github.com/organicmaps/organicmaps\n"
-
-#, fuzzy, no-wrap
-#~ msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-#~ msgstr "[licenc]: http://www.apache.org/licenses/LICENSE-2.0\n"
-
-#, fuzzy, no-wrap
-#~ msgid "[telegram_chat]: https://t.me/OrganicMaps\n"
-#~ msgstr "[telegram_chat]: https://t.me/OrganicMaps\n"

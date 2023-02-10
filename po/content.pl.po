@@ -36,8 +36,8 @@ msgstr "Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline dla podróżników, turystów, wędrowców i rowerzystów, bazująca na współtworzonych danych **[OpenStreetMap][openstreetmap]**. Jest otwartoźródłowym [forkiem][fork] aplikacji **Maps.me** (wcześniej znanej jako [**MapsWithMe**][mapswithme] z naciskiem na prywatność, utrzymywanym przez te same osoby, które stworzyły **MapsWithMe** w 2011 roku.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline dla podróżników, turystów, wędrowców i rowerzystów, bazująca na współtworzonych danych **[OpenStreetMap][openstreetmap]**. Jest otwartoźródłowym [forkiem][fork] aplikacji **Maps.me** (wcześniej znanej jako [**MapsWithMe**][mapswithme]) z naciskiem na prywatność, utrzymywanym przez te same osoby, które stworzyły **MapsWithMe** w 2011 roku.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -847,6 +847,3 @@ msgstr "Nazwa"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "Życzymy Wam Wesołych Świąt 🎅 i Szczęśliwego Nowego Roku 🎄! Najlepszym prezentem dla nas jest świadomość, że robimy SŁUSZNĄ RZECZ i że nasz czas i wysiłek pomaga komuś na Planecie."

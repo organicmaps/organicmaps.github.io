@@ -36,8 +36,8 @@ msgstr "Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** adalah aplikasi peta luring Android & iOS gratis untuk pelancong, turis, pejalan kaki, dan pesepeda yang berbasis di atas data **[OpenStreetMap][openstreetmap]** yang bersumber dari orang-orang. Ini adalah [modifikasi][fork] sumber terbuka yang berfokus pada privasi dari aplikasi **Maps.me** (sebelumnya dikenal sebagai [**MapsWithMe**][mapswithme], dikelola oleh orang yang sama yang menciptakan **MapsWithMe** pada tahun 2011.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**Organic Maps** adalah aplikasi peta luring Android & iOS gratis untuk pelancong, turis, pejalan kaki, dan pesepeda yang berbasis di atas data **[OpenStreetMap][openstreetmap]** yang bersumber dari orang-orang. Ini adalah [modifikasi][fork] sumber terbuka yang berfokus pada privasi dari aplikasi **Maps.me** (sebelumnya dikenal sebagai [**MapsWithMe**][mapswithme]), dikelola oleh orang yang sama yang menciptakan **MapsWithMe** pada tahun 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -847,6 +847,3 @@ msgstr "Nama"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "Kami mengucapkan Selamat Natal 🎅 dan Tahun Baru 🎄! Hadiah terbaik bagi kami adalah mengetahui bahwa kami melakukan Hal yang Benar dan bahwa waktu dan upaya kami membantu seseorang di Planet ini."

@@ -7,7 +7,7 @@ sort_by: weight
 title: 'Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline'
 ---
 
-**Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline dla podróżników, turystów, wędrowców i rowerzystów, bazująca na współtworzonych danych **[OpenStreetMap][openstreetmap]**. Jest otwartoźródłowym [forkiem][fork] aplikacji **Maps.me** (wcześniej znanej jako [**MapsWithMe**][mapswithme] z naciskiem na prywatność, utrzymywanym przez te same osoby, które stworzyły **MapsWithMe** w 2011 roku.
+**Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline dla podróżników, turystów, wędrowców i rowerzystów, bazująca na współtworzonych danych **[OpenStreetMap][openstreetmap]**. Jest otwartoźródłowym [forkiem][fork] aplikacji **Maps.me** (wcześniej znanej jako [**MapsWithMe**][mapswithme]) z naciskiem na prywatność, utrzymywanym przez te same osoby, które stworzyły **MapsWithMe** w 2011 roku.
 
 **Organic Maps** to jedna z niewielu obecnie aplikacji, która obsługuje 100% funkcji bez aktywnego połączenia z internetem. Zainstaluj Organic Maps, pobierz mapy, wyrzuć kartę SIM (tak przy okazji, Twój operator stale Cię śledzi) i wybierz się na tygodniową wycieczkę na jednym ładowaniu baterii bez żadnego bajtu wysłanego do sieci.
 

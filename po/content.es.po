@@ -847,6 +847,3 @@ msgstr "Nombre"
 #, no-wrap
 msgid "Token"
 msgstr "Ficha"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "¡Os deseamos una Feliz Navidad 🎅 y un Próspero Año Nuevo 🎄! El mejor regalo para nosotros es saber que estamos haciendo Lo Correcto y que nuestro tiempo y esfuerzo están ayudando a alguien en el Planeta."

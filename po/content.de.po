@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-04 20:45+0000\nLast-Translator: nautilusx <translate@disroot.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: nautilusx <translate@disroot.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -382,11 +391,6 @@ msgstr "Spenden"
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
 msgstr "Spende, um die Entwicklung von Organic Maps zu unterstützen"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr "Wir wünschen dir ein frohes Weihnachtsfest 🎅 und ein gutes neues Jahr 🎄! Das beste Geschenk für uns ist zu wissen, dass wir das Richtige tun und dass unsere Zeit und unsere Bemühungen jemandem auf dem Planeten helfen."
 
 #. type: Plain text
 #: content/donate/index.md

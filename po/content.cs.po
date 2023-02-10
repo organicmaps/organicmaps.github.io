@@ -389,8 +389,8 @@ msgstr "Přispějte na podporu vývoje Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-msgstr "Přejeme vám krásné Vánoce 🎅 a šťastný nový rok 🎄! Nejlepším dárkem je pro nás vědomí, že děláme Správnou věc a že náš čas a úsilí někomu na planetě pomáhá."
+msgid "The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
+msgstr "Nejlepším dárkem je pro nás vědomí, že děláme Správnou věc a že náš čas a úsilí někomu na planetě pomáhá."
 
 #. type: Plain text
 #: content/donate/index.md

@@ -36,7 +36,7 @@ msgstr "Organic Maps: Офлайн карти та GPS навігація"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "**Organic Maps** - це безкоштовний офлайн додаток для Android та iOS для мандрівників, туристів, пішоходів та велосипедистів, що базується на даних з відкритих джерел **[OpenStreetMap][openstreetmap]**. Це орієнтований на конфіденційність, відкритий [форк][fork] додатку **Maps.me** (раніше відомого, як [**MapsWithMe**][mapswithme]), який підтримується тими ж людьми, що створили **MapsWithMe** у 2011 році.\n"
 
 #. type: Plain text
@@ -847,6 +847,3 @@ msgstr "Назва"
 #, no-wrap
 msgid "Token"
 msgstr "Токен"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "Щиро вітаємо вас з Різдвом Христовим 🎅 та Новим Роком 🎄! Найкращий подарунок для нас - це усвідомлення того, що ми робимо правильну справу і що наш час та зусилля допомагають комусь на планеті."

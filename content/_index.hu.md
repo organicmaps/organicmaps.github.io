@@ -7,7 +7,7 @@ sort_by: weight
 title: 'Organic Maps: Offline túra, kerékpár, nyomvonalak és navigáció'
 ---
 
-Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert, amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.
+Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert), amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.
 
 **Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az Organic Maps-et, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.
 

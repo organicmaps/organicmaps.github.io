@@ -7,7 +7,7 @@ sort_by: weight
 title: 'Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie'
 ---
 
-**Organic Maps** is een gratis Android & iOS offline kaartenapp voor reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete **[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, open-source [fork][fork] van de app **Maps.me** (voorheen bekend als [**MapsWithMe**][mapswithme], en wordt onderhouden door dezelfde mensen die **MapsWithMe** hebben gemaakt in 2011.
+**Organic Maps** is een gratis Android & iOS offline kaartenapp voor reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete **[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, open-source [fork][fork] van de app **Maps.me** (voorheen bekend als [**MapsWithMe**][mapswithme]), en wordt onderhouden door dezelfde mensen die **MapsWithMe** hebben gemaakt in 2011.
 
 **Organic Maps** is één van de weinige apps heden ten dage die 100% van de functionaliteit heeft zonder actieve internetverbinding. Installeer Organic Maps, download kaarten, gooi je SIM kaart weg (trouwens, je provider trackt je altijd), en ga een week op pad zonder je batterij op te laden en zonder dat er één byte naar het netwerk verzonden wordt.
 

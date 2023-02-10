@@ -35,9 +35,8 @@ msgstr "Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie"
 
 #. type: Plain text
 #: content/_index.md
-#, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** is een gratis Android & iOS offline kaartenapp voor reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete **[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, open-source [fork][fork] van de app **Maps.me** (voorheen bekend als [**MapsWithMe**][mapswithme], en wordt onderhouden door dezelfde mensen die **MapsWithMe** hebben gemaakt in 2011.\n"
+msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**Organic Maps** is een gratis Android & iOS offline kaartenapp voor reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete **[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, open-source [fork][fork] van de app **Maps.me** (voorheen bekend als [**MapsWithMe**][mapswithme]), en wordt onderhouden door dezelfde mensen die **MapsWithMe** hebben gemaakt in 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -847,6 +846,3 @@ msgstr "Naam"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "Wij wensen u een vrolijk kerstfeest 🎅 en een gelukkig nieuwjaar 🎄! Het mooiste geschenk voor ons is te weten dat we Het Goede Doen en dat onze tijd en inspanningen iemand op de Planeet helpen."

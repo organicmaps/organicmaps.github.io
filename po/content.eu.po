@@ -847,6 +847,3 @@ msgstr "Izena"
 #, no-wrap
 msgid "Token"
 msgstr "token"
-
-#~ msgid "We wish you a Merry Christmas 🎅 and a Happy New Year 🎄! The best gift for us is to know that we are doing The Right Thing and that our time and efforts are helping someone on the Planet."
-#~ msgstr "Gabon zoriontsuak 🎅 eta Urte Berri on 🎄 opa dizkizuegu! Guretzat oparirik onena The Right Thing egiten ari garela jakitea da, eta gure denbora eta ahaleginak planetako norbait laguntzen ari direla."
