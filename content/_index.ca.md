@@ -89,7 +89,7 @@ L'aplicació és gratuïta per a tothom. Si us plau
 
 ### Hi ha diferents maneres de donar:
 
-{{ donate_buttons(lang='es') }}
+{{ donate_buttons(lang='ca') }}
 
 ### Els nostres patrocinadors
 
@@ -111,10 +111,10 @@ Llicència Apatxe 2.0.
   * [Beta de PC Linux (paquetes)][repology]
 - Informi d'errors o problemes en el [rastrejador d'errors][issues] o
   [enviant-nos un correu electrònic][email].
-- [Debati][idees] idees o proposa sol·licituds de funcions.
+- [Debati][ideas] idees o proposa sol·licituds de funcions.
 - Subscriu-te al nostre [canal de Telegram][telegram] o al [espai
   matriu][matrix] per a estar al dia.
-- Uneix-te al nostre [grup de Telegram][telegram_xat] per a parlar amb
+- Uneix-te al nostre [grup de Telegram][telegram_chat] per a parlar amb
   altres usuaris.
 - Visiteu la nostra [pàgina al GitHub][github].
 - Segueix les nostres novetats en [Mastodon][mastodon],

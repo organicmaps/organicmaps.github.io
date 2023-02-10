@@ -284,7 +284,7 @@ msgstr "Hi ha diferents maneres de donar:"
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='es') }}"
+msgstr "{{ donate_buttons(lang='ca') }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -341,7 +341,7 @@ msgstr "Informi d'errors o problemes en el [rastrejador d'errors][issues] o [env
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Debati][idees] idees o proposa sol·licituds de funcions."
+msgstr "[Debati][ideas] idees o proposa sol·licituds de funcions."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -351,7 +351,7 @@ msgstr "Subscriu-te al nostre [canal de Telegram][telegram] o al [espai matriu][
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr "Uneix-te al nostre [grup de Telegram][telegram_xat] per a parlar amb altres usuaris."
+msgstr "Uneix-te al nostre [grup de Telegram][telegram_chat] per a parlar amb altres usuaris."
 
 #. type: Bullet: '- '
 #: content/_index.md
