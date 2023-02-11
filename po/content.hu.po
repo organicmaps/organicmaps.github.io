@@ -49,7 +49,7 @@ msgstr "**Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manaps�
 #: content/_index.md
 #, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install} alkalmazásboltokból"
+msgstr "Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
