@@ -1,0 +1,92 @@
+<script>
+// Implement format if it's not implemented yet.
+if (!String.prototype.format) {
+  String.prototype.format = function() {
+    var args = arguments;
+    return this.replace(/{(\d+)}/g, function(match, number) {
+      return typeof args[number] != 'undefined' ? args[number] : match;
+    });
+  };
+}
+
+function onTranslateToSelected(el) {
+  // No language element.
+  if (!el.value) return;
+
+  console.log(el.value);
+
+  el.disabled = true;
+  document.body.style.cursor = 'wait';
+
+  var dir = el.getAttribute('data-dir');
+  var basename = encodeURIComponent(el.getAttribute('data-basename'));
+  var fromLanguage = document.documentElement.getAttribute('lang');
+  var toLanguage = el.value;
+
+  var sourceUrl = '{{ config.extra.github_source | safe }}/'.replace(
+      'https://github.com', 'https://raw.githubusercontent.com');
+  // Non-ASCII texts are longer and do not fit easily into Github limits, see below.
+  // if (fromLanguage !== 'en') {
+  //   sourceUrl = '{0}master/content/{1}{2}.{3}.md'.format(sourceUrl, dir, basename, fromLanguage);
+  // } else {
+    sourceUrl = '{0}master/content/{1}{2}.md'.format(sourceUrl, dir, basename);
+  //}
+
+  var request = new XMLHttpRequest();
+  request.onreadystatechange = function() {
+    if (request.readyState == 4) {
+      if (request.status == 200) {
+        var markdownContent = encodeURIComponent(request.responseText);
+
+        // Generate URL to create a new page translation.
+        var filename = encodeURIComponent('{0}.{1}.md'.format(basename, toLanguage));
+        var lastDir = dir.split('/');
+        // Last path element can be empty due to a trailing slash.
+        lastDir = lastDir.pop() || lastDir.pop();
+        // Github has strange paths/params processing, fix a special case for root _index.md translations.
+        if (lastDir.length == 0) lastDir = 'content';
+        var newFileUrl = '{{ config.extra.github_source | safe }}/new/master/content/{0}?filename={1}/{2}&value={3}'
+            .format(dir.substr(0, dir.length - 1), lastDir, filename, markdownContent);
+
+        // Github limits max URL len to 8192 and shows error for too long urls.
+        if (newFileUrl.length > 8192) {
+          var cutTextStub = '\n\nPlease insert here the remaining text from ' + sourceUrl;
+          newFileUrl = newFileUrl.substring(0, 8191 - cutTextStub.length) + cutTextStub;
+        }
+        window.open(newFileUrl, '_blank');
+      } else {
+        // TODO: Display visible errors.
+        console.log('Error getting ' + sourceUrl);
+      }
+      // Restore cursor and element.
+      el.disabled = false;
+      el.selectedIndex = 0;
+      document.body.style.cursor = 'default';
+    }
+  };
+  request.open('GET', sourceUrl, true);
+  request.send(null);
+
+  console.log(sourceUrl);
+}
+
+// TODO: Show Translate to... option only for supported user's navigator languages
+// var pageTranslations = {# resource.translations | map(attribute="lang") | json_encode() | safe #};
+// var userPreferredLanguages = navigator.languages ? navigator.languages : [navigator.language];
+
+</script>
+<nav class="translate-menu">
+  <a href="{{ config.extra.github_source ~ '/edit/master/content/' ~ resource.relative_path | safe }}">{{ trans(key='edit_on_github', lang=lang) }}</a>
+  {% set pathArray = resource.relative_path | split(pat='/') %}
+  {% set contentDir = pathArray | slice(end=-1) | join(sep='/') %}
+  {% set baseFileName = pathArray | last | split(pat='.') | first %}
+  <select class="translate-to" onchange="onTranslateToSelected(this)" data-dir="{{ contentDir ~ '/' }}" data-basename="{{ baseFileName }}">
+    <option value="">{{ trans(key='translate_to', lang=lang) }}</option>
+    <!-- TODO: Dynamically generate the list of needed languages and their names using Intl api or hard-coded list:
+    See https://stackoverflow.com/a/69968496 -->
+    <option value="es">Español</option>
+    <option value="fr">Français</option>
+    <option value="pt">Português</option>
+    <option value="be">Беларуская</option>
+  </select>
+</nav>
