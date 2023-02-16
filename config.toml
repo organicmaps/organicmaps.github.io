@@ -220,3 +220,18 @@ install-fdroid = "Instal·la l’Organic Maps des del F-Droid"
 language = "Català"
 name = "Nom"
 token = "Testimoni"
+
+[languages.zh-CN]
+[languages.zh-CN.translations]
+address = "地址"
+back = "返回新闻"
+contact = "联系我们"
+edit_on_github = "在 GitHub 上编辑"
+install-appgallery = "从华为应用市场安装有机地图"
+install-appstore = "从 AppStore 安装 Organic Maps"
+install-googleplay = "从 Google Play 安装有机地图"
+install-fdroid= "从 F-Droid 安装有机地图"
+language = "英语"
+name = "姓名"
+token = "令牌"
+translate_to = "翻译成…"
