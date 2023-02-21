@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hans/>\n"
-"Language: zh-Hans\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-21 06:16+0000\nLast-Translator: 快乐的老鼠宝宝 <keaitianxinmail@qq.com>\nLanguage-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hans/>\nLanguage: zh-Hans\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -41,9 +32,9 @@ msgstr "**Organic Maps** 是一个免费的安卓和iOS平台的离线地图应�
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** ，是目前少数几个不需要活跃的互联网连接就能支持100%功能的应用程序之一。安装Organic Maps，下载地图，扔掉你的SIM卡（顺便说一下，你的运营商会不断地跟踪你），每周用一次电池充电就可以去旅行，不需要向网络发送任何字节。\n"
+msgstr "**Organic Maps** 是目前少数几个不需要持续互联网连接就能支持100%功能的应用程序之一。安装Organic Maps，下载地图，扔掉你的SIM卡（顺便说一下，你的运营商会不断地跟踪你），充一次电池就可以出去旅行一周而不需要通过网络发送哪怕一个字节。\n"
 
 #. type: Title ###
 #: content/_index.md
@@ -59,23 +50,22 @@ msgstr "{{ badges(lang='zh-Hans') }}}"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{截图(src='/images/screenshots/prague.jpg', alt='Prague') }}}"
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='登山') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{截图(src='/images/screenshots/prague.jpg', alt='Prague') }}}"
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='布拉格') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr "{{截图(src='/images/screenshots/search.jpg', alt='离线搜索')}}"
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='离线搜索') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr "{{屏幕截图(src='/images/screenshots/dark.jpg', alt='夜间模式下的导航')}}"
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='夜间模式下的导航') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -108,15 +98,13 @@ msgstr "等高线、高程剖面、山峰和山坡"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "带语音导航的步行、骑行和汽车导航的逐一转弯"
+msgstr "弯弯绕的步行、骑行和汽车导航都有语音向导"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Fast offline search on the map"
-msgstr "在地图上快速离线搜索"
+msgstr "地图上的快速离线搜索"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -125,15 +113,13 @@ msgstr "以KML/KMZ格式导出和导入书签（GPX已列入[计划][gpx_issue]�
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Dark Mode to protect your eyes"
-msgstr "黑暗模式，保护你的眼睛"
+msgstr "保护您眼睛的黑暗模式"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Countries and regions don't take a lot of space"
-msgstr "国家和地区并不占很大的空间"
+msgstr "国家和地区不会占用太大的空间"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -142,9 +128,9 @@ msgstr "自由且开源"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Why Organic?"
-msgstr "为什么选择有机？"
+msgstr "为什么选择Organic Maps？"
 
 #. type: Plain text
 #: content/_index.md
@@ -153,7 +139,6 @@ msgstr "Organic Maps 既纯粹而有机，用爱发电："
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Respects your privacy"
 msgstr "尊重您的隐私"
 
@@ -182,7 +167,7 @@ msgstr "无广告"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No tracking"
-msgstr "无跟踪"
+msgstr "无跟踪器"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -217,7 +202,7 @@ msgstr "没有嘈杂的电子邮件垃圾邮件"
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No push notifications"
-msgstr "推送通知"
+msgstr "无推送通知"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -258,9 +243,8 @@ msgstr "在Organic Maps，我们相信隐私是一项基本人权："
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "有机地图是一个独立的社区驱动的开源项目"
+msgstr "Organic Maps是一个独立的社区驱动的开源项目"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -282,21 +266,20 @@ msgstr "拒绝监视 - 拥抱你的自由。"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr "**[给有机地图一个机会！](#安装)**\n"
+msgstr "**[给Organic Maps一个机会！](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Who is paying for the free app?"
-msgstr "谁在为免费的应用程序付费？"
+msgstr "谁在为免费的应用付费？"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "该应用程序对每个人都是免费的。请[捐赠][捐赠]支持我们!"
+msgstr "该应用对每个人都是免费的。请[捐赠](@/donate/index.md)以支持我们！"
 
 #. type: Title ###
 #: content/_index.md
@@ -317,9 +300,8 @@ msgstr "赞助商："
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr "[神话兽](https://www.mythic-beasts.com/)ISP[为我们提供][神话兽_捐赠]两台虚拟服务器，400TB/月的免费带宽，帮助我们的用户进行地图下载和更新。"
+msgstr "[神话兽](https://www.mythic-beasts.com/)ISP[为我们提供][mythic_beasts_donation]两台虚拟服务器，400TB/月的免费带宽来帮助我们的用户下载地图和更新。"
 
 #. type: Title ##
 #: content/_index.md
@@ -329,9 +311,8 @@ msgstr "社区"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "有机地图是一个[开源软件][github]，在Apache许可证2.0下授权。"
+msgstr "Organic Maps是一个以Apache许可证2.0授权的[开源软件][github]。"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -445,7 +426,7 @@ msgstr "没有登记"
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "Open source"
-msgstr "开放源代码"
+msgstr "开源"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -508,9 +489,8 @@ msgstr "书签备份和同步"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
 msgid "Android Auto"
-msgstr "安卓汽车"
+msgstr "Android Auto"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -545,13 +525,12 @@ msgstr "更好的离线地址搜索、路线选择和导航"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Public Transport"
-msgstr "公共交通要素"
+msgstr "公共交通"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
 msgid "… and [many other][github issues] features you want and love"
-msgstr "...和[许多其他][github问题]你想要和喜欢的功能"
+msgstr "...和[许多其他][github issues]你想要和喜欢的功能"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -741,9 +720,8 @@ msgstr "将[App Store][translations_appstore]和[Android][translations_googlepla
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy
 msgid "[Translate][translations_website] our web site into your language."
-msgstr "[翻译][translations_website] 我们的网站翻译成你的语言。"
+msgstr "将我们的网站[翻译][translations_website]成你的语言。"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -829,26 +807,23 @@ msgstr "[GitHub][github] 上以下目录中的大多数库由其他人和组织�
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, fuzzy
 msgid "3party"
-msgstr "3party"
+msgstr "第三方"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
-msgstr "tools"
+msgstr "工具"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr "请参考他们的LICENSE、 COPYING或NOTICE文件，了解使用条款。"
+msgstr "请参考它们的LICENSE、 COPYING与NOTICE文件，了解其使用条款。"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
-msgstr "参见[data/copyright.html][copyright]文件，了解有机地图应用程序的全部版权声明。"
+msgstr "参见[data/copyright.html][copyright]文件，了解Organic Maps应用程序的全部版权声明。"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -908,7 +883,7 @@ msgstr "从Google Play安装Organic Maps"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "英语"
+msgstr "简体中文"
 
 #. type: Hash Value: name
 #: translations.yaml
