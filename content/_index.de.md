@@ -115,8 +115,8 @@ License 2.0 lizenziert ist.
 - Melde Bugs oder Probleme an den [Issue Tracker][issues] oder per [E-Mail
   an uns][email].
 - [Diskutiere][ideas] Ideen oder äußere Funktionswünsche.
-- Abonniere unseren [Telegram Channel][telegram] oder den [Matrix
-  Raum][matrix] für Neuigkeiten.
+- Abonniere unseren [Telegram-Channel][telegram] oder den
+  [Matrix-Raum][matrix] für Neuigkeiten.
 - Tritt unserer [Telegram-Gruppe][telegram_chat] bei, um mit anderen
   Benutzern zu diskutieren.
 - Besuche unsere [GitHub-Seite][github].

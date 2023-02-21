@@ -883,7 +883,7 @@ msgstr "从Google Play安装Organic Maps"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "简体中文"
+msgstr "中文"
 
 #. type: Hash Value: name
 #: translations.yaml
