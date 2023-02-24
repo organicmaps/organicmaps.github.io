@@ -8,14 +8,14 @@ slug: "organic-maps-is-live"
 
 iOS:
 
-* [Apple AppStore](https://apps.apple.com/app/organic-maps/id1567437057)
+* [Apple AppStore][appstore]
 * [Beta version](https://testflight.apple.com/join/lrKCl08I)
 
 Android:
 
-* [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
-* [Huawei AppGallery](https://appgallery.huawei.com/#/app/C104325611)
-* [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
+* [Google Play][googleplay]
+* [Huawei AppGallery][appgallery]
+* [F-Droid][fdroid]
 * [Beta](https://appdistribution.firebase.dev/i/3c5fcf9cd72f775f)
 
 Please give us ⭐ ⭐ ⭐ ⭐ ⭐ on AppStore and Google Play to help this project survive! 🔥
@@ -24,23 +24,25 @@ Please give us ⭐ ⭐ ⭐ ⭐ ⭐ on AppStore and Google Play to help this proj
 
 Organic Maps is an open-source Android & iOS offline maps app
 for travelers, tourists, hikers, and cyclists based on top of crowd-sourced
-OpenStreetMap data and curated with love by **MAPSME** founders.
+OpenStreetMap data and curated with love by **MAPS.ME** founders.
 
 Organic Maps is pure and organic, and **free from trackers and other bad stuff**:
 
-✅ No ads
-✅ No tracking
-✅ No data collection
-✅ No phoning home
-✅ No annoying registration
-✅ No mandatory tutorials
-✅ No noisy email spam
-✅ No push notifications
-✅ No crapware
-✅ No pesticides 😇
+✅ No ads<br/>
+✅ No tracking<br/>
+✅ No data collection<br/>
+✅ No phoning home<br/>
+✅ No annoying registration<br/>
+✅ No mandatory tutorials<br/>
+✅ No noisy email spam<br/>
+✅ No push notifications<br/>
+✅ No crapware<br/>
+✅ No pesticides 😇<br/>
 
-[Telegram Channel for Updates](https://t.me/OrganicMaps)
-[Telegram discussions](https://t.me/OrganicMaps)
-[Telegram](https://t.me/OrganicMapsRu) для русскоговорящих
-[Our website](https://organicmaps.app/)
-[Our GitHub](https://github.com/organicmaps/organicmaps)
+🔗 [Telegram Channel for Updates][telegram]<br/>
+🔗 [Telegram discussions][telegram_chat]<br/>
+🔗 [Telegram][telegram_chat_ru] для русскоговорящих<br/>
+🔗 [Our website](https://organicmaps.app/)<br/>
+🔗 [Our GitHub][github]<br/>
+
+{{ references(lang='en') }}
