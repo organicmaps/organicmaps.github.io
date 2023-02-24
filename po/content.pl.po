@@ -273,7 +273,7 @@ msgstr "Kto płaci za darmową aplikację?"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Aplikacja jest darmowa dla wszystkich. Prosimy o [przekazanie darowizny](@/donate/index.md), aby nas wesprzeć!"
+msgstr "Aplikacja jest darmowa dla wszystkich. Prosimy o [przekazanie darowizny](@/donate/index.pl.md), aby nas wesprzeć!"
 
 #. type: Title ###
 #: content/_index.md
@@ -551,7 +551,7 @@ msgstr "Czy można nam pomóc w jakiś inny sposób?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Tak! Istnieje wiele sposobów na wsparcie Organic Maps. Więcej szczegółów znajdziesz na stronie [Wesprzyj nas](@/support-us/index.md)."
+msgstr "Tak! Istnieje wiele sposobów na wsparcie Organic Maps. Więcej szczegółów znajdziesz na stronie [Wesprzyj nas](@/support-us/index.pl.md)."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -656,7 +656,7 @@ msgstr "Wspierać rozwój można na różne sposoby:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Podaruj](@/donate/index.md)! Każdy dolar lub euro się liczy i pomaga nam opłacić serwery i skalę działań."
+msgstr "[Podaruj](@/donate/index.pl.md)! Każdy dolar lub euro się liczy i pomaga nam opłacić serwery i skalę działań."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

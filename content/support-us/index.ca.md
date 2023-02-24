@@ -13,10 +13,10 @@ entusiastes amb l'ajuda de la comunitat.
 
 Hi ha diferents maneres de fer costat al desenvolupament:
 
-- [Donar](@/donate/index.es.md)! Cada dòlar o euro compta i ens ajuda a
+- [Donar](@/donate/index.ca.md)! Cada dòlar o euro compta i ens ajuda a
   pagar els servidors i ampliar l'escala.
 - Informa d'errors i comparteix idees en el nostre [GitHub][github] o a
-  través de [email][email].
+  través de [email][email_support].
 - Ajuda'ns a [corregir errores][contributing] i fer revisions de codi si ets
   desenvolupadorx. Cada petit problema solucionat fa més feliç a algú.
 - [Tradueixi][translations] cadenes que falten en la interfície de
@@ -30,12 +30,12 @@ Hi ha diferents maneres de fer costat al desenvolupament:
   transport públic][public_transport_validator], perquè el metre i tramvies
   funcionin en l'aplicació.
 - Dona suport a altres usuaris en [GitHub][issues],
-  [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter],
+  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
 - Comenta-li a tothom sobre Organic Maps. Una comunitat més gran és una
   comunitat més forta.
-- Valora'ns en [Google Play][googleplay], [Apple Store][appstore], [Huawei
-  Appgallery][appgallery].
+- Valora'ns en [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
+  Appgallery][appgallery_review].
 - Tota ajuda és benvinguda!
 
 El nostre petit equip està molt agraït pels teus comentaris i

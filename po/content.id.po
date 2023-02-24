@@ -273,7 +273,7 @@ msgstr "Siapa yang membayar untuk aplikasi gratis ini?"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi](@/donate/index.md) untuk mendukung kami!"
+msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi](@/donate/index.id.md) untuk mendukung kami!"
 
 #. type: Title ###
 #: content/_index.md

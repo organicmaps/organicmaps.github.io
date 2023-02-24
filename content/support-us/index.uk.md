@@ -13,10 +13,10 @@ Organic Maps - це безплатний додаток з відкритим в
 
 Існують різні способи підтримати розвиток:
 
-- [Пожертвуйте](@/donate/index.md)! Кожен долар чи євро має значення і
+- [Пожертвуйте](@/donate/index.uk.md)! Кожен долар чи євро має значення і
   допомагає нам платити за сервери та масштабування.
 - Повідомляйте про помилки та діліться ідеями на нашому [GitHub][github] або
-  через [email][email].
+  через [email][email_support].
 - Допомагайте нам [виправляти помилки][contributing] та перевіряти код, якщо
   ви розробник. Кожна виправлена помилка зробить когось щасливішим.
 - [Перекладайте][translations] пропущені строки в інтерфейсі застосунка.
@@ -29,11 +29,11 @@ Organic Maps - це безплатний додаток з відкритим в
   транспорту][public_transport_validator], щоб метро і швидкісний трамвай
   працювали в застосунку.
 - Підтримуйте інших користувачів на [GitHub][issues],
-  [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter],
+  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
 - Розкажіть усім про Organic Maps. Більша спільнота – сильніша спільнота.
-- Оцініть нас у [Google Play][googleplay], [Apple Store][appstore], [Huawei
-  Appgallery][appgallery].
+- Оцініть нас у [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
+  Appgallery][appgallery_review].
 - Будь-яка допомога вітається!
 
 Наша невелика команда дуже вдячна за ваші відгуки та підтримку. Ми не змогли

@@ -73,7 +73,7 @@ reduceren.
 ## Kunt u ons op een andere manier helpen?
 
 Ja! Er zijn vele manieren om Organic Maps te ondersteunen. Kijk alstublieft
-op de pagina [Steun ons](@/support-us/index.md) voor meer details.
+op de pagina [Steun ons](@/support-us/index.nl.md) voor meer details.
 
 [stripe]: https://donate.organicmaps.app/ "Doneer via Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

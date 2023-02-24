@@ -13,25 +13,27 @@ ve topluluğun yardımıyla teknoloji tutkunları tarafından geliştirilir.
 Bizi desteklemenin farklı yolları var:
 
 - [Bağış yapın](@/donate/index.tr.md)! Her bir dolar veya avro önemlidir. Bağışlar, sunucular için ödeme yapmamıza yardımcı oluyor.
-- [GitHub](https://github.com/organicmaps/organicmaps/issues) veya [e-posta](mailto:support@organicmaps.app) üzerinden hataları bildirin ve fikirlerinizi paylaşın.
-- Eğer bir geliştiriciyseniz [hataları düzeltmemize](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) yardım edin
+- [GitHub][issues] veya [e-posta][email_support] üzerinden hataları bildirin ve fikirlerinizi paylaşın.
+- Eğer bir geliştiriciyseniz [hataları düzeltmemize][contributing] yardım edin
   ve kodları gözden geçirin. Düzeltilen her küçük hata birilerini daha mutlu eder.
-- Uygulama arayüzündeki eksik dizeleri [çevirin](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md#translations).
-- [App Store](https://github.com/organicmaps/organicmaps/tree/master/iphone/metadata/en-US)
-  ve [Android](https://github.com/organicmaps/organicmaps/tree/master/android/src/google/play/listings/en-US)
+- Uygulama arayüzündeki eksik dizeleri [çevirin][translations].
+- [App Store][translations_appstore]
+  ve [Android][translations_googleplay]
   açıklamalarını kendi dilinize çevirin.
-- Web sitemizi kendi dilinize [çevirin](https://github.com/organicmaps/organicmaps.github.io).
-- [OpenStreetMap](https://www.openstreetmap.org/about) topluluğuna katılın ve harita verilerine katkıda bulunun.
-- Metroların ve hafif raylı sistemlerin uygulamada çalışması için [toplu taşıma doğrulayıcımız](https://cdn.organicmaps.app/subway/) tarafından bulunan kırmızı şehirleri düzeltin.
-- [GitHub](https://github.com/organicmaps/organicmaps/issues),
+- Web sitemizi kendi dilinize [çevirin][translations_website].
+- [OpenStreetMap][openstreetmap] topluluğuna katılın ve harita verilerine katkıda bulunun.
+- Metroların ve hafif raylı sistemlerin uygulamada çalışması için [toplu taşıma doğrulayıcımız][public_transport_validator] tarafından bulunan kırmızı şehirleri düzeltin.
+- [GitHub][issues],
   [Telegram](https://t.me/OrganicMapsTR) ve
-  [[matrix] (İngilizce)](https://matrix.to/#/#organicmaps:matrix.org) üzerinden diğer kullanıcılara yardımcı olun.
-- Bizi [Twitter (İngilizce)](https://twitter.com/OrganicMapsApp), [Facebook (İngilizce)](https://facebook.com/OrganicMaps) ve
+  [matrix (İngilizce)][matrix] üzerinden diğer kullanıcılara yardımcı olun.
+- Bizi [Twitter (İngilizce)][twitter], [Facebook (İngilizce)][facebook] ve
   [Instagram](https://instagram.com/OrganicMapsTR) üzerinden takip edin.
 - Herkese Organic Maps'ten bahsedin. Daha büyük bir topluluk daha güçlü bir topluluktur.
-- Bizi [Google Play](market://details?id=app.organicmaps),
-  [Apple Store](https://itunes.apple.com/app/id1567437057?action=write-review) ve
-  [Huawei Appgallery](appmarket://details?id=app.organicmaps)'de değerlendirin.
+- Bizi [Google Play][googleplay_review],
+  [Apple Store][appstore_review] ve
+  [Huawei Appgallery][appgallery_review]'de değerlendirin.
 - Her türlü yardıma açığız!
 
 Küçük ekibimiz, geri bildirimleriniz ve desteğiniz için çok minnettar. Organic Maps, kullanıcılarımız olmadan mümkün olamazdı❤️.
+
+{{ references(lang='tr') }}

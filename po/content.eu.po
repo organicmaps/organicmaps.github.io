@@ -551,7 +551,7 @@ msgstr "Beste moduren batean lagun gaitzakezu?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Bai! Organic Map-i laguntzeko modu asko daude. Mesedez begiratu [Lagun gaitzazu](@/support-us/index.md) orria detaile gehiagorako."
+msgstr "Bai! Organic Map-i laguntzeko modu asko daude. Mesedez begiratu [Lagun gaitzazu](@/support-us/index.eu.md) orria detaile gehiagorako."
 
 #. type: Plain text
 #: content/donate/index.md

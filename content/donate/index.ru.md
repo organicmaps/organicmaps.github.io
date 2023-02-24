@@ -58,17 +58,17 @@ Organic Maps существует исключительно благодаря 
 
 ## Как еще помочь?
 
-- Присоединяйтесь к [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи;
+- Присоединяйтесь к [русскоязычной группе в Telegram][telegram_chat_ru] для обратной связи и помощи;
 - Подключайтесь к программе тестирования бета-версий:
   - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
   - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
   - [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
   - [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
-- Сообщайте о проблемах и предлагайте новые идеи [на GitHub](https://github.com/organicmaps/organicmaps/issues) или [по почте](mailto:hello@organicmaps.app);
+- Сообщайте о проблемах и предлагайте новые идеи [на GitHub][issues] или [по почте](mailto:hello@organicmaps.app);
 - Нарисуйте свой дом и район вокруг в [OpenStreetMap](https://openstreetmap.org);
 - Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки.
-- Поучаствуйте в [разработке](https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md) приложения под Android и iOS;
-- Подпишитесь на нас в [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) и [Instagram](https://instagram.com/organicmaps.app/).
+- Поучаствуйте в [разработке][contributing] приложения под Android и iOS;
+- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram](https://instagram.com/organicmaps.app/).
 - Расскажите своим друзьям и знакомым.
 
 [stripe]: https://donate.organicmaps.app/ "Donate via Stripe"

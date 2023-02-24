@@ -101,16 +101,16 @@ Partecipa al nostro programma beta, suggerisci funzionalità e segnala bug:
 
 ## La comunità
 
-Organic Maps è un [software open-source](https://github.com/organicmaps/organicmaps) con licenza Apache 2.0.
+Organic Maps è un [software open-source][github] con licenza Apache 2.0.
 
-- Segnala bug o problemi tramite il [tracker dei problemi](https://github.com/organicmaps/organicmaps/issues) o [inviaci un email](mailto:hello@organicmaps.app).
+- Segnala bug o problemi tramite il [tracker dei problemi][issues] o [inviaci un email](mailto:hello@organicmaps.app).
 - [Discuti](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) idee o proponi richieste di funzionalità.
-- Iscriviti al nostro [Canale Telegram](https://t.me/OrganicMapsApp) o allo spazio [matrix](https://matrix.to/#/#organicmaps:matrix.org) per ricevere aggiornamenti.
-- Unisciti al nostro [Gruppo Telegram](https://t.me/OrganicMaps) per discutere con altri utenti.
-- Присоединяйтесь к нашей [русскоязычной группе в Telegram](https://t.me/OrganicMapsRu) для обратной связи и помощи.
+- Iscriviti al nostro [Canale Telegram](https://t.me/OrganicMapsApp) o allo spazio [matrix][matrix] per ricevere aggiornamenti.
+- Unisciti al nostro [Gruppo Telegram][telegram_chat] per discutere con altri utenti.
+- Присоединяйтесь к нашей [русскоязычной группе в Telegram][telegram_chat_ru] для обратной связи и помощи.
 - Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
-- Visita la nostra [pagina GitHub](https://github.com/organicmaps/organicmaps).
-- Segui i nostri aggiornamenti su [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).
+- Visita la nostra [pagina GitHub][github].
+- Segui i nostri aggiornamenti su [Facebook][facebook], [Twitter][twitter], [Instagram](https://instagram.com/organicmaps.app/).
 
 [fork]: https://it.wikipedia.org/wiki/Fork_(sviluppo_software)
 

@@ -74,7 +74,7 @@ Proszę rozważyć coroczną darowiznę, aby zmniejszyć całkowite opłaty.
 ## Czy można nam pomóc w jakiś inny sposób?
 
 Tak! Istnieje wiele sposobów na wsparcie Organic Maps. Więcej szczegółów
-znajdziesz na stronie [Wesprzyj nas](@/support-us/index.md).
+znajdziesz na stronie [Wesprzyj nas](@/support-us/index.pl.md).
 
 [stripe]: https://donate.organicmaps.app/ "Wesprzyj przez Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "Problemy na GitHub"

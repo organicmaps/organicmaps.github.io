@@ -561,7 +561,7 @@ msgstr "Tud más módon is segíteni nekünk?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért lásd a [Support Us](@/support-us/index.md) oldalt."
+msgstr "Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért lásd a [Support Us](@/support-us/index.hu.md) oldalt."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -666,7 +666,7 @@ msgstr "A fejlesztést különböző módokon lehet támogatni:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Adományozni](@/donate/index.md)! Minden dollár vagy euró számít, és segít nekünk a szerverek kifizetésében és a kapacitásuk növelésében."
+msgstr "[Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és segít nekünk a szerverek kifizetésében és a kapacitásuk növelésében."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

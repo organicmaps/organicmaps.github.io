@@ -9,7 +9,7 @@ extra:
 
 **Organic Maps** gezginler, turistler, yürüyüşçüler ve bisikletçiler için ücretsiz bir Android ve iOS çevrimdışı harita uygulamasıdır.
 Topluluk kaynaklı [**OpenStreetMap**][openstreetmap] verilerine dayanmaktadır.
-Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı][fork] olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
+Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı](https://tr.wikipedia.org/wiki/%C3%87atal_(yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme)) olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
 
 ### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] adresinden indirin ve yükleyin {#install}
 
@@ -101,18 +101,16 @@ Lütfen beta programımıza katılın, yeni özellikler önerin ve hataları bil
 
 ## Topluluk
 
-Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı yazılımdır](https://github.com/organicmaps/organicmaps).
+Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı yazılımdır][github].
 
-- [Sorun izleyicisine](https://github.com/organicmaps/organicmaps/issues) sorunları ve hataları bildirin.
+- [Sorun izleyicisine][issues] sorunları ve hataları bildirin.
 - Fikirleri [tartışın](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) ya da özellik istekleri önerin
 - Güncellemeler için [Telegram Kanalımıza](https://t.me/OrganicMapsApp) abone olun
-- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) veya [matrix odamıza](https://matrix.to/#/#organicmaps:matrix.org) katılın
-- Join our [Telegram Group](https://t.me/OrganicMaps) to discuss with other users.
-- [GitHub sayfamızı](https://github.com/organicmaps/organicmaps) ziyaret edin
+- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) veya [matrix odamıza][matrix] katılın
+- Join our [Telegram Group][telegram_chat] to discuss with other users.
+- [GitHub sayfamızı][github] ziyaret edin
 - [E-posta](mailto:hello@organicmaps.app) ile bizimle iletişime geçin
-- Güncellemelerimizi [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp) ve
+- Güncellemelerimizi [Facebook][facebook], [Twitter][twitter] ve
 - [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
-
-[fork]: https://tr.wikipedia.org/wiki/%C3%87atal_(yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme)
 
 {{ references(lang='tr') }}

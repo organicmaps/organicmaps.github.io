@@ -109,14 +109,14 @@ Rejoignez notre programme bêta, proposez vos fonctionnalités et signalez les b
 
 ## Communauté
 
-Organic Maps est un [logiciel libre](https://github.com/organicmaps/organicmaps) sous licence Apache 2.0.
+Organic Maps est un [logiciel libre][github] sous licence Apache 2.0.
 
-- Signalez les bogues ou les problèmes à [l'outil de suivi des problèmes](https://github.com/organicmaps/organicmaps/issues) ou [envoyez-nous un courriel](mailto:hello@organicmaps.app).
+- Signalez les bogues ou les problèmes à [l'outil de suivi des problèmes][issues] ou [envoyez-nous un courriel](mailto:hello@organicmaps.app).
 - [Discutez](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) des idées ou proposez des demandes de fonctionnalités.
 - Abonnez-vous à notre [Canal Telegram](https://t.me/OrganicMapsApp) ou à l'espace [matrix][matrix] pour les mises à jour.
-- Rejoignez notre [Groupe Telegram](https://t.me/OrganicMaps) pour discuter avec d'autres utilisateurs.
-- Visitez notre [page GitHub](https://github.com/organicmaps/organicmaps).
-- Suivez nos mises à jour sur <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook](https://facebook.com/OrganicMaps), [Twitter](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/).
+- Rejoignez notre [Groupe Telegram][telegram_chat] pour discuter avec d'autres utilisateurs.
+- Visitez notre [page GitHub][github].
+- Suivez nos mises à jour sur <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook][facebook], [Twitter][twitter], [Instagram](https://instagram.com/organicmaps.app/).
 
 
 {{ references(lang='fr') }}

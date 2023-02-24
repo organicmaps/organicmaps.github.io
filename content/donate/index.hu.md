@@ -16,7 +16,7 @@ Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
 - Nincsenek leküldéses értesítések
 - Nyílt forráskód
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons(lang='hu') }}
 
 ## Miért adományozzon az Organic Maps-nek?
 
@@ -54,7 +54,7 @@ Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
 
 ## Hogyan adományozhatok?
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons(lang='hu') }}
 
 Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil
 bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú
@@ -63,18 +63,18 @@ lehetőség.
 
 ### Banki átutalás
 
-{{ bank_transfer(lang='en') }}
+{{ bank_transfer(lang='hu') }}
 
 ### Kriptovaluta
 
 Kérjük, fontolja meg az éves adományozást, hogy csökkentse a teljes díjat.
 
-{{ crypto_table(lang='en') }}
+{{ crypto_table(lang='hu') }}
 
 ## Tud más módon is segíteni nekünk?
 
 Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért
-lásd a [Support Us](@/support-us/index.md) oldalt.
+lásd a [Support Us](@/support-us/index.hu.md) oldalt.
 
 [stripe]: https://donate.organicmaps.app/ "Adományozás Stripe-on keresztül"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Hibanaplók"

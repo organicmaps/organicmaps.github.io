@@ -16,7 +16,7 @@ Há diferentes maneiras de apoiar o desenvolvimento:
 - [Doar](@/donate/index.pt-BR.md)! Cada real conta e nos ajuda a pagar por
   servidores e crescimento.
 - Relate erros e compartilhe ideias no nosso [GitHub][github] ou via
-  [e-mail][email].
+  [e-mail][email_support].
 - Ajude-nos a [corrigir erros][contributing] e fazer revisões do código se
   você for um desenvolvedor. Cada pequeno problema corrigido faz alguém mais
   feliz.
@@ -30,12 +30,12 @@ Há diferentes maneiras de apoiar o desenvolvimento:
   transporte público][public_transport_validator], para que metrôs e VLTs
   funcionem no aplicativo.
 - Apoie outros usuários no [GitHub][issues], [Telegrama][telegram_chat],
-  [matrix][matrix], [Twitter][twitter], [Facebook][facebook] e
+  [Matrix][matrix], [Twitter][twitter], [Facebook][facebook] e
   [Instagram][instagram].
 - Conte a todos sobre o Organic Maps. Uma comunidade maior é uma comunidade
   mais forte.
-- Avalie-nos no [Google Play][googleplay], [Apple Store][appstore] e [Huawei
-  Appgallery][appgallery].
+- Avalie-nos no [Google Play][googleplay_review], [Apple Store][appstore_review] e [Huawei
+  Appgallery][appgallery_review].
 - Qualquer ajuda é bem-vinda!
 
 Nossa pequena equipe é muito grata por seu feedback e apoio. Organic Maps

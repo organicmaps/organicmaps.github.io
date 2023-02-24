@@ -547,7 +547,7 @@ msgstr "Můžete nám pomoci i jinak?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací naleznete na stránce [Podpořte nás](@/support-us/index.md)."
+msgstr "Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací naleznete na stránce [Podpořte nás](@/support-us/index.cs.md)."
 
 #. type: Plain text
 #: content/donate/index.md
