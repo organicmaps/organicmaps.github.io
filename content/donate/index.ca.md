@@ -73,7 +73,7 @@ Si us plau, considera fer donacions anuals per a reduir les quotes totals.
 ## Pots ajudar-nos d'alguna altra forma?
 
 Sí! Hi ha diverses maneres de fer costat a Organic Maps. Consulta la pàgina
-[Dona'ns suport](@/support-us/index.md) per a més detalls.
+[Dona'ns suport](@/support-us/index.ca.md) per a més detalls.
 
 [stripe]: https://donate.organicmaps.app/ "Donar via Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "Informes en GitHub"

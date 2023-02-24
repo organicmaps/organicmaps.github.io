@@ -16,7 +16,7 @@ Ada berbagai cara untuk mendukung pengembangan:
 - [Donasi](@/donate/index.id.md)! Setiap dolar atau euro sangat berarti dan
   membantu kami membayar peladen dan skala.
 - Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui
-  [surel][email].
+  [surel][email_support].
 - Bantu kami untuk [memperbaiki kutu][contributing] dan melakukan tinjauan
   kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki
   membuat seseorang lebih bahagia.
@@ -34,8 +34,8 @@ Ada berbagai cara untuk mendukung pengembangan:
   [Instagram][instagram].
 - Beri tahu semua orang tentang Organic Maps. Komunitas yang lebih besar
   adalah komunitas yang lebih kuat.
-- Beri ulasan di [Google Play][googleplay], [Apple Store][appstore], [Huawei
-  Appgallery][appgallery].
+- Beri ulasan di [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
+  Appgallery][appgallery_review].
 - Bantuan apa pun diterima!
 
 Tim kecil kami sangat berterima kasih atas masukan dan dukungan

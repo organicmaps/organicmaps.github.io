@@ -84,7 +84,7 @@ Utasítsd el a megfigyelést - gyakorold a szabadságodat.
 
 ## Ki fizet az ingyenes alkalmazásért?
 
-The app is free for everyone. Please [donate](@/donate/index.md) to support
+The app is free for everyone. Please [donate](@/donate/index.hu.md) to support
 us!
 
 ### Az adományozásnak különböző módjai vannak:

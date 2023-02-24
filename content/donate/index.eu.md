@@ -74,7 +74,7 @@ gutxitzeko.
 ## Beste moduren batean lagun gaitzakezu?
 
 Bai! Organic Map-i laguntzeko modu asko daude. Mesedez begiratu [Lagun
-gaitzazu](@/support-us/index.md) orria detaile gehiagorako.
+gaitzazu](@/support-us/index.eu.md) orria detaile gehiagorako.
 
 [stripe]: https://donate.organicmaps.app/ "Stripe bidezko dohaintzak"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub-eko arazoak"

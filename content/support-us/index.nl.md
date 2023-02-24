@@ -16,7 +16,7 @@ Er zijn verschillende manieren om de ontwikkeling te ondersteunen:
 - [Doneer](@/donate/index.nl.md)! Elke euro of dollar telt en helpt ons om
   servers te betalen en op te schalen.
 - Rapporteer bugs en deel ideeën op onze [GitHub][github] of via
-  [email][email].
+  [email][email_support].
 - Help ons om [fouten op te lossen][contributing] en kijk code na als je een
   ontwikkelaar bent. Elke kleine opgeloste fout maakt iemand blijer.
 - [Vertaal][translations] ontbrekende teksten in de interface van de app.
@@ -29,12 +29,12 @@ Er zijn verschillende manieren om de ontwikkeling te ondersteunen:
   [OV-controleerder][public_transport_validator], zodat metro's en sneltrams
   werken in de app.
 - Ondersteun andere gebruikers op [GitHub][issues],
-  [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter],
+  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
 - Vertel iedereen over Organic Maps. Een grotere community is een sterkere
   community.
-- Beoordeel ons op [Google Play][googleplay], [Apple Store][appstore],
-  [Huawei Appgallery][appgallery].
+- Beoordeel ons op [Google Play][googleplay_review], [Apple Store][appstore_review],
+  [Huawei Appgallery][appgallery_review].
 - Elke hulp is welkom!
 
 Ons kleine team is erg dankbaar voor jullie feedback en

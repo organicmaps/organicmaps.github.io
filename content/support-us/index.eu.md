@@ -16,7 +16,7 @@ Garapenean laguntzeko hainbat modu daude:
 - [Dohaintzak](@/donate/index.eu.md)! Dolar edo Euro guztiak behar ditugu
   eta zerbitzariak ordaindu eta handitzen laguntzen digute.
 - Bidali akatsak edo zure ideiak elkarbanatu [GitHub-en][github] edo
-  [epostaz][email].
+  [epostaz][email_support].
 - Lagundu egiguzu [akatsak konpontzen][contributing] eta kodea gainbegiratu
   garatzailea bazara. Konpontzen dugun arazo txiki bakoitzak zoriontsuago
   egiten du norbait.
@@ -30,12 +30,12 @@ Garapenean laguntzeko hainbat modu daude:
   balidatzaileak][public_transport_validator] aurkitutako hiri gorriak,
   metro eta tranbiak ondo funtzionatu dezan app-ean.
 - Lagundu beste erabiltzaileei hemen: [GitHub][issues],
-  [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter],
+  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
 - Jende guztiari kontatu guri buruz. Komunitate handiago bat indartsuagoa
   izango da.
-- Baloratu gaitzazu [Google Play][googleplay], [Apple Store][appstore], eta
-  [Huawei Appgallery][appgallery]-n.
+- Baloratu gaitzazu [Google Play][googleplay_review], [Apple Store][appstore_review], eta
+  [Huawei Appgallery][appgallery_review]-n.
 - Edozein laguntza da ongi-etorria!
 
 Gure talde txikia oso eskertuta dago zure iradokizun eta

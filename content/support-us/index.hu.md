@@ -13,31 +13,31 @@ fejlesztette a közösség segítségével.
 
 A fejlesztést különböző módokon lehet támogatni:
 
-- [Adományozni](@/donate/index.md)! Minden dollár vagy euró számít, és segít
+- [Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és segít
   nekünk a szerverek kifizetésében és a kapacitásuk növelésében.
 - Jelentsd a hibákat és oszd meg ötleteidet [GitHub][github]-on vagy
-  [email][email]-en keresztül.
+  [email][email_support]-en keresztül.
 - Help us to [fix bugs][contributing] and do code reviews if you are a
   developer. Every fixed small issue makes someone happier.
 - [Fordítás][translations] hiányzó karakterláncok az alkalmazás felületén.
 - Fordítsa le az [App Store][translations_appstore] és
   [Android][translations_googleplay] leírásokat az Ön nyelvére.
 - [Fordítsa le][translations_website] weboldalunkat az Ön nyelvére.
-- Csatlakozzon az [OpenStreetMap][openstreemap] közösséghez, és járuljon
+- Csatlakozzon az [OpenStreetMap][openstreetmap] közösséghez, és járuljon
   hozzá a térkép adataihoz.
 - Fix red cities found by our [public transport
   validator][public_transport_validator], for subways and light rails to
   work in the app.
 - Támogasd a többi felhasználót a [GitHub]-[issues],
-  [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter],
+  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram] szolgáltatásokon.
 - Meséljen mindenkinek az Organic Maps-ről. Egy nagyobb közösség, az egy
   erősebb közösség.
-- Értékeljen minket a [Google Play][googleplay], [App Store][appstore],
-  [Huawei Appgallery][appgallery] felületeken.
+- Értékeljen minket a [Google Play][googleplay_review], [App Store][appstore_review],
+  [Huawei Appgallery][appgallery_review] felületeken.
 - Bármilyen segítséget szívesen fogadunk!
 
 Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az Organic
 Maps nem lenne lehetséges a felhasználóink nélkül ❤️.
 
-{{ references(lang='en') }}
+{{ references(lang='hu') }}

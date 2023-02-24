@@ -279,7 +279,7 @@ msgstr "谁在为免费的应用付费？"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "该应用对每个人都是免费的。请[捐赠](@/donate/index.md)以支持我们！"
+msgstr "该应用对每个人都是免费的。请[捐赠](@/donate/index.zh-Hans.md)以支持我们！"
 
 #. type: Title ###
 #: content/_index.md
@@ -582,7 +582,7 @@ msgstr "你能以任何其他方式帮助我们吗？"
 #: content/donate/index.md
 #, fuzzy
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "是的!有很多方法可以支持有机地图。请参阅[支持我们](@/support-us/index.md)页面了解更多细节。"
+msgstr "是的!有很多方法可以支持有机地图。请参阅[支持我们](@/support-us/index.zh-Hans.md)页面了解更多细节。"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -692,7 +692,7 @@ msgstr "有若干方式来支持我们开发："
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[捐赠](@/donate/index.md)! 每一块钱都很重要，都能帮助我们支付服务器和扩展规模的费用。"
+msgstr "[捐赠](@/donate/index.zh-Hans.md)! 每一块钱都很重要，都能帮助我们支付服务器和扩展规模的费用。"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

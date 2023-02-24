@@ -89,7 +89,7 @@ Odrzuć inwigilację - ogarnij swoją wolność.
 ## Kto płaci za darmową aplikację?
 
 Aplikacja jest darmowa dla wszystkich. Prosimy o [przekazanie
-darowizny](@/donate/index.md), aby nas wesprzeć!
+darowizny](@/donate/index.pl.md), aby nas wesprzeć!
 
 ### Istnieją różne sposoby wsparcia:
 
