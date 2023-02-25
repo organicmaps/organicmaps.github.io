@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-21 06:16+0000\nLast-Translator: nautilusx <translate@disroot.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-22 18:37+0000\nLast-Translator: nautilusx <translate@disroot.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -740,7 +740,7 @@ msgstr "Du kannst eine Kopie der Lizenz unter [http://www.apache.org/licenses/LI
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr "Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf einer \"Ist-Zustand\" BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART, weder explizit noch implizit, angeboten. Nähere Informationen, die genaue Formulierung, Berechtigungen und Einschränkungen findest du in der Lizenz."
+msgstr "Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf einer \"Ist-Zustand\"-BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART, weder explizit noch implizit, angeboten. Nähere Informationen, die genaue Formulierung, Berechtigungen und Einschränkungen findest du in der Lizenz."
 
 #. type: Plain text
 #: content/terms/index.md
