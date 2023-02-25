@@ -32,8 +32,8 @@ Organic Maps - це безплатний додаток з відкритим в
   [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
 - Розкажіть усім про Organic Maps. Більша спільнота – сильніша спільнота.
-- Оцініть нас у [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
-  Appgallery][appgallery_review].
+- Оцініть нас у [Google Play][googleplay_review], [Apple
+  Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Будь-яка допомога вітається!
 
 Наша невелика команда дуже вдячна за ваші відгуки та підтримку. Ми не змогли

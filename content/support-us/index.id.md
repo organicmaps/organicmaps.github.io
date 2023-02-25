@@ -34,8 +34,8 @@ Ada berbagai cara untuk mendukung pengembangan:
   [Instagram][instagram].
 - Beri tahu semua orang tentang Organic Maps. Komunitas yang lebih besar
   adalah komunitas yang lebih kuat.
-- Beri ulasan di [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
-  Appgallery][appgallery_review].
+- Beri ulasan di [Google Play][googleplay_review], [Apple
+  Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Bantuan apa pun diterima!
 
 Tim kecil kami sangat berterima kasih atas masukan dan dukungan

@@ -34,8 +34,8 @@ Hi ha diferents maneres de fer costat al desenvolupament:
   [Facebook][facebook], [Instagram][instagram].
 - Comenta-li a tothom sobre Organic Maps. Una comunitat més gran és una
   comunitat més forta.
-- Valora'ns en [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
-  Appgallery][appgallery_review].
+- Valora'ns en [Google Play][googleplay_review], [Apple
+  Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Tota ajuda és benvinguda!
 
 El nostre petit equip està molt agraït pels teus comentaris i

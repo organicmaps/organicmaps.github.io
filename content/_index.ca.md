@@ -85,7 +85,7 @@ Rebutgi la vigilància. Assumeixi la seva llibertat.
 ## Qui paga per l'aplicació gratuïta?
 
 L'aplicació és gratuïta per a tothom. Si us plau
-[donar](@/donate/index.es.md) per a donar-nos suport!
+[donar](@/donate/index.ca.md) per a donar-nos suport!
 
 ### Hi ha diferents maneres de donar:
 

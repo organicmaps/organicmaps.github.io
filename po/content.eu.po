@@ -695,8 +695,8 @@ msgstr "Konpondu gure [garraio publikoaren balidatzaileak][public_transport_vali
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr "Lagundu beste erabiltzaileei hemen: [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "Lagundu beste erabiltzaileei hemen: [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

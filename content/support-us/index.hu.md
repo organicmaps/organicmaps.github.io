@@ -13,28 +13,29 @@ fejlesztette a közösség segítségével.
 
 A fejlesztést különböző módokon lehet támogatni:
 
-- [Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és segít
-  nekünk a szerverek kifizetésében és a kapacitásuk növelésében.
+- [Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és
+  segít nekünk a szerverek kifizetésében és a kapacitásuk növelésében.
 - Jelentsd a hibákat és oszd meg ötleteidet [GitHub][github]-on vagy
   [email][email]-en keresztül.
-- Help us to [fix bugs][contributing] and do code reviews if you are a
-  developer. Every fixed small issue makes someone happier.
+- Segíts nekünk [hibák kijavításában][contributing]-ben és kódellenőrzésben,
+  ha fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz.
 - [Fordítás][translations] hiányzó karakterláncok az alkalmazás felületén.
 - Fordítsa le az [App Store][translations_appstore] és
   [Android][translations_googleplay] leírásokat az Ön nyelvére.
 - [Fordítsa le][translations_website] weboldalunkat az Ön nyelvére.
 - Csatlakozzon az [OpenStreetMap][openstreetmap] közösséghez, és járuljon
   hozzá a térkép adataihoz.
-- Fix red cities found by our [public transport
-  validator][public_transport_validator], for subways and light rails to
-  work in the app.
+- A [tömegközlekedési validátor][public_transport_validator] által talált
+  piros városok javítása, hogy a metrók és a kisvasutak működjenek az
+  alkalmazásban.
 - Támogasd a többi felhasználót a [GitHub]-[issues],
   [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram] szolgáltatásokon.
 - Meséljen mindenkinek az Organic Maps-ről. Egy nagyobb közösség, az egy
   erősebb közösség.
-- Értékeljen minket a [Google Play][googleplay_review], [App Store][appstore_review],
-  [Huawei Appgallery][appgallery_review] felületeken.
+- Értékeljen minket a [Google Play][googleplay_review], [App
+  Store][appstore_review], [Huawei Appgallery][appgallery_review]
+  felületeken.
 - Bármilyen segítséget szívesen fogadunk!
 
 Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az Organic

@@ -205,13 +205,11 @@ msgstr "Nincsenek leküldéses értesítések"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "No crapware"
 msgstr "Nincs crapware"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "~~No pesticides~~ Purely organic!"
 msgstr "~~Nincsenek növényvédő szerek~~ Tisztán bio!"
 
@@ -222,9 +220,8 @@ msgstr "Az alkalmazás az [Exodus Privacy Project][exodus] által ellenőrzött:
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='en') }}"
+msgstr "{{ exodus_screenshot(lang='hu') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -233,9 +230,8 @@ msgstr "Az Organic Maps nem kér rengeteg engedélyt, hogy kémkedjen Ön után:
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='en') }}"
+msgstr "{{ privacy_screenshots(lang='hu') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -276,9 +272,8 @@ msgstr "Ki fizet az ingyenes alkalmazásért?"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon][adományozzon], hogy támogasson minket!"
+msgstr "Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon](@/donate/index.hu.md), hogy támogasson minket!"
 
 #. type: Title ###
 #: content/_index.md
@@ -288,9 +283,8 @@ msgstr "Az adományozásnak különböző módjai vannak:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-#, fuzzy
 msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='en') }}"
+msgstr "{{ donate_buttons(lang='hu') }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -346,9 +340,8 @@ msgstr "Jelentsd a hibákat vagy problémákat [a hibakövetőnkbe][issues] vagy
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Vita][ötletek] ötletek vagy funkciókérések."
+msgstr "[Vita][ideas] ötletek vagy funkciókérések."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -374,13 +367,12 @@ msgstr "Kövesse frissítéseinket, újdonságainkat a [Mastodon][mastodon], [Fa
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29)\n"
+msgstr "[fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-#, fuzzy
 msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='en') }}"
+msgstr "{{ references(lang='hu') }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -531,7 +523,6 @@ msgstr "Banki átutalás"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy
 msgid "{{ bank_transfer(lang='en') }}"
 msgstr "{{ bank_transfer(lang='hu') }}"
 
@@ -548,9 +539,8 @@ msgstr "Kérjük, fontolja meg az éves adományozást, hogy csökkentse a telje
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy
 msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='en') }}"
+msgstr "{{ crypto_table(lang='hu') }}"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -675,9 +665,8 @@ msgstr "Jelentsd a hibákat és oszd meg ötleteidet [GitHub][github]-on vagy [e
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Segíts nekünk [hibák kijavításában][közreműködés]-ben és kódellenőrzésben, ha fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz."
+msgstr "Segíts nekünk [hibák kijavításában][contributing]-ben és kódellenőrzésben, ha fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -697,18 +686,17 @@ msgstr "[Fordítsa le][translations_website] weboldalunkat az Ön nyelvére."
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Csatlakozzon az [OpenStreetMap][openstreemap] közösséghez, és járuljon hozzá a térkép adataihoz."
+msgstr "Csatlakozzon az [OpenStreetMap][openstreetmap] közösséghez, és járuljon hozzá a térkép adataihoz."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, fuzzy
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
 msgstr "A [tömegközlekedési validátor][public_transport_validator] által talált piros városok javítása, hogy a metrók és a kisvasutak működjenek az alkalmazásban."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr "Támogasd a többi felhasználót a [GitHub]-[issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] szolgáltatásokon."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "Támogasd a többi felhasználót a [GitHub]-[issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] szolgáltatásokon."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -760,13 +748,11 @@ msgstr "A Licenc egy példányát a [http://www.apache.org/licenses/LICENSE-2.0]
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgstr "Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem állapodtak meg, a Licenc alapján terjesztett szoftver \"AZONOS\" ALAPON kerül terjesztésre, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁMOGATÁS ÉS FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra vonatkozó konkrét nyelvezetet lásd a Licencben."
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
 msgstr "A [GitHub][github] következő könyvtáraiban található könyvtárak többsége más emberek és szervezetek által készített és különböző módon engedélyezett:"
 
@@ -782,24 +768,25 @@ msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr "A felhasználási feltételeket lásd a LICENSE, COPYING vagy NOTICE fájlokban."
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
 msgstr "Lásd még a [data/copyright.html][copyright] fájlt az Organic Maps alkalmazás szerzői jogi közleményeinek teljes listájáért."
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -809,7 +796,7 @@ msgstr "Cím"
 
 #. type: Hash Value: back
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Back to News"
 msgstr "Vissza a Hírekhez"
 
@@ -821,25 +808,25 @@ msgstr "Kapcsolat"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
 msgstr "Telepítse az Organic Maps-et a Huawei AppGalériából"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Install Organic Maps from the AppStore"
 msgstr "Telepítse az Organic Maps-et az AppStore-ból"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Install Organic Maps from F-Droid"
 msgstr "Telepítse az Organic Maps-et az F-Droidról"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Install Organic Maps from Google Play"
 msgstr "Telepítse az Organic Maps-et a Google Play-ről"
 

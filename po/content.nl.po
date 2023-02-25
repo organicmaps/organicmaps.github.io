@@ -35,6 +35,7 @@ msgstr "Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie"
 
 #. type: Plain text
 #: content/_index.md
+#, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "**Organic Maps** is een gratis Android & iOS offline kaartenapp voor reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete **[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, open-source [fork][fork] van de app **Maps.me** (voorheen bekend als [**MapsWithMe**][mapswithme]), en wordt onderhouden door dezelfde mensen die **MapsWithMe** hebben gemaakt in 2011.\n"
 
@@ -694,8 +695,8 @@ msgstr "Repareer rode steden gevonden door onze [OV-controleerder][public_transp
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr "Ondersteun andere gebruikers op [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "Ondersteun andere gebruikers op [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
