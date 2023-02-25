@@ -13,8 +13,8 @@ entuzjastów z pomocą społeczności.
 
 Wspierać rozwój można na różne sposoby:
 
-- [Podaruj](@/donate/index.pl.md)! Każdy dolar lub euro się liczy i pomaga nam
-  opłacić serwery i skalę działań.
+- [Podaruj](@/donate/index.pl.md)! Każdy dolar lub euro się liczy i pomaga
+  nam opłacić serwery i skalę działań.
 - Zgłaszaj błędy i dziel się pomysłami na naszym [GitHub][github] lub przez
   [e-mail][email].
 - Pomóż nam [naprawiać błędy][contributing] i rób przeglądy kodu, jeśli
@@ -34,8 +34,8 @@ Wspierać rozwój można na różne sposoby:
   [Facebook][facebook], [Instagram][instagram].
 - Powiedz wszystkim o Organic Maps. Większa społeczność to silniejsza
   społeczność.
-- Oceń nas w [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei
-  Appgallery][appgallery_review].
+- Oceń nas w [Google Play][googleplay_review], [Apple
+  Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Każda pomoc jest mile widziana!
 
 Nasz mały zespół jest bardzo wdzięczny za Wasze opinie i wsparcie. Organic

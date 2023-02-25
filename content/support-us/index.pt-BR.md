@@ -34,8 +34,8 @@ Há diferentes maneiras de apoiar o desenvolvimento:
   [Instagram][instagram].
 - Conte a todos sobre o Organic Maps. Uma comunidade maior é uma comunidade
   mais forte.
-- Avalie-nos no [Google Play][googleplay_review], [Apple Store][appstore_review] e [Huawei
-  Appgallery][appgallery_review].
+- Avalie-nos no [Google Play][googleplay_review], [Apple
+  Store][appstore_review] e [Huawei Appgallery][appgallery_review].
 - Qualquer ajuda é bem-vinda!
 
 Nossa pequena equipe é muito grata por seu feedback e apoio. Organic Maps

@@ -60,16 +60,16 @@ Az Organic Maps alkalmazás mentes a nyomkövetőktől és egyéb rossz dolgokt�
 - Nincsenek kötelező oktatóprogramok
 - Nincs e-mail spam
 - Nincsenek leküldéses értesítések
-- No crapware
-- ~~No pesticides~~ Purely organic!
+- Nincs crapware
+- ~~Nincsenek növényvédő szerek~~ Tisztán bio!
 
 Az alkalmazás az [Exodus Privacy Project][exodus] által ellenőrzött:
 
-{{ exodus_screenshot(lang='en') }}
+{{ exodus_screenshot(lang='hu') }}
 
 Az Organic Maps nem kér rengeteg engedélyt, hogy kémkedjen Ön után:
 
-{{ privacy_screenshots(lang='en') }}
+{{ privacy_screenshots(lang='hu') }}
 
 Az Organic Mapsnél hiszünk abban, hogy a magánélet alapvető emberi jog:
 
@@ -84,12 +84,12 @@ Utasítsd el a megfigyelést - gyakorold a szabadságodat.
 
 ## Ki fizet az ingyenes alkalmazásért?
 
-The app is free for everyone. Please [donate](@/donate/index.hu.md) to support
-us!
+Az alkalmazás mindenki számára ingyenes. Kérjük,
+[adományozzon](@/donate/index.hu.md), hogy támogasson minket!
 
 ### Az adományozásnak különböző módjai vannak:
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons(lang='hu') }}
 
 ### Szponzoraink:
 
@@ -111,7 +111,7 @@ License 2.0-t használja.
   * [Asztali Linux Béta (csomagok)][repology]
 - Jelentsd a hibákat vagy problémákat [a hibakövetőnkbe][issues] vagy [küldj
   számunkra egy e-mailt][email].
-- [Discuss][ideas] ideas or propose feature requests.
+- [Vita][ideas] ötletek vagy funkciókérések.
 - Iratkozz fel a [Telegram csatornánkra][telegram] vagy a [matrix
   terünkre][matrix] az újdonságokért.
 - Csatlakozz a [Telegram csoportunkhoz][telegram_chat], hogy beszélgethess a
@@ -121,6 +121,6 @@ License 2.0-t használja.
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram] és
   [Reddit][reddit] szolgáltatásokon.
 
-[fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29)
+[fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29
 
-{{ references(lang='en') }}
+{{ references(lang='hu') }}

@@ -691,7 +691,7 @@ msgstr "Oprava červených měst nalezených naším validátorem [public transp
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr "Podpořte ostatní uživatele na [GitHubu][issues], [Telegramu][telegram_chat], [matrixu][matrix], [Twitteru][twitter], [Facebooku][facebook], [Instagramu][instagram]."
 
 #. type: Bullet: '- '

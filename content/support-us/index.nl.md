@@ -33,8 +33,8 @@ Er zijn verschillende manieren om de ontwikkeling te ondersteunen:
   [Facebook][facebook], [Instagram][instagram].
 - Vertel iedereen over Organic Maps. Een grotere community is een sterkere
   community.
-- Beoordeel ons op [Google Play][googleplay_review], [Apple Store][appstore_review],
-  [Huawei Appgallery][appgallery_review].
+- Beoordeel ons op [Google Play][googleplay_review], [Apple
+  Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Elke hulp is welkom!
 
 Ons kleine team is erg dankbaar voor jullie feedback en

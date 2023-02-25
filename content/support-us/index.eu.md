@@ -34,8 +34,8 @@ Garapenean laguntzeko hainbat modu daude:
   [Facebook][facebook], [Instagram][instagram].
 - Jende guztiari kontatu guri buruz. Komunitate handiago bat indartsuagoa
   izango da.
-- Baloratu gaitzazu [Google Play][googleplay_review], [Apple Store][appstore_review], eta
-  [Huawei Appgallery][appgallery_review]-n.
+- Baloratu gaitzazu [Google Play][googleplay_review], [Apple
+  Store][appstore_review], eta [Huawei Appgallery][appgallery_review]-n.
 - Edozein laguntza da ongi-etorria!
 
 Gure talde txikia oso eskertuta dago zure iradokizun eta
