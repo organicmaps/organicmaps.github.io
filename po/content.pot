@@ -799,7 +799,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 msgstr ""
 
 #. type: Bullet: '- '

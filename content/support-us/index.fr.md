@@ -13,7 +13,7 @@ Il existe différentes façons de soutenir le développement :
 
 - [Donnez](@/donate/index.fr.md)! Chaque dollar ou euro compte et nous aide à payer les serveurs et la montée en charge.
 - Signalez les bogues et partagez vos idées sur notre [GitHub][issues]
-  ou via [email][email_support].
+  ou via [email][email].
 - Aidez-nous à [corriger les bugs][contributing]
   et faites des revues de code si vous êtes un développeur. Chaque petit problème résolu rend quelqu'un plus heureux.
 - [Traduire][translations]

@@ -103,14 +103,14 @@ Partecipa al nostro programma beta, suggerisci funzionalità e segnala bug:
 
 Organic Maps è un [software open-source][github] con licenza Apache 2.0.
 
-- Segnala bug o problemi tramite il [tracker dei problemi][issues] o [inviaci un email](mailto:hello@organicmaps.app).
-- [Discuti](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) idee o proponi richieste di funzionalità.
-- Iscriviti al nostro [Canale Telegram](https://t.me/OrganicMapsApp) o allo spazio [matrix][matrix] per ricevere aggiornamenti.
+- Segnala bug o problemi tramite il [tracker dei problemi][issues] o [inviaci un email][email].
+- [Discuti][ideas] idee o proponi richieste di funzionalità.
+- Iscriviti al nostro [Canale Telegram][telegram] o allo spazio [matrix][matrix] per ricevere aggiornamenti.
 - Unisciti al nostro [Gruppo Telegram][telegram_chat] per discutere con altri utenti.
 - Присоединяйтесь к нашей [русскоязычной группе в Telegram][telegram_chat_ru] для обратной связи и помощи.
 - Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
 - Visita la nostra [pagina GitHub][github].
-- Segui i nostri aggiornamenti su [Facebook][facebook], [Twitter][twitter], [Instagram](https://instagram.com/organicmaps.app/).
+- Segui i nostri aggiornamenti su [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
 
 [fork]: https://it.wikipedia.org/wiki/Fork_(sviluppo_software)
 

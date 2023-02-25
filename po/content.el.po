@@ -564,7 +564,7 @@ msgstr "Τραπεζικό έμβασμα"
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ bank_transfer(lang='en') }}"
-msgstr ""
+msgstr "{{ bank_transfer(lang='el') }}"
 
 #. type: Title ###
 #: content/donate/index.md

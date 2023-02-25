@@ -705,8 +705,8 @@ msgstr "Jende guztiari kontatu guri buruz. Komunitate handiago bat indartsuagoa 
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "Baloratu gaitzazu [Google Play][googleplay], [Apple Store][appstore], eta [Huawei Appgallery][appgallery]-n."
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "Baloratu gaitzazu [Google Play][googleplay_review], [Apple Store][appstore_review], eta [Huawei Appgallery][appgallery_review]-n."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

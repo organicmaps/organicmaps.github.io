@@ -3,8 +3,7 @@
 [appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "{{ trans(key='install-appstore', lang=lang) }}"
 [appstore_review]: https://itunes.apple.com/app/id1567437057?action=write-review
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
-[email]: mailto:hello@organicmaps.app
-[email_support]: mailto:support@organicmaps.app
+[email]: mailto:support@organicmaps.app
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
 [facebook]: https://facebook.com/OrganicMaps
 [fdroid]: https://f-droid.org/{{ lang }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"

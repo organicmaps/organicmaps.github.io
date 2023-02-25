@@ -16,7 +16,7 @@ Hi ha diferents maneres de fer costat al desenvolupament:
 - [Donar](@/donate/index.ca.md)! Cada dòlar o euro compta i ens ajuda a
   pagar els servidors i ampliar l'escala.
 - Informa d'errors i comparteix idees en el nostre [GitHub][github] o a
-  través de [email][email_support].
+  través de [email][email].
 - Ajuda'ns a [corregir errores][contributing] i fer revisions de codi si ets
   desenvolupadorx. Cada petit problema solucionat fa més feliç a algú.
 - [Tradueixi][translations] cadenes que falten en la interfície de

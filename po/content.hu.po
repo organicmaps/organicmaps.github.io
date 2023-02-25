@@ -533,7 +533,7 @@ msgstr "Banki átutalás"
 #: content/donate/index.md
 #, fuzzy
 msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='en') }}"
+msgstr "{{ bank_transfer(lang='hu') }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -717,8 +717,8 @@ msgstr "Meséljen mindenkinek az Organic Maps-ről. Egy nagyobb közösség, az 
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "Értékeljen minket a [Google Play][googleplay], [App Store][appstore], [Huawei Appgallery][appgallery] felületeken."
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "Értékeljen minket a [Google Play][googleplay_review], [App Store][appstore_review], [Huawei Appgallery][appgallery_review] felületeken."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

@@ -59,11 +59,11 @@ Organic Maps развивается сообществом энтузиасто�
   * [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
   * [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
   * [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
-- Сообщайте о проблемах и предлагайте новые идеи [на GitHub][issues] или [по почте](mailto:hello@organicmaps.app);
+- Сообщайте о проблемах и предлагайте новые идеи [на GitHub][issues] или [по почте][email];
 - Нарисуйте свой дом и район вокруг в [OpenStreetMap](https://openstreetmap.org);
 - Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки.
 - Поучаствуйте в [разработке][contributing] приложения под Android и iOS;
-- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram](https://instagram.com/organicmaps.app/).
+- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram].
 - Расскажите своим друзьям и знакомым.
 
 {{ references(lang='ru') }}

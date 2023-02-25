@@ -16,7 +16,7 @@ Há diferentes maneiras de apoiar o desenvolvimento:
 - [Doar](@/donate/index.pt-BR.md)! Cada real conta e nos ajuda a pagar por
   servidores e crescimento.
 - Relate erros e compartilhe ideias no nosso [GitHub][github] ou via
-  [e-mail][email_support].
+  [e-mail][email].
 - Ajude-nos a [corrigir erros][contributing] e fazer revisões do código se
   você for um desenvolvedor. Cada pequeno problema corrigido faz alguém mais
   feliz.
