@@ -694,8 +694,8 @@ msgstr "Comenta-li a tothom sobre Organic Maps. Una comunitat més gran és una 
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "Valora'ns en [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "Valora'ns en [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

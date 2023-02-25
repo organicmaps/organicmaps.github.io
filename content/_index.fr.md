@@ -111,12 +111,12 @@ Rejoignez notre programme bêta, proposez vos fonctionnalités et signalez les b
 
 Organic Maps est un [logiciel libre][github] sous licence Apache 2.0.
 
-- Signalez les bogues ou les problèmes à [l'outil de suivi des problèmes][issues] ou [envoyez-nous un courriel](mailto:hello@organicmaps.app).
-- [Discutez](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) des idées ou proposez des demandes de fonctionnalités.
-- Abonnez-vous à notre [Canal Telegram](https://t.me/OrganicMapsApp) ou à l'espace [matrix][matrix] pour les mises à jour.
+- Signalez les bogues ou les problèmes à [l'outil de suivi des problèmes][issues] ou [envoyez-nous un courriel][email].
+- [Discutez][ideas] des idées ou proposez des demandes de fonctionnalités.
+- Abonnez-vous à notre [Canal Telegram][telegram] ou à l'espace [matrix][matrix] pour les mises à jour.
 - Rejoignez notre [Groupe Telegram][telegram_chat] pour discuter avec d'autres utilisateurs.
 - Visitez notre [page GitHub][github].
-- Suivez nos mises à jour sur <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook][facebook], [Twitter][twitter], [Instagram](https://instagram.com/organicmaps.app/).
+- Suivez nos mises à jour sur <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
 
 
 {{ references(lang='fr') }}

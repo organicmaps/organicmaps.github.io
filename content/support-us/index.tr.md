@@ -13,7 +13,7 @@ ve topluluğun yardımıyla teknoloji tutkunları tarafından geliştirilir.
 Bizi desteklemenin farklı yolları var:
 
 - [Bağış yapın](@/donate/index.tr.md)! Her bir dolar veya avro önemlidir. Bağışlar, sunucular için ödeme yapmamıza yardımcı oluyor.
-- [GitHub][issues] veya [e-posta][email_support] üzerinden hataları bildirin ve fikirlerinizi paylaşın.
+- [GitHub][issues] veya [e-posta][email] üzerinden hataları bildirin ve fikirlerinizi paylaşın.
 - Eğer bir geliştiriciyseniz [hataları düzeltmemize][contributing] yardım edin
   ve kodları gözden geçirin. Düzeltilen her küçük hata birilerini daha mutlu eder.
 - Uygulama arayüzündeki eksik dizeleri [çevirin][translations].

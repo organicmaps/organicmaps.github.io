@@ -16,7 +16,7 @@ Er zijn verschillende manieren om de ontwikkeling te ondersteunen:
 - [Doneer](@/donate/index.nl.md)! Elke euro of dollar telt en helpt ons om
   servers te betalen en op te schalen.
 - Rapporteer bugs en deel ideeën op onze [GitHub][github] of via
-  [email][email_support].
+  [email][email].
 - Help ons om [fouten op te lossen][contributing] en kijk code na als je een
   ontwikkelaar bent. Elke kleine opgeloste fout maakt iemand blijer.
 - [Vertaal][translations] ontbrekende teksten in de interface van de app.

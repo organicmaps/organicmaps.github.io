@@ -108,14 +108,12 @@ Prosíme, připojte se k našemu beta programu, navrhujte nové funkce a nahlaš
 Organic Maps je [open-source software][github]
 licencovaný pod Apache License 2.0.
 
-- Nahlašte chyby nebo problémy [trackeru problémů][issues], nebo nám [napište email](mailto:hello@organicmaps.app).
-- [Diskutujte](https://github.com/organicmaps/organicmaps/discussions/categories/ideas) nápady nebo navrhněte žádosti o funkce.
-- Odebírejte náš [Telegram kanál](https://t.me/OrganicMapsApp) nebo [matrix space][matrix] pro novinky.
+- Nahlašte chyby nebo problémy [trackeru problémů][issues], nebo nám [napište email][email].
+- [Diskutujte][ideas] nápady nebo navrhněte žádosti o funkce.
+- Odebírejte náš [Telegram kanál][telegram] nebo [matrix space][matrix] pro novinky.
 - Připojte se do naší [Telegram skupiny][telegram_chat] k diskutování s ostatními uživateli.
-- Присоединяйтесь к нашей [русскоязычной группе в Telegram][telegram_chat_ru] для обратной связи и помощи.
-- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) katılın.
 - Navštivte naši [GitHub stránku][github].
 - Sledujte naše novinky na <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodonu</a>, [Facebooku][facebook], [Twitteru][twitter] a
-[Instagramu](https://instagram.com/organicmaps.app/).
+[Instagramu][instagram].
 
 {{ references(lang='cs') }}

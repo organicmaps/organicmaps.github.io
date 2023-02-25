@@ -696,8 +696,8 @@ msgstr "ऑर्गेनिक मैप्स के बारे में �
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "हमें [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery] में रेट करें।"
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "हमें [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review] में रेट करें।"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

@@ -16,7 +16,7 @@ Ada berbagai cara untuk mendukung pengembangan:
 - [Donasi](@/donate/index.id.md)! Setiap dolar atau euro sangat berarti dan
   membantu kami membayar peladen dan skala.
 - Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui
-  [surel][email_support].
+  [surel][email].
 - Bantu kami untuk [memperbaiki kutu][contributing] dan melakukan tinjauan
   kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki
   membuat seseorang lebih bahagia.

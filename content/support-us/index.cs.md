@@ -12,7 +12,7 @@ Organic Maps je svobodná, open-source aplikace. Neobsahuje reklamy, nesbírá v
 Vývoj lze podpořit různými způsoby:
 
 - [Darujte](@/donate/index.cs.md)! Každý dolar nebo euro se počítá a pomáhá nám zaplatit za servery a zvětšovat se.
-- Nahlašujte chyby a sdílejte nápady na našem [GitHubu][issues] nebo přes [email][email_support].
+- Nahlašujte chyby a sdílejte nápady na našem [GitHubu][issues] nebo přes [email][email].
 - Pomozte nám [opravit chyby][contributing] a dělejte revize kódu, pokud jste vývojáři. Každý vyřešený malý problém udělá někoho šťastnějším.
 - [Přeložte][translations]
   chybějící řetězce v rozhraní aplikace.

@@ -551,7 +551,7 @@ msgstr "Чи можете ви допомогти нам ще якимось ч�
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Так! Існує багато способів підтримати Organic Maps. Будь ласка, відвідайте сторінку [Підтримайте нас](@/support-us/index.ru.md) для отримання більш детальної інформації."
+msgstr "Так! Існує багато способів підтримати Organic Maps. Будь ласка, відвідайте сторінку [Підтримайте нас](@/support-us/index.uk.md) для отримання більш детальної інформації."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -705,8 +705,8 @@ msgstr "Розкажіть усім про Organic Maps. Більша спіль
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "Оцініть нас у [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "Оцініть нас у [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

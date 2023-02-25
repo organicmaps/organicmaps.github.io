@@ -16,7 +16,7 @@ Garapenean laguntzeko hainbat modu daude:
 - [Dohaintzak](@/donate/index.eu.md)! Dolar edo Euro guztiak behar ditugu
   eta zerbitzariak ordaindu eta handitzen laguntzen digute.
 - Bidali akatsak edo zure ideiak elkarbanatu [GitHub-en][github] edo
-  [epostaz][email_support].
+  [epostaz][email].
 - Lagundu egiguzu [akatsak konpontzen][contributing] eta kodea gainbegiratu
   garatzailea bazara. Konpontzen dugun arazo txiki bakoitzak zoriontsuago
   egiten du norbait.

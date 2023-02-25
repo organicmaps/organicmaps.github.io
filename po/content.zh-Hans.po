@@ -750,8 +750,8 @@ msgstr "告诉大家有机地图的情况。一个更大的社区是一个更强
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, fuzzy
-msgid "Rate us in [Google Play][googleplay], [Apple Store][appstore], [Huawei Appgallery][appgallery]."
-msgstr "在[Google Play][googleplay]、[Apple Store][appstore]、[Huawei Appgallery][appgallery]为我们评分。"
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "在[Google Play][googleplay_review]、[Apple Store][appstore_review]、[Huawei Appgallery][appgallery_review]为我们评分。"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

@@ -16,7 +16,7 @@ A fejlesztést különböző módokon lehet támogatni:
 - [Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és segít
   nekünk a szerverek kifizetésében és a kapacitásuk növelésében.
 - Jelentsd a hibákat és oszd meg ötleteidet [GitHub][github]-on vagy
-  [email][email_support]-en keresztül.
+  [email][email]-en keresztül.
 - Help us to [fix bugs][contributing] and do code reviews if you are a
   developer. Every fixed small issue makes someone happier.
 - [Fordítás][translations] hiányzó karakterláncok az alkalmazás felületén.

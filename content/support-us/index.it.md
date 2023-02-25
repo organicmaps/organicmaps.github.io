@@ -14,7 +14,7 @@ Esistono diversi modi per sostenere lo sviluppo:
 
 - [Dona](@/donate/index.it.md)! Ogni dollaro o euro è importante e ci aiuta a pagare i server e a scalare.
 - Segnalate bug e condividete idee sul nostro [GitHub][issues]
-  o via [email][email_support].
+  o via [email][email].
 - Aiutateci a [risolvere i bug][contributing]
   e fare revisioni del codice se siete sviluppatori. Ogni piccolo problema risolto rende qualcuno più felice.
 - [Tradurre][translations]

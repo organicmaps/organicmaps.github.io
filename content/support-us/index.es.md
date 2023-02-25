@@ -16,7 +16,7 @@ Hay diferentes maneras de apoyar al desarrollo:
 - ¡[Donar](@/donate/index.es.md)! Cada dólar o euro cuenta y nos ayuda a
   pagar por los servidores y escalar.
 - Informe de defectos y comparta ideas en nuestro [GitHub][github] o vía
-  [correo electrónico][email_support].
+  [correo electrónico][email].
 - Ayúdenos a [arreglar errores][contributing] y hacer revisiones de código
   si es programadore. Cada pequeño informe arreglado hace feliz a alguien.
 - [Traduzca][translations] textos que falten en la interfaz de la
