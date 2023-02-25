@@ -1,7 +1,7 @@
 ---
 description: "ऑर्गेनिक मैप्स एप्लिकेशन के उपयोग की शर्तें"
 extra:
-  menu_title: अवधि
+  menu_title: शर्तें
 title: "ऑर्गेनिक मैप्स: शर्तें"
 weight: 1000
 ---

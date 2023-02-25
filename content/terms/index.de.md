@@ -15,7 +15,7 @@ Du kannst eine Kopie der Lizenz unter
 
 Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich
 vereinbart, wird Software, die unter dieser Lizenz vertrieben wird, auf
-einer "Ist-Zustand" BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART,
+einer "Ist-Zustand"-BASIS, OHNE GARANTIEN ODER BEDINGUNGEN JEGLICHER ART,
 weder explizit noch implizit, angeboten. Nähere Informationen, die genaue
 Formulierung, Berechtigungen und Einschränkungen findest du in der Lizenz.
 
