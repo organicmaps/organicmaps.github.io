@@ -1,6 +1,5 @@
 {% set langPathPrefix = '' %}
-{# TODO: Replace 'en' with config.default_language after upgrading Zola #}
-{% if lang != 'en' %}
+{% if lang != config.default_language %}
   {% set langPathPrefix = '/' ~ lang %}
 {% endif %}
 <nav id="menu" role="navigation">

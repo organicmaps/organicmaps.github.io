@@ -12,8 +12,7 @@ if (null === window.localStorage.getItem('lang')) {
       if (userPreferredLanguages[i].indexOf(pageTranslations[j]) == 0) {
         window.localStorage.setItem('lang', pageTranslations[j]);
         // Do not redirect the default 'en' language.
-        // TODO: Use config.default_language instead of hard-coding 'en' after Zola upgrade on CF.
-        if (pageTranslations[j] != 'en') {
+        if (pageTranslations[j] != '{{ config.default_language }}') {
           window.location.pathname = '/' + pageTranslations[j] + window.location.pathname;
         }
         break outerLoop;

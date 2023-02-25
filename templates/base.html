@@ -52,14 +52,11 @@
 
   {%- block meta -%}{%- endblock %}
 
-  <!-- TODO: Use get_url everywhere when it works, also with cachebust=true,
-  see https://github.com/getzola/zola/issues/1570 -->
-  <link href="/main.css?h={{ get_file_hash(path='sass/main.scss', sha_type=256, base64=false) }}" rel="stylesheet" type="text/css">
+  <link href="{{ get_url(path="main.css", cachebust=true) }}" rel="stylesheet" type="text/css">
 
   <title>{{ resource.title }}</title>
 
-  {# TODO: Replace 'en' with config.default_language after upgrading Zola #}
-  {%- if lang == 'en' %}
+  {%- if lang == config.default_language %}
   {% include 'language_redirect.html' %}
   {% endif -%}
 </head>
