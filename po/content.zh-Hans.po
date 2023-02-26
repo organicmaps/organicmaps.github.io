@@ -736,7 +736,7 @@ msgstr "将我们的网站[翻译][translations_website]成你的语言。"
 #: content/support-us/index.md
 #, fuzzy
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "加入[OpenStreetMap][openstreemap]社区，为地图数据作出贡献。"
+msgstr "加入[OpenStreetMap][openstreetmap]社区，为地图数据作出贡献。"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

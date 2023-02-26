@@ -25,7 +25,7 @@ Es gibt verschiedene Möglichkeiten, die Entwicklung zu unterstützen:
 - Übersetze [App Store][translations_appstore]- und
   [Android][translations_googleplay]-Beschreibungen in deiner Sprache.
 - [Übersetze][translations_website] unsere Webseite in deine Sprache.
-- Werde Mitglied der [OpenStreetMap][openstreemap]-Community und trage zu
+- Werde Mitglied der [OpenStreetMap][openstreetmap]-Community und trage zu
   den Kartendaten bei.
 - Repariere rote Städte, die von unserem
   [ÖPNV-Validator][public_transport_validator] gefunden wurden, damit U- und

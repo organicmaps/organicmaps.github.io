@@ -686,7 +686,7 @@ msgstr "[Übersetze][translations_website] unsere Webseite in deine Sprache."
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Werde Mitglied der [OpenStreetMap][openstreemap]-Community und trage zu den Kartendaten bei."
+msgstr "Werde Mitglied der [OpenStreetMap][openstreetmap]-Community und trage zu den Kartendaten bei."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

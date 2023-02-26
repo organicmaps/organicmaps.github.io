@@ -682,7 +682,7 @@ msgstr "[Přeložte][translations_website] naše webové stránky do vašeho jaz
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Připojte se ke komunitě [OpenStreetMap][openstreemap] a přispívejte k datům map."
+msgstr "Připojte se ke komunitě [OpenStreetMap][openstreetmap] a přispívejte k datům map."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
