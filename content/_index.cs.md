@@ -1,119 +1,127 @@
 ---
-title: "Organic Maps: Offline Turistika, Cyklistika, Trasy a Navigace"
-description: Rychlé detailní offline mapy pro cestovatele, turisty, řidiče, a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me).
-page_template: index.html
-sort_by: weight
+description: 'Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me).'
 extra:
   menu_title: Domů
+page_template: index.html
+sort_by: weight
+title: 'Organic Maps: Offline pěší turistika, cykloturistika, stezky a navigace'
 ---
 
-**Organic Maps** je bezplatná Android & iOS offline mapová aplikace pro cestovatele, turisty a cyklisty založena na crowd-sourced
-**[OpenStreetMap](https://www.openstreetmap.org)** datech.
-Je to open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) aplikace **Maps.me** (dříve známo jako [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), zaměřený na soukromí, spravovaný stejnými lidmi co vytvořili **MapsWithMe** v roce 2011.
+**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.
 
-**Organic Maps** je v dnešní době jedna z mála aplikací, co podporuje 100% funkcí bez aktivního Internetového připojení. Nainstalujte Organic Maps, stáhněte mapy, zahoďte vaši SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyražte na týdenní výlet na jedno nabití baterie a bez jediného bajtu odeslaného do sítě.
+**Aplikace Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.
 
-### Stáhněte a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}
+
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline vyhledávání') }}
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigace v tmavém režimu') }}
 
-## Funkce
+{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline
+vyhledávání') }}
 
-Organic Maps je ultimátní doprovodná aplikace pro turisty a cyklisty:
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigace v tmavém
+režimu') }}
 
-- Detailní offline mapy s místy, která neexistují na jiných mapách, díky [OpenStreetMap](https://osm.org)
-- Cyklistické trasy, turistické stezky a pěší cesty
-- Obrysové linie, výškové profily, vrcholy a svahy
-- Pěší, cyklistická a automobilová turn-by-turn navigace s hlasovým naváděním
+## Vlastnosti
+
+Organic Maps je dokonalá aplikace pro cestovatele, turisty, pěší turisty a
+cyklisty:
+
+- Podrobné offline mapy s místy, která na jiných mapách neexistují, díky
+  [OpenStreetMap][openstreetmap]
+- Cyklistické trasy, turistické stezky a pěší trasy
+- Vrstevnice, výškové profily, vrcholy a svahy
+- Pěší, cyklistická a automobilová navigace krok za krokem s hlasovými
+  pokyny
 - Rychlé offline vyhledávání na mapě
-- Export a import záložek ve formátech KML/KMZ (GPX se [chystá](https://github.com/organicmaps/organicmaps/issues/624))
-- Tmavý režim pro ochranu vašich očí
+- Export a import záložek ve formátech KML/KMZ (GPX je
+  [plánováno][gpx_issue])
+- Tmavý režim pro ochranu očí
 - Země a regiony nezabírají mnoho místa
-- Svobodné a open-source
+- Svobodný a otevřený zdrojový kód
 
 ## Proč Organic?
 
-Mapy Organic Maps jsou <b>čisté a organické, vyrobené s láskou</b>:
+Organic Maps je čistý a organický produkt vyrobený s láskou:
 
-- Respektují vaše soukromí
-- Šetří vaši baterii
-- Žádné nečekané poplatky za mobilní data
+- Respektuje vaše soukromí
+- Šetří baterii
+- Žádné neočekávané poplatky za mobilní data
 
-Organic Maps je bez sledovacích zařízení a dalších špatných věcí:
+Organic Maps neobsahuje sledovací zařízení a další špatné věci:
 
-- Žádné reklamy
+- Bez reklam
 - Žádné sledování
-- Žádné shromažďování dat
-- Žádné volání domů
+- Žádný sběr dat
+- Žádné telefonování domů
 - Žádná obtěžující registrace
 - Žádné povinné výukové programy
-- Žádný rušivý e-mailový spam
-- Žádná push oznámení
+- Žádný hlučný e-mailový spam
+- Žádná oznámení push
 - Žádný crapware
 - ~~Žádné pesticidy~~ Čistě organické!
 
-Aplikace je ověřená <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Privacy Project</a>:
-<br/>
-<img src='/images/privacy/exodus.png' width='400'>
+Aplikace je ověřena od [Exodus Privacy Project][exodus]:
 
-Organic Maps nevyžaduje nadměrný počet oprávnění, určeny ke špehování:
+{{ exodus_screenshot() }}
 
-<img src='/images/privacy/om.jpg' width='400'>
-<img src='/images/privacy/mm.jpg' width='400'>
+Organic Maps nevyžaduje nadměrná oprávnění ke špehování:
+
+{{ privacy_screenshots() }}
 
 V Organic Maps věříme, že soukromí je základním lidským právem:
 
-- Organic Maps je nezávislý komunitní projekt s otevřeným zdrojovým kódem.
-- Chráníme vaše soukromí před zvědavýma očima velkých technologických firem.
+- Organic Maps je nezávislý projekt s otevřeným zdrojovým kódem, který je
+  řízen komunitou
+- Chráníme vaše soukromí před zvědavýma očima velkých technologických firem
 - Zůstaňte v bezpečí, ať jste kdekoli
 
 Odmítněte dohled - přijměte svou svobodu.
 
-
-<a href="#install"><strong>Vyzkoušejte Organic Maps!</strong></a>
+**[Vyzkoušejte Organic Maps!](#install)**
 
 ## Kdo platí za bezplatnou aplikaci?
 
-Aplikace je zdarma pro každého. Prosíme, [přispějte](@/donate/index.cs.md), abyste nás podpořili!
+Aplikace je pro všechny zdarma. Podpořte nás prosím
+[donate](@/donate/index.cs.md)!
 
-### Přispět můžete různými způsoby:
+### Darovat můžete různými způsoby:
 
 {{ donate_buttons() }}
 
 ### Naši sponzoři:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [nám poskytuje](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/)
-dva virtuální servery s 400 TB/měsíc zdarma bandwidthu na pomoc našim uživatelům se stahováním a aktualizováním map.
-
-### Podpořte nás
-
-Vývoj lze podpořit různými způsoby, vypsanými [zde](@/support-us/index.cs.md).
-
-## Beta
-
-Prosíme, připojte se k našemu beta programu, navrhujte nové funkce a nahlašujte chyby:
-
-- [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
-- [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
-- [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
+[Mythic Beasts](https://www.mythic-beasts.com/) ISP
+[nám][mythic_beasts_donation] poskytuje dva virtuální servery se šířkou
+pásma 400 TB/měsíc zdarma, abychom našim uživatelům pomohli se stahováním
+map a aktualizacemi.
 
 ## Komunita
 
-Organic Maps je [open-source software][github]
-licencovaný pod Apache License 2.0.
+Organic Maps je [open-source software][github] licencovaný pod Apache
+License 2.0.
 
-- Nahlašte chyby nebo problémy [trackeru problémů][issues], nebo nám [napište email][email].
-- [Diskutujte][ideas] nápady nebo navrhněte žádosti o funkce.
-- Odebírejte náš [Telegram kanál][telegram] nebo [matrix space][matrix] pro novinky.
-- Připojte se do naší [Telegram skupiny][telegram_chat] k diskutování s ostatními uživateli.
-- Navštivte naši [GitHub stránku][github].
-- Sledujte naše novinky na <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodonu</a>, [Facebooku][facebook], [Twitteru][twitter] a
-[Instagramu][instagram].
+- Zapojte se prosím do našeho beta programu, navrhujte funkce a nahlašujte
+  chyby:
+  * [iOS Beta (TestFlight)] [testflight]
+  * [Android Beta (Firebase)][firebase]
+  * [Linux Desktop Beta (Flatpak)] [flatpak]
+  * [Linux Desktop Beta (balíčky)][repology]
+- Chyby nebo problémy nahlaste na [issue tracker][issues] nebo [na
+  e-mail][email].
+- [Diskutujte][ideas] nápady nebo navrhněte požadavky na funkce.
+- Přihlaste se k odběru novinek na našem [Telegram kanálu][telegram] nebo na
+  [matrix space][matrix].
+- Připojte se k naší [Telegram skupině][telegram_chat] a diskutujte s
+  ostatními uživateli.
+- Navštivte náš [GitHub][github].
+- Sledujte naše aktualizace na [Mastodonu][mastodon], [Facebooku][facebook],
+  [Twitteru][twitter], [Instagramu][instagram], [Redditu][reddit],
+  [LinkedIn][].
+
+[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
 {{ references() }}

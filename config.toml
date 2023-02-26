@@ -129,7 +129,7 @@ install-appgallery = "Instalace aplikace Organic Maps z galerie aplikací Huawei
 install-appstore = "Instalace aplikace Organic Maps z AppStore"
 install-googleplay = "Instalace Organic Maps z Google Play"
 install-fdroid = "Instalace Organic Maps z F-Droid"
-language = "čeština"
+language = "Čeština"
 name = "Název"
 token = "Token"
 [languages.pt-BR.translations]
