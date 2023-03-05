@@ -14,7 +14,7 @@ extra:
 
 ### Загрузить и установить Organic Maps из [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='ru') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Прага') }}
@@ -47,7 +47,7 @@ Organic Maps — это офлайн-карты здорового челове�
 
 Organic Maps развивается сообществом энтузиастов благодаря вашей поддержке.
 
-{{ donate_buttons(lang='ru') }}
+{{ donate_buttons() }}
 
 Помогите проекту [финансово](/ru/donate "поддержать деньгами") чтобы приложение могло жить и развиваться.
 
@@ -66,4 +66,4 @@ Organic Maps развивается сообществом энтузиасто�
 - Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram].
 - Расскажите своим друзьям и знакомым.
 
-{{ references(lang='ru') }}
+{{ references() }}

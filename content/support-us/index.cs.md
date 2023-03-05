@@ -33,4 +33,4 @@ Vývoj lze podpořit různými způsoby:
 
 Náš malý tým je velmi vděčný za vaši podporu a zpětnou vazbu. Organic Maps by nebyla možná bez našich uživatelů ❤️.
 
-{{ references(lang='cs') }}
+{{ references() }}

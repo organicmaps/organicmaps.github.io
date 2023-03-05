@@ -52,8 +52,8 @@ msgstr "Скачайте и установите Organic Maps from [AppStore][ap
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='ru') }}"
+msgid "{{ badges() }}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -219,8 +219,8 @@ msgstr "Приложение проверено [Exodus Privacy Project][exodus]
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='ru') }}"
+msgid "{{ exodus_screenshot() }}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -229,8 +229,8 @@ msgstr "Organic Maps не запрашивает чрезмерных разре
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='ru') }}"
+msgid "{{ privacy_screenshots() }}"
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -282,8 +282,8 @@ msgstr "Можно помочь нам следующими способами:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='ru') }}"
+msgid "{{ donate_buttons() }}"
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -370,8 +370,8 @@ msgstr "[fork]: https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='ru') }}"
+msgid "{{ references() }}"
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -522,8 +522,8 @@ msgstr "Банковский перевод"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='ru') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -538,8 +538,8 @@ msgstr "Для снижения комиссии вы можете пожерт�
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='ru') }}"
+msgid "{{ crypto_table() }}"
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md

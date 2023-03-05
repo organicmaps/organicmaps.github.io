@@ -13,7 +13,7 @@ extra:
 
 ### Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='en') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 
@@ -60,11 +60,11 @@ Organic Maps app is free from trackers and other bad stuff:
 
 The application is verified by [Exodus Privacy Project][exodus]:
 
-{{ exodus_screenshot(lang='en') }}
+{{ exodus_screenshot() }}
 
 Organic Maps doesn't request excessive permissions to spy on you:
 
-{{ privacy_screenshots(lang='en') }}
+{{ privacy_screenshots() }}
 
 At Organic Maps, we believe that privacy is a fundamental human right:
 
@@ -82,7 +82,7 @@ The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
 ### There are different ways to donate:
 
-{{ donate_buttons(lang='en') }}
+{{ donate_buttons() }}
 
 ### Our sponsors:
 
@@ -106,4 +106,4 @@ Organic Maps is an [open-source software][github] licensed under the Apache Lice
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
-{{ references(lang='en') }}
+{{ references() }}

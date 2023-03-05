@@ -44,8 +44,8 @@ msgstr "Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Googl
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='cs') }}"
+msgid "{{ badges() }}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -211,8 +211,8 @@ msgstr "Aplikace je ověřena od [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='cs') }}"
+msgid "{{ exodus_screenshot() }}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -221,8 +221,8 @@ msgstr "Organic Maps nevyžaduje nadměrná oprávnění ke špehování:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='en') }}"
+msgid "{{ privacy_screenshots() }}"
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -274,8 +274,8 @@ msgstr "Darovat můžete různými způsoby:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='en') }}"
+msgid "{{ donate_buttons() }}"
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -362,8 +362,8 @@ msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='cs') }}"
+msgid "{{ references() }}"
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -519,8 +519,8 @@ msgstr "Bankovním převodem"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='cs') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -535,8 +535,8 @@ msgstr "Zvažte prosím možnost ročního příspěvku, abyste snížili celkov
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='cs') }}"
+msgid "{{ crypto_table() }}"
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md

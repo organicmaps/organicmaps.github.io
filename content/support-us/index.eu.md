@@ -42,4 +42,4 @@ Gure talde txikia oso eskertuta dago zure iradokizun eta
 laguntzagatik. Organic Maps ez litzateke posible izango gure erabiltzaileen
 gabe ❤️.
 
-{{ references(lang='eu') }}
+{{ references() }}

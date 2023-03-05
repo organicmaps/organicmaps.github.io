@@ -13,7 +13,7 @@ Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasın�
 
 ### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] adresinden indirin ve yükleyin {#install}
 
-{{ badges(lang='tr') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
@@ -80,7 +80,7 @@ Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış 
 
 ### Bağış yapmanın farklı yolları vardır:
 
-{{ donate_buttons(lang='tr') }}
+{{ donate_buttons() }}
 
 ### Sponsorlarımız:
 
@@ -113,4 +113,4 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - Güncellemelerimizi [Facebook][facebook], [Twitter][twitter] ve
 - [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
 
-{{ references(lang='tr') }}
+{{ references() }}

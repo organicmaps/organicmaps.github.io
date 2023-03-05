@@ -11,7 +11,7 @@ Mutlu Yıllar🎄 dileriz! Bizim için en güzel hediye; doğru şeyi yaptığı
 
 Organic Maps'i özgür tutma misyonumuzu yerine getirmek için **[bağışlarınıza][donate]** güveniyoruz!
 
-{{ donate_buttons(lang='tr') }}
+{{ donate_buttons() }}
 
 Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizdir_:
 
@@ -21,7 +21,7 @@ Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizd
 - Push bildirimleri yok
 - Açık kaynak
 
-{{ donate_buttons(lang='tr') }}
+{{ donate_buttons() }}
 
 ## Neden Organic Maps'e bağış yapmalıyım?
 
@@ -52,7 +52,7 @@ Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizd
 
 ## Nasıl bağış yapabilirim?
 
-{{ donate_buttons(lang='tr') }}
+{{ donate_buttons() }}
 
 Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için
 en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive
@@ -60,7 +60,7 @@ eder. Ancak tek seferlik bağış da yapabilirsiniz.
 
 ### Banka Havalesi
 
-{{ bank_transfer(lang='tr') }}
+{{ bank_transfer() }}
 
 #### Avro
 
@@ -86,7 +86,7 @@ eder. Ancak tek seferlik bağış da yapabilirsiniz.
 Lütfen toplam ücretleri azaltmak için yıllık bağış yapmayı düşünün.
 Algorand, Tron, Litecoin ve Monero ağları düşük ücretler sunuyor ancak durum her gün değişiyor.
 
-{{ crypto_table(lang='tr') }}
+{{ crypto_table() }}
 
 ## Size başka bir şekilde yardımcı olabilir miyim?
 

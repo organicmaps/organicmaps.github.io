@@ -13,7 +13,7 @@ title: 'Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring'
 
 ### Unduh dan instal Organic Maps dari [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='id') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}
 
@@ -66,11 +66,11 @@ Aplikasi Organic Maps bebas dari pelacak dan hal-hal buruk lainnya:
 
 Aplikasi ini diverifikasi oleh [Proyek Privasi Exodus][exodus]:
 
-{{ exodus_screenshot(lang='id') }}
+{{ exodus_screenshot() }}
 
 Organic Maps tidak meminta izin berlebihan untuk memata-matai Anda:
 
-{{ privacy_screenshots(lang='id') }}
+{{ privacy_screenshots() }}
 
 Di Organic Maps, kami percaya bahwa privasi adalah hak asasi manusia yang
 mendasar:
@@ -91,7 +91,7 @@ Aplikasi ini gratis untuk semua orang. Silakan
 
 ### Ada berbagai cara untuk berdonasi:
 
-{{ donate_buttons(lang='id') }}
+{{ donate_buttons() }}
 
 ### Sponsor kami:
 
@@ -124,4 +124,4 @@ dilisensikan di bawah lisensi Apache 2.0.
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
-{{ references(lang='id') }}
+{{ references() }}

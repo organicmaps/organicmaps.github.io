@@ -15,7 +15,7 @@ Je to open-source [fork](https://en.wikipedia.org/wiki/Fork_(software_developmen
 
 ### Stáhněte a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='cs') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}
@@ -83,7 +83,7 @@ Aplikace je zdarma pro každého. Prosíme, [přispějte](@/donate/index.cs.md),
 
 ### Přispět můžete různými způsoby:
 
-{{ donate_buttons(lang='cs') }}
+{{ donate_buttons() }}
 
 ### Naši sponzoři:
 
@@ -116,4 +116,4 @@ licencovaný pod Apache License 2.0.
 - Sledujte naše novinky na <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodonu</a>, [Facebooku][facebook], [Twitteru][twitter] a
 [Instagramu][instagram].
 
-{{ references(lang='cs') }}
+{{ references() }}

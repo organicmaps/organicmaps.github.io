@@ -53,8 +53,8 @@ msgstr "Download en installeer Organic Maps in de [AppStore][appstore], [Google 
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='nl') }}"
+msgid "{{ badges() }}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -220,8 +220,8 @@ msgstr "De applicatie is geverifieerd door [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='nl') }}"
+msgid "{{ exodus_screenshot() }}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -230,8 +230,8 @@ msgstr "Organic Maps vraagt niet om excessieve machtigingen om je te bespioneren
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='nl') }}"
+msgid "{{ privacy_screenshots() }}"
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -283,8 +283,8 @@ msgstr "Er zijn verschillende manieren om te doneren:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='nl') }}"
+msgid "{{ donate_buttons() }}"
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -371,8 +371,8 @@ msgstr "[fork]: https://nl.wikipedia.org/wiki/Fork_(ontwikkeling)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='nl') }}"
+msgid "{{ references() }}"
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -523,8 +523,8 @@ msgstr "Bankoverschrijving"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='nl') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -539,8 +539,8 @@ msgstr "Overweegt u alstublieft om jaarlijs te doneren om de totale kosten te re
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='nl') }}"
+msgid "{{ crypto_table() }}"
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md

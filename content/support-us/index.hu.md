@@ -41,4 +41,4 @@ A fejlesztést különböző módokon lehet támogatni:
 Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az Organic
 Maps nem lenne lehetséges a felhasználóink nélkül ❤️.
 
-{{ references(lang='hu') }}
+{{ references() }}

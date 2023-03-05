@@ -45,7 +45,7 @@ msgstr "قم بتنزيل Organic Maps من [AppStore][appstore]، [Google Play]
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "{{ badges(lang='en') }}"
+msgid "{{ badges() }}"
 msgstr ""
 
 #. type: Plain text
@@ -243,7 +243,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "{{ exodus_screenshot(lang='en') }}"
+msgid "{{ exodus_screenshot() }}"
 msgstr ""
 
 #. type: Plain text
@@ -255,7 +255,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "{{ privacy_screenshots(lang='en') }}"
+msgid "{{ privacy_screenshots() }}"
 msgstr ""
 
 #. type: Plain text
@@ -315,7 +315,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 #, markdown-text
-msgid "{{ donate_buttons(lang='en') }}"
+msgid "{{ donate_buttons() }}"
 msgstr ""
 
 #. type: Title ###
@@ -417,7 +417,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 #, markdown-text
-msgid "{{ references(lang='en') }}"
+msgid "{{ references() }}"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -591,8 +591,8 @@ msgstr "تحويل بنكي"
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='ar') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -609,7 +609,7 @@ msgstr ""
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
-msgid "{{ crypto_table(lang='en') }}"
+msgid "{{ crypto_table() }}"
 msgstr ""
 
 #. type: Title ##

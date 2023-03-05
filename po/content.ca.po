@@ -53,8 +53,8 @@ msgstr "Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='ca') }}"
+msgid "{{ badges() }}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -220,8 +220,8 @@ msgstr "L'aplicació està verificada pel [Projecte Exodus Privacy][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='ca') }}"
+msgid "{{ exodus_screenshot() }}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -230,8 +230,8 @@ msgstr "Organic Maps no demana permisos excessius per a espiar-li:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='ca') }}"
+msgid "{{ privacy_screenshots() }}"
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -283,8 +283,8 @@ msgstr "Hi ha diferents maneres de donar:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='ca') }}"
+msgid "{{ donate_buttons() }}"
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -371,8 +371,8 @@ msgstr "[fork]: https://ca.wikipedia.org/wiki/Forquilla_(desenvolupament_de_soft
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='ca') }}"
+msgid "{{ references() }}"
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -523,8 +523,8 @@ msgstr "Transferència bancària"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='ca') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -539,8 +539,8 @@ msgstr "Si us plau, considera fer donacions anuals per a reduir les quotes total
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='ca') }}"
+msgid "{{ crypto_table() }}"
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md

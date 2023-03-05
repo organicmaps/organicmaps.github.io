@@ -17,7 +17,7 @@ L'application Organic Maps est _gratuite pour tout le monde_ grâce à vos **[do
 - Pas de notifications push
 - Open-source
 
-{{ donate_buttons(lang='fr') }}
+{{ donate_buttons() }}
 
 ## Pourquoi faire un don à Organic Maps ?
 
@@ -50,19 +50,19 @@ L'application Organic Maps est _gratuite pour tout le monde_ grâce à vos **[do
 
 Il existe plusieurs façons de faire un don au projet :
 
-{{ donate_buttons(lang='fr') }}
+{{ donate_buttons() }}
 
 Les dons récurrents sont le meilleur moyen d'assurer un revenu relativement stable pour le projet et de nous motiver pour les tâches et les objectifs à long terme. Mais vous pouvez également faire un don ponctuel.
 
 ### Virement bancaire
 
-{{ bank_transfer(lang='fr') }}
+{{ bank_transfer() }}
 
 ### Crypto
 
 Veuillez envisager de faire un don annuel pour réduire les frais totaux. Les réseaux Algorand, Tron, Litecoin et Monero offrent des frais réduits, mais la situation change tous les jours.
 
-{{ crypto_table(lang='fr') }}
+{{ crypto_table() }}
 
 ### Autres moyens de donner
 

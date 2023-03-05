@@ -53,8 +53,8 @@ msgstr "Deskargatu eta instalatu Organic Maps hemendik: [AppStore][appstore], [G
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ badges(lang='en') }}"
-msgstr "{{ badges(lang='eu') }}"
+msgid "{{ badges() }}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -220,8 +220,8 @@ msgstr "Aplikazio hau [Exodus Privacy Project][exodus]-ek egiaztatzen du:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ exodus_screenshot(lang='en') }}"
-msgstr "{{ exodus_screenshot(lang='eu') }}"
+msgid "{{ exodus_screenshot() }}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -230,8 +230,8 @@ msgstr "Organic Maps-ek ez du zu espiatzeko gehiegizko baimenik eskatzen:"
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ privacy_screenshots(lang='en') }}"
-msgstr "{{ privacy_screenshots(lang='eu') }}"
+msgid "{{ privacy_screenshots() }}"
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -283,8 +283,8 @@ msgstr "Dirua emateko hainbat modu daude:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons(lang='en') }}"
-msgstr "{{ donate_buttons(lang='eu') }}"
+msgid "{{ donate_buttons() }}"
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -371,8 +371,8 @@ msgstr "[fork]: https://eu.wikipedia.org/wiki/Fork\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-msgid "{{ references(lang='en') }}"
-msgstr "{{ references(lang='eu') }}"
+msgid "{{ references() }}"
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -523,8 +523,8 @@ msgstr "Banku transferentzia"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='eu') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -539,8 +539,8 @@ msgstr "Mesedez pentsatu urteroko ordainketak prestatzeaz, banku komisio orokorr
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ crypto_table(lang='en') }}"
-msgstr "{{ crypto_table(lang='eu') }}"
+msgid "{{ crypto_table() }}"
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md

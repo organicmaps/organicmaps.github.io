@@ -41,4 +41,4 @@ Hi ha diferents maneres de fer costat al desenvolupament:
 El nostre petit equip està molt agraït pels teus comentaris i
 suport. Organic Maps no seria possible sense els nostres usuaris ❤️.
 
-{{ references(lang='ca') }}
+{{ references() }}

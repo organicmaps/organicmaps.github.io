@@ -54,7 +54,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ badges(lang='en') }}"
+msgid "{{ badges() }}"
 msgstr ""
 
 #. type: Plain text
@@ -229,7 +229,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ exodus_screenshot(lang='en') }}"
+msgid "{{ exodus_screenshot() }}"
 msgstr ""
 
 #. type: Plain text
@@ -239,7 +239,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-msgid "{{ privacy_screenshots(lang='en') }}"
+msgid "{{ privacy_screenshots() }}"
 msgstr ""
 
 #. type: Plain text
@@ -294,7 +294,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons(lang='en') }}"
+msgid "{{ donate_buttons() }}"
 msgstr ""
 
 #. type: Title ###
@@ -392,7 +392,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-msgid "{{ references(lang='en') }}"
+msgid "{{ references() }}"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -563,8 +563,8 @@ msgstr "Τραπεζικό έμβασμα"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ bank_transfer(lang='en') }}"
-msgstr "{{ bank_transfer(lang='el') }}"
+msgid "{{ bank_transfer() }}"
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -579,7 +579,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "{{ crypto_table(lang='en') }}"
+msgid "{{ crypto_table() }}"
 msgstr ""
 
 #. type: Title ##

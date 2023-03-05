@@ -13,7 +13,7 @@ title: 'Organic Maps: Офлайн карти та GPS навігація'
 
 ### Завантажте та встановіть Organic Maps з [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='uk') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Піші прогулянки')
 }}
@@ -65,11 +65,11 @@ Organic Maps не містить відстеження та інших пога
 
 Додаток перевірений [Exodus Privacy Project][exodus]:
 
-{{ exodus_screenshot(lang='uk') }}
+{{ exodus_screenshot() }}
 
 Organic Maps не запитує надмірних дозволів, щоб шпигувати за вами:
 
-{{ privacy_screenshots(lang='uk') }}
+{{ privacy_screenshots() }}
 
 В Organic Maps ми віримо, що конфіденційність є фундаментальним правом
 людини:
@@ -90,7 +90,7 @@ Organic Maps не запитує надмірних дозволів, щоб ш�
 
 ### Є різні способи пожертвувати:
 
-{{ donate_buttons(lang='uk') }}
+{{ donate_buttons() }}
 
 ### Наші спонсори:
 
@@ -123,4 +123,4 @@ Organic Maps - це [ПЗ з відкритим вихідним кодом][git
 
 [fork]: https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA
 
-{{ references(lang='uk') }}
+{{ references() }}

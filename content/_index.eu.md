@@ -13,7 +13,7 @@ title: 'Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabig
 
 ### Deskargatu eta instalatu Organic Maps hemendik: [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='eu') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Mendian') }}
 
@@ -66,11 +66,11 @@ Organic Maps app-ak ez du tracker edo beste trikimailu zikinik:
 
 Aplikazio hau [Exodus Privacy Project][exodus]-ek egiaztatzen du:
 
-{{ exodus_screenshot(lang='eu') }}
+{{ exodus_screenshot() }}
 
 Organic Maps-ek ez du zu espiatzeko gehiegizko baimenik eskatzen:
 
-{{ privacy_screenshots(lang='eu') }}
+{{ privacy_screenshots() }}
 
 Organic Maps-en sinesten dugu pribatutasuna oinarrizko eskubide bat dela:
 
@@ -90,7 +90,7 @@ laguntzeko!
 
 ### Dirua emateko hainbat modu daude:
 
-{{ donate_buttons(lang='eu') }}
+{{ donate_buttons() }}
 
 ### Gure babesleak:
 
@@ -124,4 +124,4 @@ lizentziapean.
 
 [fork]: https://eu.wikipedia.org/wiki/Fork
 
-{{ references(lang='eu') }}
+{{ references() }}

@@ -41,4 +41,4 @@ Hay diferentes maneras de apoyar al desarrollo:
 Nuestro pequeño equipo agradece su comentarios y apoyo. Organic Maps no
 sería posible sin nuestros usuarios ❤️.
 
-{{ references(lang='es') }}
+{{ references() }}

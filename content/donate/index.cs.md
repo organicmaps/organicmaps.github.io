@@ -17,7 +17,7 @@ Organic Maps aplikace je _zdarma pro každého_ díky vaším **[darům][stripe]
 - Žádné push notifikace
 - Open source
 
-{{ donate_buttons(lang='cs') }}
+{{ donate_buttons() }}
 
 ## Proč darovat Organic Maps?
 
@@ -50,20 +50,20 @@ Organic Maps aplikace je _zdarma pro každého_ díky vaším **[darům][stripe]
 
 Projektu lze darovat různými způsoby:
 
-{{ donate_buttons(lang='cs') }}
+{{ donate_buttons() }}
 
 Opakující se dary jsou nejlepším způsobem jak projektu zajistit relativně stabilní příjem a motivují nás k dlouhodobým úkolům a cílům. Můžete ale také darovat jednorázově.
 
 ### Bankovní převod
 
-{{ bank_transfer(lang='cs') }}
+{{ bank_transfer() }}
 
 ### Krypto
 
 Zvažte prosím darovat každoročně, ke snížení celkových poplatků. Algorand, Tron,
 Litecoin a Monero sítě nabízejí nízké poplatky, ale situace se mění každým dnem.
 
-{{ crypto_table(lang='cs') }}
+{{ crypto_table() }}
 
 ## Můžete nám pomoct nějakým jiným způsobem?
 

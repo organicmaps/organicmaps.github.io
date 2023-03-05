@@ -13,7 +13,7 @@ title: 'Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie'
 
 ### Download en installeer Organic Maps in de [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='nl') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wandelen') }}
 
@@ -65,11 +65,11 @@ Organic Maps is vrij van trackers en andere slechte dingen:
 
 De applicatie is geverifieerd door [Exodus Privacy Project][exodus]:
 
-{{ exodus_screenshot(lang='nl') }}
+{{ exodus_screenshot() }}
 
 Organic Maps vraagt niet om excessieve machtigingen om je te bespioneren:
 
-{{ privacy_screenshots(lang='nl') }}
+{{ privacy_screenshots() }}
 
 Bij Organic Maps geloven wij dat privacy een fundamenteel mensenrecht is:
 
@@ -88,7 +88,7 @@ om ons te ondersteunen!
 
 ### Er zijn verschillende manieren om te doneren:
 
-{{ donate_buttons(lang='nl') }}
+{{ donate_buttons() }}
 
 ### Onze sponsoren:
 
@@ -121,4 +121,4 @@ Apache License 2.0.
 
 [fork]: https://nl.wikipedia.org/wiki/Fork_(ontwikkeling)
 
-{{ references(lang='nl') }}
+{{ references() }}

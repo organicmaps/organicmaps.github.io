@@ -13,7 +13,7 @@ title: 'Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline'
 
 ### Pobierz i zainstaluj Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='pl') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turystyka piesza')
 }}
@@ -68,11 +68,11 @@ rzeczy:
 
 Aplikacja jest weryfikowana przez [Projekt Prywatności Exodus][exodus]:
 
-{{ exodus_screenshot(lang='pl') }}
+{{ exodus_screenshot() }}
 
 Organic Maps nie żąda nadmiernych uprawnień celem szpiegowania użytkownika:
 
-{{ privacy_screenshots(lang='pl') }}
+{{ privacy_screenshots() }}
 
 W Organic Maps wierzymy, że prywatność jest podstawowym prawem człowieka:
 
@@ -93,7 +93,7 @@ darowizny](@/donate/index.pl.md), aby nas wesprzeć!
 
 ### Istnieją różne sposoby wsparcia:
 
-{{ donate_buttons(lang='pl') }}
+{{ donate_buttons() }}
 
 ### Nasi sponsorzy:
 
@@ -125,4 +125,4 @@ License 2.0.
 
 [fork]: https://pl.wikipedia.org/wiki/Fork
 
-{{ references(lang='pl') }}
+{{ references() }}
