@@ -363,7 +363,7 @@ msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 msgid "{{ references(lang='en') }}"
-msgstr "{{ reference(lang='cs') }}"
+msgstr "{{ references(lang='cs') }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
