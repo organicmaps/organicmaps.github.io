@@ -1,5 +1,5 @@
 ---
-title: 'Some highlights about Organic Maps in the French article'
+title: "Some highlights about Organic Maps in the French article"
 date: 2021-08-27T18:34:36+00:00
 slug: "some-highlights-about-organic-maps-in-the-french-article"
 ---

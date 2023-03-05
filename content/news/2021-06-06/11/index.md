@@ -1,5 +1,5 @@
 ---
-title: 'New GitHub page 🗺'
+title: "New GitHub page 🗺"
 date: 2021-06-06T16:56:44+00:00
 slug: "new-github-page"
 ---

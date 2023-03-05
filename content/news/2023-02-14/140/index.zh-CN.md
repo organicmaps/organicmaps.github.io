@@ -1,5 +1,5 @@
 ---
-title: '此版本已含HOTOSM团队在土耳其和叙利亚地震后所做的更改'
+title: "此版本已含HOTOSM团队在土耳其和叙利亚地震后所做的更改"
 date: 2023-02-14T23:23:55+00:00
 slug: "this-release-includes-the-updated-map-data-for-turkey-and-syria-including-the-humanitarian-openstreetmap-team-changes-after-the-recent-earthquake"
 ---

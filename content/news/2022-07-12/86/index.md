@@ -1,5 +1,5 @@
 ---
-title: 'FDroid update 2022.07.01-6-FDroid with a crash fix for Public Transport is finally available'
+title: "FDroid update 2022.07.01-6-FDroid with a crash fix for Public Transport is finally available"
 date: 2022-07-12T10:09:29+00:00
 slug: "fdroid-update-6-fdroid-with-a-crash-fix-for-public-transport-is-finally-available"
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Here is the list of OpenStreetMap metro/subways validation results'
+title: "Here is the list of OpenStreetMap metro/subways validation results"
 date: 2021-09-26T10:04:44+00:00
 slug: "here-is-the-list-of-openstreetmap-metro-subways-validation-results"
 ---

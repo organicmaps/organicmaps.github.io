@@ -1,5 +1,5 @@
 ---
-title: 'Geçmiş Olsun Türkiye🇹🇷'
+title: "Geçmiş Olsun Türkiye🇹🇷"
 date: 2023-02-14T23:23:55+00:00
 slug: "this-release-includes-the-updated-map-data-for-turkey-and-syria-including-the-humanitarian-openstreetmap-team-changes-after-the-recent-earthquake"
 ---

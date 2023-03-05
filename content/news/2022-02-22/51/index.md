@@ -1,5 +1,5 @@
 ---
-title: '🤖 February update of Organic Maps is finally also available in Huawei AppGallery and FDroid'
+title: "🤖 February update of Organic Maps is finally also available in Huawei AppGallery and FDroid"
 date: 2022-02-22T11:05:05+00:00
 slug: "february-update-of-organic-maps-is-finally-also-available-in-huawei-appgallery-and-fdroid"
 ---

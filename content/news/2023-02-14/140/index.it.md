@@ -1,5 +1,5 @@
 ---
-title: 'Questa versione include i dati cartografici aggiornati per la Turchia e la Siria, comprese le modifiche apportate dal team umanitario di OpenStreetMap dopo il recente terremoto'
+title: "Questa versione include i dati cartografici aggiornati per la Turchia e la Siria, comprese le modifiche apportate dal team umanitario di OpenStreetMap dopo il recente terremoto"
 date: 2023-02-14T23:23:55+00:00
 slug: "this-release-includes-the-updated-map-data-for-turkey-and-syria-including-the-humanitarian-openstreetmap-team-changes-after-the-recent-earthquake"
 ---

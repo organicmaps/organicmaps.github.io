@@ -1,5 +1,5 @@
 ---
-title: 'Google Play and FDroid updates are also available'
+title: "Google Play and FDroid updates are also available"
 date: 2022-07-04T22:15:31+00:00
 slug: "google-play-and-fdroid-updates-are-also-available"
 ---

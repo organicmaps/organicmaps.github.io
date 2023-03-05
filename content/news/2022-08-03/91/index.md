@@ -1,5 +1,5 @@
 ---
-title: 'Finally, Organic Maps 2022.07.27 is also available on Google Play'
+title: "Finally, Organic Maps 2022.07.27 is also available on Google Play"
 date: 2022-08-03T17:21:11+00:00
 slug: "finally-organic-maps-is-also-available-on-google-play"
 ---

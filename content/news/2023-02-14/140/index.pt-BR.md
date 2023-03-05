@@ -1,5 +1,5 @@
 ---
-title: 'Esta versão inclui os dados de mapa atualizados para a Turquia e a Síria, incluindo as alterações do Humanitarian OpenStreetMap Team (HOT) após o recente terremoto'
+title: "Esta versão inclui os dados de mapa atualizados para a Turquia e a Síria, incluindo as alterações do Humanitarian OpenStreetMap Team (HOT) após o recente terremoto"
 date: 2023-02-14T23:23:55+00:00
 slug: "esta-versao-inclui-dados-atualizados-para-turquia-siria-incluindo-alterações-hot-após-recente-terremoto"
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Maak kennis met de januari 2023 update van Organic Maps'
+title: "Maak kennis met de januari 2023 update van Organic Maps"
 date: 2023-01-27T21:26:12+00:00
 slug: "maak-kennis-met-de-januari-2023-update-van-organic-maps"
 ---

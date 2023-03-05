@@ -1,5 +1,5 @@
 ---
-title: 'There are many ways to help us and other users of Organic Maps'
+title: "There are many ways to help us and other users of Organic Maps"
 date: 2022-02-12T20:29:43+00:00
 slug: "there-are-many-ways-to-help-us-and-other-users-of-organic-maps"
 ---

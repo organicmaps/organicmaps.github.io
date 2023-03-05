@@ -1,5 +1,5 @@
 ---
-title: 'Finally, after fixing some critical issues, the November Organic Maps update is available in the Apple Store, Huawei AppGallery, and on our Github'
+title: "Finally, after fixing some critical issues, the November Organic Maps update is available in the Apple Store, Huawei AppGallery, and on our Github"
 date: 2022-11-03T17:30:48+00:00
 slug: "finally-after-fixing-some-critical-issues-the-november-organic-maps-update-is-available-in-the-apple-store-huawei-appgallery-and-on-our-github"
 ---

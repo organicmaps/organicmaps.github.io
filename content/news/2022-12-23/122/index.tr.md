@@ -1,5 +1,5 @@
 ---
-title: 'Mutlu yıllar dileriz 🎄'
+title: "Mutlu yıllar dileriz 🎄"
 date: 2022-12-23T23:02:13+00:00
 slug: "we-wish-you-a-merry-christmas-and-a-happy-new-year"
 ---

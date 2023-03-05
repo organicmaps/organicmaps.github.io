@@ -1,5 +1,5 @@
 ---
-title: 'With the help of our community ❤️, in the 21.08.26 update we'
+title: "With the help of our community ❤️, in the 21.08.26 update we"
 date: 2021-08-30T21:38:20+00:00
 slug: "with-the-help-of-our-community-in-the-update-we"
 ---

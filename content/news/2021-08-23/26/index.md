@@ -1,5 +1,5 @@
 ---
-title: 'A new experimental Android beta version with improved map downloader is available for testing'
+title: "A new experimental Android beta version with improved map downloader is available for testing"
 date: 2021-08-23T09:24:31+00:00
 slug: "a-new-experimental-android-beta-version-with-improved-map-downloader-is-available-for-testing"
 ---

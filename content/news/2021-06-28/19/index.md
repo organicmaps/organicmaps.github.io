@@ -1,5 +1,5 @@
 ---
-title: 'A new 2021-06-24 update is available on Google Play 📦'
+title: "A new 2021-06-24 update is available on Google Play 📦"
 date: 2021-06-28T13:14:02+00:00
 slug: "a-new-update-is-available-on-google-play"
 ---

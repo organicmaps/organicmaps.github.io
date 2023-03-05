@@ -1,5 +1,5 @@
 ---
-title: 'Is there anyone speaking Hindi, who can help with proof-reading the translations?'
+title: "Is there anyone speaking Hindi, who can help with proof-reading the translations?"
 date: 2023-01-15T14:35:29+00:00
 slug: "is-there-anyone-speaking-hindi-who-can-help-with-proof-reading-the-translations"
 ---

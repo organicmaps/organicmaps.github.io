@@ -1,5 +1,5 @@
 ---
-title: 'Finally, meet the updated Organic Maps in Google Play'
+title: "Finally, meet the updated Organic Maps in Google Play"
 date: 2022-02-21T17:06:29+00:00
 slug: "finally-meet-the-updated-organic-maps-in-google-play"
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'After a one-week review delay, Organic Maps October/November update is finally available in Google Play'
+title: "After a one-week review delay, Organic Maps October/November update is finally available in Google Play"
 date: 2022-11-09T12:08:21+00:00
 slug: "after-a-one-week-review-delay-organic-maps-october-november-update-is-finally-available-in-google-play"
 ---

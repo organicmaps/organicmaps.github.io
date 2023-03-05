@@ -1,5 +1,5 @@
 ---
-title: 'As some of you have already discovered, a new September update of Organic Maps is already available in AppStore, AppGallery, and F-Droid.'
+title: "As some of you have already discovered, a new September update of Organic Maps is already available in AppStore, AppGallery, and F-Droid."
 date: 2022-09-22T21:48:36+00:00
 slug: "as-some-of-you-have-already-discovered-a-new-september-update-of-organic-maps-is-already-available-in-appstore-appgallery-and-f-droid"
 ---

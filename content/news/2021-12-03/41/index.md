@@ -1,5 +1,5 @@
 ---
-title: 'Meet Organic Maps app update 21.12.01'
+title: "Meet Organic Maps app update 21.12.01"
 date: 2021-12-03T22:18:34+00:00
 slug: "meet-organic-maps-app-update"
 ---

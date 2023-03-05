@@ -1,5 +1,5 @@
 ---
-title: 'Organic Maps’in ikinci Kasım güncellemesi karşınızda'
+title: "Organic Maps’in ikinci Kasım güncellemesi karşınızda"
 date: 2022-11-30T09:58:35+00:00
 slug: "meet-the-second-november-update-of-organic-maps"
 ---

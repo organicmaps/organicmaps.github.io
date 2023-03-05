@@ -1,5 +1,5 @@
 ---
-title: '🍃 Organic Maps is live!'
+title: "🍃 Organic Maps is live!"
 date: 2021-06-17T08:17:18+00:00
 slug: "organic-maps-is-live"
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'We''ve created a Telegram group for Turkish users, moderated by @MetehanOzyurek'
+title: "We''ve created a Telegram group for Turkish users, moderated by @MetehanOzyurek"
 date: 2022-02-02T11:26:11+00:00
 slug: "we-ve-created-a-telegram-group-for-turkish-users-moderated-by-metehanozyurek"
 ---

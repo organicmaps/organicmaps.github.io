@@ -1,5 +1,5 @@
 ---
-title: 'GSoC 2022 reminder'
+title: "GSoC 2022 reminder"
 date: 2022-04-18T16:51:43+00:00
 slug: "gsoc-2022-reminder"
 ---

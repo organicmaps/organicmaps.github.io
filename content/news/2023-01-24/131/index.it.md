@@ -1,5 +1,5 @@
 ---
-title: 'Cerchiamo volontari che possano aiutarci a preparare e tradurre le note di rilascio degli aggiornamenti per tutti gli app store e per il nostro sito Web su base più o meno regolare'
+title: "Cerchiamo volontari che possano aiutarci a preparare e tradurre le note di rilascio degli aggiornamenti per tutti gli app store e per il nostro sito Web su base più o meno regolare"
 date: 2023-01-24T00:34:25+00:00
 slug: "we-are-looking-for-volunteers-who-can-help-us-to-prepare-and-translate-whats-new-for-upcoming-releases-for-all-app-stores-and-for-our-website-on-a-more-or-less-regular-basis"
 ---

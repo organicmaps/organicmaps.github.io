@@ -1,5 +1,5 @@
 ---
-title: 'Přinášíme aktualizaci Organic Maps pro leden 2023'
+title: "Přinášíme aktualizaci Organic Maps pro leden 2023"
 date: 2023-01-27T21:26:12+00:00
 slug: "meet-the-january-2023-update-of-organic-maps"
 ---

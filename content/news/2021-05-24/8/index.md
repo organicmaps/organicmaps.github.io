@@ -1,5 +1,5 @@
 ---
-title: 'A new beta version 2021-05-21 is out.'
+title: "A new beta version 2021-05-21 is out."
 date: 2021-05-24T07:03:54+00:00
 slug: "a-new-beta-version-is-out"
 ---

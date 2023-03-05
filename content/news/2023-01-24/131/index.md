@@ -1,5 +1,5 @@
 ---
-title: 'We are looking for volunteers who can help us to prepare and translate Whats New for upcoming releases for all app stores and for our website on a more or less regular basis'
+title: "We are looking for volunteers who can help us to prepare and translate Whats New for upcoming releases for all app stores and for our website on a more or less regular basis"
 date: 2023-01-24T00:34:25+00:00
 slug: "we-are-looking-for-volunteers-who-can-help-us-to-prepare-and-translate-whats-new-for-upcoming-releases-for-all-app-stores-and-for-our-website-on-a-more-or-less-regular-basis"
 ---

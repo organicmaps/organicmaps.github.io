@@ -1,5 +1,5 @@
 ---
-title: 'October/November update of Organic Maps with many fixes and improvements is avaliable in FDroid'
+title: "October/November update of Organic Maps with many fixes and improvements is avaliable in FDroid"
 date: 2022-11-07T09:52:06+00:00
 slug: "october-november-update-of-organic-maps-with-many-fixes-and-improvements-is-avaliable-in-fdroid"
 ---

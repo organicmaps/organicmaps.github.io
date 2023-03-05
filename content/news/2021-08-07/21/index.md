@@ -1,5 +1,5 @@
 ---
-title: 'Meet a new app update with'
+title: "Meet a new app update with"
 date: 2021-08-07T06:40:46+00:00
 slug: "meet-a-new-app-update-with"
 ---

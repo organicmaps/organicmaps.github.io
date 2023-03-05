@@ -1,5 +1,5 @@
 ---
-title: 'Organic Maps is participating in the Google Summer of Code 2022 program'
+title: "Organic Maps is participating in the Google Summer of Code 2022 program"
 date: 2022-03-11T14:02:33+00:00
 slug: "organic-maps-is-participating-in-the-google-summer-of-code-2022-program"
 ---

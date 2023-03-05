@@ -1,5 +1,5 @@
 ---
-title: 'Sorry, the latest 21.10.07 release for Android has a bug'
+title: "Sorry, the latest 21.10.07 release for Android has a bug"
 date: 2021-10-09T18:07:49+00:00
 slug: "sorry-the-latest-release-for-android-has-a-bug"
 ---

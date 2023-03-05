@@ -1,5 +1,5 @@
 ---
-title: 'Now, in addition to Telegram, [matrix], Twitter, Facebook and Instagram, you can follow us on Mastodon'
+title: "Now, in addition to Telegram, [matrix], Twitter, Facebook and Instagram, you can follow us on Mastodon"
 date: 2022-11-21T22:28:48+00:00
 slug: "now-in-addition-to-telegram-matrix-twitter-facebook-and-instagram-you-can-follow-us-on-mastodon"
 aliases: ["/news/2022-11-21/now-in-addition-to-telegram-matrix-twitter-facebook-and-instagram-you-can-follow-us-on-mastodon-well-actually-on-fosstodon/"]

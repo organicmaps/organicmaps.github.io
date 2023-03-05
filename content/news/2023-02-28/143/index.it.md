@@ -1,5 +1,5 @@
 ---
-title: 'OpenStreetMap e Organic Maps hanno aiutato il dottor Bilgehan Çevik in Turchia'
+title: "OpenStreetMap e Organic Maps hanno aiutato il dottor Bilgehan Çevik in Turchia"
 date: 2023-02-28T21:28:04+00:00
 slug: "openstreetmap-and-organic-maps-helped-dr-bilgehan-cevik-in-Turkey"
 ---

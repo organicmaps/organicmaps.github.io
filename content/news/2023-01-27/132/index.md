@@ -1,5 +1,5 @@
 ---
-title: 'We are excited to announce our first update of 2023'
+title: "We are excited to announce our first update of 2023"
 date: 2023-01-27T21:26:12+00:00
 slug: "we-are-excited-to-announce-our-first-update-of-2023"
 ---

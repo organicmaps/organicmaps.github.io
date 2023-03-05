@@ -1,5 +1,5 @@
 ---
-title: 'Finally, the September update was approved by Google and is available in the Google Play Store'
+title: "Finally, the September update was approved by Google and is available in the Google Play Store"
 date: 2022-10-10T23:12:38+00:00
 slug: "finally-the-september-update-was-approved-by-google-and-is-available-in-the-google-play-store"
 ---

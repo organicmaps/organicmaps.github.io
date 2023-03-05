@@ -1,5 +1,5 @@
 ---
-title: 'Some guidelines for Google Summer of Code 2022 (GSoC) participants who want to become open-source contributors to Organic Maps'
+title: "Some guidelines for Google Summer of Code 2022 (GSoC) participants who want to become open-source contributors to Organic Maps"
 date: 2022-04-11T23:02:39+00:00
 slug: "some-guidelines-for-google-summer-of-code-2022-gsoc-participants-who-want-to-become-open-source-contributors-to-organic-maps"
 ---

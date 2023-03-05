@@ -1,5 +1,5 @@
 ---
-title: 'Deze versie bevat geüpdatete kaartengegevens voor Turkije en Syrië, inclusief de Humanitarian OpenStreetMap Team aanpassingen na de recente aardbeving'
+title: "Deze versie bevat geüpdatete kaartengegevens voor Turkije en Syrië, inclusief de Humanitarian OpenStreetMap Team aanpassingen na de recente aardbeving"
 date: 2023-02-14T23:23:55+00:00
 slug: "deze-versie-bevat-geupdatete-kaartengegevens-voor-turkije-en-syrie-inclusief-de-humanitarian-openstreetmap-teamhttpswwwhotosmorg-aanpassingen-na-de-recente-aardbeving"
 ---

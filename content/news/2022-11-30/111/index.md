@@ -1,5 +1,5 @@
 ---
-title: 'Meet the second November update of Organic Maps'
+title: "Meet the second November update of Organic Maps"
 date: 2022-11-30T09:58:35+00:00
 slug: "meet-the-second-november-update-of-organic-maps"
 ---

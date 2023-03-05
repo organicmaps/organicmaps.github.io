@@ -1,5 +1,5 @@
 ---
-title: 'New app update 2022.07.01 is available on AppStore and AppGalery.'
+title: "New app update 2022.07.01 is available on AppStore and AppGalery."
 date: 2022-07-02T07:54:20+00:00
 slug: "new-app-update-is-available-on-appstore-and-appgalery"
 ---

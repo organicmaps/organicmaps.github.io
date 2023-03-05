@@ -1,5 +1,5 @@
 ---
-title: 'The June release is available only in the AppStore and Huawei AppGallery, the FDroid update is delayed for technical reasons and the Google Play update is still in review for more than one week'
+title: "The June release is available only in the AppStore and Huawei AppGallery, the FDroid update is delayed for technical reasons and the Google Play update is still in review for more than one week"
 date: 2022-06-28T06:10:20+00:00
 slug: "the-june-release-is-available-only-in-the-appstore-and-huawei-appgallery-the-fdroid-update-is-delayed-for-technical-reasons-and-the-google-play-update-is-still-in-review-for-more-than-one-week"
 ---

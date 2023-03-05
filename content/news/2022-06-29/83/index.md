@@ -1,5 +1,5 @@
 ---
-title: 'Fdroid and Google Play updates are finally available'
+title: "Fdroid and Google Play updates are finally available"
 date: 2022-06-29T06:49:19+00:00
 slug: "fdroid-and-google-play-updates-are-finally-available"
 ---

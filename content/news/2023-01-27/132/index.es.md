@@ -1,5 +1,5 @@
 ---
-title: 'Conozca la actualización de enero de 2023 de Organic Maps'
+title: "Conozca la actualización de enero de 2023 de Organic Maps"
 date: 2023-01-27T21:26:12+00:00
 slug: "actualizacion-enero-2023-organic-maps"
 ---
