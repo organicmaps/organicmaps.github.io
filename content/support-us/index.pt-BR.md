@@ -41,4 +41,4 @@ Há diferentes maneiras de apoiar o desenvolvimento:
 Nossa pequena equipe é muito grata por seu feedback e apoio. Organic Maps
 não seria possível sem nossos usuários ❤️.
 
-{{ references(lang='pt-BR') }}
+{{ references() }}

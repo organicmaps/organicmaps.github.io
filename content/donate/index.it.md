@@ -11,7 +11,7 @@ Vi auguriamo un buon Natale 🎅 e un felice anno nuovo 🎄! Il miglior regalo 
 
 Stiamo cercando il vostro aiuto per finanziare l'ulteriore sviluppo dell'applicazione Organic Maps.
 
-{{ donate_buttons(lang='it') }}
+{{ donate_buttons() }}
 
 ## Perché?
 
@@ -70,7 +70,7 @@ Le donazioni ricorrenti sono il modo migliore per garantire un'entrata relativam
 progetto e motivarci per i compiti e gli obiettivi a lungo termine. Ma potete anche
 donare una volta sola.
 
-{{ donate_buttons(lang='it') }}
+{{ donate_buttons() }}
 
 ### SEPA e bonifico bancario diretto
 
@@ -88,7 +88,7 @@ donare una volta sola.
 Si prega di considerare una donazione annuale per ridurre le spese totali. Algorand, Tron,
 Litecoin e Monero offrono commissioni basse, ma la situazione cambia ogni giorno.
 
-{{ crypto_table(lang='it') }}
+{{ crypto_table() }}
 
 ## Puoi aiutarci in qualche altro modo?
 

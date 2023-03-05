@@ -12,7 +12,7 @@ Si tratta di un [fork][fork] open source dell'applicazione **Maps.me** (preceden
 
 ### Scaricare e installare Organic Maps da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='it') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
@@ -80,7 +80,7 @@ L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.it.md) 
 
 ### Ci sono diversi modi per donare:
 
-{{ donate_buttons(lang='it') }}
+{{ donate_buttons() }}
 
 ### I nostri sponsor:
 
@@ -114,4 +114,4 @@ Organic Maps è un [software open-source][github] con licenza Apache 2.0.
 
 [fork]: https://it.wikipedia.org/wiki/Fork_(sviluppo_software)
 
-{{ references(lang='it') }}
+{{ references() }}

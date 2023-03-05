@@ -13,7 +13,7 @@ L’**Organic Maps** és una de les poques aplicacions actuals que admet fer ser
 
 ### Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='ca') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Senderisme') }}
 
@@ -66,11 +66,11 @@ dolentes:
 
 L'aplicació està verificada pel [Projecte Exodus Privacy][exodus]:
 
-{{ exodus_screenshot(lang='ca') }}
+{{ exodus_screenshot() }}
 
 Organic Maps no demana permisos excessius per a espiar-li:
 
-{{ privacy_screenshots(lang='ca') }}
+{{ privacy_screenshots() }}
 
 En Organic Maps, creiem que la privacitat és un dret humà fonamental:
 
@@ -89,7 +89,7 @@ L'aplicació és gratuïta per a tothom. Si us plau
 
 ### Hi ha diferents maneres de donar:
 
-{{ donate_buttons(lang='ca') }}
+{{ donate_buttons() }}
 
 ### Els nostres patrocinadors
 
@@ -123,4 +123,4 @@ Llicència Apatxe 2.0.
 
 [fork]: https://ca.wikipedia.org/wiki/Forquilla_(desenvolupament_de_software)
 
-{{ references(lang='ca') }}
+{{ references() }}

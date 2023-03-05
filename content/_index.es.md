@@ -13,7 +13,7 @@ title: 'Organic Maps: senderismo, ciclismo y GPS sin conexión'
 
 ### Descargue e instale Organic Maps desde el [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='es') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Senderismo') }}
 
@@ -65,11 +65,11 @@ La aplicación Organic Maps está libre de rastreadores y otras cosas malas:
 
 La aplicación está verificada por el [Proyecto Exodus Privacy][exodus]:
 
-{{ exodus_screenshot(lang='es') }}
+{{ exodus_screenshot() }}
 
 Organic Maps no pide permisos excesivos para espiarle:
 
-{{ privacy_screenshots(lang='es') }}
+{{ privacy_screenshots() }}
 
 En Organic Maps, creemos que la privacidad es un derecho humano fundamental:
 
@@ -88,7 +88,7 @@ donación](@/donate/index.es.md) para apoyarnos!
 
 ### Hay diferentes maneras de donar:
 
-{{ donate_buttons(lang='es') }}
+{{ donate_buttons() }}
 
 ### Nuestros patrocinadores:
 
@@ -121,4 +121,4 @@ Licencia Apache 2.0.
 
 [fork]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)
 
-{{ references(lang='es') }}
+{{ references() }}

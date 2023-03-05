@@ -13,7 +13,7 @@ title: 'Organic Maps: Caminhada, Ciclismo, Trilhas e Navegação Offline'
 
 ### Baixe e instale Organic Maps a partir da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='pt-BR') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Caminhada') }}
 
@@ -64,11 +64,11 @@ O app Organic Maps está livre de rastreadores e outras coisas ruins:
 
 O app é verificado pelo [Projeto Exodus Privacy][exodus]:
 
-{{ exodus_screenshot(lang='pt-BR') }}
+{{ exodus_screenshot() }}
 
 Organic Maps não solicita permissões excessivas para espioná-lo:
 
-{{ privacy_screenshots(lang='pt-BR') }}
+{{ privacy_screenshots() }}
 
 No Organic Maps, acreditamos que a privacidade é um direito humano
 fundamental:
@@ -88,7 +88,7 @@ doação](@/donate/index.pt-BR.md) para nos apoiar!
 
 ### Há diferentes maneiras de doar:
 
-{{ donate_buttons(lang='pt-BR') }}
+{{ donate_buttons() }}
 
 ### Nossos patrocinadores:
 
@@ -121,4 +121,4 @@ Licença Apache 2.0.
 
 [fork]: https://pt.wikipedia.org/wiki/Bifurcação_(desenvolvimento_de_software)
 
-{{ references(lang='pt-BR') }}
+{{ references() }}

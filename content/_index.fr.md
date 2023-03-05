@@ -13,7 +13,7 @@ extra:
 
 ### Télécharger et installer Organic Maps depuis [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='fr') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 {{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
@@ -88,7 +88,7 @@ L'application est gratuite pour tous. Veuillez [faire un don](@/donate/index.fr.
 
 ### Il y a plusieurs façons de faire un don :
 
-{{ donate_buttons(lang='fr') }}
+{{ donate_buttons() }}
 
 ### Nos sponsors :
 
@@ -119,4 +119,4 @@ Organic Maps est un [logiciel libre][github] sous licence Apache 2.0.
 - Suivez nos mises à jour sur <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
 
 
-{{ references(lang='fr') }}
+{{ references() }}

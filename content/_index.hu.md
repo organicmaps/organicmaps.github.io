@@ -13,7 +13,7 @@ Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás uta
 
 ### Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
-{{ badges(lang='hu') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Túrázás') }}
 
@@ -65,11 +65,11 @@ Az Organic Maps alkalmazás mentes a nyomkövetőktől és egyéb rossz dolgokt�
 
 Az alkalmazás az [Exodus Privacy Project][exodus] által ellenőrzött:
 
-{{ exodus_screenshot(lang='hu') }}
+{{ exodus_screenshot() }}
 
 Az Organic Maps nem kér rengeteg engedélyt, hogy kémkedjen Ön után:
 
-{{ privacy_screenshots(lang='hu') }}
+{{ privacy_screenshots() }}
 
 Az Organic Mapsnél hiszünk abban, hogy a magánélet alapvető emberi jog:
 
@@ -89,7 +89,7 @@ Az alkalmazás mindenki számára ingyenes. Kérjük,
 
 ### Az adományozásnak különböző módjai vannak:
 
-{{ donate_buttons(lang='hu') }}
+{{ donate_buttons() }}
 
 ### Szponzoraink:
 
@@ -123,4 +123,4 @@ License 2.0-t használja.
 
 [fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29
 
-{{ references(lang='hu') }}
+{{ references() }}

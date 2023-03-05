@@ -13,7 +13,7 @@ title: 'Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation'
 
 ### Organic Maps von [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] herunterladen und installieren {#install}
 
-{{ badges(lang='de') }}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wandern') }}
 
@@ -65,12 +65,12 @@ Organic Maps ist frei von Trackern und schlechten Dingen:
 
 Die App wurde von [Exodus Privacy Project][exodus] geprüft:
 
-{{ exodus_screenshot(lang='de') }}
+{{ exodus_screenshot() }}
 
 Organic Maps fordert keine unnötigen Berechtigungen an, um dich
 auszuspionieren:
 
-{{ privacy_screenshots(lang='de') }}
+{{ privacy_screenshots() }}
 
 Wir bei Organic Maps glauben, dass die Privatsphäre ein grundlegendes
 Menschenrecht ist:
@@ -92,7 +92,7 @@ Die App ist für alle kostenlos. Bitte unterstütze uns mit einer
 
 ### Es gibt verschiedene Möglichkeiten zu spenden:
 
-{{ donate_buttons(lang='de') }}
+{{ donate_buttons() }}
 
 ### Unsere Sponsoren:
 
@@ -125,4 +125,4 @@ License 2.0 lizenziert ist.
 
 [fork]: https://de.wikipedia.org/wiki/Abspaltung_(Softwareentwicklung)
 
-{{ references(lang='de') }}
+{{ references() }}

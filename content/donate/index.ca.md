@@ -16,7 +16,7 @@ Organic Maps és _gratis per a tothom_ gràcies a les seves
 - Notificacions emergents
 - Codi obert
 
-{{ donate_buttons(lang='ca') }}
+{{ donate_buttons() }}
 
 ## Per què fer donatius a l’Organic Maps?
 
@@ -54,7 +54,7 @@ Organic Maps és _gratis per a tothom_ gràcies a les seves
 
 ## Com donar?
 
-{{ donate_buttons(lang='ca') }}
+{{ donate_buttons() }}
 
 Les donacions recurrents són la millor manera d'assegurar un ingrés periòdic
 per al projecte i ens motiva per a tasques i objectius a llarg termini. Però
@@ -62,13 +62,13 @@ també pots fer donació una vegada.
 
 ### Transferència bancària
 
-{{ bank_transfer(lang='ca') }}
+{{ bank_transfer() }}
 
 ### Criptomonedes
 
 Si us plau, considera fer donacions anuals per a reduir les quotes totals.
 
-{{ crypto_table(lang='ca') }}
+{{ crypto_table() }}
 
 ## Pots ajudar-nos d'alguna altra forma?
 

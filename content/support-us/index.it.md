@@ -38,4 +38,4 @@ Esistono diversi modi per sostenere lo sviluppo:
 
 Il nostro piccolo team è molto grato per il vostro feedback e supporto. Organic Maps non sarebbe possibile senza i nostri utenti ❤️.
 
-{{ references(lang='it') }}
+{{ references() }}

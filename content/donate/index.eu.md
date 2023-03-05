@@ -16,7 +16,7 @@ esker:
 - Push jakinarazpenik ez
 - Kode irekikoa
 
-{{ donate_buttons(lang='eu') }}
+{{ donate_buttons() }}
 
 ## Zergatik eman dirua Organic Maps-i?
 
@@ -54,7 +54,7 @@ esker:
 
 ## Nola egin dohaintza?
 
-{{ donate_buttons(lang='eu') }}
+{{ donate_buttons() }}
 
 Aldizkako dohaintzak dira proiektuarentzat sarrera jarri batzuk ziurtatzeko
 modu onena eta epe luzerako ekintza eta helburuetarako motibatuko
@@ -62,14 +62,14 @@ gaituzte. Baina behingoagatik ere eman dezakezu.
 
 ### Banku transferentzia
 
-{{ bank_transfer(lang='eu') }}
+{{ bank_transfer() }}
 
 ### Crypto
 
 Mesedez pentsatu urteroko ordainketak prestatzeaz, banku komisio orokorrak
 gutxitzeko.
 
-{{ crypto_table(lang='eu') }}
+{{ crypto_table() }}
 
 ## Beste moduren batean lagun gaitzakezu?
 
