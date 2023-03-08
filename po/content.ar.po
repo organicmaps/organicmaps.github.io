@@ -22,7 +22,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين والدراجين، صممت من طرف مؤسسي تطبيق MapsWithMe (Maps.Me)"
+msgstr "خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين والدراجين، انشأت من قبل مؤسسي تطبيق MapsWithMe (Maps.Me)"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
