@@ -4,22 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Skrripy <rozihrash.ya6w7@simplelogin.com>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-06 05:58+0000\nLast-Translator: Dan <denqwerta@gmail.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "Швидкі і детальні офлайн-карти для мандрівників, туристів, водіїв, пішоходів та велосипедистів, створені засновниками додатка MapsWithMe (Maps.Me)."
+msgstr "Швидкі і детальні офлайн-карти для мандрівників, туристів, водіїв, пішоходів та велосипедистів, створені засновниками застосунка MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -37,13 +28,13 @@ msgstr "Organic Maps: Офлайн карти та GPS навігація"
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** - це безкоштовний офлайн додаток для Android та iOS для мандрівників, туристів, пішоходів та велосипедистів, що базується на даних з відкритих джерел **[OpenStreetMap][openstreetmap]**. Це орієнтований на конфіденційність, відкритий [форк][fork] додатку **Maps.me** (раніше відомого, як [**MapsWithMe**][mapswithme]), який підтримується тими ж людьми, що створили **MapsWithMe** у 2011 році.\n"
+msgstr "**Organic Maps** - це безплатний офлайн застосунок для Android та iOS для мандрівників, туристів, пішоходів та велосипедистів, що базується на даних з відкритих джерел **[OpenStreetMap][openstreetmap]**. Це орієнтований на конфіденційність, відкритий [форк][fork] застосунку **Maps.me** (раніше відомого, як [**MapsWithMe**][mapswithme]), який підтримується тими ж людьми, що створили **MapsWithMe** у 2011 році.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** - один з небагатьох додатків, який підтримує 100% функцій без активного інтернет-з'єднання. Встановіть Organic Maps, завантажте карти, викиньте SIM-карту (до речі, ваш оператор постійно стежить за вами) і вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.\n"
+msgstr "**Organic Maps** - один з небагатьох застосунків, який підтримує 100% функцій без активного інтернет-з'єднання. Встановіть Organic Maps, завантажте карти, викиньте SIM-карту (до речі, ваш оператор постійно стежить за вами) і вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.\n"
 
 #. type: Title ###
 #: content/_index.md
@@ -85,7 +76,7 @@ msgstr "Особливості"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr "Organic Maps - це найкращий додаток компаньйон для мандрівників, туристів, пішоходів та велосипедистів:"
+msgstr "Organic Maps - це найкращий застосунок компаньйон для мандрівників, туристів, пішоходів та велосипедистів:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -216,7 +207,7 @@ msgstr "~~Без пестицидів!~~ Чиста органіка!"
 #. type: Plain text
 #: content/_index.md
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr "Додаток перевірений [Exodus Privacy Project][exodus]:"
+msgstr "Застосунок перевірений [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
@@ -268,12 +259,12 @@ msgstr "**[Спробуйте Organic Maps!](#install)**\n"
 #: content/_index.md
 #, no-wrap
 msgid "Who is paying for the free app?"
-msgstr "Хто платить за безплатний додаток?"
+msgstr "Хто платить за безплатний застосунок?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Додаток безплатний для всіх. Будь ласка, [пожертвуйте](@/donate/index.uk.md), щоб підтримати нас!"
+msgstr "Застосунок безплатний для всіх. Будь ласка, [пожертвуйте](@/donate/index.uk.md), щоб підтримати нас!"
 
 #. type: Title ###
 #: content/_index.md
@@ -449,7 +440,7 @@ msgstr "Ми платимо за швидкі сервери, щоб будь-х
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Підтримка користувачів, виправлення помилок та покращення стабільності роботи додатка є одними з наших пріоритетів.  На GitHub існує [1200+ проблем][github issues], і ця кількість зростає щодня.  AppStore, Google Play та електронна пошта служби підтримки переповнені коментарями та помилками. Ми хочемо створювати якісний продукт."
+msgstr "Підтримка користувачів, виправлення помилок та покращення стабільності роботи застосунка є одними з наших пріоритетів.  На GitHub існує [1200+ проблем][github issues], і ця кількість зростає щодня.  AppStore, Google Play та електронна пошта служби підтримки переповнені коментарями та помилками. Ми хочемо створювати якісний продукт."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -609,7 +600,7 @@ msgstr "Organic Maps поважає вашу конфіденційність і
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
-msgstr "На відміну від більшості інших додатків, в Organic Maps немає відстеження, реклами, шпигунських програм, збору даних і статистики."
+msgstr "На відміну від більшості інших застосунків, в Organic Maps немає відстеження, реклами, шпигунських програм, збору даних і статистики."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -648,7 +639,7 @@ msgstr "Підтримайте розвиток Organic Maps"
 #. type: Plain text
 #: content/support-us/index.md
 msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr "Organic Maps - це безплатний додаток з відкритим вихідним кодом. Він не містить реклами, не збирає вашу особисту інформацію і розробляється кількома ентузіастами за допомогою спільноти."
+msgstr "Organic Maps - це безплатний застосунок з відкритим вихідним кодом. Він не містить реклами, не збирає вашу особисту інформацію і розробляється кількома ентузіастами за допомогою спільноти."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -776,7 +767,7 @@ msgstr "Будь ласка, зверніться до їхніх файлів L
 #. type: Plain text
 #: content/terms/index.md
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
-msgstr "Дивіться також файл [data/copyright.html][copyright], щоб отримати повний список повідомлень про авторські права для додатка Organic Maps."
+msgstr "Дивіться також файл [data/copyright.html][copyright], щоб отримати повний список повідомлень про авторські права для застосунка Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
