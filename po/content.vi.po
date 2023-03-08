@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-25 17:45+0000\nLast-Translator: ngocanhtve <ngocanh.tve@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/organicmaps/website/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-02-25 17:45+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/organicmaps/website/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "Tính năng"
 
 #. type: Plain text
 #: content/_index.md
@@ -178,7 +178,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "Không quảng cáo"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -220,7 +220,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "Thông báo đẩy"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -322,7 +322,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "Our sponsors"
 
 #. type: Plain text
 #: content/_index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Cộng đồng"
 
 #. type: Plain text
 #: content/_index.md
@@ -430,7 +430,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Quyên góp"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -460,7 +460,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Open source"
-msgstr ""
+msgstr "Mã nguồn mở"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -562,7 +562,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Public Transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -598,7 +598,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Crypto"
-msgstr ""
+msgstr "Tiền mã hoá"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -642,7 +642,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Tin tức"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -660,7 +660,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Riêng tư"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
@@ -708,7 +708,7 @@ msgstr ""
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "Hỗ trợ người phát triển"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
@@ -816,7 +816,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Kỳ"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -858,7 +858,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "Công Cụ"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -885,7 +885,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -897,7 +897,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Liên hệ với chúng tôi"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -927,16 +927,16 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Tiếng Anh"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #. type: Hash Value: token
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Mã token"
