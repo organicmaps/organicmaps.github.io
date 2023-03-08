@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-08 04:01+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hant/>\nLanguage: zh-rTW\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-09 04:36+0000\nLast-Translator: Supaplex <bejokeup@gmail.com>\nLanguage-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hant/>\nLanguage: zh-rTW\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -82,37 +82,37 @@ msgstr "功能"
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "Organic Maps 是旅行者、遊客、登山客與單車騎士的最佳伴侶 app："
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr ""
+msgstr "詳盡的離線地圖記載其他地圖還不存在的地方，感謝[開放街圖][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "單車路線、登山路線與健行路線"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "等高線、海拔高度、山峰與斜坡"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
+msgstr "語音方式的點對點行走、單車與汽車導航"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "地圖上快速離線搜尋"
 
 #. type: Bullet: '- '
 #: content/_index.md
