@@ -4,43 +4,43 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-02 19:39+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Italian <https://hosted.weblate.org/projects/organicmaps/website/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "Mappe offline veloci e dettagliate per viaggiatori, turisti, automobilisti, escursionisti e ciclisti create dai fondatori dell'app MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Panoramica"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "Organic Maps: Escursioni in bicicletta, sentieri e navigazione offline"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "**Organic Maps** è un'applicazione gratuita per Android e iOS di mappe offline per viaggiatori, turisti, escursionisti e ciclisti, basata sui dati **[OpenStreetMap][openstreetmap]** crowd-sourced. È un [fork][fork] open-source, incentrato sulla privacy, dell'app **Maps.me** (precedentemente nota come [**MapsWithMe**][mapswithme], gestita dalle stesse persone che hanno creato **MapsWithMe** nel 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
+msgstr "**Organic Maps** è una delle poche applicazioni che supporta il 100% delle funzioni senza una connessione Internet attiva. Installate Organic Maps, scaricate le mappe, buttate via la scheda SIM (a proposito, il vostro operatore vi traccia costantemente) e partite per un viaggio settimanale con una sola carica della batteria senza inviare alcun byte alla rete.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "Scarica e installa Organic Maps da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "Funzionalità"
 
 #. type: Plain text
 #: content/_index.md
@@ -136,7 +136,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Free and open-source"
-msgstr ""
+msgstr "Gratuito e a sorgente aperto"
 
 #. type: Title ##
 #: content/_index.md
@@ -178,7 +178,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "Nessun annuncio"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -220,7 +220,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "Notifiche push"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -322,7 +322,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "I nostri sponsor:"
 
 #. type: Plain text
 #: content/_index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Comunità"
 
 #. type: Plain text
 #: content/_index.md
@@ -430,7 +430,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Donazioni"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -460,7 +460,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Open source"
-msgstr ""
+msgstr "Codice sorgente aperto"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -562,7 +562,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Public Transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -586,7 +586,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Bank Transfer"
-msgstr ""
+msgstr "Bonifico bancario"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -598,7 +598,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Crypto"
-msgstr ""
+msgstr "Cripto"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -642,7 +642,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Novità"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -660,7 +660,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
@@ -708,7 +708,7 @@ msgstr ""
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "Aiuta lo Sviluppo"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
@@ -816,7 +816,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Termini"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -858,7 +858,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "Strumenti"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -885,7 +885,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Indirizzi"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -897,7 +897,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Contattaci"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -927,16 +927,16 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Inglese"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #. type: Hash Value: token
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "Token"
