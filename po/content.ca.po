@@ -814,7 +814,7 @@ msgstr "Adreça"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr "Torna a Notícies"
+msgstr "Torna a Notícies"
 
 #. type: Hash Value: contact
 #: translations.yaml

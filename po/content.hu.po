@@ -814,7 +814,7 @@ msgstr "Cím"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr "Vissza a Hírekhez"
+msgstr "Vissza a Hírekhez"
 
 #. type: Hash Value: contact
 #: translations.yaml

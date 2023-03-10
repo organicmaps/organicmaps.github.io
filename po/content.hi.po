@@ -814,7 +814,7 @@ msgstr "पता"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr "ख़बरों पर वापस जाएं"
+msgstr "ख़बरों पर वापस जाएं"
 
 #. type: Hash Value: contact
 #: translations.yaml
