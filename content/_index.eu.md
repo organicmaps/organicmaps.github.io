@@ -118,9 +118,9 @@ lizentziapean.
 - Sartu gure [Telegram taldean][telegram_chat] beste erabiltzaileekin hitz
   egiteko.
 - Bisitatu gure [GitHub orria][github].
-- Jarrai itzazu gure eguneraketak [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], eta
-  [Reddit][reddit]-en.
+- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
+  [LinkedIn][].
 
 [fork]: https://eu.wikipedia.org/wiki/Fork
 

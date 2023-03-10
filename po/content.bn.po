@@ -360,7 +360,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][]."
 msgstr ""
 
 #. type: Plain text

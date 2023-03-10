@@ -118,8 +118,9 @@ Organic Maps - це [ПЗ з відкритим вихідним кодом][git
 - Приєднуйтесь до нашої [Telegram групи][telegram_chat], щоб подискутувати з
   іншими користувачами.
 - Відвідайте нашу [сторінку на GitHub][github].
-- Слідкуйте за нами у [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit].
+- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
+  [LinkedIn][].
 
 [fork]: https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA
 
