@@ -383,7 +383,7 @@ msgstr "访问我们的[GitHub页面][github]。"
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][]."
 msgstr "在[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]关注我们的更新。"
 
 #. type: Plain text

@@ -117,9 +117,9 @@ License 2.0-t használja.
 - Csatlakozz a [Telegram csoportunkhoz][telegram_chat], hogy beszélgethess a
   többi felhasználóval.
 - Látogasson el a [GitHub oldalunkra][github].
-- Kövesse frissítéseinket, újdonságainkat a [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram] és
-  [Reddit][reddit] szolgáltatásokon.
+- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
+  [LinkedIn][].
 
 [fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29
 

@@ -360,7 +360,9 @@ msgstr "Bisitatu gure [GitHub orria][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+#, fuzzy
+#| msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][]."
 msgstr "Jarrai itzazu gure eguneraketak [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], eta [Reddit][reddit]-en."
 
 #. type: Plain text

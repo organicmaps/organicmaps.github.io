@@ -16,6 +16,7 @@
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/organicmaps.app/
 [issues]: https://github.com/organicmaps/organicmaps/issues
+[LinkedIn]:  https://linkedin.com/company/organic-maps
 [mapswithme]: https://en.wikipedia.org/wiki/Maps.me "Maps.Me"
 [mastodon]: https://fosstodon.org/@organicmaps
 [matrix]: https://matrix.to/#/#organicmaps:matrix.org
