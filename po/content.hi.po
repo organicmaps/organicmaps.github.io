@@ -836,7 +836,7 @@ msgstr "गूगल प्ले से ऑर्गेनिक मैप इ�
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "अंग्रेजी"
+msgstr "हिंदी"
 
 #. type: Hash Value: name
 #: translations.yaml
