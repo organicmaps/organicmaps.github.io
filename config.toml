@@ -62,7 +62,7 @@ name = "Nom"
 token = "Jeton"
 [languages.it]
 [languages.it.translations]
-address = "Indirizzo"
+address = "Indirizzi"
 back = "Indietro"
 contact = "Contattaci"
 install-appgallery = "Installa Organic Maps da Huawei AppGallery"
