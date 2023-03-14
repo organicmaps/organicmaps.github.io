@@ -114,9 +114,9 @@ mode') }}
 - अन्य उपयोगकर्ताओं के साथ चर्चा करने के लिए हमारे [Telegram
   Group][telegram_chat] में शामिल हों।
 - हमारे [गिटहब पेज][github] पर जाएं।
-- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][].
+- [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
+  [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn] पर हमारे
+  अपडेट का पालन करें।
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(सॉफ्टवेयर_विकास)
 

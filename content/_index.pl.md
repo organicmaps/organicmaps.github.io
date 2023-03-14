@@ -120,9 +120,9 @@ License 2.0.
 - Dołącz do naszej [grupy Telegram][telegram_chat], aby dyskutować z innymi
   użytkownikami.
 - Odwiedź naszą stronę [GitHub][github].
-- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][].
+- Śledź nasze aktualizacje na [Mastodonie][mastodon], [Facebooku][facebook],
+  [Twitterze][twitter], [Instagramie][instagram], [Reddicie][reddit],
+  [LinkedIn][LinkedIn].
 
 [fork]: https://pl.wikipedia.org/wiki/Fork
 

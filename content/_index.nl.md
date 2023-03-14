@@ -116,9 +116,9 @@ Apache License 2.0.
 - Kom bij onze [Telegram groep][telegram_chat] om te discussiëren met andere
   gebruikers.
 - Bezoek onze [GitHub pagina][github].
-- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
+- Volg onze update op [Mastodon][mastodon], [Facebook][facebook],
   [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][].
+  [LinkedIn][LinkedIn].
 
 [fork]: https://nl.wikipedia.org/wiki/Fork_(ontwikkeling)
 

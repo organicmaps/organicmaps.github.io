@@ -351,8 +351,8 @@ msgstr "Navštivte náš [GitHub][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][]."
-msgstr "Sledujte naše aktualizace na [Mastodonu][mastodon], [Facebooku][facebook], [Twitteru][twitter], [Instagramu][instagram], [Redditu][reddit], [LinkedIn][]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
+msgstr "Sledujte naše aktualizace na [Mastodonu][mastodon], [Facebooku][facebook], [Twitteru][twitter], [Instagramu][instagram], [Redditu][reddit], [LinkedIn][LinkedIn]."
 
 #. type: Plain text
 #: content/_index.md

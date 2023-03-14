@@ -120,7 +120,7 @@ License 2.0.
 - Navštivte náš [GitHub][github].
 - Sledujte naše aktualizace na [Mastodonu][mastodon], [Facebooku][facebook],
   [Twitteru][twitter], [Instagramu][instagram], [Redditu][reddit],
-  [LinkedIn][].
+  [LinkedIn][LinkedIn].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

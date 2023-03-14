@@ -117,9 +117,9 @@ Llicència Apatxe 2.0.
 - Uneix-te al nostre [grup de Telegram][telegram_chat] per a parlar amb
   altres usuaris.
 - Visiteu la nostra [pàgina al GitHub][github].
-- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][].
+- Segueix les nostres novetats en [Mastodon][mastodon],
+  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
+  [Reddit][reddit] i [LinkedIn][LinkedIn].
 
 [fork]: https://ca.wikipedia.org/wiki/Forquilla_(desenvolupament_de_software)
 
