@@ -4,19 +4,19 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-14 05:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\nLanguage: et\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-18 12:44+0000\nLast-Translator: Priit Jõerüüt <hwlate@joeruut.com>\nLanguage-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\nLanguage: et\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "MapsWithMe (Maps.Me) rakenduse asutajate loodud kiire ja detailne võrguühendust mittevajav kaardilahendus reisijatele, turistidele, autojuhtidele, matkajatele ja ratturitele."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr "Kodu"
+msgstr "Avaleht"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -46,289 +46,289 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "{{ badges() }}"
-msgstr ""
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Matkamine') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Otsing ilma võrguühendust kasutamata') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Teekonna juhatamine kasutades tumedat vaadet') }}"
 
 #. type: Title ##
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr "Iseärasused"
+msgstr "Omadused"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "Organic Maps on suurepärane rakendus reisijatele, turistidele, matkajatele ja ratturitele:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr ""
+msgstr "Tänu [OpenStreetMap'ile][openstreetmap] on meil detailsed kaardid, mille kasutamiseks pole vaja võrguühendust"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "Rattateed, matkarajad ning võimalused jalutamiseks"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "Kontuurjooned, kõrgusprofiilid, tipud ja nõlvad"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
+msgstr "Täpne teekonna juhatamine koos hääljuhistega jalutamisel, rattasõidul ning autoga liikumisel"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "Kiire kaardiotsing võrguühendust kasutamata"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
+msgstr "Järjehoidjate import ning eksport KML/KMZ vormingutes (GPX on ka [plaanis][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Dark Mode to protect your eyes"
-msgstr ""
+msgstr "Tavavaate kõrval ka silmadesäästlik tume kaardivaade"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "Riikide ja piirkondade andmekogud ei võta palju andmeruumi"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Free and open-source"
-msgstr ""
+msgstr "Avatud lähtekoodiga ja tasuta tarkvara"
 
 #. type: Title ##
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "Miks Organic Maps?"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "Meie kaardirakendus on hoole ja armastusega tehtud ehe ja mõnus tarkvara:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Respects your privacy"
-msgstr ""
+msgstr "Austab sinu privaatsust"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Saves your battery"
-msgstr ""
+msgstr "Säästab nutiseadme akut"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No unexpected mobile data charges"
-msgstr ""
+msgstr "Ei mingeid ootamatuid mobiilse andmeside tasusid"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
+msgstr "Organic Maps rakenduses pole midagi, mis sinu tegevust jälgiks:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "Pole reklaame"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No tracking"
-msgstr ""
+msgstr "Pole jälgimist"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No data collection"
-msgstr ""
+msgstr "Pole andmekogumist"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No phoning home"
-msgstr ""
+msgstr "Pole helistamist teenusepakkujale koju"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No annoying registration"
-msgstr ""
+msgstr "Pole tüütut registreerimist"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "Pole kohustuslikke juhendmaterjale"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No noisy email spam"
-msgstr ""
+msgstr "Pole pidevat spämmi sinu e-posti aadressile"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "Pole tõuketeavitusi"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No crapware"
-msgstr ""
+msgstr "Pole rämpsvara"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "~~Pole putukamürki~~ Ehtne ja korralik!"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "Meie rakendust on kontrollinud [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ exodus_screenshot() }}"
-msgstr ""
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr ""
+msgstr "Organic Maps ei eelda sinu nutiseadmes liigseid õigusi, mis võimaldaks sinu tegevust jälgida:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ privacy_screenshots() }}"
-msgstr ""
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
+msgstr "Organic Maps rakenduse tiimis me eeldame, et privaatsus on põhiline inimõigus:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
+msgstr "Organic Maps on sõltumatu, kogukonnakeskne ja avatud lähtekoodiga tarkvaral põhinev projekt"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
+msgstr "Me kaitseme sinu privaatsust suurte tehnoloogiafirmade uudishimulike silmade eest"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Stay safe no matter wherever you are"
-msgstr ""
+msgstr "Püsi turvalisena olenemata sellest, kus sa viibid"
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 #, markdown-text
 msgid "Reject surveillance - embrace your freedom."
-msgstr ""
+msgstr "Keeldu pidevast jälgimisest - võta oma sihiks vabadus."
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr ""
+msgstr "**[Proovi Organic Maps'i kaardirakendust!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Who is paying for the free app?"
-msgstr ""
+msgstr "Kes maksab tasuta rakenduse eest?"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr ""
+msgstr "Meie rakendus on kõigile tasuta. Aga kui soovid [meid rahaliselt toetada](@/donate/index.md), siis see on alati hea mõte!"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "There are different ways to donate:"
-msgstr ""
+msgstr "Annetamiseks on erinevaid viise:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "{{ donate_buttons() }}"
-msgstr ""
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "Our sponsors"
+msgstr "Meie sponsorid:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr ""
+msgstr "Internetiteenuste pakkuja[Mythic Beasts](https://www.mythic-beasts.com/) [on meile andnud][mythic_beasts_donation] kaks virtuaalserverit, mille 400 TB/kuus tasuta ribalaius aitab meil kasutajatele jagada kaarte ja nende uuendusi."
 
 #. type: Title ##
 #: content/_index.md
@@ -340,73 +340,73 @@ msgstr "Kogukond"
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr ""
+msgstr "Organic Maps on [avatud lähtekoodil põhinev tarkvara][github], mida me oleme litsentseerinud Apache License 2.0 alusel."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
+msgstr "Palun liitu meie beetaprogrammiga, paku uusi funktsionaalsusi ning teata vigadest:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
-msgstr ""
+msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[Android Beta (Firebase)][firebase]"
-msgstr ""
+msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
-msgstr ""
+msgstr "[Linux'i töölauarakenduse beetaversioon (Flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[Linux Desktop Beta (packages)][repology]"
-msgstr ""
+msgstr "[Linux'i töölauarakenduse beetaversioon (pakendatuna)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
+msgstr "Teata vigadest või probleemidest meie [veahalduse liideses][issues] või [saada meile e-kiri][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr ""
+msgstr "[Kommenteeri][ideas] juba tehtud ettepanekuid või paku mõni asjalik idee omalt poolt."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr ""
+msgstr "Viimase teabe saamiseks liitu meie [Telegram'i kanaliga][telegram] või [Matrix'i kogukonnaga][matrix]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
+msgstr "Keskustelemaks teiste kasutajatega liitu meie [Telegram'i grupiga][telegram_chat]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Visit our [GitHub page][github]."
-msgstr ""
+msgstr "Vaata meie [arenduskeskkonda GitHub'is][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr ""
+msgstr "Jälgi meid sotsiaalmeedias: [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 
 #. type: Plain text
 #: content/_index.md
@@ -430,7 +430,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr "Anneta"
+msgstr "Toeta rahaliselt"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -891,7 +891,7 @@ msgstr "Aadress"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "Tagasi uudiste loendisse"
 
 #. type: Hash Value: contact
 #: translations.yaml
@@ -903,25 +903,25 @@ msgstr "Võta meiega ühendust"
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Paigalda Organic Maps Huawei AppGallery'st"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "Paigalda Organic Maps AppStore'st"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "Paigalda Organic Maps F-Droid'ist"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Google Play"
-msgstr ""
+msgstr "Paigalda Organic Maps Google Play'st"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -939,4 +939,4 @@ msgstr "Nimi"
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr "token"
+msgstr "Tunnusluba"
