@@ -7,8 +7,6 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Nous vous souhaitons un Joyeux Noël 🎅 et une Bonne Année 🎄 ! Le plus beau cadeau pour nous est de savoir que nous faisons La Bonne Chose et que notre temps et nos efforts aident quelqu'un sur la Planète.
-
 L'application Organic Maps est _gratuite pour tout le monde_ grâce à vos **[donations][stripe]** :
 
 - Pas de publicité

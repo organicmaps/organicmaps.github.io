@@ -7,8 +7,6 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Vi auguriamo un buon Natale 🎅 e un felice anno nuovo 🎄! Il miglior regalo per noi è sapere che stiamo facendo la cosa giusta e che il nostro tempo e i nostri sforzi stanno aiutando qualcuno sul pianeta.
-
 Stiamo cercando il vostro aiuto per finanziare l'ulteriore sviluppo dell'applicazione Organic Maps.
 
 {{ donate_buttons() }}
