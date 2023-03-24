@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-11 16:31+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-24 06:14+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -670,12 +670,12 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations_website] our web site into your language."
-msgstr ""
+msgstr "ह्या संकेतस्थळाचा आपल्या भाषेत[अनुवाद][translations_website] करा."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr ""
+msgstr "[OpenStreetMap][openstreetmap] समुदायात सहभागी व्हा व नकाशा डेटाचे योगदान करा."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -685,22 +685,22 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr ""
+msgstr "[GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] वर इतर वापरकर्त्यांची मदत करा."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr ""
+msgstr "Organic Maps बद्दल सर्वांना सांगा. मोठा समुदाय हा शक्तिशाली समुदाय."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
-msgstr ""
+msgstr "[Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review] वर आमचे मूल्यांकन करा."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Any help is welcome!"
-msgstr ""
+msgstr "कुठल्याही सहकार्याचे स्वागत आहे!"
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -711,7 +711,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms of use for Organic Maps application"
-msgstr ""
+msgstr "Organic Maps वापरण्याच्या अटी"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
@@ -723,7 +723,7 @@ msgstr "संज्ञा"
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"
-msgstr ""
+msgstr "Organic Maps: अटी"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -758,7 +758,7 @@ msgstr "tools"
 #. type: Plain text
 #: content/terms/index.md
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "वापरण्याच्या अटींसाठी LICENSE, COPYING किंवा NOTICE फाईली पहा."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -772,7 +772,7 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr ""
+msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -784,7 +784,7 @@ msgstr "पत्ता"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "बातम्यांवर परता"
 
 #. type: Hash Value: contact
 #: translations.yaml
@@ -796,25 +796,25 @@ msgstr "आमच्याशी संपर्क साधा"
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Huawei AppGallery द्वारे Organic Maps स्थापित करा"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "App Store द्वारे Organic Maps स्थापित करा"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "F-Droid द्वारे Organic Maps स्थापित करा"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Google Play"
-msgstr ""
+msgstr "गूगल प्ले द्वारे Organic Maps स्थापित करा"
 
 #. type: Hash Value: language
 #: translations.yaml
