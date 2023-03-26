@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-26 03:51+0000\nLast-Translator: Raman <raman.gwx4f@aleeas.com>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -16,7 +16,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "വീട്"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "സവിശേഷതകൾ"
 
 #. type: Plain text
 #: content/_index.md
@@ -140,9 +140,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "എന്തുകൊണ്ട് ജൈവം?"
 
 #. type: Plain text
 #: content/_index.md
@@ -154,7 +154,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Respects your privacy"
-msgstr ""
+msgstr "നിങ്ങളുടെ സ്വകാര്യതയെ മാനിക്കുന്നു"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -178,7 +178,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "പരസ്യങ്ങളില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -200,39 +200,39 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No annoying registration"
-msgstr ""
+msgstr "ശല്യപ്പെടുത്തുന്ന രജിസ്ട്രേഷൻ ഇല്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "നിർബന്ധിത ട്യൂട്ടോറിയലുകളൊന്നുമില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No noisy email spam"
-msgstr ""
+msgstr "ശബ്ദായമാനമായ ഇമെയിൽ സ്പാം ഇല്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "പുഷ് അറിയിപ്പുകളൊന്നുമില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No crapware"
-msgstr ""
+msgstr "ക്രാപ്പ്വെയർ ഇല്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "~~കീടനാശിനികൾ ഇല്ല~~ പൂർണ്ണമായും ജൈവ!"
 
 #. type: Plain text
 #: content/_index.md
@@ -298,19 +298,19 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Who is paying for the free app?"
-msgstr ""
+msgstr "സൗജന്യ പ്രയോഗത്തിന് ആരാണ് പണം നൽകുന്നത്?"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr ""
+msgstr "ഈ പ്രയോഗം എല്ലാവർക്കും സൗജന്യമാണ്. ഞങ്ങളെ പിന്തുണയ്ക്കാൻ ദയവായി [സംഭാവന](@/donate/index.md)!"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "There are different ways to donate:"
-msgstr ""
+msgstr "സംഭാവന ചെയ്യാൻ വ്യത്യസ്ത മാർഗങ്ങളുണ്ട്:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "സമൂഹം"
 
 #. type: Plain text
 #: content/_index.md
@@ -430,7 +430,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "സംഭാവനചെയ്യുക"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -490,7 +490,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "What will the money be used for?"
-msgstr ""
+msgstr "പണം എന്തിനുവേണ്ടി ഉപയോഗിക്കും?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -562,7 +562,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "പൊതു ഗതാഗതം"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -574,7 +574,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "How to donate?"
-msgstr ""
+msgstr "എങ്ങനെ സംഭാവന ചെയ്യാം?"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -584,9 +584,9 @@ msgstr ""
 
 #. type: Title ###
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Bank Transfer"
-msgstr ""
+msgstr "ബാങ്ക് കൈമാറ്റം"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -598,13 +598,13 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Crypto"
-msgstr ""
+msgstr "ക്രിപ്റ്റോ"
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Please consider donating annually to reduce total fees."
-msgstr ""
+msgstr "മൊത്തം ഫീസ് കുറയ്ക്കാൻ വർഷം തോറും സംഭാവന നൽകുന്നത് പരിഗണിക്കുക."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -616,7 +616,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Can you help us in any other way?"
-msgstr ""
+msgstr "മറ്റേതെങ്കിലും വിധത്തിൽ ഞങ്ങളെ സഹായിക്കാമോ?"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -642,7 +642,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "വാർത്ത"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -660,7 +660,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "സ്വകാര്യത"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
