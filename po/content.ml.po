@@ -4,13 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-26 03:51+0000\nLast-Translator: Raman <raman.gwx4f@aleeas.com>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-28 08:22+0000\nLast-Translator: Raman <raman.gwx4f@aleeas.com>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "MapsWithMe (Maps.Me) ആപ്പ് സ്ഥാപകർ സൃഷ്‌ടിച്ച യാത്രക്കാർ, വിനോദസഞ്ചാരികൾ, ഡ്രൈവർമാർ, കാൽനടയാത്രക്കാർ, സൈക്ലിസ്റ്റുകൾ എന്നിവയ്‌ക്കായി അതിവേഗ വിശദമായ ഓഫ്‌ലൈൻ ഭൂപടങ്ങൾ."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -20,57 +20,57 @@ msgstr "വീട്"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "ഓർഗാനിക് മാപ്പുകൾ: ഓഫ്‌ലൈൻ ഹൈക്ക്, ബൈക്ക്, ട്രയലുകൾ, നാവിഗേഷൻ"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "**ഓർഗാനിക് മാപ്‌സ്** യാത്രക്കാർക്കും വിനോദസഞ്ചാരികൾക്കും കാൽനടയാത്രക്കാർക്കും സൈക്കിൾ യാത്രക്കാർക്കുമുള്ള സൗജന്യ Android & iOS ഓഫ്‌ലൈൻ മാപ്‌സ് ആപ്പാണ്, ആൾക്കൂട്ടത്തിൽ നിന്ന് ലഭിക്കുന്ന **[OpenStreetMap][openstreetmap]** ഡാറ്റയെ അടിസ്ഥാനമാക്കി. ഇത് **Maps.me** ആപ്പിന്റെ (മുമ്പ് [**MapsWithMe**][mapswithme] എന്നറിയപ്പെട്ടിരുന്നു), ** സൃഷ്‌ടിച്ച അതേ ആളുകൾ പരിപാലിക്കുന്ന ഒരു സ്വകാര്യത കേന്ദ്രീകൃതവും ഓപ്പൺ സോഴ്‌സ് [ഫോർക്ക്] ആണ്. 2011-ൽ MapsWithMe**.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
+msgstr "**ഓർഗാനിക് മാപ്‌സ്** എന്നത് സജീവമായ ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ലാതെ 100% സവിശേഷതകളെ പിന്തുണയ്ക്കുന്ന ചുരുക്കം ചില പ്രയോഗങ്ങളിൽ ഒന്നാണ്. ഓർഗാനിക് മാപ്‌സ് ഇൻസ്‌റ്റാൾ ചെയ്യുക, ഭൂപടങ്ങൾ ഡൗൺലോഡ് ചെയ്യുക, നിങ്ങളുടെ സിം കാർഡ് വലിച്ചെറിയുക (വഴി, നിങ്ങളുടെ ഓപ്പറേറ്റർ നിങ്ങളെ നിരന്തരം ട്രാക്ക് ചെയ്യുന്നു), നെറ്റ്‌വർക്കിലേക്ക് അയയ്‌ക്കേണ്ട ഒരു ബൈറ്റ് ഇല്ലാതെ ഒരൊറ്റ ബാറ്ററി ചാർജിൽ ഒരു ആഴ്‌ച നീണ്ട യാത്ര പോകുക.\n"
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install} എന്നിവയിൽ നിന്ന് ഓർഗാനിക് മാപ്‌സ് ഡൗൺലോഡ് ചെയ്‌ത് ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ badges() }}"
-msgstr ""
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='കാൽനടയാത്ര') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -82,73 +82,73 @@ msgstr "സവിശേഷതകൾ"
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "സഞ്ചാരികൾ, വിനോദസഞ്ചാരികൾ, കാൽനടയാത്രക്കാർ, സൈക്കിൾ യാത്രക്കാർ എന്നിവർക്കുള്ള ആത്യന്തിക കൂട്ടാളി പ്രയോഗമാണ് ജെെവ ഭൂപടങ്ങൾ:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr ""
+msgstr "മറ്റ് ഭൂപടങ്ങളിൽ നിലവിലില്ലാത്ത സ്ഥലങ്ങളുള്ള വിശദമായ ഓഫ്‌ലൈൻ ഭൂപടങ്ങൾ, [OpenStreetMap][openstreetmap] ന് നന്ദി"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "സൈക്ലിംഗ് പാതകൾ, കാൽനടയാത്രകൾ, നടപ്പാതകൾ"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "കോണ്ടൂർ ലൈനുകൾ, എലവേഷൻ പ്രൊഫൈലുകൾ, കൊടുമുടികൾ, ചരിവുകൾ"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
+msgstr "വോയ്‌സ് ഗൈഡൻസുള്ള ടേൺ-ബൈ-ടേൺ നടത്തം, സൈക്ലിംഗ്, കാർ നാവിഗേഷൻ"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "ഭൂപടത്തിൽ വേഗത്തിലുള്ള ഓഫ്‌ലൈൻ തിരയൽ"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr ""
+msgstr "ബുക്ക്‌മാർക്കുകൾ KML/KMZ ഫോർമാറ്റുകളിൽ കയറ്റുമതിയും ഇറക്കുമതിയും (GPX ആണ് [പ്ലാൻഡ്][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Dark Mode to protect your eyes"
-msgstr ""
+msgstr "നിങ്ങളുടെ കണ്ണുകളെ സംരക്ഷിക്കാൻ ഇരുണ്ട രീതി"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "രാജ്യങ്ങളും പ്രദേശങ്ങളും ധാരാളം സ്ഥലം എടുക്കുന്നില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Free and open-source"
-msgstr ""
+msgstr "സൗജന്യവും ഓപ്പൺ സോഴ്‌സും"
 
 #. type: Title ##
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Why Organic?"
 msgstr "എന്തുകൊണ്ട് ജൈവം?"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "ജെെവ ഭൂപടങ്ങൾ ശുദ്ധവും ജെെവുമാണ്, സ്‌നേഹത്തോടെ നിർമ്മിച്ചതാണ്:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -160,19 +160,19 @@ msgstr "നിങ്ങളുടെ സ്വകാര്യതയെ മാന�
 #: content/_index.md
 #, markdown-text
 msgid "Saves your battery"
-msgstr ""
+msgstr "നിങ്ങളുടെ ബാറ്ററി ലാഭിക്കുന്നു"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No unexpected mobile data charges"
-msgstr ""
+msgstr "അപ്രതീക്ഷിത മൊബൈൽ ഡാറ്റ നിരക്കുകളൊന്നുമില്ല"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
+msgstr "ഓർഗാനിക് മാപ്‌സ് ആപ്പ് ട്രാക്കറുകളിൽ നിന്നും മറ്റ് മോശം കാര്യങ്ങളിൽ നിന്നും മുക്തമാണ്:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -182,21 +182,21 @@ msgstr "പരസ്യങ്ങളില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No tracking"
-msgstr ""
+msgstr "ട്രാക്കിംഗ് ഇല്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No data collection"
-msgstr ""
+msgstr "വിവരശേഖരണമില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "No phoning home"
-msgstr ""
+msgstr "വീട്ടിലേക്ക് ഫോൺ ചെയ്യുന്നില്ല"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -236,63 +236,63 @@ msgstr "~~കീടനാശിനികൾ ഇല്ല~~ പൂർണ്ണമ
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "ഈ പ്രയോഗം [Exodus Privacy Project][exodus] പരിശോധിച്ചുറപ്പിച്ചതാണ്:"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ exodus_screenshot() }}"
-msgstr ""
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr ""
+msgstr "നിങ്ങളെ ചാരപ്പണി ചെയ്യാൻ ഓർഗാനിക് മാപ്‌സ് അമിതമായ അനുമതികൾ അഭ്യർത്ഥിക്കുന്നില്ല:"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ privacy_screenshots() }}"
-msgstr ""
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
+msgstr "ഇവിടെ ജെെവ ഭൂപടങ്ങളിൽ, സ്വകാര്യത മനുഷ്യന്റെ മൗലികാവകാശമാണെന്ന് ഞങ്ങൾ വിശ്വസിക്കുന്നു:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
+msgstr "ഇൻഡി സമൂഹം നയിക്കുന്ന ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റാണ് ഓർഗാനിക് മാപ്‌സ്"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
+msgstr "ബിഗ് ടെക്കിന്റെ കണ്ണിൽ നിന്ന് ഞങ്ങൾ നിങ്ങളുടെ സ്വകാര്യത സംരക്ഷിക്കുന്നു"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Stay safe no matter wherever you are"
-msgstr ""
+msgstr "നിങ്ങൾ എവിടെയായിരുന്നാലും സുരക്ഷിതരായിരിക്കുക"
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 #, markdown-text
 msgid "Reject surveillance - embrace your freedom."
-msgstr ""
+msgstr "നിരീക്ഷണം നിരസിക്കുക - നിങ്ങളുടെ സ്വാതന്ത്ര്യം പുണരുക."
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr ""
+msgstr "**[ഓർഗാനിക് മാപ്പുകൾ ഒന്ന് ശ്രമിച്ചുനോക്കൂ!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
@@ -314,15 +314,15 @@ msgstr "സംഭാവന ചെയ്യാൻ വ്യത്യസ്ത മ
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ donate_buttons() }}"
-msgstr ""
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "ഞങ്ങളുടെ സ്പോൺസർമാർ:"
 
 #. type: Plain text
 #: content/_index.md
@@ -350,27 +350,27 @@ msgstr ""
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
-msgstr ""
+msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "[Android Beta (Firebase)][firebase]"
-msgstr ""
+msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
-msgstr ""
+msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "[Linux Desktop Beta (packages)][repology]"
-msgstr ""
+msgstr "[Linux Desktop Beta (packages)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -392,15 +392,15 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
+msgstr "മറ്റ് ഉപയോക്താക്കളുമായി ചർച്ച ചെയ്യാൻ ഞങ്ങളുടെ [Telegram Group][telegram_chat] ചേരുക."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Visit our [GitHub page][github]."
-msgstr ""
+msgstr "ഞങ്ങളുടെ [GitHub page][github] സന്ദർശിക്കുക."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -416,15 +416,15 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ references() }}"
-msgstr ""
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
-msgstr ""
+msgstr "നിങ്ങളുടെ പണം പദ്ധതിയുമായി ബന്ധപ്പെട്ട എല്ലാ ചെലവുകൾക്കും നൽകുകയും ജെെവ ഭൂപടങ്ങൾ മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ പ്രേരിപ്പിക്കുകയും ചെയ്യുന്നു."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
@@ -666,7 +666,7 @@ msgstr "സ്വകാര്യത"
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
-msgstr ""
+msgstr "ജൈവ ഭൂപടങ്ങൾ: സ്വകാര്യതാ നയം"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -708,25 +708,25 @@ msgstr ""
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
-msgstr ""
+msgstr "ഞങ്ങളെ പിന്തുണയ്ക്കുക"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
-msgstr ""
+msgstr "ജൈവ ഭൂപടങ്ങളുടെ വികസനത്തെ പിന്തുണയ്ക്കുക"
 
 #. type: Plain text
 #: content/support-us/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr ""
+msgstr "ജെെവ ഭൂപടങ്ങൾ ഒരു സൗജന്യ ഓപ്പൺ സോഴ്‌സ് പ്രയോഗമാണ്. ഇത് പരസ്യങ്ങളിൽ നിന്ന് മുക്തമാണ്, ഇത് നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ ശേഖരിക്കുന്നില്ല, മാത്രമല്ല ഇത് സമൂഹത്തിന്റെ സഹായത്തോടെ കുറച്ച് താൽപ്പര്യക്കാർ വികസിപ്പിച്ചെടുത്തതാണ്."
 
 #. type: Plain text
 #: content/support-us/index.md
 #, markdown-text
 msgid "There are different ways to support the development:"
-msgstr ""
+msgstr "വികസനത്തെ പിന്തുണയ്ക്കുന്നതിന് വ്യത്യസ്ത മാർഗങ്ങളുണ്ട്:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -786,25 +786,25 @@ msgstr ""
 #: content/support-us/index.md
 #, markdown-text
 msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr ""
+msgstr "ജെെവ ഭൂപടങ്ങളെക്കുറിച്ച് എല്ലാവരോടും പറയുക. ഒരു വലിയ സമൂഹം ശക്തമായ ഒരു സമൂഹമാണ്."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
-msgstr ""
+msgstr "ഞങ്ങളെ വിലയിരുത്തുക [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
 msgid "Any help is welcome!"
-msgstr ""
+msgstr "ഏത് സഹായവും സ്വാഗതം ചെയ്യുന്നു!"
 
 #. type: Plain text
 #: content/support-us/index.md
 #, markdown-text
 msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
-msgstr ""
+msgstr "നിങ്ങളുടെ പ്രതികരണവും പിന്തുണയ്ക്കും ഞങ്ങളുടെ ചെറിയ സംഘം വളരെ നന്ദിയുള്ളവരാണ്. ഞങ്ങളുടെ ഉപയോക്താക്കൾ ഇല്ലാതെ ജൈവ ഭൂപടങ്ങൾ സാധ്യമല്ല ❤️."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
@@ -816,13 +816,13 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "നിബന്ധനകള്‍"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"
-msgstr ""
+msgstr "ജെെവ ഭൂപടങ്ങൾ: നിബന്ധനകള്‍"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -858,7 +858,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "ഉപകരണങ്ങൾ"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -885,19 +885,19 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "വിലാസം"
 
 #. type: Hash Value: back
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "വാർത്തയിലേക്ക് മടങ്ങുക"
 
 #. type: Hash Value: contact
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "ഞങ്ങളെ സമീപിക്കുക"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -927,13 +927,13 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "മലയാളം"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #. type: Hash Value: token
 #: translations.yaml
