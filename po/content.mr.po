@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-24 06:14+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-28 08:22+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,46 +26,46 @@ msgstr "Organic Maps : ऑफलाईन भटकंती, सायकल �
 
 #. type: Plain text
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "**Organic Maps** (ऑर्गनिक मॅप्स) हे एक अँड्रॉईड व iOS वर चालणारे ऑफलाईन नकाशांचे निःशुल्क ऍप आहे जे जनयोगदानातून तयार केलेल्या **[OpenStreetMap(ओपन स्ट्रीट मॅप)][openstreetmap]**च्या डेटा वर आधारीत आहे.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr ""
+msgstr "**Organic Maps** हे आजकाल विनाइंटरनेटचे सर्व वैशिष्ट्यांसकट चालणाऱ्या मोजक्या ऍप्स पैकी एक ऍप आहे.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "Organic Maps इथून डाऊनलोड व स्थापीत करा : [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ badges() }}"
-msgstr ""
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='भटकंती') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='प्राग') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='ऑफलाईन शोध') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='गडद मोड मध्ये मार्गनिर्देशन') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr "वैशिष्ट्ये"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "प्रवाशी, पर्यटक, गिर्यारोहक व सायकल चालकांसाठी Organic Maps हे अत्यंत ऊपयुक्त ऍप आहे:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -187,62 +187,62 @@ msgstr "कोणतीही अनिवार्य शिकवणी ना
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No noisy email spam"
-msgstr ""
+msgstr "त्रासदायक ईमेल नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No push notifications"
-msgstr ""
+msgstr "अधिसूचना नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No crapware"
-msgstr ""
+msgstr "कचरासॉफ्टवेयर नाही"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "~~कीटकनाशक नाही~~~ शुद्ध व सेंद्रिय!"
 
 #. type: Plain text
 #: content/_index.md
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "[Exodus Privacy Project][exodus] कडून तपासलेले ऍप:"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot() }}"
-msgstr ""
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr ""
+msgstr "तुमच्यावर गुप्तहेरी करायला Organic Maps अनावश्यक परवानग्या मागत नाही:"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ privacy_screenshots() }}"
-msgstr ""
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
+msgstr "Organic Maps मध्ये आम्ही ह्या विचारांचे आहोत की गोपनीयता हा प्रत्येकाचा मानवी हक्क आहे:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
+msgstr "Organic Maps हे एक समुदाय चलित मुक्त स्रोत प्रकल्प आहे"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
+msgstr "बिग टेकच्या गुप्तहेरी नजरेपासून आम्ही तुमचे रक्षण करतो"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Stay safe no matter wherever you are"
-msgstr ""
+msgstr "तुम्ही जिथे कुठे असाल तिथे सुरक्षित रहा"
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
@@ -253,29 +253,29 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr ""
+msgstr "**[Organic Maps वापरुन बघा!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Who is paying for the free app?"
-msgstr ""
+msgstr "ह्या निःशुल्क ऍपचा खर्च कोण काढत आहे?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr ""
+msgstr "हे ऍप सर्वांसाठी विमानुल्य आहे. आम्हाला पाठिंबा द्यायला कृपया [देणगी द्या](@/donate/index.md)!"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "There are different ways to donate:"
-msgstr ""
+msgstr "दान करण्याचे विविध मार्ग आहे:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons() }}"
-msgstr ""
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -286,7 +286,7 @@ msgstr "आमचे प्रायोजक"
 #. type: Plain text
 #: content/_index.md
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr ""
+msgstr "तुमच्यापर्यंत नकाशा अद्यतने व डाऊनलोड पोचवण्यासाठी [Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] आम्हाला 400 TB/महिना विनामूल्य वापराचे २ व्हर्चुअल सर्व्हर प्रदान करत आहे."
 
 #. type: Title ##
 #: content/_index.md
@@ -297,12 +297,12 @@ msgstr "समुदाय"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr ""
+msgstr "Apache License 2.0 परवान्य अंतर्गत Organic Maps हे एक [मुक्त स्रोत सॉफ्टवेअर][github] आहे."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
+msgstr "आमच्या बीटा कार्यक्रमात सहभागी होऊन, ऍप वैशिष्ट्ये सुचवा, व आम्हाला बग(त्रुटी) कळवा:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
