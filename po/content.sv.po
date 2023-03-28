@@ -292,7 +292,7 @@ msgstr "Avvisa övervakningen - omfamna din frihet."
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr "**[Testa Organic Maps!] (#install)**\n"
+msgstr "**[Testa Organic Maps!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
@@ -382,7 +382,7 @@ msgstr "Rapportera buggar eller problem till [problemspåraren][issues] eller [m
 #: content/_index.md
 #, markdown-text
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Diskutera][Idéer] idéer eller föreslå önskemål om funktioner."
+msgstr "[Diskutera][ideas] idéer eller föreslå önskemål om funktioner."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -406,7 +406,7 @@ msgstr "Besök vår [GitHub-sida][github]."
 #: content/_index.md
 #, markdown-text
 msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr "Följ våra uppdateringar på [Mastodon][mastodont], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
+msgstr "Följ våra uppdateringar på [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 
 #. type: Plain text
 #: content/_index.md

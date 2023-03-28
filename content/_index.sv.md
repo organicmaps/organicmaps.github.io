@@ -81,7 +81,7 @@ rättighet:
 
 Avvisa övervakningen - omfamna din frihet.
 
-**[Testa Organic Maps!] (#install)**
+**[Testa Organic Maps!](#install)**
 
 ## Vem betalar för den kostnadsfria appen?
 
@@ -111,13 +111,13 @@ Apache License 2.0.
   * [Linux Desktop Beta (paket)][repology]
 - Rapportera buggar eller problem till [problemspåraren][issues] eller
   [mejla oss][email]
-- [Diskutera][Idéer] idéer eller föreslå önskemål om funktioner.
+- [Diskutera][ideas] idéer eller föreslå önskemål om funktioner.
 - Prenumerera på vår [Telegram Channel][telegram] eller på [matrix
   space][matrix] för uppdateringar.
 - Gå med i vår [Telegramgrupp][telegram_chat] för att diskutera med andra
   användare.
 - Besök vår [GitHub-sida][github].
-- Följ våra uppdateringar på [Mastodon][mastodont], [Facebook][facebook],
+- Följ våra uppdateringar på [Mastodon][mastodon], [Facebook][facebook],
   [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
   [LinkedIn][LinkedIn].
 
