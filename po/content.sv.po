@@ -304,7 +304,7 @@ msgstr "Vem betalar för den kostnadsfria appen?"
 #: content/_index.md
 #, markdown-text
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Appen är gratis för alla. Vänligen [donera](@/donate/index.md) för att stödja oss!"
+msgstr "Appen är gratis för alla. Vänligen [donera](@/donate/index.sv.md) för att stödja oss!"
 
 #. type: Title ###
 #: content/_index.md
@@ -622,7 +622,7 @@ msgstr "Kan du hjälpa oss på något annat sätt?"
 #: content/donate/index.md
 #, markdown-text
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ja! Det finns många sätt att stödja Organic Maps. Se sidan [Support Us](@/support-us/index.md) för mer information."
+msgstr "Ja! Det finns många sätt att stödja Organic Maps. Se sidan [Support Us](@/support-us/index.sv.md) för mer information."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -732,7 +732,7 @@ msgstr "Det finns olika sätt att stödja utvecklingen:"
 #: content/support-us/index.md
 #, markdown-text
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Donera](@/donate/index.md)! Varje dollar eller euro räknas och hjälper oss att betala för servrar och skala."
+msgstr "[Donera](@/donate/index.sv.md)! Varje dollar eller euro räknas och hjälper oss att betala för servrar och skala."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -927,7 +927,7 @@ msgstr "Installera Organic Maps från Google Play"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Engelska"
+msgstr "Svenska"
 
 #. type: Hash Value: name
 #: translations.yaml
