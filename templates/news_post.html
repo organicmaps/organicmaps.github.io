@@ -8,7 +8,7 @@
   {{ resource.content | safe }}
 </div>
 
-{% for photo in resource.assets %}
+{% for photo in resource.assets | sort %}
 <img class="news_image" src="{{ resource.path }}/{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 

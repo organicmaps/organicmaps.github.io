@@ -22,7 +22,7 @@
 {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
 {% if translatedPage %}
   {% set page = get_page(path=translatedPage.path) %}
-{% endif %}  
+{% endif %}
 <div class="news_date">&nbsp;<a href="{{ page.path }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
 {# Display wide images below the text instead of to the right. #}
 {% set_global noflex = '' %}
@@ -39,7 +39,7 @@
 {% endif %}
 
 <span class="news_images">
-{% for photo in page.assets %}
+{% for photo in page.assets | sort %}
 <img class="news_image" src="{{ page.path }}/{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 </span>
