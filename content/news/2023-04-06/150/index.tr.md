@@ -1,7 +1,7 @@
 ---
 title: "Mutlu, Sağlıklı ve Huzur Dolu bir Ramazan dileriz"
 date: 2023-04-06T22:29:27+00:00
-slug: "you-can-easily-find-the-nearest-cannabis-store-with-the-latest-organic-maps-update"
+slug: "mutlu-sağlıklı-ve-huzur-dolu-ramazanlar-dileriz"
 ---
 
 Mutlu, Sağlıklı ve Huzur Dolu bir Ramazan dileriz.
