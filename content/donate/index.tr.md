@@ -7,12 +7,6 @@ extra:
   preview_image: donate/bağış.png
 ---
 
-Mutlu Yıllar🎄 dileriz! Bizim için en güzel hediye; doğru şeyi yaptığımızı, zamanımızın ve çabalarımızın birilerine yardımcı olduğunu bilmektir.
-
-Organic Maps'i özgür tutma misyonumuzu yerine getirmek için **[bağışlarınıza][donate]** güveniyoruz!
-
-{{ donate_buttons() }}
-
 Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizdir_:
 
 - Reklam yok
@@ -62,29 +56,9 @@ eder. Ancak tek seferlik bağış da yapabilirsiniz.
 
 {{ bank_transfer() }}
 
-#### Avro
-
-|                   |                                              |
-| ----------------- | -------------------------------------------- |
-| Hesap sahibi:     | Organic Maps OÜ                              |
-| BIC:              | TRWIBEB1XXX                                  |
-| IBAN:             | BE39967200310319                             |
-| Banka adı:        | TransferWise Europe SA                       |
-| Banka adresi:     | Avenue Louise 54/S52, Brussels 1050, Belgium |
-| Ödeme açıklaması: | Donation                                     |
-
-#### Türk Lirası (TL, TRY)
-
-|           |                                                                    |
-| --------- | ------------------------------------------------------------------ |
-| IBAN:     | TR740010300000000047306089                                         |
-| Ad Soyad: | Organic Maps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş) |
-| Açıklama: | Donation                                                           |
-
 ### Kripto
 
 Lütfen toplam ücretleri azaltmak için yıllık bağış yapmayı düşünün.
-Algorand, Tron, Litecoin ve Monero ağları düşük ücretler sunuyor ancak durum her gün değişiyor.
 
 {{ crypto_table() }}
 
@@ -93,4 +67,5 @@ Algorand, Tron, Litecoin ve Monero ağları düşük ücretler sunuyor ancak dur
 Evet! Organic Maps'i desteklemenin birçok yolu var. Daha fazla
 detay için lütfen [Bizi Destekleyin](@/support-us/index.tr.md) sayfasına bakın.
 
-[donate]: https://donate.organicmaps.app
+[stripe]: https://donate.organicmaps.app/ "Stripe ile Bağış Yapın"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub'daki Öneri ve Hatalar Listesi"
