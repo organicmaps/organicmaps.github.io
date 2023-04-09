@@ -30,10 +30,10 @@ Android
 * Yakınlaştırma butonları artık ayarlardan gizlenebilir
 * Gelişmiş açılış zamanı düzenleyicisi için hata işleme iyileştirildi
 * Yer imi listesi açıklaması artık görüntüleniyor
-*  F-Droid sürümünde yönlendirme yapmak artık harita indirmeyi durdurmuyor
-*  OsmLoginFragment'taki çökme sorunu düzeltildi
-*  Uyarı kutusu için koyu tema desteği eklendi
-*  Yer imlerini açarken artık alt sayfa kapatılmıyor
+* F-Droid sürümünde yönlendirme yapmak artık harita indirmeyi durdurmuyor
+* OsmLoginFragment'taki çökme sorunu düzeltildi
+* Uyarı kutusu için koyu tema desteği eklendi
+* Yer imlerini açarken artık alt sayfa kapatılmıyor
 
 Stiller
 * Anahtarcı, çilingir, halıcı, motosiklet tamircisi, evcil hayvan bakımı, banyo mobilyası, perdeci, moda aksesuarları ve aktar gibi birçok yeni mağaza türleri eklendi
