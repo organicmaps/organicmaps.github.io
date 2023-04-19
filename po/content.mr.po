@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-28 08:22+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-04-09 03:27+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,15 +26,15 @@ msgstr "Organic Maps : ऑफलाईन भटकंती, सायकल �
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** (ऑर्गनिक मॅप्स) हे एक अँड्रॉईड व iOS वर चालणारे ऑफलाईन नकाशांचे निःशुल्क ऍप आहे जे जनयोगदानातून तयार केलेल्या **[OpenStreetMap(ओपन स्ट्रीट मॅप)][openstreetmap]**च्या डेटा वर आधारीत आहे.\n"
+msgstr "**Organic Maps** (ऑर्गनिक मॅप्स) हे एक अँड्रॉईड व iOS वर चालणारे ऑफलाईन नकाशांचे निःशुल्क अॅप आहे जे जनयोगदानातून तयार केलेल्या **[OpenStreetMap(ओपन स्ट्रीट मॅप)][openstreetmap]**च्या डेटा वर आधारीत आहे.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** हे आजकाल विनाइंटरनेटचे सर्व वैशिष्ट्यांसकट चालणाऱ्या मोजक्या ऍप्स पैकी एक ऍप आहे.\n"
+msgstr "**Organic Maps** हे आजकाल विनाइंटरनेटचे सर्व वैशिष्ट्यांसकट चालणाऱ्या मोजक्या अॅप पैकी एक अॅप आहे.\n"
 
 #. type: Title ###
 #: content/_index.md
@@ -281,7 +281,7 @@ msgstr "{{ donate_buttons() }}"
 #: content/_index.md
 #, no-wrap
 msgid "Our sponsors:"
-msgstr "आमचे प्रायोजक"
+msgstr "आमचे प्रायोजक:"
 
 #. type: Plain text
 #: content/_index.md
@@ -307,69 +307,69 @@ msgstr "आमच्या बीटा कार्यक्रमात सह
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[iOS Beta (TestFlight)][testflight]"
-msgstr ""
+msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[Android Beta (Firebase)][firebase]"
-msgstr ""
+msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
-msgstr ""
+msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[Linux Desktop Beta (packages)][repology]"
-msgstr ""
+msgstr "[Linux Desktop Beta (packages)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
+msgstr "बग किंवा त्रुटी आम्हाला [इशू ट्रॅकर][issues] or [ईमेल द्वारे][email] कळवा."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr ""
+msgstr "नवीन कल्पना किंवा वैशिष्ट्ये सुचवण्यासाठी [चर्चा करा][ideas]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr ""
+msgstr "नविनतम माहितीसाठी आमच्या [टेलिग्राम चॅनल][telegram] किंवा [मैट्रिक्स स्पेस][matrix] चे सदस्य व्हा."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
+msgstr "इतर वापरकर्त्यांसोबत चर्चा करायला आमच्या [टेलिग्राम गटात][telegram_chat] सहभागी व्हा."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Visit our [GitHub page][github]."
-msgstr ""
+msgstr "आमच्या [GitHub पृष्ठावर][github] भेट द्या."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr ""
+msgstr "[Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn] वरुन आमची माहिती मिळवा."
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr ""
+msgstr "[फोर्क]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 msgid "{{ references() }}"
-msgstr ""
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
-msgstr ""
+msgstr "Organic Maps सुधारण्यासाठी प्रेरित करायला व प्रकल्पाचा खर्च उचलायला आपण दान केलेल्या पैश्यांनी मदत होते."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
@@ -381,54 +381,54 @@ msgstr "दान"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
-msgstr ""
+msgstr "Organic Maps च्या विकासाला पाठिंबा देण्यासाठी दान करा"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr ""
+msgstr "आपल्या **[देणगीमुळे][stripe]** Organic Maps ऍप हे _सगळ्यांसाठी निःशुल्क_ आहे.:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No trackers"
-msgstr ""
+msgstr "महितीचा मागोवा नाही"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No registration"
-msgstr ""
+msgstr "कोणतीही नोदणी नाही"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "Open source"
-msgstr ""
+msgstr "मुक्त strot"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Why donate to Organic Maps?"
-msgstr ""
+msgstr "Organic Maps ला देणगी का द्यावी?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr ""
+msgstr "Organic Maps हे मुक्त व निःशुल्क, तसेच जाहिरातहीन ठेवण्याच्या आमचा उद्देशासाठी आम्ही आपल्या देणगीवर अवलंबून आहोत."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr ""
+msgstr "आमच्या रिकाम्या वेळात व आमच्या खिशातले पैसे खर्च करुन हा प्रकल्प चालवणारे आम्ही काही हौशी लोक आहोत. आम्हाला आमच्या कामावर, तसेच आमच्या वापरकर्त्यांवर प्रेम आहे ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr ""
+msgstr "तुमच्या पाठिंब्याने, आम्ही Google Maps ची एक जास्त चांगली व गोपनीयता केंद्रित आवृत्ती होऊ इच्छितो."
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "What will the money be used for?"
-msgstr ""
+msgstr "देणगीचा तुम्ही काय वापर करणार?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -443,12 +443,12 @@ msgstr ""
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
-msgstr ""
+msgstr "पुरेश्या पैश्यांनी नवीन वैशिष्ट्ये लवकर विकसित केली जाऊ शकतात, जसे की:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Weekly and automated map data updates"
-msgstr ""
+msgstr "साप्ताहिक व स्वयंचलित नकाशा डेटा अद्यतने"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
