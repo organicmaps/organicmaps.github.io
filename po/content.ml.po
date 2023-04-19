@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-28 08:22+0000\nLast-Translator: Raman <raman.gwx4f@aleeas.com>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-28 08:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -20,9 +20,9 @@ msgstr "വീട്"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "ഓർഗാനിക് മാപ്പുകൾ: ഓഫ്‌ലൈൻ ഹൈക്ക്, ബൈക്ക്, ട്രയലുകൾ, നാവിഗേഷൻ"
+msgstr "Organic Maps Offline Hike, Bike, GPS Navigation"
 
 #. type: Plain text
 #: content/_index.md
@@ -44,7 +44,7 @@ msgstr "[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huaw
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ badges() }}"
 msgstr "{{ badges() }}"
 
@@ -56,9 +56,9 @@ msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='കാൽനട
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='കാൽനടയാത്ര') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -134,9 +134,9 @@ msgstr "രാജ്യങ്ങളും പ്രദേശങ്ങളും �
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "Free and open-source"
-msgstr "സൗജന്യവും ഓപ്പൺ സോഴ്‌സും"
+msgstr "സ്വതന്ത്രവും കാണാൻ കഴിയുന്നതുമായ ഉറവിടം"
 
 #. type: Title ##
 #: content/_index.md
@@ -218,9 +218,9 @@ msgstr "ശബ്ദായമാനമായ ഇമെയിൽ സ്പാം 
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "No push notifications"
-msgstr "പുഷ് അറിയിപ്പുകളൊന്നുമില്ല"
+msgstr "Push notifications"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -320,9 +320,9 @@ msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "ഞങ്ങളുടെ സ്പോൺസർമാർ:"
+msgstr "ഞങ്ങളുടെ സ്പോൺസർമാർ"
 
 #. type: Plain text
 #: content/_index.md
@@ -939,4 +939,4 @@ msgstr "പേര്"
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "ടോക്കൺ"
