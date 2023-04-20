@@ -1,4 +1,4 @@
-# Organic Maps
+# Organic Maps Web Site
 
 This website is build with [Zola](https://www.getzola.org/) and Cloudflare Pages.
 
