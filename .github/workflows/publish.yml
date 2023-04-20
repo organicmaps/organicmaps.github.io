@@ -3,7 +3,9 @@ name: Publish to Cloudflare Pages
 env:
   ZOLA_VERSION: 0.17.1
 
-on: [push]
+on:
+  workflow_dispatch:
+  push:
 
 jobs:
   publish:
