@@ -28,7 +28,7 @@ msgstr "Organic Maps : ऑफलाईन भटकंती, सायकल �
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** (ऑर्गनिक मॅप्स) हे एक अँड्रॉईड व iOS वर चालणारे ऑफलाईन नकाशांचे निःशुल्क अॅप आहे जे जनयोगदानातून तयार केलेल्या **[OpenStreetMap(ओपन स्ट्रीट मॅप)][openstreetmap]**च्या डेटा वर आधारीत आहे.\n"
+msgstr "**Organic Maps** (ऑर्गनिक मॅप्स) हे एक अँड्रॉईड व iOS वर चालणारे ऑफलाईन नकाशांचे निःशुल्क अॅप आहे जे जनयोगदानातून तयार केलेल्या **[OpenStreetMap(ओपन स्ट्रीट मॅप)][openstreetmap]** च्या डेटा वर आधारीत आहे.\n"
 
 #. type: Plain text
 #: content/_index.md
