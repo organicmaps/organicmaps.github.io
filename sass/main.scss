@@ -21,8 +21,14 @@ body {
 
 code,
 a {
+  color: #0000EE;
+  
   // Prevents horizontal scrolling in Safari on narrow screen for long links and code lines.
   word-wrap: anywhere;
+}
+
+a:visited { 
+  color: #0000EE;
 }
 
 header {
