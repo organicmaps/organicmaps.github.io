@@ -4,31 +4,31 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: oc\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-04-24 07:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Occitan <https://hosted.weblate.org/projects/organicmaps/website/oc/>\nLanguage: oc\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "De mapas detalhadas, rapidas e sensa connexion per lei viatgaires, lei toristas, leis automobilistas, leis caminaires e lei ciclistas creadas per lei fondators de l’aplicacion MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Acuèlh"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "De Mapas Organicas : escorregudas ciclistas, caminadas, itineraris e percors guidats fòra de linha"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "**Mapas Organicas** es una aplicacion de mapas a gratis sensa connexion per Android e iOS destinada ai viatgaires, toristas, caminaires d’escorregudas e ciclistas, basada sus lei donadas d’**[OpenStreetMap][openstreetmap]**. Es una [bifurcacion][fork] centrada sus la privadesa de **Maps.me** (ancianament conegut per [**MapsWithMe**][mapswithme]), e mantenguda per lei meteissas personas que crearàn **MapsWithMe** en 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -70,49 +70,49 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigacion en mòde fosc') }}"
 
 #. type: Title ##
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "Foncionalitats"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "Mapas Organicas es l’aplicacion ultima per lei viatjaires, lei caminaires e lei ciclistas :"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr ""
+msgstr "De mapas detalhadas fòra de linha amb de luòcs que se tròban pas sus leis autreis mapas, gràcias a [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "Percors ciclistes, draias d’escorregudas e caminaments"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "Linhas de contorn, perfius d’elevacion, cimas e pendents"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
+msgstr "Navigacion pas a pas d’a pès, amb la bicicleta, l’automobila e guida de votz"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "Recèrcas rapidas sus la mapa e fòra de linha"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -220,7 +220,7 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "Push notifications"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -322,7 +322,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "Nòstres esponsòrs"
 
 #. type: Plain text
 #: content/_index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Comunautat"
 
 #. type: Plain text
 #: content/_index.md
@@ -430,7 +430,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Donate"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -562,7 +562,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Transport public"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -642,7 +642,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "News"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -660,7 +660,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
@@ -816,7 +816,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Tèrmes"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -858,7 +858,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "Aisinas"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -885,7 +885,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -897,7 +897,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Nos contactar"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -927,16 +927,16 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Anglés"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. type: Hash Value: token
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "geton"
