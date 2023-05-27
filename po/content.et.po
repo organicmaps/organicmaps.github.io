@@ -927,7 +927,7 @@ msgstr "Paigalda Organic Maps Google Play'st"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "inglise"
+msgstr "Eesti"
 
 #. type: Hash Value: name
 #: translations.yaml
