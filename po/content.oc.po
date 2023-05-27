@@ -382,7 +382,7 @@ msgstr "Senhalatz d'errors ò de dificultats per lo [seguidor d'errors][issues] 
 #: content/_index.md
 #, markdown-text
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Debatre]d'[idèa]idèas ò prepausar de foncions."
+msgstr "[Debatre][ideas] d'idèas ò prepausar de foncions."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -418,7 +418,7 @@ msgstr "[fork]: https://oc.wikipedia.org/wiki/Forca_(desvelopament_de_software)\
 #: content/_index.md content/support-us/index.md
 #, markdown-text
 msgid "{{ references() }}"
-msgstr "{{ referéncias() }}"
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -927,7 +927,7 @@ msgstr "Installar Mapas Organicas de Google Play"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Anglés"
+msgstr "Occitan"
 
 #. type: Hash Value: name
 #: translations.yaml
