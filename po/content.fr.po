@@ -927,7 +927,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Anglais"
+msgstr "Français"
 
 #. type: Hash Value: name
 #: translations.yaml
