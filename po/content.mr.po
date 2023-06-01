@@ -216,6 +216,18 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
+#, markdown-text
+msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
+msgstr ""
+
+#. type: Plain text
+#: content/_index.md
+#, markdown-text
+msgid "{{ trackercontrol_screenshot() }}"
+msgstr ""
+
+#. type: Plain text
+#: content/_index.md
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
 msgstr "तुमच्यावर गुप्तहेरी करायला Organic Maps अनावश्यक परवानग्या मागत नाही:"
 
