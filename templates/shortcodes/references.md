@@ -5,6 +5,7 @@
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
 [email]: mailto:support@organicmaps.app
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
+[trackercontrol]: https://ios.trackercontrol.org/app/app.organicmaps
 [facebook]: https://facebook.com/OrganicMaps
 [fdroid]: https://f-droid.org/{{ lang }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
 [firebase]: https://appdistribution.firebase.dev/i/9ec3bca5e2b47373
