@@ -37,8 +37,7 @@ cyklister:
 - Tur-för-tur-navigering för promenader, cykling och bilnavigering med
   röststyrning
 - Snabb offline-sökning på kartan
-- Export och import av bokmärken i KML/KMZ-format (GPX är
-  [planerat][gpx_issue])
+- Export och import av bokmärken i KML/KMZ/GPX-format
 - Mörkt läge för att skydda dina ögon
 - Länder och regioner tar inte mycket plats
 - Gratis och öppen källkod

@@ -38,8 +38,7 @@ wędrowców i rowerzystów:
 - Nawigacja piesza, rowerowa i samochodowa "zakręt po zakręcie" ze
   wskazówkami głosowymi
 - Szybkie wyszukiwanie offline na mapie
-- Eksport i import zakładek w formatach KML/KMZ (GPX jest
-  [planowane][gpx_issue])
+- Eksport i import zakładek w formatach KML/KMZ/GPX
 - Tryb ciemny, aby chronić Twoje oczy
 - Kraje i regiony nie zajmują dużo miejsca
 - Wolne i otwarte źródło

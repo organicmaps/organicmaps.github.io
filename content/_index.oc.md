@@ -37,8 +37,7 @@ lei ciclistas :
 - Navigacion pas a pas d’a pès, amb la bicicleta, l’automobila e guida de
   votz
 - Recèrcas rapidas sus la mapa e fòra de linha
-- Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ (GPX es
-  [planificat][gpx_issue])
+- Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ/GPX
 - Mòde fosc per protegir vòstreis uelhs
 - Lei país e lei regions utilizan gaire d'espaci
 - De còde liure e dobèrt

@@ -117,8 +117,8 @@ msgstr "Snabb offline-sökning på kartan"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Export och import av bokmärken i KML/KMZ-format (GPX är [planerat][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Export och import av bokmärken i KML/KMZ/GPX-format"
 
 #. type: Bullet: '- '
 #: content/_index.md

@@ -36,8 +36,7 @@ excursionistes i ciclistes:
 - Línies de contorn, perfils d'elevació, pics i pendents
 - Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu
 - Cerques ràpides al mapa, sense connexió
-- Els marcadors s'exporten i importen en els formats KML/KMZ (GPX està
-  [planificat][gpx_issue])
+- Els marcadors s'exporten i importen en els formats KML/KMZ/GPX
 - Mode fosc per a protegir els vostres ulls
 - Els països i les regions usen poc espai
 - De codi lliure i obert

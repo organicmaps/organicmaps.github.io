@@ -105,8 +105,8 @@ msgstr "Mapan offline bilaketa azkarra"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan (GPX [planned][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ/GPX formatuetan"
 
 #. type: Bullet: '- '
 #: content/_index.md

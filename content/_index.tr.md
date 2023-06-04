@@ -29,7 +29,7 @@ Organic Maps gezginler, turistler, yürüyüşçüler ve bisikletçiler için m�
 - Eş yükselti çizgileri, yükseklik profilleri, tepe noktaları ve eğimler
 - Sesli yönlendirmelerle adım adım yürüyüş, bisiklet ve araç navigasyonu
 - Haritada hızlı ve çevrimdışı arama
-- Yer imlerini KML/KMZ formatlarında dışa ve içe aktarma (GPX desteği de [planlanıyor][gpx_issue])
+- Yer imlerini KML/KMZ/GPX formatlarında dışa ve içe aktarma
 - Gözlerinizi korumak için Koyu Mod
 - Fazla depolama alanı kaplamayan ülke ve bölgeler
 - Özgür ve açık kaynak kodlu

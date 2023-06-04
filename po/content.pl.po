@@ -105,8 +105,8 @@ msgstr "Szybkie wyszukiwanie offline na mapie"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Eksport i import zakładek w formatach KML/KMZ (GPX jest [planowane][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Eksport i import zakładek w formatach KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

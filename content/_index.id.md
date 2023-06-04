@@ -37,8 +37,7 @@ turis, pejalan kaki, dan pengendara sepeda:
 - Navigasi berjalan kaki, bersepeda, dan mobil belok demi belok dengan
   panduan suara
 - Pencarian luring cepat pada peta
-- Ekspor dan impor penanda dalam format KML/KMZ (GPX
-  [direncanakan][gpx_issue])
+- Ekspor dan impor penanda dalam format KML/KMZ/GPX
 - Mode Gelap untuk melindungi mata Anda
 - Negara dan wilayah tidak memakan banyak ruang
 - Bebas dan sumber terbuka

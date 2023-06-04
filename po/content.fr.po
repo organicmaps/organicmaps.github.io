@@ -117,8 +117,8 @@ msgstr "Recherche hos-connexion rapide sur la carte"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Export et import des marque-pages au format KML/KMZ (GPX est [planifié][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Export et import des marque-pages au format KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

@@ -105,8 +105,8 @@ msgstr "Cerques ràpides al mapa, sense connexió"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Els marcadors s'exporten i importen en els formats KML/KMZ (GPX està [planificat][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Els marcadors s'exporten i importen en els formats KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

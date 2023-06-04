@@ -113,8 +113,8 @@ msgstr "بحث سريع في الخريطة بدون الحاجة لإنترنت
 #. type: Bullet: '- '
 #: content/_index.md
 msgid ""
-"Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ (GPX [مخطط له][gpx_issue])"
+"Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

@@ -105,8 +105,8 @@ msgstr "तेज़ ऑफ़लाइन खोज नक़्शे पर"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "KML/KMZ प्रारूप में एक्सपोर्ट एवं इंपोर्ट करें(GPX [आयोजित][gpx_issue] है)"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "KML/KMZ/GPX प्रारूप में एक्सपोर्ट एवं इंपोर्ट करें"
 
 #. type: Bullet: '- '
 #: content/_index.md

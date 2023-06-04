@@ -36,8 +36,7 @@ wandelaars en fietsers:
 - Routebegeleiding voor wandelen en fietsen en autonavigatie met
   stembegeleiding
 - Snel offline zoeken op de kaart
-- Bladwijzers exporteren en importeren in KML/KMZ formats (GPX is
-  [gepland][gpx_issue])
+- Bladwijzers exporteren en importeren in KML/KMZ/GPX formats
 - Donkere stand om je ogen te beschermen
 - Landen en regio's nemen niet veel ruimte in beslag
 - Gratis en open source

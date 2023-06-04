@@ -36,8 +36,7 @@ társa:
 - Szintvonalak, magassági profilok, csúcsok és lejtők
 - Részletes gyalogos, kerékpáros és autós navigáció hangutasítással
 - Gyors offline keresés a térképen
-- Könyvjelzők exportálása és importálása KML/KMZ formátumba/ból (GPX
-  [tervezett][gpx_issue])
+- Könyvjelzők exportálása és importálása KML/KMZ/GPX formátumba/ból
 - Sötét mód a szem védelme érdekében
 - Az országok és régiók adatai nem foglalnak el sok helyet
 - Ingyenes és nyílt forráskódú

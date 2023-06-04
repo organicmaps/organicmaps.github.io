@@ -105,8 +105,8 @@ msgstr "Búsqueda rápida en el mapa y sin conexión"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Los marcadores se exportan e importan en los formatos KML/KMZ (está [planificado][gpx_issue] GPX)"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Los marcadores se exportan e importan en los formatos KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

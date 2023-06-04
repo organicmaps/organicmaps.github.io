@@ -117,8 +117,8 @@ msgstr "Recèrcas rapidas sus la mapa e fòra de linha"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ (GPX es [planificat][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

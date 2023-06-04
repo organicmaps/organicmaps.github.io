@@ -36,8 +36,7 @@ Wanderer und Radfahrer:
 - Schritt-für-Schritt-Navigation für Fußgänger, Radfahrer und Autofahrer mit
   Sprachführung
 - Schnelle Offline-Suche von Orten auf der Karte
-- Export und Import von Lesezeichen im KML/KMZ-Format (GPX ist
-  [geplant][gpx_issue])
+- Export und Import von Lesezeichen im KML/KMZ/GPX-Format
 - Dunkler Modus zum Schutz deiner Augen
 - Länder und Regionen nehmen nicht viel Speicherplatz in Anspruch
 - Kostenlos und Open-Source

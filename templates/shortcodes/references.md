@@ -12,7 +12,6 @@
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
 [googleplay_review]: market://details?id=app.organicmaps
-[gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/organicmaps.app/
 [issues]: https://github.com/organicmaps/organicmaps/issues

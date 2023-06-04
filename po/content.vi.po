@@ -117,7 +117,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
 msgstr ""
 
 #. type: Bullet: '- '

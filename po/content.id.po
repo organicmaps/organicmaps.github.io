@@ -105,8 +105,8 @@ msgstr "Pencarian luring cepat pada peta"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Ekspor dan impor penanda dalam format KML/KMZ (GPX [direncanakan][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Ekspor dan impor penanda dalam format KML/KMZ/GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md

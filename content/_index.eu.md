@@ -37,8 +37,8 @@ egokiena:
 - Pausoz-pausoko nabigazioa oinez, bizikletan edo autoz ibiltzeko, ahotsaren
   aukerarekin
 - Mapan offline bilaketa azkarra
-- Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan
-  (GPX [planned][gpx_issue])
+- Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ/GPX
+  formatuetan
 - Modu iluna zure begiak babesteko
 - Nazio eta herrialdeek ez dute toki askorik hartzen
 - Librea eta kode irekikoa

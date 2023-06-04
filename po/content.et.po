@@ -117,8 +117,8 @@ msgstr "Kiire kaardiotsing võrguühendust kasutamata"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Järjehoidjate import ning eksport KML/KMZ vormingutes (GPX on ka [plaanis][gpx_issue])"
+msgid "Bookmarks export and import in KML/KMZ/GPX formats"
+msgstr "Järjehoidjate import ning eksport KML/KMZ/GPX vormingutes"
 
 #. type: Bullet: '- '
 #: content/_index.md

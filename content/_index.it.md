@@ -28,7 +28,7 @@ Organic Maps è l'applicazione definitiva per viaggiatori, turisti, escursionist
 - Curve di livello, profili altimetrici, picchi e pendenze
 - Navigazione a piedi, in bicicletta e in auto con guida vocale, svolta per svolta
 - Ricerca veloce offline sulla mappa
-- Esportazione e importazione di punti di interesse nei formati KML/KMZ (GPX è [previsto](https://github.com/organicmaps/organicmaps/issues/624))
+- Esportazione e importazione di punti di interesse nei formati KML/KMZ/GPX
 - Modalità scura per proteggere gli occhi
 - I paesi e le regioni non occupano molto spazio
 - Gratuito e open-source

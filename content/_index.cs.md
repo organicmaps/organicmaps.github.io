@@ -37,8 +37,7 @@ cyklisty:
 - Pěší, cyklistická a automobilová navigace krok za krokem s hlasovými
   pokyny
 - Rychlé offline vyhledávání na mapě
-- Export a import záložek ve formátech KML/KMZ (GPX je
-  [plánováno][gpx_issue])
+- Export a import záložek ve formátech KML/KMZ/GPX
 - Tmavý režim pro ochranu očí
 - Země a regiony nezabírají mnoho místa
 - Svobodný a otevřený zdrojový kód
