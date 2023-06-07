@@ -25,7 +25,7 @@
   {%- set preview_image = resource.extra.preview_image -%}
   {%- elif resource.assets %}
   {%- set basename = resource.assets[0] | split(pat='/') | last %}
-  {%- if basename is ending_with('.jpg') or basename is ending_with('.jpeg') or basename is ending_with('.png') %}
+  {%- if basename is ending_with('.jpg') or basename is ending_with('.jpeg') or basename is ending_with('.png') or basename is ending_with('.webp') %}
   {%- set preview_image = resource.path ~ basename -%}
   {%- endif %}
   {%- endif %}

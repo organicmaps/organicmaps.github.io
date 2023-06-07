@@ -140,6 +140,7 @@ function parseHtml(html) {
       if (!text && prevDate && (new Date(date) - new Date(prevDate)) <= kPostsDiffInMs) {
         // Do not download jpg if images already exist.
         if (!fs.existsSync(`${prevDir}/${i}.png`)
+            && !fs.existsSync(`${prevDir}/${i}.webp`)
             && !fs.existsSync(`${prevDir}/${i}.jpg`)
             && !fs.existsSync(`${prevDir}/${i}.jpeg`)) {
           downloads.push(downloadAsync(photo, `${prevDir}/${fileName}`));
