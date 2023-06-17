@@ -84,7 +84,7 @@ Reject surveillance - embrace your freedom.
 
 The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
-### There are different ways to donate:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 
