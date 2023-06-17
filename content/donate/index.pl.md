@@ -16,6 +16,8 @@ Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
 - Brak wyskakujących powiadomień push
 - Otwarte źródła
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Dlaczego warto przekazać darowiznę na rzecz Organic Maps?
@@ -53,6 +55,8 @@ Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
    - ... i [wiele innych][github issues] funkcji, które chcesz i kochasz
 
 ## Jak przekazać darowiznę?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

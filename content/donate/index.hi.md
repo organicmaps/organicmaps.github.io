@@ -15,6 +15,8 @@ weight: 10
 - कोई पुश सूचनाएँ नहीं
 - ओपन सोर्स
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## ऑर्गेनिक मैप्स को दान क्यों करें?
@@ -52,6 +54,8 @@ weight: 10
      हैं
 
 ## कैसे दान करें?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

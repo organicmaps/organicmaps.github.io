@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-11 20:14+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -278,11 +287,10 @@ msgstr "Ki fizet az ingyenes alkalmazásért?"
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon](@/donate/index.hu.md), hogy támogasson minket!"
 
-#. type: Title ###
+#. type: Plain text
 #: content/_index.md
-#, no-wrap
-msgid "There are different ways to donate:"
-msgstr "Az adományozásnak különböző módjai vannak:"
+msgid "To donate immediately, click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -414,6 +422,11 @@ msgstr "Nincs regisztráció"
 #: content/donate/index.md
 msgid "Open source"
 msgstr "Nyílt forráskód"
+
+#. type: Plain text
+#: content/donate/index.md
+msgid "Click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
@@ -562,7 +575,9 @@ msgstr "Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További rés
 msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr "[stripe]: https://donate.organicmaps.app/ \"Adományozás Stripe-on keresztül\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Hibanaplók\"\n"
+msgstr ""
+"[stripe]: https://donate.organicmaps.app/ \"Adományozás Stripe-on keresztül\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Hibanaplók\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -784,7 +799,10 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -845,3 +863,7 @@ msgstr "Név"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
+
+#, no-wrap
+#~ msgid "There are different ways to donate:"
+#~ msgstr "Az adományozásnak különböző módjai vannak:"

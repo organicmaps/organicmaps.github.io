@@ -16,6 +16,8 @@ Organic Maps app is _gratis voor iedereen_ dankzij jullie
 - Geen pushmeldingen
 - Open source
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Waarom doneren aan Organic Maps?
@@ -52,6 +54,8 @@ Organic Maps app is _gratis voor iedereen_ dankzij jullie
      jullie van houden
 
 ## Hoe kan je doneren?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

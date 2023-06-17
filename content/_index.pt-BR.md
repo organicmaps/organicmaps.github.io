@@ -90,7 +90,7 @@ Rejeite a vigilância - abrace sua liberdade.
 O app é gratuito para todos. Por favor [faça uma
 doação](@/donate/index.pt-BR.md) para nos apoiar!
 
-### Há diferentes maneiras de doar:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

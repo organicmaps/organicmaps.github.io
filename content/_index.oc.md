@@ -93,7 +93,7 @@ Rebutar la susvelhança. Assegurar la libertat.
 L'aplicacion es a gratis per totei. Se volètz [donar](@/donate/index.ca.md)
 per nos ajudar!
 
-### I a mai d'un biais de donar:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

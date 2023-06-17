@@ -15,6 +15,8 @@ Organic Maps ist _kostenlos für alle_ dank deiner **[Spende][stripe]**:
 - Keine Push-Benachrichtigungen
 - Open Source
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Warum für Organic Maps spenden?
@@ -52,6 +54,8 @@ Organic Maps ist _kostenlos für alle_ dank deiner **[Spende][stripe]**:
      liebst
 
 ## Wie kann man spenden?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-11 20:14+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -278,11 +287,10 @@ msgstr "¿Quién paga por la aplicación gratuita?"
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "La aplicación es gratis para todo el mundo. ¡[Haga una donación](@/donate/index.es.md) para apoyarnos!"
 
-#. type: Title ###
+#. type: Plain text
 #: content/_index.md
-#, no-wrap
-msgid "There are different ways to donate:"
-msgstr "Hay diferentes maneras de donar:"
+msgid "To donate immediately, click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -414,6 +422,11 @@ msgstr "Sin registro"
 #: content/donate/index.md
 msgid "Open source"
 msgstr "Software libre"
+
+#. type: Plain text
+#: content/donate/index.md
+msgid "Click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
@@ -562,7 +575,9 @@ msgstr "¡Sí! Hay varias maneras de apoyar a Organic Maps. Consulte la página 
 msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr "[stripe]: https://donate.organicmaps.app/ \"Donar vía Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"Informes en GitHub\"\n"
+msgstr ""
+"[stripe]: https://donate.organicmaps.app/ \"Donar vía Stripe\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"Informes en GitHub\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -784,7 +799,10 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -845,3 +863,7 @@ msgstr "Nombre"
 #, no-wrap
 msgid "Token"
 msgstr "Ficha"
+
+#, no-wrap
+#~ msgid "There are different ways to donate:"
+#~ msgstr "Hay diferentes maneras de donar:"

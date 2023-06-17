@@ -16,6 +16,8 @@ Aplikace Organic Maps je pro všechny _zdarma_ díky vašim
 - Žádná oznámení push
 - Open source
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Proč darovat Organic Maps?
@@ -51,6 +53,8 @@ Aplikace Organic Maps je pro všechny _zdarma_ díky vašim
    - ... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi
 
 ## Jak darovat?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

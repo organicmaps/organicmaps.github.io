@@ -16,6 +16,8 @@ Organic Maps es _gratis para todo el mundo_ gracias a sus
 - Sin notificaciones
 - Software libre
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## ¿Por qué donar a Organic Maps?
@@ -53,6 +55,8 @@ Organic Maps es _gratis para todo el mundo_ gracias a sus
    - ... y [muchas otras][github issues] funcionalidades que desea
 
 ## ¿Cómo donar?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

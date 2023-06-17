@@ -94,7 +94,7 @@ Lehne Überwachung ab - lebe deine Freiheit.
 Die App ist für alle kostenlos. Bitte unterstütze uns mit einer
 [Spende](@/donate/index.de.md)!
 
-### Es gibt verschiedene Möglichkeiten zu spenden:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

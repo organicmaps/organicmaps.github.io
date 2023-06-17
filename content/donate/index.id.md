@@ -16,6 +16,8 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat
 - Tanpa pemberitahuan dorong
 - Sumber terbuka
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Mengapa berdonasi ke Organic Maps?
@@ -51,6 +53,8 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat
    - … dan [banyak fitur lain][github issues] yang Anda inginkan dan sukai
 
 ## Bagaimana cara berdonasi?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

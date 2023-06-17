@@ -16,6 +16,8 @@ esker:
 - Push jakinarazpenik ez
 - Kode irekikoa
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Zergatik eman dirua Organic Maps-i?
@@ -53,6 +55,8 @@ esker:
      dituzuenak
 
 ## Nola egin dohaintza?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

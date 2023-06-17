@@ -15,6 +15,8 @@ Organic Maps є _безплатним для всіх_ завдяки вашим
 - Без push-повідомлень
 - Відкритий вихідний код
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Чому варто пожертвувати на Organic Maps?
@@ -50,6 +52,8 @@ Organic Maps є _безплатним для всіх_ завдяки вашим
    - ... і [багато іншого][github issues] функцій, які ви хочете і любите
 
 ## Як пожертвувати?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

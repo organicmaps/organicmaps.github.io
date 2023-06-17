@@ -92,7 +92,7 @@ Avvisa övervakningen - omfamna din frihet.
 Appen är gratis för alla. Vänligen [donera](@/donate/index.sv.md) för att
 stödja oss!
 
-### Det finns olika sätt att donera på:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

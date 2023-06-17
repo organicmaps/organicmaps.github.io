@@ -16,6 +16,8 @@ Appen Organic Maps är _gratis för alla_ tack vare era
 - Inga push-notifikationer
 - Öppen källkod
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Varför donera till Organic Maps?
@@ -53,6 +55,8 @@ Appen Organic Maps är _gratis för alla_ tack vare era
      älskar
 
 ## Hur kan man donera?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

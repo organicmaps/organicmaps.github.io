@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-24 01:29+0000\nLast-Translator: Simon Nilsson <Observeramera@pm.me>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/organicmaps/website/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Simon Nilsson <Observeramera@pm.me>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/organicmaps/website/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,223 +35,191 @@ msgstr "Organic Maps: Offline Vandring, Cykling, Leder och Navigering"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "**Organic Maps** är en gratis Android- och iOS-app för resenärer, turister, vandrare och cyklister som bygger på data från publiken **[OpenStreetMap][openstreetmap]**. Det är en [fork][fork] med öppen källkod av appen **Maps.me** (tidigare känd som [**MapsWithMe**][mapswithme]), som underhålls av samma personer som skapade **MapsWithMe** 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** är ett av få program som numera stöder 100 % av funktionerna utan en aktiv internetanslutning. Installera Organic Maps, ladda ner kartor, släng ditt SIM-kort (din operatör spårar dig förresten hela tiden) och gör en veckolång resa med en enda batteriladdning utan att någon byte skickas till nätet.\n"
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 msgstr "Ladda ner och installera Organic Maps från [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ badges() }}"
 msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
 msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Vandring') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
 msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
 msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Sökning') }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
 msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation i mörkt läge') }}"
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Features"
 msgstr "Funktioner"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
 msgstr "Organic Maps är den ultimata appen för resenärer, turister, vandrare och cyklister:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
 msgstr "Detaljerade offline-kartor med platser som inte finns på andra kartor, tack vare [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
 msgstr "Cykelvägar, vandringsleder och promenadvägar"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
 msgstr "Konturlinjer, höjdprofiler, toppar och sluttningar"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
 msgstr "Tur-för-tur-navigering för promenader, cykling och bilnavigering med röststyrning"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Fast offline search on the map"
 msgstr "Snabb offline-sökning på kartan"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
 msgstr "Export och import av bokmärken i KML/KMZ-format (GPX är [planerat][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Dark Mode to protect your eyes"
 msgstr "Mörkt läge för att skydda dina ögon"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Countries and regions don't take a lot of space"
 msgstr "Länder och regioner tar inte mycket plats"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Free and open-source"
 msgstr "Gratis och öppen källkod"
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Why Organic?"
 msgstr "Varför Organisk?"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "Organic Maps is pure and organic, made with love:"
 msgstr "Organic Maps är ren och organisk, gjord med kärlek:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Respects your privacy"
 msgstr "Respekterar din integritet"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Saves your battery"
 msgstr "Sparar ditt batteri"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No unexpected mobile data charges"
 msgstr "Inga oväntade avgifter för mobildata"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "Organic Maps app is free from trackers and other bad stuff:"
 msgstr "Organic Maps app är fri från spårare och andra dåliga saker:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, markdown-text
 msgid "No ads"
 msgstr "Inga annonser"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No tracking"
 msgstr "Ingen spårning"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No data collection"
 msgstr "Ingen data samling"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No phoning home"
 msgstr "Ingen uppringning hem"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No annoying registration"
 msgstr "Ingen irriterande registrering"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No mandatory tutorials"
 msgstr "Inga obligatoriska handledningar"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No noisy email spam"
 msgstr "Ingen brusig email spam"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
-#, markdown-text
 msgid "No push notifications"
 msgstr "Inga push-notifikationer"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "No crapware"
 msgstr "Ingen skitvara"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
 msgstr "~~Icke-besprutat~~ Rent organiskt!"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
 msgstr "Ansökan verifieras av [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ exodus_screenshot() }}"
 msgstr "{{ exodus_screenshot() }}"
 
@@ -266,169 +243,146 @@ msgstr "Organic Maps begär inte överdrivna behörigheter för att spionera på
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ privacy_screenshots() }}"
 msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
 msgstr "På Organic Maps anser vi att integritet är en grundläggande mänsklig rättighet:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Organic Maps is an indie community-driven open-source project"
 msgstr "Organic Maps är ett indiegemenskapsdrivet projekt med öppen källkod"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "We protect your privacy from Big Tech's prying eyes"
 msgstr "Vi skyddar din integritet från Big Techs nyfikna ögon"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Stay safe no matter wherever you are"
 msgstr "Håll dig säker oavsett var du befinner dig"
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
-#, markdown-text
 msgid "Reject surveillance - embrace your freedom."
 msgstr "Avvisa övervakningen - omfamna din frihet."
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
 msgstr "**[Testa Organic Maps!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Who is paying for the free app?"
 msgstr "Vem betalar för den kostnadsfria appen?"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "Appen är gratis för alla. Vänligen [donera](@/donate/index.sv.md) för att stödja oss!"
 
-#. type: Title ###
+#. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
-msgid "There are different ways to donate:"
-msgstr "Det finns olika sätt att donera på:"
+msgid "To donate immediately, click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-#, markdown-text
 msgid "{{ donate_buttons() }}"
 msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Our sponsors:"
 msgstr "Våra sponsorer:"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
 msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [ger oss][mythic_beasts_donation] två virtuella servrar med 400 TB/månad gratis bandbredd för att hjälpa våra användare med nedladdningar och uppdateringar av kartor."
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Community"
 msgstr "Gemenskap"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
 msgstr "Organic Maps är en [programvara med öppen källkod][github] licensierad under Apache License 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Please join our beta program, suggest your features, and report bugs:"
 msgstr "Gå med i vårt betaprogram, föreslå funktioner och rapportera fel:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
 msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
 msgid "[Android Beta (Firebase)][firebase]"
 msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-#, markdown-text
 msgid "[Linux Desktop Beta (packages)][repology]"
 msgstr "[Linux Desktop Beta (paket)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Rapportera buggar eller problem till [problemspåraren][issues] eller [mejla oss][email]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "[Discuss][ideas] ideas or propose feature requests."
 msgstr "[Diskutera][ideas] idéer eller föreslå önskemål om funktioner."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
 msgstr "Prenumerera på vår [Telegram Channel][telegram] eller på [matrix space][matrix] för uppdateringar."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
 msgstr "Gå med i vår [Telegramgrupp][telegram_chat] för att diskutera med andra användare."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Visit our [GitHub page][github]."
 msgstr "Besök vår [GitHub-sida][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, markdown-text
 msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 msgstr "Följ våra uppdateringar på [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 msgstr "[fork]: https://sv.wikipedia.org/wiki/Fork\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-#, markdown-text
 msgid "{{ references() }}"
 msgstr "{{ references() }}"
 
@@ -452,197 +406,179 @@ msgstr "Donera för att stödja utvecklingen av Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
 msgstr "Appen Organic Maps är _gratis för alla_ tack vare era **[donationer][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, markdown-text
 msgid "No trackers"
 msgstr "Inga spårare"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, markdown-text
 msgid "No registration"
 msgstr "Ingen registrering"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
-#, markdown-text
 msgid "Open source"
 msgstr "Öppen källkod"
 
+#. type: Plain text
+#: content/donate/index.md
+msgid "Click a preferred payment method icon below:"
+msgstr ""
+
 #. type: Title ##
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Why donate to Organic Maps?"
 msgstr "Varför donera till Organic Maps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-#, markdown-text
 msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
 msgstr "Vi är beroende av dina donationer för att kunna utföra vårt uppdrag att hålla Organic Maps öppet och fritt.  Och fria från annonser."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, markdown-text
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
 msgstr "Vi är några få entusiaster som bidrar på vår fritid och lägger våra familjers pengar på projektet.  Vi älskar det vi gör och vi älskar våra användare ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-#, markdown-text
 msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
 msgstr "Med ditt stöd vill vi bli en bättre version av Google Maps med fokus på integritet."
 
 #. type: Title ##
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "What will the money be used for?"
 msgstr "Vad kommer pengarna att användas till?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-#, markdown-text
 msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
 msgstr "Vi betalar för snabba servrar, så att alla i världen kan ladda ner gratis kartuppdateringar utan förseningar.  Det handlar om hundratals terabyte varje månad, och mängden ökar."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, markdown-text
 msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgstr "Användarstöd, felavhjälpning och förbättrad stabilitet i appen står högst upp på vår prioriteringslista.  Det finns [1200+ problem på GitHub][github issues], och antalet ökar varje dag.  AppStore, Google Play och supportmejl översvämmas av kommentarer och buggar. Vi vill leverera en produkt av hög kvalitet."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-#, markdown-text
 msgid "With enough money, new features can be developed faster, for example:"
 msgstr "Med tillräckligt med pengar kan nya funktioner utvecklas snabbare, till exempel:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Weekly and automated map data updates"
 msgstr "Automatiska uppdateringar av kartdata varje vecka"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Bookmarks backup and sync"
 msgstr "Säkerhetskopiering och synkronisering av bokmärken"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Android Auto"
 msgstr "Android Auto"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "GPS track recorder with GPX support"
 msgstr "GPS-spårare med GPX-stöd"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Better map styles for different activities"
 msgstr "Bättre kartformat för olika aktiviteter"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Hill shading and 3D terrain"
 msgstr "Skuggning av kullar och 3D-terräng"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Improve the OpenStreetMap editor"
 msgstr "Förbättra OpenStreetMap-redigeraren"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Better offline address search, routing, and navigation"
 msgstr "Bättre adressökning, vägvisning och navigering offline"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "Public Transport"
 msgstr "Offentlig Transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
 msgid "… and [many other][github issues] features you want and love"
 msgstr "... och [många andra][github issues] funktioner som du vill ha och älskar"
 
 #. type: Title ##
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "How to donate?"
 msgstr "Hur kan man donera?"
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
 msgstr "Återkommande donationer är det bästa sättet att säkerställa en relativt stabil inkomst för projektet och motivera oss för långsiktiga uppgifter och mål. Men du kan också donera en gång för alla."
 
 #. type: Title ###
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Bank Transfer"
 msgstr "Banköverföring"
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
 msgid "{{ bank_transfer() }}"
 msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Crypto"
 msgstr "Krypto"
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
 msgid "Please consider donating annually to reduce total fees."
 msgstr "Snälla överväg donera årsvis för att reducera totalkostnader."
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
 msgid "{{ crypto_table() }}"
 msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Can you help us in any other way?"
 msgstr "Kan du hjälpa oss på något annat sätt?"
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr "Ja! Det finns många sätt att stödja Organic Maps. Se sidan [Support Us](@/support-us/index.sv.md) för mer information."
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr "[stripe]: https://donate.organicmaps.app/ \"Donera via Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
+msgstr ""
+"[stripe]: https://donate.organicmaps.app/ \"Donera via Stripe\"\n"
+"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -682,31 +618,27 @@ msgstr "Organiska kartor: Integritetspolicy"
 
 #. type: Plain text
 #: content/privacy/index.md
-#, markdown-text
 msgid "Organic Maps respects your privacy and DOES NOT TRACK YOU."
 msgstr "Organic Maps respekterar din integritet och spårar dig inte."
 
 #. type: Plain text
 #: content/privacy/index.md
-#, markdown-text
 msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
 msgstr "Till skillnad från de flesta andra program finns det ingen spårning, inga annonser, ingen spionprogramvara, ingen insamling av data och statistik i Organic Maps."
 
 #. type: Plain text
 #: content/privacy/index.md
-#, markdown-text
 msgid "Stay away from Big Tech's prying eyes!"
 msgstr "Håll dig borta från Big Tech:s nyfikna ögon!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-#, markdown-text
 msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
 msgstr "Om du har några frågor eller förslag kan du kontakta oss på [legal@organicmaps.app](mailto:legal@organicmaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
 msgstr "<sub>Denna policy gäller från och med 2021-04-24.</sub>\n"
 
@@ -730,91 +662,76 @@ msgstr "Stöd våran utveckling av Organic Maps"
 
 #. type: Plain text
 #: content/support-us/index.md
-#, markdown-text
 msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
 msgstr "Organic Maps är en gratis app med öppen källkod. Den är fri från annonser, samlar inte in personlig information och utvecklas av några entusiaster med hjälp av gemenskapen."
 
 #. type: Plain text
 #: content/support-us/index.md
-#, markdown-text
 msgid "There are different ways to support the development:"
 msgstr "Det finns olika sätt att stödja utvecklingen:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
 msgstr "[Donera](@/donate/index.sv.md)! Varje dollar eller euro räknas och hjälper oss att betala för servrar och skala."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
 msgstr "Rapportera misstag och dela idéer på vår [GitHub][github] eller via [email][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
 msgstr "Hjälp oss att [rätta fel][contributing] och göra kodgranskningar om du är utvecklare. Varje åtgärdat litet problem gör någon gladare."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "[Translate][translations] missing strings in the app's interface."
 msgstr "[Translate][translations] saknas strängar i appens gränssnitt."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
 msgstr "Översätt beskrivningarna av [App Store][translations_appstore] och [Android][translations_googleplay] till ditt språk."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "[Translate][translations_website] our web site into your language."
 msgstr "[Översätt][translations_website] vår webbplats till ditt språk."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
 msgstr "Gå med [OpenStreetMaps][openstreetmap] gemenskap och bidra till kartorna med data."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
 msgstr "Fixa röda städer som hittats av vår [public transport validator][public_transport_validator], för att tunnelbanor och spårvagnar ska fungera i appen."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr "Stöd andra användare på [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
 msgstr "Berätta för alla om Organic Maps. En större gemenskap är en starkare gemenskap."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 msgstr "Betygsätt oss i [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-#, markdown-text
 msgid "Any help is welcome!"
 msgstr "All hjälp är välkommen!"
 
 #. type: Plain text
 #: content/support-us/index.md
-#, markdown-text
 msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
 msgstr "Vårt lilla team är mycket tacksamt för din feedback och ditt stöd. Organic Maps skulle inte vara möjligt utan våra användare ❤️."
 
@@ -838,60 +755,55 @@ msgstr "Organic Maps: termer"
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
 msgstr "Den här appen är licensierad enligt Apachelicensen, version 2.0 (\"Licensen\"); du får inte använda den här applikationen annat än i enlighet med Licensen."
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text
 msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
 msgstr "Du kan få en kopia av licensen på [http://www.apache.org/licenses/LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgstr "Om det inte krävs enligt tillämplig lag eller om det inte har avtalats skriftligen, distribueras programvara som distribueras under licensen på en \"AS IS\"-BASIS, UTAN GARANTIER ELLER VILLKOR AV ETT SÄTT, vare sig uttryckliga eller underförstådda. Se licensen för det specifika språket som reglerar tillstånd och begränsningar enligt licensen."
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text
 msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
 msgstr "De flesta biblioteken i följande kataloger på [GitHub][github] är gjorda av andra personer och organisationer och licensieras på olika sätt:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, markdown-text
 msgid "3party"
 msgstr "3part"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, markdown-text
 msgid "tools"
 msgstr "Verktyg"
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr "Se deras LICENSE-, COPYING- eller NOTICE-filer för användningsvillkor."
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
 msgstr "Se även filen [data/copyright.html][copyright][copyright] för en fullständig lista över upphovsrättsliga meddelanden för programmet Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[licens]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[licens]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -952,3 +864,7 @@ msgstr "Namn"
 #, no-wrap
 msgid "Token"
 msgstr "token"
+
+#, no-wrap
+#~ msgid "There are different ways to donate:"
+#~ msgstr "Det finns olika sätt att donera på:"

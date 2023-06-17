@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-04-09 03:27+0000\nLast-Translator: संकेत गराडे <garade@proton.me>\nLanguage-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\nLanguage: mr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: संकेत गराडे <garade@proton.me>\n"
+"Language-Team: Marathi <https://hosted.weblate.org/projects/organicmaps/website/mr/>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -278,11 +287,10 @@ msgstr "ह्या निःशुल्क ऍपचा खर्च को�
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "हे ऍप सर्वांसाठी विमानुल्य आहे. आम्हाला पाठिंबा द्यायला कृपया [देणगी द्या](@/donate/index.md)!"
 
-#. type: Title ###
+#. type: Plain text
 #: content/_index.md
-#, no-wrap
-msgid "There are different ways to donate:"
-msgstr "दान करण्याचे विविध मार्ग आहे:"
+msgid "To donate immediately, click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -414,6 +422,11 @@ msgstr "कोणतीही नोदणी नाही"
 #: content/donate/index.md
 msgid "Open source"
 msgstr "मुक्त strot"
+
+#. type: Plain text
+#: content/donate/index.md
+msgid "Click a preferred payment method icon below:"
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
@@ -784,7 +797,10 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -845,3 +861,7 @@ msgstr "नाव"
 #, no-wrap
 msgid "Token"
 msgstr ""
+
+#, no-wrap
+#~ msgid "There are different ways to donate:"
+#~ msgstr "दान करण्याचे विविध मार्ग आहे:"

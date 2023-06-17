@@ -90,7 +90,7 @@ Rechace la vigilancia. Asuma su libertad.
 La aplicación es gratis para todo el mundo. ¡[Haga una
 donación](@/donate/index.es.md) para apoyarnos!
 
-### Hay diferentes maneras de donar:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

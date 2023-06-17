@@ -91,7 +91,7 @@ Rebutgi la vigilància. Assumeixi la seva llibertat.
 L'aplicació és gratuïta per a tothom. Si us plau
 [donar](@/donate/index.ca.md) per a donar-nos suport!
 
-### Hi ha diferents maneres de donar:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

@@ -89,7 +89,7 @@ Reject surveillance - embrace your freedom.
 हे ऍप सर्वांसाठी विमानुल्य आहे. आम्हाला पाठिंबा द्यायला कृपया [देणगी
 द्या](@/donate/index.md)!
 
-### दान करण्याचे विविध मार्ग आहे:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

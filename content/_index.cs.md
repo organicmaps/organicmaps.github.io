@@ -92,7 +92,7 @@ Odmítněte dohled - přijměte svou svobodu.
 Aplikace je pro všechny zdarma. Podpořte nás prosím
 [donate](@/donate/index.cs.md)!
 
-### Darovat můžete různými způsoby:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

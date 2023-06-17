@@ -15,6 +15,8 @@ Organic Maps 应用程序 _对每个人都是免费的_ ，感谢您的**[donati
 - 无推送通知
 - 开源
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## 为何要捐赠给 Organic Maps ？
@@ -40,6 +42,8 @@ Organic Maps 应用程序 _对每个人都是免费的_ ，感谢您的**[donati
    - ...和[许多其他][github issues]您想要和喜欢的功能
 
 ## 如何捐赠？
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

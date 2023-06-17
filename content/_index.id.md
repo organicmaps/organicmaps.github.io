@@ -93,7 +93,7 @@ Tolak pengawasan — rangkul kebebasan Anda.
 Aplikasi ini gratis untuk semua orang. Silakan
 [berdonasi](@/donate/index.id.md) untuk mendukung kami!
 
-### Ada berbagai cara untuk berdonasi:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

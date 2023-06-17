@@ -16,6 +16,8 @@ Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
 - Nincsenek leküldéses értesítések
 - Nyílt forráskód
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Miért adományozzon az Organic Maps-nek?
@@ -53,6 +55,8 @@ Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
    - ... és [sok más][github issues] funkciót, amit szeretnél és imádsz
 
 ## Hogyan adományozhatok?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

@@ -95,7 +95,7 @@ Odrzuć inwigilację - ogarnij swoją wolność.
 Aplikacja jest darmowa dla wszystkich. Prosimy o [przekazanie
 darowizny](@/donate/index.pl.md), aby nas wesprzeć!
 
-### Istnieją różne sposoby wsparcia:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

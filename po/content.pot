@@ -326,10 +326,10 @@ msgstr ""
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr ""
 
-#. type: Title ###
+#. type: Plain text
 #: content/_index.md
-#, markdown-text, no-wrap
-msgid "There are different ways to donate:"
+#, markdown-text
+msgid "To donate immediately, click a preferred payment method icon below:"
 msgstr ""
 
 #. type: Plain text
@@ -480,6 +480,12 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Open source"
+msgstr ""
+
+#. type: Plain text
+#: content/donate/index.md
+#, markdown-text
+msgid "Click a preferred payment method icon below:"
 msgstr ""
 
 #. type: Title ##

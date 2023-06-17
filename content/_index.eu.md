@@ -92,7 +92,7 @@ Errefusatu jarraipena - besarkatu zure askatasuna.
 App-a denontzat doakoa da. Mesedez [donate](@/donate/index.eu.md) guri
 laguntzeko!
 
-### Dirua emateko hainbat modu daude:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

@@ -91,7 +91,7 @@ Utasítsd el a megfigyelést - gyakorold a szabadságodat.
 Az alkalmazás mindenki számára ingyenes. Kérjük,
 [adományozzon](@/donate/index.hu.md), hogy támogasson minket!
 
-### Az adományozásnak különböző módjai vannak:
+To donate immediately, click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 

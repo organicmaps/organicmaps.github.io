@@ -16,6 +16,8 @@ Organic Maps és _gratis per a tothom_ gràcies a les seves
 - Notificacions emergents
 - Codi obert
 
+Click a preferred payment method icon below:
+
 {{ donate_buttons() }}
 
 ## Per què fer donatius a l’Organic Maps?
@@ -53,6 +55,8 @@ Organic Maps és _gratis per a tothom_ gràcies a les seves
    - ... i [moltes altres][github issues] funcionalitats que desitja
 
 ## Com donar?
+
+Click a preferred payment method icon below:
 
 {{ donate_buttons() }}
 
