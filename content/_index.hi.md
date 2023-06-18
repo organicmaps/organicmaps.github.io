@@ -65,6 +65,10 @@ mode') }}
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 ऑर्गेनिक नक़्शे आपकी जासूसी करने के लिए अत्यधिक अनुमतियों का अनुरोध नहीं
 करता है:
 

@@ -70,6 +70,10 @@ Aplikacja jest weryfikowana przez [Projekt Prywatności Exodus][exodus]:
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 Organic Maps nie żąda nadmiernych uprawnień celem szpiegowania użytkownika:
 
 {{ privacy_screenshots() }}

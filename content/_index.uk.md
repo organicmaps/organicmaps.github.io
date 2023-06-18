@@ -67,6 +67,10 @@ Organic Maps не містить відстеження та інших пога
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 Organic Maps не запитує надмірних дозволів, щоб шпигувати за вами:
 
 {{ privacy_screenshots() }}

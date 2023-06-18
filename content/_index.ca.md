@@ -68,6 +68,10 @@ L'aplicació està verificada pel [Projecte Exodus Privacy][exodus]:
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 Organic Maps no demana permisos excessius per a espiar-li:
 
 {{ privacy_screenshots() }}

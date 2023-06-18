@@ -65,6 +65,10 @@ Organic Maps अॅप माहिती चोरांपासून आण�
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 तुमच्यावर गुप्तहेरी करायला Organic Maps अनावश्यक परवानग्या मागत नाही:
 
 {{ privacy_screenshots() }}

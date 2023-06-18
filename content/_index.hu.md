@@ -67,6 +67,10 @@ Az alkalmazás az [Exodus Privacy Project][exodus] által ellenőrzött:
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 Az Organic Maps nem kér rengeteg engedélyt, hogy kémkedjen Ön után:
 
 {{ privacy_screenshots() }}

@@ -68,6 +68,10 @@ Aplikazio hau [Exodus Privacy Project][exodus]-ek egiaztatzen du:
 
 {{ exodus_screenshot() }}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 Organic Maps-ek ez du zu espiatzeko gehiegizko baimenik eskatzen:
 
 {{ privacy_screenshots() }}

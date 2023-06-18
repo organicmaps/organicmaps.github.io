@@ -62,6 +62,10 @@ Organic Maps 应用没有跟踪器和其他糟糕的东西：
 
 {{ exodus_screenshot() }}}
 
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+
+{{ trackercontrol_screenshot() }}
+
 Organic Maps 无需过多权限：
 
 {{ privacy_screenshots() }}

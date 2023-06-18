@@ -254,7 +254,6 @@ install-fdroid = "F-Droid द्वारे Organic Maps स्थापित 
 language = "मराठी"
 name = "नाव"
 token = "Token"
-
 [languages.zh-Hans.translations]
 address = "地址"
 back = "返回到新闻"
@@ -266,7 +265,6 @@ install-fdroid = "从F-Droid安装Organic Maps"
 language = "简体中文"
 name = "名称"
 token = "令牌"
-
 [languages.oc.translations]
 address = "Address"
 back = "Back to News"
