@@ -20,7 +20,8 @@
 [LinkedIn]:  https://linkedin.com/company/organic-maps
 [mapswithme]: https://en.wikipedia.org/wiki/Maps.me "Maps.Me"
 [mastodon]: https://fosstodon.org/@organicmaps
-[matrix]: https://matrix.to/#/#organicmaps:matrix.org
+[matrix]: https://matrix.to/#/#organicmaps:matrix.org "Organic Maps on the Matrix"
+[matrix_ru]: https://matrix.to/#/#organicmapsru:matrix.org "Organic Maps в Matrix"
 [mythic_beasts]: https://www.mythic-beasts.com/
 [mythic_beasts_donation]: https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/
 [openstreetmap]: https://www.openstreetmap.org/about "OpenStreetMap"
