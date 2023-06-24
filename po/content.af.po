@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-06-24 18:53+0000\nLast-Translator: Gideon Wentink <gjwentink@gmail.com>\nLanguage-Team: Afrikaans <https://hosted.weblate.org/projects/organicmaps/website/af/>\nLanguage: af\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.1\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-06-24 18:53+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Afrikaans <https://hosted.weblate.org/projects/organicmaps/website/af/>\nLanguage: af\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -16,7 +16,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Huis"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "Features"
 
 #. type: Plain text
 #: content/_index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "Ons borge"
 
 #. type: Plain text
 #: content/_index.md
@@ -346,7 +346,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Gemeenskap"
 
 #. type: Plain text
 #: content/_index.md
@@ -442,7 +442,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Skenk"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -580,7 +580,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Publieke vervoer"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -678,7 +678,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Privaatheid"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
