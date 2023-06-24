@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Simon Nilsson <Observeramera@pm.me>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/organicmaps/website/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-06-24 18:53+0000\nLast-Translator: Anders Svensson <anders.e.svensson@proton.me>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/organicmaps/website/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -443,12 +434,12 @@ msgstr "Vi är beroende av dina donationer för att kunna utföra vårt uppdrag 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Vi är några få entusiaster som bidrar på vår fritid och lägger våra familjers pengar på projektet.  Vi älskar det vi gör och vi älskar våra användare ❤️."
+msgstr "Vi är ett fåtal entusiaster som bidrar på vår fritid och lägger våra familjers pengar på projektet.  Vi älskar det vi gör och vi älskar våra användare ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr "Med ditt stöd vill vi bli en bättre version av Google Maps med fokus på integritet."
+msgstr "Med ditt stöd vill vi bli en bättre version av Google Maps med fokus på personlig integritet."
 
 #. type: Title ##
 #: content/donate/index.md
@@ -459,12 +450,12 @@ msgstr "Vad kommer pengarna att användas till?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Vi betalar för snabba servrar, så att alla i världen kan ladda ner gratis kartuppdateringar utan förseningar.  Det handlar om hundratals terabyte varje månad, och mängden ökar."
+msgstr "Vi betalar för snabba servrar, så att alla i världen kan ladda ner gratis kartuppdateringar utan fördröjning.  Det handlar om hundratals terabyte varje månad, och mängden ökar."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Användarstöd, felavhjälpning och förbättrad stabilitet i appen står högst upp på vår prioriteringslista.  Det finns [1200+ problem på GitHub][github issues], och antalet ökar varje dag.  AppStore, Google Play och supportmejl översvämmas av kommentarer och buggar. Vi vill leverera en produkt av hög kvalitet."
+msgstr "Användarstöd, felavhjälpning och förbättrad stabilitet i appen står högst upp på vår prioriteringslista.  Det finns [fler än 1 200 problem på GitHub][github issues], och antalet ökar varje dag.  AppStore, Google Play och supportmejl översvämmas av kommentarer och buggrapporter. Vi vill leverera en högkvalitativ produkt."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -489,22 +480,22 @@ msgstr "Android Auto"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "GPS track recorder with GPX support"
-msgstr "GPS-spårare med GPX-stöd"
+msgstr "Inspelning av GPS-spår med GPX-stöd"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better map styles for different activities"
-msgstr "Bättre kartformat för olika aktiviteter"
+msgstr "Bättre versioner av kartan för olika aktiviteter"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Hill shading and 3D terrain"
-msgstr "Skuggning av kullar och 3D-terräng"
+msgstr "Skuggning av kullar och berg samt 3D-terräng"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Improve the OpenStreetMap editor"
-msgstr "Förbättra OpenStreetMap-redigeraren"
+msgstr "Förbättring av OpenStreetMap-redigeraren"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -514,23 +505,23 @@ msgstr "Bättre adressökning, vägvisning och navigering offline"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Public Transport"
-msgstr "Offentlig Transport"
+msgstr "Kollektivtrafik"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "… and [many other][github issues] features you want and love"
-msgstr "... och [många andra][github issues] funktioner som du vill ha och älskar"
+msgstr "... och [många andra][github issues] funktioner som efterfrågas och uppskattas"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "How to donate?"
-msgstr "Hur kan man donera?"
+msgstr "Hur donerar man?"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
-msgstr "Återkommande donationer är det bästa sättet att säkerställa en relativt stabil inkomst för projektet och motivera oss för långsiktiga uppgifter och mål. Men du kan också donera en gång för alla."
+msgstr "Återkommande donationer är det bästa sättet att säkerställa en relativt stabil inkomst för projektet och motivera oss för långsiktiga uppgifter och mål. Men du kan också skänka en s."
 
 #. type: Title ###
 #: content/donate/index.md
