@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-06-24 18:53+0000\nLast-Translator: Anders Svensson <anders.e.svensson@proton.me>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/organicmaps/website/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.1\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-06-30 13:54+0000\nLast-Translator: Luna Jernberg <droidbittin@gmail.com>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/organicmaps/website/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.0-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -218,13 +218,13 @@ msgstr "{{ exodus_screenshot() }}"
 #: content/_index.md
 #, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "iOS-applikationen har verifierats av [TrackerControl för iOS][trackercontrol]:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -282,7 +282,7 @@ msgstr "Appen är gratis för alla. Vänligen [donera](@/donate/index.sv.md) fö
 #. type: Plain text
 #: content/_index.md
 msgid "To donate immediately, click a preferred payment method icon below:"
-msgstr ""
+msgstr "För att donera omedelbart, klicka på en ikon för önskad betalningsmetod nedan:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -418,7 +418,7 @@ msgstr "Öppen källkod"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click a preferred payment method icon below:"
-msgstr ""
+msgstr "Klicka på en ikon för önskad betalningsmetod nedan:"
 
 #. type: Title ##
 #: content/donate/index.md
