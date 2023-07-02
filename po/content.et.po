@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-18 12:44+0000\nLast-Translator: Priit Jõerüüt <hwlate@joeruut.com>\nLanguage-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\nLanguage: et\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-07-03 12:33+0000\nLast-Translator: Priit Jõerüüt <hwlate@joeruut.com>\nLanguage-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\nLanguage: et\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.0-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -40,7 +40,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "Paigalda Organic Maps järgmistest rakendustepoodidest: [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -250,13 +250,13 @@ msgstr "{{ exodus_screenshot() }}"
 #: content/_index.md
 #, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "OrganicMaps'i iOS rakendus on verifitseeritud - [TrackerControl for iOS][trackercontrol]:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
