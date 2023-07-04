@@ -43,7 +43,7 @@ msgstr "**Organic Maps** - це безкоштовний офлайн засто
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** - один з небагатьох застосунків, який підтримує 100% функціональність без активного інтернет-з’єднання. Встановіть Organic Maps, завантажте карти, викиньте SIM-карту (до речі, ваш оператор постійно відстежує вас) та вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.\n"
+msgstr "**Organic Maps** - один з небагатьох застосунків, який підтримує 100% функціональність без активного інтернет-з’єднання. Встановіть Organic Maps, завантажте мапи, викиньте SIM-карту (до речі, ваш оператор постійно відстежує вас) та вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.\n"
 
 #. type: Title ###
 #: content/_index.md
@@ -90,7 +90,7 @@ msgstr "Organic Maps - це незамінний застосунок компа
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr "Детальні офлайн карти з місцями, яких немає на інших картах, завдяки [OpenStreetMap][openstreetmap]"
+msgstr "Детальні офлайн мапи з місцями, яких немає на інших мапах, завдяки [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -115,7 +115,7 @@ msgstr "Швидкий офлайн пошук на мапі"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
-msgstr "Експорт та імпорт закладок у форматах KML/KMZ (GPX [незабаром][gpx_issue])"
+msgstr "Експорт та імпорт закладок та треків у форматах KML/KMZ та GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -125,12 +125,12 @@ msgstr "Темний режим для захисту ваших очей"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Countries and regions don't take a lot of space"
-msgstr "Країни та регіони не займають багато місця"
+msgstr "Країни та регіони не займають багато місця в телефоні"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Free and open-source"
-msgstr "Безкоштовний та з відкритим вихідним кодом"
+msgstr "Безкоштовний та з відкритим початковим кодом"
 
 #. type: Title ##
 #: content/_index.md
@@ -227,7 +227,7 @@ msgstr "{{ exodus_screenshot() }}"
 #: content/_index.md
 #, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "Застосусок для iOS перевірено за допомогою [TrackerControl for iOS][trackercontrol]:"
 
 #. type: Plain text
 #: content/_index.md
@@ -253,7 +253,7 @@ msgstr "В Organic Maps ми віримо, що конфіденційність
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "Organic Maps - це незалежний проєкт із відкритим вихідним кодом, керований спільнотою"
+msgstr "Organic Maps - це незалежний проект із відкритим початковим кодом, керований спільнотою"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -280,17 +280,17 @@ msgstr "**[Спробуйте Organic Maps!](#install)**\n"
 #: content/_index.md
 #, no-wrap
 msgid "Who is paying for the free app?"
-msgstr "Хто платить за безплатний застосунок?"
+msgstr "Хто платить за безкоштовний застосунок?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Застосунок безплатний для всіх. Будь ласка, [пожертвуйте](@/donate/index.uk.md), щоб підтримати нас!"
+msgstr "Застосунок безкоштовний для всіх. Будь ласка, [пожертвуйте](@/donate/index.uk.md), щоб підтримати нас!"
 
 #. type: Plain text
 #: content/_index.md
 msgid "To donate immediately, click a preferred payment method icon below:"
-msgstr ""
+msgstr "Швидкий донат можна зробити натиснувши на зручну вам кнопку нижче:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -306,7 +306,7 @@ msgstr "Наші спонсори:"
 #. type: Plain text
 #: content/_index.md
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) провайдер [надає нам][mythic_beasts_donation] два віртуальні сервери з 400 ТБ/місяць безкоштовної пропускної здатності, щоб допомогти нашим користувачам завантажувати та оновлювати карти."
+msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) провайдер [надає нам][mythic_beasts_donation] два віртуальні сервери з 400 ТБ/місяць безкоштовної пропускної здатності, щоб допомогти нашим користувачам завантажувати та оновлювати мапи."
 
 #. type: Title ##
 #: content/_index.md
@@ -317,7 +317,7 @@ msgstr "Спільнота"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "Organic Maps - це [ПЗ з відкритим вихідним кодом][github], ліцензоване за ліцензією Apache License 2.0."
+msgstr "Organic Maps - це [ПЗ з відкритим початковим кодом][github], ліцензоване за ліцензією Apache License 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -406,7 +406,7 @@ msgstr "Пожертвуйте, щоб підтримати розвиток Org
 #. type: Plain text
 #: content/donate/index.md
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "Organic Maps є _безплатним для всіх_ завдяки вашим **[пожертвам][stripe]**:"
+msgstr "Organic Maps є _безкоштовним для всіх_ завдяки вашим **[пожертвам][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -421,12 +421,12 @@ msgstr "Без реєстрації"
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "Open source"
-msgstr "Відкритий вихідний код"
+msgstr "Відкритий початковий код"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click a preferred payment method icon below:"
-msgstr ""
+msgstr "Натисніть на зручний вам спосіб оплати нижче:"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -437,12 +437,12 @@ msgstr "Чому варто пожертвувати на Organic Maps?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "Ми покладаємося на ваші пожертви, щоб здійснювати нашу місію - тримати Organic Maps відкритими та безплатними.  І вільними від реклами."
+msgstr "Ми покладаємося на ваші пожертви, щоб здійснювати нашу місію - тримати Organic Maps відкритим та безкоштовним. А також вільним від реклами."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Ми - кілька ентузіастів, які роблять свій внесок у вільний час і витрачають на проєкт гроші своїх родин.  Ми любимо те, що робимо, і ми любимо наших користувачів ❤️."
+msgstr "Ми - кілька ентузіастів, які роблять свій внесок у вільний час і витрачають на проект гроші своїх родин.  Ми любимо те, що робимо, і ми любимо наших користувачів ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -458,7 +458,7 @@ msgstr "На що підуть ці кошти?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Ми платимо за швидкі сервери, щоб будь-хто у світі міг завантажувати безплатні оновлення картографічних даних без затримок.  Це сотні терабайт щомісяця, і ця кількість зростає."
+msgstr "Ми платимо за швидкі сервери, щоб будь-хто у світі міг завантажувати безкоштовні оновлення картографічних даних без затримок. Це сотні терабайт щомісяця, і обʼєми зростають."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
@@ -518,7 +518,7 @@ msgstr "Громадський транспорт"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "… and [many other][github issues] features you want and love"
-msgstr "... і [багато іншого][github issues] функцій, які ви хочете і любите"
+msgstr "... і [багато інших][github issues] функцій, які ви хочете і любите"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -662,7 +662,7 @@ msgstr "Підтримайте розвиток Organic Maps"
 #. type: Plain text
 #: content/support-us/index.md
 msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr "Organic Maps - це безплатний застосунок з відкритим вихідним кодом. Він не містить реклами, не збирає вашу особисту інформацію і розробляється кількома ентузіастами за допомогою спільноти."
+msgstr "Organic Maps - це безкоштовний застосунок з відкритим початковим кодом. Він не містить реклами, не збирає вашу особисту інформацію і розробляється кількома ентузіастами за допомогою спільноти."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -702,12 +702,12 @@ msgstr "[Перекладайте][translations_website] наш веб-сайт 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Приєднуйтесь до [OpenStreetMap][openstreetmap] спільноти та робіть внесок у створення карт."
+msgstr "Приєднуйтесь до [OpenStreetMap][openstreetmap] спільноти та робіть внесок у створення мапи."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr "Виправте червоні міста, знайдені нашим [валідатором громадського транспорту][public_transport_validator], щоб метро і швидкісний трамвай працювали в застосунку."
+msgstr "Виправте червоні місця, знайдені нашим [валідатором громадського транспорту][public_transport_validator], щоб метро і швидкісний трамвай працювали в застосунку."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
