@@ -68,7 +68,8 @@ Aplikasi ini diverifikasi oleh [Proyek Privasi Exodus][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+Aplikasi iOS telah diverifikasi oleh [TrackerControl untuk
+iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -93,7 +94,7 @@ Tolak pengawasan — rangkul kebebasan Anda.
 Aplikasi ini gratis untuk semua orang. Silakan
 [berdonasi](@/donate/index.id.md) untuk mendukung kami!
 
-To donate immediately, click a preferred payment method icon below:
+Untuk segera berdonasi, klik ikon metode pembayaran pilihan di bawah ini:
 
 {{ donate_buttons() }}
 

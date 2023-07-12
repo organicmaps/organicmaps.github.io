@@ -68,7 +68,8 @@ Ansökan verifieras av [Exodus Privacy Project][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+iOS-applikationen har verifierats av [TrackerControl för
+iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -83,7 +84,7 @@ rättighet:
 - Vi skyddar din integritet från Big Techs nyfikna ögon
 - Håll dig säker oavsett var du befinner dig
 
-Avvisa övervakningen - omfamna din frihet.
+Vägra övervakning. Välkomna friheten.
 
 **[Testa Organic Maps!](#install)**
 
@@ -92,7 +93,8 @@ Avvisa övervakningen - omfamna din frihet.
 Appen är gratis för alla. Vänligen [donera](@/donate/index.sv.md) för att
 stödja oss!
 
-To donate immediately, click a preferred payment method icon below:
+För att donera omedelbart, klicka på en ikon för önskad betalningsmetod
+nedan:
 
 {{ donate_buttons() }}
 
@@ -113,8 +115,8 @@ Apache License 2.0.
   * [Android Beta (Firebase)][firebase]
   * [Linux Desktop Beta (Flatpak)][flatpak]
   * [Linux Desktop Beta (paket)][repology]
-- Rapportera buggar eller problem till [problemspåraren][issues] eller
-  [mejla oss][email]
+- Rapportera fel eller problem till [problemspåraren][issues] eller [mejla
+  oss][email].
 - [Diskutera][ideas] idéer eller föreslå önskemål om funktioner.
 - Prenumerera på vår [Telegram Channel][telegram] eller på [matrix
   space][matrix] för uppdateringar.

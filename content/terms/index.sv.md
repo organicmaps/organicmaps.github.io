@@ -1,8 +1,8 @@
 ---
-description: "Termer av användning för Organic Maps applikation"
+description: "Användarvillkor för Organic Maps-appen"
 extra:
-  menu_title: Villkor
-title: "Organic Maps: termer"
+  menu_title: Användarvillkor
+title: "Organic Maps: Användarvillkor"
 weight: 1000
 ---
 
@@ -10,25 +10,26 @@ Den här appen är licensierad enligt Apachelicensen, version 2.0
 ("Licensen"); du får inte använda den här applikationen annat än i enlighet
 med Licensen.
 
-Du kan få en kopia av licensen på
+Du kan erhålla en kopia av Licensen på
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
 Om det inte krävs enligt tillämplig lag eller om det inte har avtalats
-skriftligen, distribueras programvara som distribueras under licensen på en
-"AS IS"-BASIS, UTAN GARANTIER ELLER VILLKOR AV ETT SÄTT, vare sig
-uttryckliga eller underförstådda. Se licensen för det specifika språket som
-reglerar tillstånd och begränsningar enligt licensen.
+skriftligen, distribueras programvara som distribueras under licensen _i
+befintligt skick, utan några som helst garantier eller förbehåll_, vare sig
+uttryckliga eller underförstådda. Se Licensen för de exakta formuleringar
+som reglerar tillstånd och begränsningar enligt Licensen.
 
-De flesta biblioteken i följande kataloger på [GitHub][github] är gjorda av
-andra personer och organisationer och licensieras på olika sätt:
+De flesta mjukvarubibliotek i följande kataloger på [GitHub][github] är
+gjorda av andra personer och organisationer och licensieras på andra sätt:
 
-- 3part
-- Verktyg
+- 3party
+- tools
 
-Se deras LICENSE-, COPYING- eller NOTICE-filer för användningsvillkor.
+Se filerna i respektive katalog med namnen LICENSE, COPYING eller NOTICE för
+deras användarvillkor.
 
-Se även filen [data/copyright.html][copyright][copyright] för en fullständig
-lista över upphovsrättsliga meddelanden för programmet Organic Maps.
+Se även filen [data/copyright.html][copyright] för en fullständig lista över
+upphovsrättsliga meddelanden för Organic Maps-appen.
 
 Om du har några frågor eller förslag kan du kontakta oss på
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

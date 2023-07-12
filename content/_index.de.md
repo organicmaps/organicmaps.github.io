@@ -63,11 +63,11 @@ Organic Maps ist frei von Trackern und schlechten Dingen:
 - Keine Crapware
 - ~~Keine Pestizide~~ Rein und organisch!
 
-Die App wurde von [Exodus Privacy Project][exodus] geprüft:
+Die App wurde vom [Exodus Privacy Project][exodus] geprüft:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+Die iOS-App wurde von [TrackerControl für iOS][trackercontrol] geprüft:
 
 {{ trackercontrol_screenshot() }}
 
@@ -94,7 +94,8 @@ Lehne Überwachung ab - lebe deine Freiheit.
 Die App ist für alle kostenlos. Bitte unterstütze uns mit einer
 [Spende](@/donate/index.de.md)!
 
-To donate immediately, click a preferred payment method icon below:
+Wenn du sofort spenden möchtest, klicke unten auf das Symbol einer
+bevorzugten Zahlungsmethode:
 
 {{ donate_buttons() }}
 

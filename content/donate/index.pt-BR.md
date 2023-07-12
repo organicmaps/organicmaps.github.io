@@ -16,7 +16,7 @@ O app Organic Maps é _gratuito para todos_ graças as suas
 - Sem notificações push
 - Código aberto
 
-Click a preferred payment method icon below:
+Clique no método preferido de pagamento abaixo:
 
 {{ donate_buttons() }}
 
@@ -56,7 +56,7 @@ Click a preferred payment method icon below:
 
 ## Como doar?
 
-Click a preferred payment method icon below:
+Clique no método preferido de pagamento abaixo:
 
 {{ donate_buttons() }}
 

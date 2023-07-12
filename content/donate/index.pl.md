@@ -16,7 +16,7 @@ Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
 - Brak wyskakujących powiadomień push
 - Otwarte źródła
 
-Click a preferred payment method icon below:
+Kliknij ikonę preferowanej metody płatności poniżej:
 
 {{ donate_buttons() }}
 
@@ -56,7 +56,7 @@ Click a preferred payment method icon below:
 
 ## Jak przekazać darowiznę?
 
-Click a preferred payment method icon below:
+Kliknij ikonę preferowanej metody płatności poniżej:
 
 {{ donate_buttons() }}
 

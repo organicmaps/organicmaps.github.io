@@ -70,7 +70,8 @@ Aplikacja jest weryfikowana przez [Projekt Prywatności Exodus][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+Aplikacja iOS jest weryfikowana przez [TrackerControl for
+iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -95,7 +96,8 @@ Odrzuć inwigilację - ogarnij swoją wolność.
 Aplikacja jest darmowa dla wszystkich. Prosimy o [przekazanie
 darowizny](@/donate/index.pl.md), aby nas wesprzeć!
 
-To donate immediately, click a preferred payment method icon below:
+Aby natychmiast przekazać darowiznę, kliknij ikonę preferowanej metody
+płatności poniżej:
 
 {{ donate_buttons() }}
 

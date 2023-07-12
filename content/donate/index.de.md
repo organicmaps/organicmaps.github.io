@@ -15,7 +15,7 @@ Organic Maps ist _kostenlos für alle_ dank deiner **[Spende][stripe]**:
 - Keine Push-Benachrichtigungen
 - Open Source
 
-Click a preferred payment method icon below:
+Klicke unten auf das Symbol einer bevorzugten Zahlungsmethode:
 
 {{ donate_buttons() }}
 
@@ -55,7 +55,7 @@ Click a preferred payment method icon below:
 
 ## Wie kann man spenden?
 
-Click a preferred payment method icon below:
+Klicke unten auf das Symbol einer bevorzugten Zahlungsmethode:
 
 {{ donate_buttons() }}
 

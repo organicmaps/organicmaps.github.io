@@ -66,7 +66,7 @@ O app é verificado pelo [Projeto Exodus Privacy][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+A versão iOS é verificada por [TrackerControl for iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -90,7 +90,7 @@ Rejeite a vigilância - abrace sua liberdade.
 O app é gratuito para todos. Por favor [faça uma
 doação](@/donate/index.pt-BR.md) para nos apoiar!
 
-To donate immediately, click a preferred payment method icon below:
+Para doar imediatamente, clique no método preferido de pagamento abaixo:
 
 {{ donate_buttons() }}
 

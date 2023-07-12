@@ -16,7 +16,7 @@ Organic Maps es _gratis para todo el mundo_ gracias a sus
 - Sin notificaciones
 - Software libre
 
-Click a preferred payment method icon below:
+Haz clic en el icono del método de pago que prefieras:
 
 {{ donate_buttons() }}
 
@@ -56,7 +56,7 @@ Click a preferred payment method icon below:
 
 ## ¿Cómo donar?
 
-Click a preferred payment method icon below:
+Haz clic en el icono del método de pago que prefieras:
 
 {{ donate_buttons() }}
 

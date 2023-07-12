@@ -39,6 +39,6 @@ Ada berbagai cara untuk mendukung pengembangan:
 - Bantuan apa pun diterima!
 
 Tim kecil kami sangat berterima kasih atas masukan dan dukungan
-Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami. ❤️
+Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami ❤️.
 
 {{ references() }}

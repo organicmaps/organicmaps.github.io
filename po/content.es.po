@@ -45,7 +45,7 @@ msgstr "Descargue e instale Organic Maps desde el [AppStore][appstore], [Google 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ badges() }}"
-msgstr "{{ insignias() }}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md

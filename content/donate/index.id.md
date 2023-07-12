@@ -16,7 +16,7 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat
 - Tanpa pemberitahuan dorong
 - Sumber terbuka
 
-Click a preferred payment method icon below:
+Klik ikon metode pembayaran yang diinginkan di bawah ini:
 
 {{ donate_buttons() }}
 
@@ -26,7 +26,7 @@ Click a preferred payment method icon below:
    Maps tetap terbuka dan bebas. Dan bebas dari iklan.
 2. Kami adalah beberapa penggemar yang berkontribusi di waktu luang kami,
    dan menghabiskan uang keluarga kami untuk proyek ini. Kami mencintai apa
-   yang kami lakukan, dan kami mencintai pengguna kami. ❤️
+   yang kami lakukan, dan kami mencintai pengguna kami ❤️.
 3. Dengan dukungan Anda, kami ingin menjadi versi Google Maps yang lebih
    baik dan berfokus pada privasi.
 
@@ -54,7 +54,7 @@ Click a preferred payment method icon below:
 
 ## Bagaimana cara berdonasi?
 
-Click a preferred payment method icon below:
+Klik ikon metode pembayaran yang diinginkan di bawah ini:
 
 {{ donate_buttons() }}
 
