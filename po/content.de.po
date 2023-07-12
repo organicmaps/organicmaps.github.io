@@ -105,7 +105,7 @@ msgstr "Schnelle Offline-Suche von Orten auf der Karte"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "Export und Import von Lesezeichen im KML/KMZ-Format (GPX ist [geplant][gpx_issue])"
 
 #. type: Bullet: '- '

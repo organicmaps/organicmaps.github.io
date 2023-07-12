@@ -32,7 +32,7 @@ Organic Maps is the ultimate companion app for travelers, tourists, hikers, and 
 - Contour lines, elevation profiles, peaks, and slopes
 - Turn-by-turn walking, cycling, and car navigation with voice guidance
 - Fast offline search on the map
-- Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])
+- Bookmarks and tracks in KML, KMZ, GPX formats
 - Dark Mode to protect your eyes
 - Countries and regions don't take a lot of space
 - Free and open-source

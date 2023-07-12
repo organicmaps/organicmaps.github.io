@@ -114,7 +114,7 @@ msgstr "नकाशावर वेगवान ऑफलाईन शोध"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "KML/KMZ स्वरूपात बुकमार्क निर्यात व आयात (GPS [नियोजित][gpx_issue])"
 
 #. type: Bullet: '- '

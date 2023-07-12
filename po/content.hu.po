@@ -114,7 +114,7 @@ msgstr "Gyors offline keresés a térképen"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "Könyvjelzők exportálása és importálása KML/KMZ formátumba/ból (GPX [tervezett][gpx_issue])"
 
 #. type: Bullet: '- '

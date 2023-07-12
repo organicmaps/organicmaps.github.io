@@ -117,7 +117,7 @@ msgstr "ഭൂപടത്തിൽ വേഗത്തിലുള്ള ഓഫ�
 #. type: Bullet: '- '
 #: content/_index.md
 #, fuzzy, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "ബുക്ക്‌മാർക്കുകൾ KML/KMZ ഫോർമാറ്റുകളിൽ കയറ്റുമതിയും ഇറക്കുമതിയും (GPX ആണ് [പ്ലാൻഡ്][gpx_issue])"
 
 #. type: Bullet: '- '

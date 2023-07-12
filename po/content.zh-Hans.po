@@ -114,7 +114,7 @@ msgstr "地图上的快速离线搜索"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "以KML/KMZ格式导出和导入书签（GPX已列入[计划][gpx_issue]中）"
 
 #. type: Bullet: '- '

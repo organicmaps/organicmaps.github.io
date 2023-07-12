@@ -117,7 +117,7 @@ msgstr "Soek vinnig vanlyn op die kaart"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "Stuur boekmerke uit en voer dit in in KML/KMZ-formate (GPX is [beplan][gpx_issue])"
 
 #. type: Bullet: '- '

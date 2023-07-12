@@ -104,7 +104,7 @@ msgstr "Быстрый поиск интересных мест на карте"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "Экспорт и импорт закладок в форматах KML/KMZ (GPX is [planned][gpx_issue])"
 
 #. type: Bullet: '- '

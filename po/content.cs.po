@@ -114,7 +114,7 @@ msgstr "Rychlé offline vyhledávání na mapě"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks export and import in KML/KMZ formats (GPX is [planned][gpx_issue])"
+msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
 msgstr "Export a import záložek ve formátech KML/KMZ (GPX je [plánováno][gpx_issue])"
 
 #. type: Bullet: '- '
