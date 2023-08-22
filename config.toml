@@ -4,6 +4,8 @@ base_url = "https://organicmaps.app"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
+title = "Organic Maps"
+author = "hello@organicmaps.app"
 generate_feed = true
 feed_filename = "rss.xml"
 
