@@ -127,6 +127,6 @@ Licéncia Apatxe 2.0.
   [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] e
   [LinkedIn][LinkedIn].
 
-[fork]: https://oc.wikipedia.org/wiki/Forca_(desvelopament_de_software)
+[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
 {{ references() }}

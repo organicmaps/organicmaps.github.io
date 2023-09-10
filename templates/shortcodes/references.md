@@ -5,10 +5,10 @@
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
 [email]: mailto:support@organicmaps.app
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
-[trackercontrol]: https://ios.trackercontrol.org/app/app.organicmaps
+[trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
 [facebook]: https://facebook.com/OrganicMaps
 [fdroid]: https://f-droid.org/{{ lang }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
-[firebase]: https://appdistribution.firebase.dev/i/9ec3bca5e2b47373
+[firebase]: https://appdistribution.firebase.dev/i/2f0fee463107b137
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
@@ -17,7 +17,7 @@
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/organicmaps.app/
 [issues]: https://github.com/organicmaps/organicmaps/issues
-[LinkedIn]:  https://linkedin.com/company/organic-maps
+[LinkedIn]:  https://www.linkedin.com/company/organic-maps
 [mapswithme]: https://en.wikipedia.org/wiki/Maps.me "Maps.Me"
 [mastodon]: https://fosstodon.org/@organicmaps
 [matrix]: https://matrix.to/#/#organicmaps:matrix.org "Organic Maps on the Matrix"

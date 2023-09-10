@@ -698,7 +698,7 @@ msgstr "Únase a la comunidad de [OpenStreetMap][openstreetmap] y contribuya a l
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr "Arregle las ciudades en rojo encontradas por nuestro [validador de nuestro transporte público][public_transport_validatos], para que metros y trenes ligeros funcionen en la aplicación."
+msgstr "Arregle las ciudades en rojo encontradas por nuestro [validador de nuestro transporte público][public_transport_validator], para que metros y trenes ligeros funcionen en la aplicación."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md

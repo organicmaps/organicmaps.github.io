@@ -17,7 +17,7 @@ Es gibt verschiedene Möglichkeiten, die Entwicklung zu unterstützen:
   uns, die Server zu bezahlen und zu skalieren.
 - Melde Fehler und teile Ideen auf unserem [GitHub][github] oder per
   [E-Mail][email].
-- Hilf uns, [Fehler zu beheben][beizutragen] und führe Code-Reviews durch,
+- Hilf uns, [Fehler zu beheben][contributing] und führe Code-Reviews durch,
   wenn du ein Entwickler bist. Jedes behobene, noch so kleine, Problem macht
   jemanden glücklicher.
 - [Übersetze][translations] fehlende Wörter oder Sätze in der

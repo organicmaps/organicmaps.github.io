@@ -12,7 +12,7 @@ This update fixes several bugs and includes the latest May data.
 
 - Fixed crash in bookmarks
 
-Install from [TestFlight](https://testflight.apple.com/join/lrKCl08I)
+Install from [TestFlight][testflight]
 
 **Android**:
 
@@ -21,3 +21,5 @@ Install from [TestFlight](https://testflight.apple.com/join/lrKCl08I)
 
 Get it on [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
 Download [APK from GitHub](https://github.com/organicmaps/organicmaps/releases/tag/2021-05-08)
+
+{{ references() }}

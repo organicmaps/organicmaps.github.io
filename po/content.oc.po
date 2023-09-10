@@ -379,7 +379,7 @@ msgstr "Seguissètz lei noveutats sus [Mastodon][mastodon], [Facebook][facebook]
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://oc.wikipedia.org/wiki/Forca_(desvelopament_de_software)\n"
+msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md

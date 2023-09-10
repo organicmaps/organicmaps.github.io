@@ -16,8 +16,10 @@ Android:
 - [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
 - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C104325611)
 - [GitHub APK](https://github.com/organicmaps/organicmaps/releases/tag/2021-05-21)
-- [Firebase APK](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
+- [Firebase APK][firebase]
 
 iOS:
 
-- [Apple TestFlight](https://testflight.apple.com/join/lrKCl08I)
+- [Apple TestFlight][testflight]
+
+{{ references() }}

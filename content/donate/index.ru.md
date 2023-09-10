@@ -58,8 +58,8 @@ Organic Maps существует исключительно благодаря 
 
 - Присоединяйтесь к [русскоязычной группе в Telegram][telegram_chat_ru] для обратной связи и помощи;
 - Подключайтесь к программе тестирования бета-версий:
-  - [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-  - [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
   - [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
   - [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
 - Сообщайте о проблемах и предлагайте новые идеи [на GitHub][issues] или [по почте][email];
@@ -71,3 +71,5 @@ Organic Maps существует исключительно благодаря 
 
 [stripe]: https://donate.organicmaps.app/ "Donate via Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+
+{{ references() }}

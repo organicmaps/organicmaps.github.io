@@ -125,6 +125,6 @@ Llicència Apatxe 2.0.
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit] i [LinkedIn][LinkedIn].
 
-[fork]: https://ca.wikipedia.org/wiki/Forquilla_(desenvolupament_de_software)
+[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
 {{ references() }}

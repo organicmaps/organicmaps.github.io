@@ -94,8 +94,8 @@ Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/support-us/index.tr.
 
 Lütfen beta programımıza katılın, yeni özellikler önerin ve hataları bildirin:
 
-- [iOS Beta (TestFlight)](https://testflight.apple.com/join/lrKCl08I)
-- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/9ec3bca5e2b47373)
+- [iOS Beta (TestFlight)][testflight]
+- [Android Beta (Firebase)][firebase]
 - [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
 - [Linux Desktop Beta (pacchetti)](https://repology.org/project/organicmaps/versions)
 

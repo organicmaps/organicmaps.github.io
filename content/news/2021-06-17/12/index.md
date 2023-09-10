@@ -9,14 +9,14 @@ slug: "organic-maps-is-live"
 iOS:
 
 * [Apple AppStore][appstore]
-* [Beta version](https://testflight.apple.com/join/lrKCl08I)
+* [Beta version][testflight]
 
 Android:
 
 * [Google Play][googleplay]
 * [Huawei AppGallery][appgallery]
 * [F-Droid][fdroid]
-* [Beta](https://appdistribution.firebase.dev/i/3c5fcf9cd72f775f)
+* [Beta][firebase]
 
 Please give us ⭐ ⭐ ⭐ ⭐ ⭐ on AppStore and Google Play to help this project survive! 🔥
 

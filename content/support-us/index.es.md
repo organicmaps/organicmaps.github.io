@@ -27,7 +27,7 @@ Hay diferentes maneras de apoyar al desarrollo:
 - Únase a la comunidad de [OpenStreetMap][openstreetmap] y contribuya a los
   datos cartográficos.
 - Arregle las ciudades en rojo encontradas por nuestro [validador de nuestro
-  transporte público][public_transport_validatos], para que metros y trenes
+  transporte público][public_transport_validator], para que metros y trenes
   ligeros funcionen en la aplicación.
 - Apoye a otros usuarios en [GitHub][issues], [Telegram][telegram_chat],
   [Matrix][matrix], [Twitter][twitter], [Facebook][facebook] e

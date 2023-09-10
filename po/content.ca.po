@@ -378,7 +378,7 @@ msgstr "Segueix les nostres novetats en [Mastodon][mastodon], [Facebook][faceboo
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://ca.wikipedia.org/wiki/Forquilla_(desenvolupament_de_software)\n"
+msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
