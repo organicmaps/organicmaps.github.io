@@ -378,7 +378,7 @@ msgstr "[Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagr
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(सॉफ्टवेयर_विकास)\n"
+msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md

@@ -7,7 +7,7 @@
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
 [trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
 [facebook]: https://facebook.com/OrganicMaps
-[fdroid]: https://f-droid.org/{{ lang }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
+[fdroid]: https://f-droid.org/{{ lang | truncate(length=2) }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
 [firebase]: https://appdistribution.firebase.dev/i/2f0fee463107b137
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
 [github]: https://github.com/organicmaps/organicmaps
@@ -17,7 +17,7 @@
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/organicmaps.app/
 [issues]: https://github.com/organicmaps/organicmaps/issues
-[LinkedIn]:  https://www.linkedin.com/company/organic-maps
+[LinkedIn]:  https://www.linkedin.com/company/organic-maps/
 [mapswithme]: https://en.wikipedia.org/wiki/Maps.me "Maps.Me"
 [mastodon]: https://fosstodon.org/@organicmaps
 [matrix]: https://matrix.to/#/#organicmaps:matrix.org "Organic Maps on the Matrix"

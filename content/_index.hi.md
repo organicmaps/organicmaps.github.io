@@ -122,6 +122,6 @@ To donate immediately, click a preferred payment method icon below:
   [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn] पर हमारे
   अपडेट का पालन करें।
 
-[fork]: https://en.wikipedia.org/wiki/Fork_(सॉफ्टवेयर_विकास)
+[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
 {{ references() }}
