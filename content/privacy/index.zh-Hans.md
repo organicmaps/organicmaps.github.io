@@ -6,9 +6,9 @@ title: "Organic Maps：隐私政策"
 weight: 900
 ---
 
-Organic Maps 尊重您的隐私，拒绝跟踪。
+Organic Maps尊重您的隐私，拒绝跟踪。
 
-与大多数其他应用程序不同，Organic Maps 中没有跟踪，没有广告，没有间谍软件，不收集或统计数据。
+与大多数其他应用程序不同，Organic Maps中没有跟踪，没有广告，没有间谍软件，不收集或统计数据。
 
 拒绝监视 - 拥抱自由。
 
@@ -16,4 +16,4 @@ Organic Maps 尊重您的隐私，拒绝跟踪。
 
 如有任何意见建议，欢迎通过[legal@organicmaps.app](mailto:legal@organicmaps.app)联系我们。
 
-<sub>本政策自 2021-04-24 起生效。</sub>
+<sub>本政策自2021-04-24起生效。</sub>

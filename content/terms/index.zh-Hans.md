@@ -6,7 +6,7 @@ title: "Organic Maps：条款"
 weight: 1000
 ---
 
-本应用程序根据 Apache 许可协议 2.0 版（“许可证”）授权；除非遵守许可协议的规定，否则不得使用。
+本应用程序根据Apache许可协议2.0版（“许可证”）授权；除非遵守许可协议的规定，否则不得使用。
 
 您可以在[http://www.apache.org/licenses/LICENSE-2.0][license]获得许可协议副本
 
@@ -19,7 +19,7 @@ weight: 1000
 
 请参考其许可协议、版权信息和提示文件，了解使用条款。
 
-参见[data/copyright.html][copyright]文件，了解 Organic Maps 应用程序的全部版权声明。
+参见[data/copyright.html][copyright]文件，了解Organic Maps应用程序的全部版权声明。
 
 如有任何意见建议，欢迎通过[legal@organicmaps.app](mailto:legal@organicmaps.app)联系我们。
 
