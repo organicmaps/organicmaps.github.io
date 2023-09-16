@@ -1,10 +1,10 @@
 ---
-description: 'Szybkie szczegółowe mapy offline dla podróżników, turystów, kierowców, wędrowców i rowerzystów stworzone przez założycieli aplikacji MapsWithMe (Maps.Me).'
+description: "Szybkie szczegółowe mapy offline dla podróżników, turystów, kierowców, wędrowców i rowerzystów stworzone przez założycieli aplikacji MapsWithMe (Maps.Me)."
 extra:
-  menu_title: 'Strona główna'
+  menu_title: "Strona główna"
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline'
+title: "Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline"
 ---
 
 **Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline dla podróżników, turystów, wędrowców i rowerzystów, bazująca na współtworzonych danych **[OpenStreetMap][openstreetmap]**. Jest otwartoźródłowym [forkiem][fork] aplikacji **Maps.me** (wcześniej znanej jako [**MapsWithMe**][mapswithme]) z naciskiem na prywatność, utrzymywanym przez te same osoby, które stworzyły **MapsWithMe** w 2011 roku.
@@ -114,10 +114,10 @@ Organic Maps to oprogramowanie [otwarte][github] licencjonowane na Apache
 License 2.0.
 
 - Dołącz do naszego programu beta, zaproponuj swoje funkcje i zgłoś błędy:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux PC Beta (Flatpak)][flatpak]
-  * [Linux PC Beta (pakiety)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux PC Beta (Flatpak)][flatpak]
+  - [Linux PC Beta (pakiety)][repology]
 - Zgłoś błędy lub problemy na [GitHub][issues] lub [napisz nam
   e-mail][email].
 - [Dyskutuj o][ideas] pomysłach lub zaproponuj nowe funkcje.

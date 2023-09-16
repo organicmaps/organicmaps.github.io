@@ -1,10 +1,10 @@
 ---
-description: 'Mapes detallats, ràpids i sense connexió per a viatgers, turistes, conductors, excursionistes i ciclistes creats pels fundadors de l’aplicació MapsWithMe (Maps.Me).'
+description: "Mapes detallats, ràpids i sense connexió per a viatgers, turistes, conductors, excursionistes i ciclistes creats pels fundadors de l’aplicació MapsWithMe (Maps.Me)."
 extra:
   menu_title: Inici
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: passejos, bici, rutes i GPS sense connexió'
+title: "Organic Maps: passejos, bici, rutes i GPS sense connexió"
 ---
 
 L’**Organic Maps** és una aplicació gratuïta de mapes sense connexió per a l’Android i l’iOS per a viatgers, turistes, excursionistes i ciclistes, basada en dades d’origen col·lectiu de l’**[OpenStreetMap][openstreetmap]**. És una [bifurcació][fork] centrada en la privadesa del **Maps.me** (anteriorment conegut com a [**MapsWithMe**][mapswithme]), mantinguda per les mateixes persones que van crear el **MapsWithMe** el 2011.
@@ -109,10 +109,10 @@ Llicència Apatxe 2.0.
 
 - Uneix-te al nostre programa beta per a suggerir funcionalitats i informar
   d'errors:
-  * [Beta de iOS (TestFlight)][testflight]
-  * [Beta de Android (Firebase)][firebase]
-  * [Beta de PC Linux (Flatpak)][flatpak]
-  * [Beta de PC Linux (paquetes)][repology]
+  - [Beta de iOS (TestFlight)][testflight]
+  - [Beta de Android (Firebase)][firebase]
+  - [Beta de PC Linux (Flatpak)][flatpak]
+  - [Beta de PC Linux (paquetes)][repology]
 - Informi d'errors o problemes en el [rastrejador d'errors][issues] o
   [enviant-nos un correu electrònic][email].
 - [Debati][ideas] idees o proposa sol·licituds de funcions.

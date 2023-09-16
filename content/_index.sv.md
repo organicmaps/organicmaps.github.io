@@ -1,10 +1,10 @@
 ---
-description: 'Snabba detaljerade offline-kartor för resenärer, turister, förare, vandrare och cyklister skapade av grundarna av appen MapsWithMe (Maps.Me).'
+description: "Snabba detaljerade offline-kartor för resenärer, turister, förare, vandrare och cyklister skapade av grundarna av appen MapsWithMe (Maps.Me)."
 extra:
   menu_title: Hem
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline Vandring, Cykling, Leder och Navigering'
+title: "Organic Maps: Offline Vandring, Cykling, Leder och Navigering"
 ---
 
 **Organic Maps** är en gratis Android- och iOS-app för resenärer, turister, vandrare och cyklister som bygger på data från publiken **[OpenStreetMap][openstreetmap]**. Det är en [fork][fork] med öppen källkod av appen **Maps.me** (tidigare känd som [**MapsWithMe**][mapswithme]), som underhålls av samma personer som skapade **MapsWithMe** 2011.
@@ -111,10 +111,10 @@ Organic Maps är en [programvara med öppen källkod][github] licensierad under
 Apache License 2.0.
 
 - Gå med i vårt betaprogram, föreslå funktioner och rapportera fel:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (paket)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (paket)][repology]
 - Rapportera fel eller problem till [problemspåraren][issues] eller [mejla
   oss][email].
 - [Diskutera][ideas] idéer eller föreslå önskemål om funktioner.

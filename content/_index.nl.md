@@ -1,10 +1,10 @@
 ---
-description: 'Snelle, gedetailleerde, offline kaarten voor reizigers, toeristen, automobilisten, wandelaars, en fietsers gemaakt door de oprichters van de app MapsWithMe (Maps.Me).'
+description: "Snelle, gedetailleerde, offline kaarten voor reizigers, toeristen, automobilisten, wandelaars, en fietsers gemaakt door de oprichters van de app MapsWithMe (Maps.Me)."
 extra:
   menu_title: Start
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie'
+title: "Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie"
 ---
 
 **Organic Maps** is een gratis Android & iOS offline kaartenapp voor reizigers, toeristen, wandelaars en fietsers gebaseerd op gecrowdsourcete **[OpenStreetMap][openstreetmap]** gegevens. Het is een privacy-gefocuste, open-source [fork][fork] van de app **Maps.me** (voorheen bekend als [**MapsWithMe**][mapswithme]), en wordt onderhouden door dezelfde mensen die **MapsWithMe** hebben gemaakt in 2011.
@@ -108,10 +108,10 @@ Apache License 2.0.
 
 - Neemt u alstublieft deel aan ons beta-programma, suggereer uw functies en
   rapporteer fouten:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (paketten)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (paketten)][repology]
 - Rapporteer bugs of problemen via [de issue tracker][issues] of [mail
   ons][email].
 - [Bediscussieer][ideas] ideeën of stel functieverzoeken voor.

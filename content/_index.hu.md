@@ -1,10 +1,10 @@
 ---
-description: 'A MapsWithMe (Maps.Me) alkalmazás alapítói által készített gyors, részletes offline térképek utazók, turisták, sofőrök, túrázók és kerékpárosok számára.'
+description: "A MapsWithMe (Maps.Me) alkalmazás alapítói által készített gyors, részletes offline térképek utazók, turisták, sofőrök, túrázók és kerékpárosok számára."
 extra:
   menu_title: Kezdőlap
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline túra, kerékpár, nyomvonalak és navigáció'
+title: "Organic Maps: Offline túra, kerékpár, nyomvonalak és navigáció"
 ---
 
 Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert), amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.
@@ -109,10 +109,10 @@ License 2.0-t használja.
 
 - Kérjük, csatlakozzon a béta programunkhoz, javasoljon funkciókat, és
   jelezze a hibákat:
-  * [iOS Béta (TestFlight)][testflight]
-  * [Android Béta (Firebase)][firebase]
-  * [Asztali Linux Béta (Flatpak)][flatpak][flatpak]
-  * [Asztali Linux Béta (csomagok)][repology]
+  - [iOS Béta (TestFlight)][testflight]
+  - [Android Béta (Firebase)][firebase]
+  - [Asztali Linux Béta (Flatpak)][flatpak][flatpak]
+  - [Asztali Linux Béta (csomagok)][repology]
 - Jelentsd a hibákat vagy problémákat [a hibakövetőnkbe][issues] vagy [küldj
   számunkra egy e-mailt][email].
 - [Vita][ideas] ötletek vagy funkciókérések.

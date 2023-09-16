@@ -8,18 +8,20 @@ Deze versie bevat geüpdatete kaartengegevens voor Turkije en Syrië, inclusief 
 
 De lijst met veranderingen in deze Organic Maps versie:
 
-* Nieuwe OpenStreetMap data sinds 10 februari
-* Filter foute zoekresultaten in de lijst en op de kaart
-* Verbeterde volgende stop-meldingen voor korte afstanden
-* Betere iconen voor hoofd- en zij-ingangen
-* Betere Perzische vertalingen en opgeloste fouten in de Poolse en Duitse vertalingen
+- Nieuwe OpenStreetMap data sinds 10 februari
+- Filter foute zoekresultaten in de lijst en op de kaart
+- Verbeterde volgende stop-meldingen voor korte afstanden
+- Betere iconen voor hoofd- en zij-ingangen
+- Betere Perzische vertalingen en opgeloste fouten in de Poolse en Duitse vertalingen
 
 Android
-* Opgelost: crash bij openen
-* Opgelost: onzichtbare errormeldingen in de bewerkingsmodus
+
+- Opgelost: crash bij openen
+- Opgelost: onzichtbare errormeldingen in de bewerkingsmodus
 
 iOS
-* Opgelost: crash bij het openen van om:// en https://omaps.app/ links
-* We laten nu de gedeelde POI naam zien in om:// en https://omaps.app/ links
+
+- Opgelost: crash bij het openen van om:// en https://omaps.app/ links
+- We laten nu de gedeelde POI naam zien in om:// en https://omaps.app/ links
 
 Kijk voor meer voorbeelden van onze API en URL schema's voor Android en voor iOS ophttps://omaps.app/api

@@ -14,35 +14,40 @@ F-Droid derlemesi her zamanki gibi başarısız oluyor, ancak yakında düzeltil
 
 Bu sürümdeki diğer önemli değişiklikler:
 
-* 2 Haziran 2023 tarihine ait yeni OpenStreetMap harita verileri
-* GPX dosyalarını içe aktarma desteği
-* Bir yer imi adına veya açıklamasına yanlış karakterler kaydedildiğinde yer imi listesinin kaybolması sorunu düzeltildi
-* İyileştirilmiş araç ve bisiklet rotaları
+- 2 Haziran 2023 tarihine ait yeni OpenStreetMap harita verileri
+- GPX dosyalarını içe aktarma desteği
+- Bir yer imi adına veya açıklamasına yanlış karakterler kaydedildiğinde yer imi listesinin kaybolması sorunu düzeltildi
+- İyileştirilmiş araç ve bisiklet rotaları
 
 Android:
-* Pil tasarrufu modundayken harita düzenlemelerinin OpenStreetMap’e yüklenmesini engelleyen hata düzeltildi
-* MRGS ve UTM koordinat desteği (sistemler arasında geçiş yapmak için koordinatlara dokunun)
-* Artık pusula, jiroskop sensörü olmayan cihazlarda da çalışıyor
-* Navigasyon modu başlığı ve rota menüsü üzerinden tıklamalar önlendi
-* Eksik Vikipedi açıklamaları düzeltildi
-* TTS (Text-To-Speech) ses hızı azaltıldı
-* Çalışmayan KML, KMZ ve GPX içe aktarma bildirimleri düzeltildi
+
+- Pil tasarrufu modundayken harita düzenlemelerinin OpenStreetMap’e yüklenmesini engelleyen hata düzeltildi
+- MRGS ve UTM koordinat desteği (sistemler arasında geçiş yapmak için koordinatlara dokunun)
+- Artık pusula, jiroskop sensörü olmayan cihazlarda da çalışıyor
+- Navigasyon modu başlığı ve rota menüsü üzerinden tıklamalar önlendi
+- Eksik Vikipedi açıklamaları düzeltildi
+- TTS (Text-To-Speech) ses hızı azaltıldı
+- Çalışmayan KML, KMZ ve GPX içe aktarma bildirimleri düzeltildi
 
 iOS:
-* Çalışmayan Portekizce (Brezilya) ve İspanyolca (Meksika) sesli yönlendirme dilleri düzeltildi
-* KML, KMZ ve GPX içe aktarmalarındaki çökmeler düzeltildi
-* Aynı dosyanın sürekli tekrarlayarak içe aktarılması sorunu düzeltildi
+
+- Çalışmayan Portekizce (Brezilya) ve İspanyolca (Meksika) sesli yönlendirme dilleri düzeltildi
+- KML, KMZ ve GPX içe aktarmalarındaki çökmeler düzeltildi
+- Aynı dosyanın sürekli tekrarlayarak içe aktarılması sorunu düzeltildi
 
 Stiller:
-* Füniküler simgesi düzeltildi
-* Karanlık mod için çöl rengi değiştirildi
-* Balık geçidi kategorisi eklendi
-* Koli dolabı için yeni simge
-* Münih'in en kuzeyindeki metro istasyonunun simgesi düzeltildi
+
+- Füniküler simgesi düzeltildi
+- Karanlık mod için çöl rengi değiştirildi
+- Balık geçidi kategorisi eklendi
+- Koli dolabı için yeni simge
+- Münih'in en kuzeyindeki metro istasyonunun simgesi düzeltildi
 
 Çeviriler:
-* Çalışma saatlerini seçme menüsü için çeviriler eklendi 
-* Düzeltilmiş Baskça, Belarusça, İngilizce (BK), İngilizce (ABD) ve Ukraynaca çeviriler
+
+- Çalışma saatlerini seçme menüsü için çeviriler eklendi
+- Düzeltilmiş Baskça, Belarusça, İngilizce (BK), İngilizce (ABD) ve Ukraynaca çeviriler
 
 Masaüstü
-* Karanlık mod için yer imleri menüsü rengi düzeltildi
+
+- Karanlık mod için yer imleri menüsü rengi düzeltildi

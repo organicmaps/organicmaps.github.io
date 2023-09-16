@@ -71,7 +71,6 @@ Noi di Organic Maps crediamo che la privacy sia un diritto umano fondamentale:
 
 Rifiuta la sorveglianza - difendi la tua libertà.
 
-
 <a href="#install"><strong>Prova Organic Maps!</strong></a>
 
 ## Chi paga per l'app gratuita?

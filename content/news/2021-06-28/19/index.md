@@ -7,8 +7,9 @@ slug: "a-new-update-is-available-on-google-play"
 A new 2021-06-24 update is available on Google Play 📦
 
 In this update we:
-* Improved maps downloading speed for certain regions
-* Fixed uploading of map edits to OpenStreetMap
-* Fixed bookmark sharing from Bookmarks (Categories) screen
+
+- Improved maps downloading speed for certain regions
+- Fixed uploading of map edits to OpenStreetMap
+- Fixed bookmark sharing from Bookmarks (Categories) screen
 
 🍃 🗺

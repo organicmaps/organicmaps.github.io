@@ -4,7 +4,7 @@ extra:
   menu_title: 主页
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
+title: "Organic Maps：离线的远足、自行车、登山和导航地图"
 ---
 
 **Organic Maps** 是一个免费的安卓和iOS平台离线地图应用程序，为旅行者、游客、徒步旅行者和骑行者提供基于**[OpenStreetMap][openstreetmap]** 的众源数据。它是**Maps.me** 应用程序（以前称为[**MapsWithMe**][mapswithme]，由2011年创建**MapsWithMe** 的同一个人维护）的一个开源且注重隐私的[分支][fork]。
@@ -97,10 +97,10 @@ To donate immediately, click a preferred payment method icon below:
 Organic Maps是一个以Apache许可证2.0授权的[开源软件][github]。
 
 - 邀您加入测试计划，提出建议、反馈问题：
-  * [iOS测试版（TestFlight）][testflight]
-  * [安卓测试版（Firebase）][firebase]
-  * [Linux 桌面端 Beta (Flatpak)][flatpak]
-  * [Linux桌面测试版（软件包）][Repology]
+  - [iOS测试版（TestFlight）][testflight]
+  - [安卓测试版（Firebase）][firebase]
+  - [Linux 桌面端 Beta (Flatpak)][flatpak]
+  - [Linux桌面测试版（软件包）][Repology]
 - 报告bug、跟踪问题 [the issue tracker][issues]或联系我们[email us][email]。
 - [Discuss][ideas]创意点子、功能需求。
 - 订阅我们的[Telegram频道][telegram]或[matrix空间][matrix]以获取最新信息。

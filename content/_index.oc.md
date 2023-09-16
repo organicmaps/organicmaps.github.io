@@ -1,10 +1,10 @@
 ---
-description: 'De mapas detalhadas, rapidas e sensa connexion per lei viatgaires, lei toristas, leis automobilistas, leis caminaires e lei ciclistas creadas per lei fondators de l’aplicacion MapsWithMe (Maps.Me).'
+description: "De mapas detalhadas, rapidas e sensa connexion per lei viatgaires, lei toristas, leis automobilistas, leis caminaires e lei ciclistas creadas per lei fondators de l’aplicacion MapsWithMe (Maps.Me)."
 extra:
   menu_title: Acuèlh
 page_template: index.html
 sort_by: weight
-title: 'De Mapas Organicas : escorregudas ciclistas, caminadas, itineraris e percors guidats fòra de linha'
+title: "De Mapas Organicas : escorregudas ciclistas, caminadas, itineraris e percors guidats fòra de linha"
 ---
 
 **Mapas Organicas** es una aplicacion de mapas a gratis sensa connexion per Android e iOS destinada ai viatgaires, toristas, caminaires d’escorregudas e ciclistas, basada sus lei donadas d’**[OpenStreetMap][openstreetmap]**. Es una [bifurcacion][fork] centrada sus la privadesa de **Maps.me** (ancianament conegut per [**MapsWithMe**][mapswithme]), e mantenguda per lei meteissas personas que crearàn **MapsWithMe** en 2011.
@@ -111,10 +111,10 @@ Licéncia Apatxe 2.0.
 
 - Rejonhètz nòstre programa beta per suggerir de fonccionalitats e avertir
   d’errors:
-  * [Beta de iOS (TestFlight)][testflight]
-  * [Beta de Android (Firebase)][firebase]
-  * [Beta de PC Linux (Flatpak)][flatpak]
-  * [Beta de PC Linux (paquets)][repology]
+  - [Beta de iOS (TestFlight)][testflight]
+  - [Beta de Android (Firebase)][firebase]
+  - [Beta de PC Linux (Flatpak)][flatpak]
+  - [Beta de PC Linux (paquets)][repology]
 - Senhalatz d'errors ò de dificultats per lo [seguidor d'errors][issues] ò
   [mandatz-nos un corrier electronic][email].
 - [Debatre][ideas] d'idèas ò prepausar de foncions.

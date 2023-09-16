@@ -1,10 +1,10 @@
 ---
-description: 'Peta luring cepat terperinci untuk pelancong, turis, pengemudi, pejalan kaki, dan pengendara sepeda yang dibuat oleh pendiri aplikasi MapsWithMe (Maps.Me).'
+description: "Peta luring cepat terperinci untuk pelancong, turis, pengemudi, pejalan kaki, dan pengendara sepeda yang dibuat oleh pendiri aplikasi MapsWithMe (Maps.Me)."
 extra:
-  menu_title: 'Halaman depan'
+  menu_title: "Halaman depan"
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring'
+title: "Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring"
 ---
 
 **Organic Maps** adalah aplikasi peta luring Android & iOS gratis untuk pelancong, turis, pejalan kaki, dan pesepeda yang berbasis di atas data **[OpenStreetMap][openstreetmap]** yang bersumber dari orang-orang. Ini adalah [modifikasi][fork] sumber terbuka yang berfokus pada privasi dari aplikasi **Maps.me** (sebelumnya dikenal sebagai [**MapsWithMe**][mapswithme]), dikelola oleh orang yang sama yang menciptakan **MapsWithMe** pada tahun 2011.
@@ -112,10 +112,10 @@ dilisensikan di bawah lisensi Apache 2.0.
 
 - Silakan bergabung dengan program beta kami, sarankan fitur Anda, dan
   laporkan kutu:
-  * [Beta iOS (TestFlight)][testflight]
-  * [Beta Android (Firebase)][firebase]
-  * [Beta Desktop Linux (Flatpak)][flatpak]
-  * [Beta Desktop Linux (paket)][repology]
+  - [Beta iOS (TestFlight)][testflight]
+  - [Beta Android (Firebase)][firebase]
+  - [Beta Desktop Linux (Flatpak)][flatpak]
+  - [Beta Desktop Linux (paket)][repology]
 - Laporkan kutu atau masalah ke [pelacak masalah][issues] atau [kirim surel
   kepada kami][email].
 - [Diskusikan][ideas] ide atau usulkan permintaan fitur.

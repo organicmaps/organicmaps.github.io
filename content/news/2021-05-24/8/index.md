@@ -10,7 +10,6 @@ The version contains bug fixes and stability improvements.
 
 Please use updated links:
 
-
 Android:
 
 - [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)

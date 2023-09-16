@@ -7,7 +7,7 @@ extra:
   menu_title: Page d'accueil
 ---
 
-**Organic Maps** est une application Android et iOS gratuite de cartes hors ligne pour les voyageurs, les touristes, les randonneurs et les cyclistes, basée sur des données provenant des contributeurs. **[OpenStreetMap](https://www.openstreetmap.org)**. Il s'agit d'un [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) de l'application **Maps.me** (précédemment connue sous le nom de [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), axé sur la confidentialité et maintenu par les mêmes personnes qui ont créé **MapsWithMe** en 2011.
+**Organic Maps** est une application Android et iOS gratuite de cartes hors ligne pour les voyageurs, les touristes, les randonneurs et les cyclistes, basée sur des données provenant des contributeurs. **[OpenStreetMap](https://www.openstreetmap.org)**. Il s'agit d'un [fork](<https://en.wikipedia.org/wiki/Fork_(software_development)>) de l'application **Maps.me** (précédemment connue sous le nom de [**MapsWithMe**](https://en.wikipedia.org/wiki/Maps.me)), axé sur la confidentialité et maintenu par les mêmes personnes qui ont créé **MapsWithMe** en 2011.
 
 **Organic Maps** est l'une des rares applications actuelles à prendre en charge 100 % des fonctionnalités sans connexion Internet active. Installez Organic Maps, téléchargez des cartes, jetez votre carte SIM (d'ailleurs, votre opérateur vous suit constamment), et partez pour un voyage hebdomadaire sur une seule charge de batterie sans aucun octet envoyé au réseau.
 
@@ -117,6 +117,5 @@ Organic Maps est un [logiciel libre][github] sous licence Apache 2.0.
 - Rejoignez notre [Groupe Telegram][telegram_chat] pour discuter avec d'autres utilisateurs.
 - Visitez notre [page GitHub][github].
 - Suivez nos mises à jour sur <a rel="me" href="https://fosstodon.org/@organicmaps">Mastodon</a>, [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
-
 
 {{ references() }}

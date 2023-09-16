@@ -8,14 +8,14 @@ The June release is available only in the [AppStore](https://apps.apple.com/app/
 
 Here is the changelog for the June update:
 
-* New OSM data as of June 13, 2022
-* Improved routing and fixed many cross-region issues when the route failed with the error
-* Nicer fences, city walls, paths/tracks, waterfalls, fountains & drinking\_water
-* Added icons for guidepost, plaque, bicycle rental
-* Typing category like "food" in the search also matches features' names
-* Added cliffs, embankments, bicycle repair stations, graves, water tunnels, craft=\*
-* Townhalls and some crafts can be added in the Editor
-* Road shields for Cyprus
-* Better displaying of the next turn street
-* \[iOS\] Layers of area styles are rendered properly
-* \[Android\] Logs fallback to internal storage
+- New OSM data as of June 13, 2022
+- Improved routing and fixed many cross-region issues when the route failed with the error
+- Nicer fences, city walls, paths/tracks, waterfalls, fountains & drinking_water
+- Added icons for guidepost, plaque, bicycle rental
+- Typing category like "food" in the search also matches features' names
+- Added cliffs, embankments, bicycle repair stations, graves, water tunnels, craft=\*
+- Townhalls and some crafts can be added in the Editor
+- Road shields for Cyprus
+- Better displaying of the next turn street
+- \[iOS\] Layers of area styles are rendered properly
+- \[Android\] Logs fallback to internal storage

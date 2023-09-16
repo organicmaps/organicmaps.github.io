@@ -10,47 +10,53 @@ Get Organic Maps from [App Store](https://apps.apple.com/app/organic-maps/id1567
 
 Here is the full changelog:
 
-* Fresh OpenStreetMap data as of July 10, 2023
-* Fixed crash when rendering large OSM area objects
-* GPX files with uppercase extension are properly imported
-* Faster loading of bookmarks and tracks
-* Support altitude, OsmAnd and Garmin colors in imported GPX tracks
-* Fixed pedestrian ETA for big slopes
-* Prefer tertiary roads to service roads in car routing
-* Better Devanagari (Marathi) font
+- Fresh OpenStreetMap data as of July 10, 2023
+- Fixed crash when rendering large OSM area objects
+- GPX files with uppercase extension are properly imported
+- Faster loading of bookmarks and tracks
+- Support altitude, OsmAnd and Garmin colors in imported GPX tracks
+- Fixed pedestrian ETA for big slopes
+- Prefer tertiary roads to service roads in car routing
+- Better Devanagari (Marathi) font
 
 Android
-* GPX files are open from some mail clients and file browsers
-* Share button has been moved to the Place Page
-* Fixed crash on bookmark when Place Page is closing
+
+- GPX files are open from some mail clients and file browsers
+- Share button has been moved to the Place Page
+- Fixed crash on bookmark when Place Page is closing
 
 iOS
-* Bookmark lists descriptions are now displayed and saved properly
-* Show coordinates in Open Location Code (OLC), UTM, MRGS, and [OpenStreetMap.org](http://OpenStreetMap.org/) formats on click and copy coordinates on a long tap
+
+- Bookmark lists descriptions are now displayed and saved properly
+- Show coordinates in Open Location Code (OLC), UTM, MRGS, and [OpenStreetMap.org](http://OpenStreetMap.org/) formats on click and copy coordinates on a long tap
 
 Search
-* Improved search results ranking
-* Fixed shop categories search
-* Fixed airport search results with empty names
+
+- Improved search results ranking
+- Fixed shop categories search
+- Fixed airport search results with empty names
 
 Styles
-* Improve visibility and findability of highway services and rest areas
-* Added second-hand category, auction, collectors shops, turnstile & exit
-* Fixed underwater tunnels not being visible
-* Fixed areal water tunnels being drawn over other areas
-* Introduced more detailed railway-rail-\* types
-* Fixed railway-abandoned/preserved bridges
-* Added a bridge structure outline man\_made-bridge
-* Added community center, conference center, exhibition center, events venue
-* Increased shop icons priority
-* Added boundary=protected\_area
+
+- Improve visibility and findability of highway services and rest areas
+- Added second-hand category, auction, collectors shops, turnstile & exit
+- Fixed underwater tunnels not being visible
+- Fixed areal water tunnels being drawn over other areas
+- Introduced more detailed railway-rail-\* types
+- Fixed railway-abandoned/preserved bridges
+- Added a bridge structure outline man_made-bridge
+- Added community center, conference center, exhibition center, events venue
+- Increased shop icons priority
+- Added boundary=protected_area
 
 Translations:
-* Updated Catalan, Czech, Finnish, French, German, Italian, Polish, Spanish, Swedish, and Turkish translations
+
+- Updated Catalan, Czech, Finnish, French, German, Italian, Polish, Spanish, Swedish, and Turkish translations
 
 Mac and Linux:
-* Use Qt6 instead of Qt5, please report any errors or issues
-* Added preference for larger map font size
-* Feature's layer is displayed in the Place Page
+
+- Use Qt6 instead of Qt5, please report any errors or issues
+- Added preference for larger map font size
+- Feature's layer is displayed in the Place Page
 
 [Donate](https://organicmaps.app/donate/) and spread the word if you like Organic Maps!

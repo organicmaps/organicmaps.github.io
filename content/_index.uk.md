@@ -1,10 +1,10 @@
 ---
-description: 'Швидкі і детальні офлайн-карти для мандрівників, туристів, водіїв, пішоходів та велосипедистів, створені засновниками застосунку MapsWithMe (Maps.Me).'
+description: "Швидкі і детальні офлайн-карти для мандрівників, туристів, водіїв, пішоходів та велосипедистів, створені засновниками застосунку MapsWithMe (Maps.Me)."
 extra:
   menu_title: Головна
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Офлайн карти та GPS навігація'
+title: "Organic Maps: Офлайн карти та GPS навігація"
 ---
 
 **Organic Maps** - це безкоштовний офлайн застосунок під Android та iOS для мандрівників, туристів, пішоходів та велосипедистів, що базується на даних з відкритого джерела **[OpenStreetMap][openstreetmap]**. Це орієнтований на конфіденційність, відкритий [форк][fork] застосунку **Maps.me** (раніше відомого, як [**MapsWithMe**][mapswithme]), який підтримується тими ж людьми, що створили **MapsWithMe** у 2011 році.
@@ -112,10 +112,10 @@ Organic Maps - це [ПЗ з відкритим початковим кодом]
 
 - Будь ласка, приєднуйтесь до нашої бета-програми, пропонуйте свої функції
   та повідомляйте про помилки:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (packages)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (packages)][repology]
 - Повідомляйте про помилки або проблеми на [Github][issues] або через
   [ел. пошту][email].
 - [Обговорюйте][ideas] ідеї або пропонуйте запити на нові функції.

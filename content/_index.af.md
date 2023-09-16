@@ -1,10 +1,10 @@
 ---
-description: 'Vinnige, gedetailleerde, vanlyn kaarte vir reisigers, toeriste, motorbestuurders, wandelaars en fietsers geskep deur die oprigters van MapsWithMe (Maps.Me).'
+description: "Vinnige, gedetailleerde, vanlyn kaarte vir reisigers, toeriste, motorbestuurders, wandelaars en fietsers geskep deur die oprigters van MapsWithMe (Maps.Me)."
 extra:
   menu_title: Tuis
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Vanlyn voetslaan, fietsry, roetes en navigasie'
+title: "Organic Maps: Vanlyn voetslaan, fietsry, roetes en navigasie"
 ---
 
 **Organic Maps** is ’n gratis Android & iOS vanlyn kaarttoep vir reisigers, toeristen, voetslaners en fietsers gebaseer op skareverkreë **[OpenStreetMap][openstreetmap]**-data. Dit is ’n privaatheidgefokusde, oopbron [vurk][fork] van die toep **Maps.me** (voorheen bekend as [**MapsWithMe**][mapswithme]), en word onderhou deur dieselfde mense wat **MapsWithMe** in 2011 geskep het.
@@ -109,10 +109,10 @@ Apache Lisensie 2.0.
 
 - Sluit asseblief aan by ons beta-program, stel funksies voor en rapporteer
   foute:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (packages)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (packages)][repology]
 - Rapporteer foute of probleme d.m.v. [die probleemspoorder][issues] of
   [stuur ’n e-pos][email].
 - [Bespreek][ideas] ideë of stel funksieversoeke voor.

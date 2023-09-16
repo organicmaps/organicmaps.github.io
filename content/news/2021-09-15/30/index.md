@@ -5,6 +5,7 @@ slug: "app-update-is-available-in-google-play"
 ---
 
 21.09.14 app update is available in Google Play. We:
-* Fixed missing buttons on the toolbar after the search on Android 11, very annoying bug 🐞!
-* Updated some translations, thanks to our contributors ❤️
-* Fixed incorrectly toggled WiFi when editing a phone number
+
+- Fixed missing buttons on the toolbar after the search on Android 11, very annoying bug 🐞!
+- Updated some translations, thanks to our contributors ❤️
+- Fixed incorrectly toggled WiFi when editing a phone number

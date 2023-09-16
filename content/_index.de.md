@@ -1,10 +1,10 @@
 ---
-description: 'Schnelle, detaillierte Offline-Karten für Reisende, Touristen, Autofahrer, Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe-App (Maps.Me).'
+description: "Schnelle, detaillierte Offline-Karten für Reisende, Touristen, Autofahrer, Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe-App (Maps.Me)."
 extra:
   menu_title: Startseite
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation'
+title: "Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation"
 ---
 
 **Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung][fork] der **Maps.me**-App (früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.
@@ -113,10 +113,10 @@ License 2.0 lizenziert ist.
 
 - Bitte nimm an unserem Beta-Programm teil, schlage Funktionen vor und melde
   Fehler:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (Pakete)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (Pakete)][repology]
 - Melde Bugs oder Probleme an den [Issue Tracker][issues] oder per [E-Mail
   an uns][email].
 - [Diskutiere][ideas] Ideen oder äußere Funktionswünsche.

@@ -14,35 +14,40 @@ The [F-Droid](https://f-droid.org/en/packages/app.organicmaps/) build, as usual,
 
 Other notable changes in this release:
 
-* New OpenStreetMap data as of June 2, 2023
-* GPX import support
-* Fixed disappearing bookmark lists when wrong characters were saved in a bookmark name or description
-* Improved car and bicycle routing
+- New OpenStreetMap data as of June 2, 2023
+- GPX import support
+- Fixed disappearing bookmark lists when wrong characters were saved in a bookmark name or description
+- Improved car and bicycle routing
 
 Android:
-* Fixed bug that prevented upload of OSM edits when on battery power
-* MRGS and UTM coordinates support (tap on coordinates to change)
-* Now compass works on devices without a gyroscope
-* Prevent clicks through the navigation mode header and routing menu
-* Fixed missing Wikipedia descriptions
-* Decreased TTS (Text-To-Speech) voice speed
-* Fixed non-working KML, KMZ, and GPX import notifications
+
+- Fixed bug that prevented upload of OSM edits when on battery power
+- MRGS and UTM coordinates support (tap on coordinates to change)
+- Now compass works on devices without a gyroscope
+- Prevent clicks through the navigation mode header and routing menu
+- Fixed missing Wikipedia descriptions
+- Decreased TTS (Text-To-Speech) voice speed
+- Fixed non-working KML, KMZ, and GPX import notifications
 
 iOS:
-* Fixed non-working Portuguese (Brazil) and Spanish (Mexico) voice directions languages
-* Fixed crashes for KML, KMZ, and GPX imports
-* Fixed repeated imports of the same file
+
+- Fixed non-working Portuguese (Brazil) and Spanish (Mexico) voice directions languages
+- Fixed crashes for KML, KMZ, and GPX imports
+- Fixed repeated imports of the same file
 
 Styles:
-* Fixed funicular icon
-* Changed desert color in the dark mode
-* Added Fish Pass
-* New Icon for Parcel Locker
-* Fixed icon for northernmost Munich underground station
+
+- Fixed funicular icon
+- Changed desert color in the dark mode
+- Added Fish Pass
+- New Icon for Parcel Locker
+- Fixed icon for northernmost Munich underground station
 
 Translations:
-* Translations for opening hours picker
-* Corrected Basque, Belarusian, British, English, and Ukrainian translations
+
+- Translations for opening hours picker
+- Corrected Basque, Belarusian, British, English, and Ukrainian translations
 
 Desktop
-* Fixed bookmarks dialog color in the dark mode
+
+- Fixed bookmarks dialog color in the dark mode

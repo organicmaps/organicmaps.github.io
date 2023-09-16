@@ -1,10 +1,10 @@
 ---
-description: 'Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me).'
+description: "Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me)."
 extra:
   menu_title: Domů
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline pěší turistika, cykloturistika, stezky a navigace'
+title: "Organic Maps: Offline pěší turistika, cykloturistika, stezky a navigace"
 ---
 
 **Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.
@@ -110,10 +110,10 @@ License 2.0.
 
 - Zapojte se prosím do našeho beta programu, navrhujte funkce a nahlašujte
   chyby:
-  * [iOS Beta (TestFlight)] [testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)] [flatpak]
-  * [Linux Desktop Beta (balíčky)][repology]
+  - [iOS Beta (TestFlight)] [testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)] [flatpak]
+  - [Linux Desktop Beta (balíčky)][repology]
 - Chyby nebo problémy nahlaste na [issue tracker][issues] nebo [na
   e-mail][email].
 - [Diskutujte][ideas] nápady nebo navrhněte požadavky na funkce.

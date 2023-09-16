@@ -1,10 +1,10 @@
 ---
-description: 'Mapas rápidos y detallados sin conexión para viajantes, turistas, conductores, senderistas y ciclistas creados por los fundadores de MapsWithMe (Maps.Me).'
+description: "Mapas rápidos y detallados sin conexión para viajantes, turistas, conductores, senderistas y ciclistas creados por los fundadores de MapsWithMe (Maps.Me)."
 extra:
   menu_title: Inicio
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: senderismo, ciclismo y GPS sin conexión'
+title: "Organic Maps: senderismo, ciclismo y GPS sin conexión"
 ---
 
 **Organic Maps** es una aplicación libre para Android y iOS de mapas sin conexión para viajantes, turistas, senderistas y ciclistas basados en los datos cartográficos abiertos de **[OpenStreetMap][openstreetmap]**. Es una [bifurcación][fork] libre y centrada en la privacidad de la aplicación **Maps.me** (anteriormente conocida como [**MapsWithMe**][mapswithme]), mantenida por la misma gente que creó **MapsWithMe** en 2011.
@@ -110,10 +110,10 @@ Licencia Apache 2.0.
 
 - Incorpórese a nuestro programa beta para sugerir funcionalidades e
   informar de defectos:
-  * [Beta de iOS (TestFlight)][testflight]
-  * [Beta de Android (Firebase)][firebase]
-  * [Beta de PC Linux (Flatpak)][flatpak]
-  * [Beta de PC Linux (paquetes)][repology]
+  - [Beta de iOS (TestFlight)][testflight]
+  - [Beta de Android (Firebase)][firebase]
+  - [Beta de PC Linux (Flatpak)][flatpak]
+  - [Beta de PC Linux (paquetes)][repology]
 - Informe de defectos o problemas al [rastreador de errores][issues] o
   [mándenos un correo electrónico][email].
 - [Debata][ideas] ideas o haga peticiones de funcionalidades.

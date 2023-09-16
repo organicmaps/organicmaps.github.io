@@ -1,10 +1,10 @@
 ---
-description: 'Detaile handiko offline mapa azkarrak, bidaiari, turista, gidari, mendizale eta txirrindularientzat, MapsWithMe (Maps.me) app-aren sortzaileek garatutakoa.'
+description: "Detaile handiko offline mapa azkarrak, bidaiari, turista, gidari, mendizale eta txirrindularientzat, MapsWithMe (Maps.me) app-aren sortzaileek garatutakoa."
 extra:
   menu_title: Hasiera
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabigaziorako'
+title: "Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabigaziorako"
 ---
 
 **Organic Maps** Android & iOS-erako offline-mapen app bat da, bidaiari, turista, mendizale eta txirrindularientzat, auzolanean sortutako **[OpenStreetMap][openstreetmap]** datuetan oinarrituta. Aurrez ezaguna zen **Maps.me** app-aren kode-irekiko eta pribazitate helburu duen [fork][fork] bat da (lehenago [**MapsWithMe**][mapswithme] izenarekin ezaguna), 2011an **MapsWithMe** app-a sortu zuten pertsona berdinek mantenduta.
@@ -110,10 +110,10 @@ lizentziapean.
 
 - Mesedez parte-hartu gure beta programan, iradoki zure ideia berriak eta
   akatsen berri eman:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (packages)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (packages)][repology]
 - Akats edo arazoen berri eman [issue tracker-ean][issues] edo [idatzi
   guri][email].
 - [Eztabaidatu][ideas] ideiak edo proposatu berezitasun berriak.
