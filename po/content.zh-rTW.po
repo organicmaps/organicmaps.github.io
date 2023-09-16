@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-08-21 09:52+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hant/>\nLanguage: zh-rTW\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.0-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-09-12 20:16+0000\nLast-Translator: Supaplex <bejokeup@gmail.com>\nLanguage-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/organicmaps/website/zh_Hant/>\nLanguage: zh-rTW\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.0.1-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -44,7 +44,7 @@ msgstr "從 [AppStore][appstore]、[Google Play][googleplay]、[FDroid][fdroid]�
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text
+#, markdown-text
 msgid "{{ badges() }}"
 msgstr "{{ badges() }}"
 
@@ -118,7 +118,7 @@ msgstr "地圖上快速離線搜尋"
 #: content/_index.md
 #, markdown-text
 msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr ""
+msgstr "書籤與軌跡以 KML、KMZ 或 GPX 格式輸出"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -130,7 +130,7 @@ msgstr "保護眼睛的黑暗模式"
 #: content/_index.md
 #, markdown-text
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "國家與地區不會佔太大的空間"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -142,31 +142,31 @@ msgstr "自由且開放原始碼"
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "為什麼要使用 Organic Map？"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "Organic Maps 既純粹而且有機，並且是用愛製作的："
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Respects your privacy"
-msgstr ""
+msgstr "尊重你的隱私"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Saves your battery"
-msgstr ""
+msgstr "省電"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No unexpected mobile data charges"
-msgstr ""
+msgstr "沒有非預期的行動數據費用"
 
 #. type: Plain text
 #: content/_index.md
@@ -232,73 +232,73 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "~~無有毒物質~~純粹有機！"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "本 app 已經由 [Exodus Privacy Project][exodus] 認證："
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ exodus_screenshot() }}"
-msgstr ""
+msgstr "{{ exodus_截圖() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "iOS app 已經由 [TrackerControl for iOS][trackercontrol] 認證："
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_截圖() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr ""
+msgstr "Organic Maps 無需過多權限來監視你："
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ privacy_screenshots() }}"
-msgstr ""
+msgstr "{{ privacy_截圖() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
+msgstr "在 Organic Maps，我們相信隱私是基本人權："
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
+msgstr "Organic Maps 是獨立由社群驅動的開源專案"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
+msgstr "我們從大型科技公司的監視行動當中保護你的隱私"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Stay safe no matter wherever you are"
-msgstr ""
+msgstr "無論身在何處，請保護好自己"
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 #, markdown-text
 msgid "Reject surveillance - embrace your freedom."
-msgstr ""
+msgstr "拒絕監視 - 擁抱自由。"
 
 #. type: Plain text
 #: content/_index.md
@@ -388,31 +388,31 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
+msgstr "透過[問題追蹤器][issues]或是 [email 我們][email] 回報臭蟲或問題。"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr ""
+msgstr "[討論][ideas]點子或提出新功能。"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr ""
+msgstr "訂閱我們的 [Telegram 頻道][telegram] 或是 [matrix 空間][matrix]獲得更新資訊。"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
+msgstr "加入我們的 [Telegram  群組][telegram_chat]與其他人討論。"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Visit our [GitHub page][github]."
-msgstr ""
+msgstr "造訪我們的 [GitHub 頁面][github]。"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -454,19 +454,19 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr ""
+msgstr "Organic Maps app 對_每個人都免費_感謝您的**[捐獻][stripe]**："
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 #, markdown-text
 msgid "No trackers"
-msgstr ""
+msgstr "沒有追蹤器"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 #, markdown-text
 msgid "No registration"
-msgstr ""
+msgstr "不用註冊"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -478,7 +478,7 @@ msgstr "開源"
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Why donate to Organic Maps?"
-msgstr ""
+msgstr "為何要捐獻 Organic Maps？"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
