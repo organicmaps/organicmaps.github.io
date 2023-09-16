@@ -4,25 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"PO-Revision-Date: 2023-07-20 17:07+0000\n"
-"Last-Translator: jonnysemon <jonnysemon@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/"
-"website/ar/>\n"
-"Language: ar\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.0-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-09-17 03:47+0000\nLast-Translator: jonnysemon <jonnysemon@users.noreply.hosted.weblate.org>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 5.0.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "خرائط مفصلة وسريعة وبدون إنترنت للمسافرين، والسياح، والسائقين، والمشي لمسافات طويلة، وراكبي الدراجات، تم إنشاؤها من قبل مؤسسي تطبيق MapsWithMe (Maps.Me)."
+msgstr "خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات، انشأت من قبل مؤسسي تطبيق MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -66,10 +54,9 @@ msgstr "{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='Hiking')
 
 #. type: Plain text
 #: content/_index.md
+#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
-"{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات "
-"طويلة') }}"
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -98,9 +85,7 @@ msgstr "المميزات"
 msgid ""
 "Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
 "and cyclists:"
-msgstr ""
-"تطبيق Organic Maps هو المرافق الأمثل للمسافرين، والسياح، ومحبي المشي لمسافات "
-"طويلة، وراكبي الدراجات:"
+msgstr "تطبيق Organic Maps هو الرفيق الأفضل للمسافرين،السياح، المتنزهين و راكبي الدراجات:"
 
 #. type: Bullet: '- '
 #: content/_index.md
