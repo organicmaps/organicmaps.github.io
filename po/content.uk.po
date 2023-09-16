@@ -4,13 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-07-03 12:33+0000\nLast-Translator: Dan <jonweblin2205@protonmail.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.0-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-08-05 07:04+0000\nLast-Translator: Skrripy <rozihrash.ya6w7@simplelogin.com>\nLanguage-Team: Ukrainian <https://hosted.weblate.org/projects/organicmaps/website/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.0-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "Швидкі і детальні офлайн-карти для мандрівників, туристів, водіїв, пішоходів та велосипедистів, створені засновниками застосунку MapsWithMe (Maps.Me)."
+msgstr "Швидкі та детальні офлайн-карти для мандрівників, туристів, водіїв, пішоходів та велосипедистів, створені засновниками застосунку MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -244,7 +244,7 @@ msgstr "В Organic Maps ми віримо, що конфіденційність
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "Organic Maps - це незалежний проект із відкритим початковим кодом, керований спільнотою"
+msgstr "Organic Maps - це незалежний проєкт із відкритим початковим кодом, керований спільнотою"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -338,7 +338,7 @@ msgstr "[Linux Desktop Beta (packages)][repology]"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr "Повідомляйте про помилки або проблеми на [Github][issues] або через [ел. пошту][email]."
+msgstr "Повідомляйте про помилки або проблеми на [GitHub][issues] або через [ел. пошту][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -433,7 +433,7 @@ msgstr "Ми покладаємося на ваші пожертви, щоб з�
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Ми - кілька ентузіастів, які роблять свій внесок у вільний час і витрачають на проект гроші своїх родин.  Ми любимо те, що робимо, і ми любимо наших користувачів ❤️."
+msgstr "Ми - кілька ентузіастів, які роблять свій внесок у вільний час і витрачають на проєкт гроші своїх родин.  Ми любимо те, що робимо, і ми любимо наших користувачів ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
