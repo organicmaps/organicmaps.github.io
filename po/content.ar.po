@@ -22,7 +22,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين والدراجين، انشأت من قبل مؤسسي تطبيق MapsWithMe (Maps.Me)."
+msgstr "خرائط مفصلة وسريعة وبدون إنترنت للمسافرين، والسياح، والسائقين، والمشي لمسافات طويلة، وراكبي الدراجات، تم إنشاؤها من قبل مؤسسي تطبيق MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -62,12 +62,14 @@ msgstr "{{ badges() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
+msgstr "{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
+msgstr ""
+"{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات "
+"طويلة') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -89,7 +91,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Features"
-msgstr "الخصائص"
+msgstr "المميزات"
 
 #. type: Plain text
 #: content/_index.md
@@ -97,7 +99,8 @@ msgid ""
 "Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
 "and cyclists:"
 msgstr ""
-"تطبيق Organic Maps هو الرفيق الأفضل للمسافرين،السياح، المتنزهين والدراجين:"
+"تطبيق Organic Maps هو المرافق الأمثل للمسافرين، والسياح، ومحبي المشي لمسافات "
+"طويلة، وراكبي الدراجات:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -219,7 +222,7 @@ msgstr "لا بريد إلكتروني مزعج"
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No push notifications"
-msgstr "الإشعارات المدفوعة"
+msgstr "لا توجد إشعارات"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -238,7 +241,6 @@ msgstr "تم التحقق من التطبيق بواسطة [مشروع Exodus Pr
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ exodus_screenshot() }}"
 msgstr "{{ exodus_screenshot() }}"
 
@@ -246,11 +248,10 @@ msgstr "{{ exodus_screenshot() }}"
 #: content/_index.md
 msgid ""
 "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr "تم التحقق من تطبيق iOS بواسطة [TrackerControl لiOS][trackercontrol]:"
+msgstr "تم التحقق من تطبيق iOS بواسطة [TrackerControl لـ iOS][trackercontrol]:"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ trackercontrol_screenshot() }}"
 msgstr "{{ trackercontrol_screenshot() }}"
 
@@ -261,7 +262,6 @@ msgstr "Organic Maps لا يطلب أذونات مفرطة للتجسس عليك
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy
 msgid "{{ privacy_screenshots() }}"
 msgstr "{{ privacy_screenshots() }}"
 
@@ -317,7 +317,6 @@ msgstr "هناك طرق مختلفة للتبرع:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
-#, fuzzy
 msgid "{{ donate_buttons() }}"
 msgstr "{{ donate_buttons() }}"
 
@@ -422,13 +421,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
-#, fuzzy
 msgid "{{ references() }}"
 msgstr "{{ references() }}"
 
@@ -630,7 +628,6 @@ msgstr "يرجى التفكير في التبرع سنويًا لخفض إجما
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy
 msgid "{{ crypto_table() }}"
 msgstr "{{ crypto_table() }}"
 
