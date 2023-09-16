@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-04-24 07:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Italian <https://hosted.weblate.org/projects/organicmaps/website/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-08-28 19:52+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Italian <https://hosted.weblate.org/projects/organicmaps/website/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.0.1-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -538,7 +538,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Android Auto"
-msgstr ""
+msgstr "Android Auto"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
