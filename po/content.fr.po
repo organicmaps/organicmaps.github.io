@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-07-17 00:06+0000\nLast-Translator: Jean Mareilles <waged1266@tutanota.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.0-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-07-23 18:31+0000\nLast-Translator: Ophiushi <41908476+ishi-sama@users.noreply.github.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.0-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -193,7 +193,7 @@ msgstr "Pas de collecte de données"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No phoning home"
-msgstr ""
+msgstr "Pas de transfert de données"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -432,7 +432,7 @@ msgstr "Faire un don pour soutenir le développement d'Organic Maps"
 msgid ""
 "Organic Maps app is _free for everyone_ thanks to your **[donations]"
 "[stripe]**:"
-msgstr "L'application Organic Maps est _gratuite pour tous_ grâce à vos **[dons][stripe]**:"
+msgstr "L'application Organic Maps est _gratuite pour tous_ grâce à vos **[dons][stripe]** :"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -626,7 +626,7 @@ msgstr "[stripe]: https://donate.organicmaps.app/ \"Faire un don via Stripe\"\n[
 #: content/news/_index.md
 #, no-wrap
 msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
-msgstr "Soyez au courant des dernières nouveautés d'Organic Maps, des nouvelles et des mises à jour de notre équipe."
+msgstr "Soyez au courant des dernières nouveautés d'Organic Maps, des nouvelles et des mises à jour de notre équipe"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
@@ -818,7 +818,7 @@ msgstr "Conditions"
 #: content/terms/index.md
 #, no-wrap
 msgid "Organic Maps: terms"
-msgstr "Organic Maps: terms"
+msgstr "Organic Maps : conditions"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -849,12 +849,12 @@ msgstr "Sauf si la loi applicable l'exige ou si accepté par accord écrit, les 
 msgid ""
 "Most libraries in the following directories on [GitHub][github] made by "
 "other people and organizations and licensed in different ways:"
-msgstr ""
+msgstr "La plupart des bibliothèques dans les répertoires suivants sur [GitHub][github] ont été créées par d'autres personnes et organisations et sont sous différentes licences :"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr ""
+msgstr "des tiers"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -865,14 +865,14 @@ msgstr "outils"
 #: content/terms/index.md
 msgid ""
 "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Veuillez vous référer à leurs documents LICENCE, COPYING ou NOTICE pour connaître les conditions d'utilisation."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid ""
 "See also [data/copyright.html][copyright] file for a full list of copyright "
 "notices for Organic Maps application."
-msgstr ""
+msgstr "Voir aussi le fichier [data/copyright.html][copyright] pour une liste complète des avis de copyright pour l'application Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -881,7 +881,7 @@ msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr ""
+msgstr "[github] : https://github.com/organicmaps/organicmaps\n[licence] : http://www.apache.org/licenses/LICENSE-2.0\n[copyright] : https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -893,7 +893,7 @@ msgstr "Addresse"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "Retour aux actualités"
 
 #. type: Hash Value: contact
 #: translations.yaml
@@ -905,25 +905,25 @@ msgstr "Nous contacter"
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Installer Organic Maps depuis l'AppGallery de Huawei"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "Installer Organic Maps depuis l'AppStore"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "Installer Organic Maps depuis F-Droid"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Google Play"
-msgstr ""
+msgstr "Installer Organic Maps depuis Google Play"
 
 #. type: Hash Value: language
 #: translations.yaml
