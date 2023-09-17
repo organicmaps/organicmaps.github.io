@@ -19,7 +19,7 @@ Vývoj lze podpořit různými způsoby:
   prostřednictvím [emailu][email].
 - Pokud jste vývojář, pomozte nám [opravovat chyby][contributing] a provádět
   kontrolu kódu. Každý opravený malý problém udělá někoho šťastnějším.
-- [Přeložit][translations] chybějící řetězce v rozhraní aplikace.
+- [Přeložte][translations] chybějící řetězce v rozhraní aplikace.
 - Přeložte popisy [App Store][translations_appstore] a
   [Android][translations_googleplay] do svého jazyka.
 - [Přeložte][translations_website] naše webové stránky do vašeho jazyka.

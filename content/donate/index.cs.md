@@ -16,7 +16,7 @@ Aplikace Organic Maps je pro všechny _zdarma_ díky vašim
 - Žádná oznámení push
 - Open source
 
-Click a preferred payment method icon below:
+Klikněte na ikonu preferovaného způsobu platby níže:
 
 {{ donate_buttons() }}
 
@@ -54,7 +54,7 @@ Click a preferred payment method icon below:
 
 ## Jak darovat?
 
-Click a preferred payment method icon below:
+Klikněte na ikonu preferovaného způsobu platby níže:
 
 {{ donate_buttons() }}
 

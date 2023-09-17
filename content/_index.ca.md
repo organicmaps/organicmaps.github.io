@@ -68,7 +68,8 @@ L'aplicació està verificada pel [Projecte Exodus Privacy][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+L'aplicació iOS està verificada per[ TrackerControl per a
+iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -91,7 +92,8 @@ Rebutgi la vigilància. Assumeixi la seva llibertat.
 L'aplicació és gratuïta per a tothom. Si us plau
 [donar](@/donate/index.ca.md) per a donar-nos suport!
 
-To donate immediately, click a preferred payment method icon below:
+Per a fer un donatiu immediatament, feu clic a la icona del mètode de
+pagament preferit:
 
 {{ donate_buttons() }}
 
