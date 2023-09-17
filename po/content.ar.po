@@ -42,7 +42,7 @@ msgstr "**Organic Maps** هو تطبيق أندرويد و آيفون مجاني
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.\n"
 
 #. type: Title ###
@@ -288,7 +288,7 @@ msgstr "التطبيق مجاني للجميع. من فضلك [تبرع](@/donat
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Plain text
@@ -426,7 +426,7 @@ msgstr "مفتوح المصدر"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Title ##
@@ -463,8 +463,8 @@ msgstr "نحن ندفع مقابل الخوادم السريعة، حتى يتم
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك [1200 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك [1800 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

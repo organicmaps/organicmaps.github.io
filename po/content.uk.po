@@ -33,7 +33,7 @@ msgstr "**Organic Maps** - це безкоштовний офлайн засто
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** - один з небагатьох застосунків, який підтримує 100% функціональність без активного інтернет-з’єднання. Встановіть Organic Maps, завантажте мапи, викиньте SIM-карту (до речі, ваш оператор постійно відстежує вас) та вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.\n"
 
 #. type: Title ###
@@ -280,7 +280,7 @@ msgstr "Застосунок безкоштовний для всіх. Будь 
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr "Щоб зробити пожертву відразу, натисніть на іконку бажаного способу оплати нижче:"
 
 #. type: Plain text
@@ -416,7 +416,7 @@ msgstr "Відкритий початковий код"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr "Натисніть на зручний вам спосіб оплати нижче:"
 
 #. type: Title ##
@@ -453,8 +453,8 @@ msgstr "Ми платимо за швидкі сервери, щоб будь-х
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Підтримка користувачів, виправлення помилок та покращення стабільності роботи застосунку є одними з наших пріоритетів.  На GitHub існує [1200+ проблем][github issues], і ця кількість зростає щодня.  AppStore, Google Play та електронна пошта служби підтримки переповнені коментарями та помилками. Ми хочемо створювати якісний продукт."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Підтримка користувачів, виправлення помилок та покращення стабільності роботи застосунку є одними з наших пріоритетів.  На GitHub існує [1800+ проблем][github issues], і ця кількість зростає щодня.  AppStore, Google Play та електронна пошта служби підтримки переповнені коментарями та помилками. Ми хочемо створювати якісний продукт."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

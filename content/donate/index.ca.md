@@ -38,7 +38,7 @@ Feu clic a la icona de pagament preferit:
    creixent.
 2. L'assistència als usuaris, l'arranjament d'errors i la millora de
    l'estabilitat de l'aplicació són les nostres principals prioritats. Hi ha
-   més de [1200 informes en GitHub][github issues], i aquest número creix
+   més de [1800 informes en GitHub][github issues], i aquest número creix
    cada dia. AppStore, Google Play i els correus d'atenció estan inundats
    amb comentaris i informes. Volem lliurar un producte de qualitat.
 3. Amb suficients diners, poden desenvolupar-se més ràpidament prestacions

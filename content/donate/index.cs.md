@@ -36,7 +36,7 @@ Klikněte na ikonu preferovaného způsobu platby níže:
    aktualizace mapových dat bez zpoždění. Jsou to stovky terabajtů měsíčně
    a jejich množství stále roste.
 2. Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou
-   našimi hlavními prioritami. Na GitHubu je [1200+ issues] [github issues]
+   našimi hlavními prioritami. Na GitHubu je [1800+ issues] [github issues]
    a toto číslo každým dnem roste. AppStore, Google Play a e-maily podpory
    jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní
    produkt.

@@ -33,7 +33,7 @@ msgstr "**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für A
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** ist heutzutage eine der wenigen Apps, die 100% ihrer Funktionen ohne aktive Internetverbindung unterstützt. Installiere Organic Maps, lade Karten herunter, wirf deine SIM-Karte weg (dein Betreiber verfolgt dich übrigens ständig) und mache einen Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.\n"
 
 #. type: Title ###
@@ -280,7 +280,7 @@ msgstr "Die App ist für alle kostenlos. Bitte unterstütze uns mit einer [Spend
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr "Wenn du sofort spenden möchtest, klicke unten auf das Symbol einer bevorzugten Zahlungsmethode:"
 
 #. type: Plain text
@@ -416,7 +416,7 @@ msgstr "Open Source"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr "Klicke unten auf das Symbol einer bevorzugten Zahlungsmethode:"
 
 #. type: Title ##
@@ -453,8 +453,8 @@ msgstr "Wir zahlen für schnelle Server, damit jeder in der Welt kostenlos und o
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Benutzerunterstützung, Bugfixing und die Verbesserung der Stabilität der App stehen ganz oben auf unserer Prioritätenliste.  Es gibt mehr als 1200 Probleme auf GitHub, und diese Zahl wächst täglich.  AppStore, Google Play und Support-E-Mails werden mit Kommentaren und Fehlern überflutet. Wir wollen ein hochwertiges Produkt liefern."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Benutzerunterstützung, Bugfixing und die Verbesserung der Stabilität der App stehen ganz oben auf unserer Prioritätenliste.  Es gibt mehr als 1800 Probleme auf GitHub, und diese Zahl wächst täglich.  AppStore, Google Play und Support-E-Mails werden mit Kommentaren und Fehlern überflutet. Wir wollen ein hochwertiges Produkt liefern."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

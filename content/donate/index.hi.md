@@ -15,7 +15,7 @@ weight: 10
 - कोई पुश सूचनाएँ नहीं
 - ओपन सोर्स
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -35,7 +35,7 @@ Click a preferred payment method icon below:
    मुफ्त मानचित्र डेटा अपडेट डाउनलोड कर सकता है। यह सैकड़ों टेराबाइट्स मासिक
    है, और राशि बढ़ रही है।
 2. उपयोगकर्ता समर्थन, बग फिक्सिंग और ऐप की स्थिरता में सुधार करना हमारी
-   प्राथमिकताओं में सबसे ऊपर है। [GitHub पर 1200+ मुद्दे][GitHub issues]
+   प्राथमिकताओं में सबसे ऊपर है। [GitHub पर 1800+ मुद्दे][GitHub issues]
    हैं, और यह संख्या हर दिन बढ़ रही है। ऐप स्टोर,गूगल प्ले, और समर्थन ईमेल
    टिप्पणियों और बगों से भर गए हैं। हम एक उच्च गुणवत्ता वाला उत्पाद देना
    चाहते हैं।
@@ -55,7 +55,7 @@ Click a preferred payment method icon below:
 
 ## कैसे दान करें?
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 

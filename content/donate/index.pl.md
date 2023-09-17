@@ -36,7 +36,7 @@ Kliknij ikonę preferowanej metody płatności poniżej:
    aktualizacje danych mapowych bez opóźnień. To setki terabajtów
    miesięcznie, a ilość ta stale rośnie.
 2. Wsparcie użytkowników, usuwanie błędów i poprawa stabilności aplikacji są
-   na szczycie naszych priorytetów. Mamy [ponad 1200 zgłoszonych na GitHubie
+   na szczycie naszych priorytetów. Mamy [ponad 1800 zgłoszonych na GitHubie
    problemów do rozwiązania][github issues], a liczba ta rośnie każdego
    dnia. AppStore, Google Play i e-maile wsparcia są zalane komentarzami i
    błędami. Chcemy dostarczać produkt wysokiej jakości.

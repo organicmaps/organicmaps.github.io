@@ -33,7 +33,7 @@ msgstr "**Organic Maps** je bezplatná offline mapová aplikace pro Android a iO
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.\n"
 
 #. type: Title ###
@@ -280,7 +280,7 @@ msgstr "Aplikace je pro všechny zdarma. Podpořte nás prosím [donate](@/donat
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr "Chcete-li přispět okamžitě, klikněte na ikonu preferovaného způsobu platby níže:"
 
 #. type: Plain text
@@ -416,7 +416,7 @@ msgstr "Open source"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr "Klikněte na ikonu preferovaného způsobu platby níže:"
 
 #. type: Title ##
@@ -453,8 +453,8 @@ msgstr "Platíme za rychlé servery, takže kdokoli na světě může stahovat b
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou našimi hlavními prioritami.  Na GitHubu je [1200+ issues] [github issues] a toto číslo každým dnem roste.  AppStore, Google Play a e-maily podpory jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní produkt."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou našimi hlavními prioritami.  Na GitHubu je [1800+ issues] [github issues] a toto číslo každým dnem roste.  AppStore, Google Play a e-maily podpory jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní produkt."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

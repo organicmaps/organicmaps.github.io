@@ -89,7 +89,7 @@ The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
 ऐप सभी के लिए मुफ्त है। हमारा समर्थन करने के लिए कृपया
 [दान](@/donate/index.hi.md) करें!
 
-To donate immediately, click a preferred payment method icon below:
+To donate conveniently, click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 

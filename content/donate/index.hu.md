@@ -16,7 +16,7 @@ Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
 - Nincsenek leküldéses értesítések
 - Nyílt forráskód
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -37,7 +37,7 @@ Click a preferred payment method icon below:
    letöltheti az ingyenes térképadat-frissítéseket. Ez havonta több száz
    terabájt, és a mennyiség folyamatosan növekszik.
 2. A felhasználói segítség, a hibajavítás és az alkalmazás stabilitásának
-   javítása a prioritások között az első helyen áll. GitHubon [1200+
+   javítása a prioritások között az első helyen áll. GitHubon [1800+
    hibanapló van megnyitva][github issues], és ez a szám napról napra nő.
    Az AppStore, a Google Play és a támogatási e-maileket elárasztják a
    megjegyzések és a hibák. Minőségi terméket akarunk előállítani.
@@ -56,7 +56,7 @@ Click a preferred payment method icon below:
 
 ## Hogyan adományozhatok?
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 

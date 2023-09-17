@@ -35,7 +35,7 @@ Klicke unten auf das Symbol einer bevorzugten Zahlungsmethode:
    ohne Verzögerung aktuelle Kartendaten herunterladen kann. Es handelt
    sich um Hunderte von Terabytes monatlich, und die Menge wächst.
 2. Benutzerunterstützung, Bugfixing und die Verbesserung der Stabilität der
-   App stehen ganz oben auf unserer Prioritätenliste. Es gibt mehr als 1200
+   App stehen ganz oben auf unserer Prioritätenliste. Es gibt mehr als 1800
    Probleme auf GitHub, und diese Zahl wächst täglich. AppStore, Google
    Play und Support-E-Mails werden mit Kommentaren und Fehlern
    überflutet. Wir wollen ein hochwertiges Produkt liefern.

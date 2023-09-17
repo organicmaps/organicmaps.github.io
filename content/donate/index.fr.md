@@ -30,7 +30,7 @@ L'application Organic Maps est _gratuite pour tout le monde_ grâce à vos **[do
 1. Nous payons pour des serveurs rapides, afin que n'importe qui dans le monde puisse télécharger des mises à jour gratuites de données cartographiques sans délai.
    Il s'agit de centaines de téraoctets par mois, et la quantité augmente.
 2. L'assistance aux utilisateurs, la correction des bogues et l'amélioration de la stabilité de l'application sont en tête de nos priorités.
-   Il y a [1200+ problèmes sur GitHub][github issues], et ce nombre augmente chaque jour.
+   Il y a [1800+ problèmes sur GitHub][github issues], et ce nombre augmente chaque jour.
    L'AppStore, Google Play et les e-mails d'assistance sont inondés de commentaires et de bogues. Nous voulons livrer un produit de haute qualité.
 3. Avec suffisamment d'argent, de nouvelles fonctionnalités peuvent être développées plus rapidement, par exemple :
    - Mises à jour hebdomadaires et automatisées des données cartographiques.

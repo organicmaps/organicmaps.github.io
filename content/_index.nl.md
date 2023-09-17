@@ -90,7 +90,7 @@ Weiger toezicht – omarm je vrijheid.
 De app is voor iedereen gratis. [Doneer](@/donate/index.nl.md) alstublieft
 om ons te ondersteunen!
 
-To donate immediately, click a preferred payment method icon below:
+To donate conveniently, click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
