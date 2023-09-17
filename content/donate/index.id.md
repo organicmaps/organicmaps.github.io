@@ -36,7 +36,7 @@ Klik ikon metode pembayaran yang diinginkan di bawah ini:
    mengunduh pembaruan data peta gratis tanpa penundaan. Ratusan terabyte
    setiap bulan, dan jumlahnya terus bertambah.
 2. Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi
-   adalah prioritas utama kami. Ada [1200+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari. App Store, Google
+   adalah prioritas utama kami. Ada [1800+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari. App Store, Google
    Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin
    memberikan produk berkualitas tinggi.
 3. Dengan uang yang cukup, fitur baru bisa dikembangkan lebih cepat,

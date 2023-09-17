@@ -35,7 +35,7 @@ Klik op u voorkeurbetaalmetode-ikoon hier onder:
    vertraging gratis kaartbywerkings kan aflaai. Dit is honderde teragrepe
    per maand, en die hoeveelheid neem toe.
 2. Gebruikersondersteuning, foute herstel, en verbetering van die
-   toepstabiliteit is ons hoofprioriteite. Daar is [1200+ probleme op
+   toepstabiliteit is ons hoofprioriteite. Daar is [1800+ probleme op
    GitHub][github issues], en die aantal neem daagliks toe. Die AppStore,
    Google Play, en ondersteuningse-posadresse word oorstroom met kommentaar
    en foute. Ons wil ’n produk van hoë kwaliteit lewer.

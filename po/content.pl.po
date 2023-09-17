@@ -33,7 +33,7 @@ msgstr "**Organic Maps** to darmowa aplikacja na Androida i iOS z mapami offline
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** to jedna z niewielu obecnie aplikacji, która obsługuje 100% funkcji bez aktywnego połączenia z internetem. Zainstaluj Organic Maps, pobierz mapy, wyrzuć kartę SIM (tak przy okazji, Twój operator stale Cię śledzi) i wybierz się na tygodniową wycieczkę na jednym ładowaniu baterii bez żadnego bajtu wysłanego do sieci.\n"
 
 #. type: Title ###
@@ -280,7 +280,7 @@ msgstr "Aplikacja jest darmowa dla wszystkich. Prosimy o [przekazanie darowizny]
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr "Aby natychmiast przekazać darowiznę, kliknij ikonę preferowanej metody płatności poniżej:"
 
 #. type: Plain text
@@ -416,7 +416,7 @@ msgstr "Otwarte źródła"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr "Kliknij ikonę preferowanej metody płatności poniżej:"
 
 #. type: Title ##
@@ -453,8 +453,8 @@ msgstr "Płacimy za szybkie serwery, więc każdy na świecie może pobierać da
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Wsparcie użytkowników, usuwanie błędów i poprawa stabilności aplikacji są na szczycie naszych priorytetów. Mamy [ponad 1200 zgłoszonych na GitHubie problemów do rozwiązania][github issues], a liczba ta rośnie każdego dnia. AppStore, Google Play i e-maile wsparcia są zalane komentarzami i błędami. Chcemy dostarczać produkt wysokiej jakości."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Wsparcie użytkowników, usuwanie błędów i poprawa stabilności aplikacji są na szczycie naszych priorytetów. Mamy [ponad 1800 zgłoszonych na GitHubie problemów do rozwiązania][github issues], a liczba ta rośnie każdego dnia. AppStore, Google Play i e-maile wsparcia są zalane komentarzami i błędami. Chcemy dostarczać produkt wysokiej jakości."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

@@ -15,7 +15,7 @@ Organic Maps 应用程序 _对每个人都是免费的_ ，感谢您的**[donati
 - 无推送通知
 - 开源
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -28,7 +28,7 @@ Click a preferred payment method icon below:
 ## 捐款如何使用？
 
 1. 我们为快速服务器付费，所以任何人都可以快速、免费更新地图数据，而不会有延迟。 每月有数百兆字节，而且数量不断增长。
-2. 用户支持、修复问题和提高应用程序稳定性是我们的首要任务。 在GitHub上有[1200多个问题][github issues]，而且这个数字每天都在增长。 AppStore、Google Play和支持邮件中满是评论和问题。我们希望提供高品质应用程序。
+2. 用户支持、修复问题和提高应用程序稳定性是我们的首要任务。 在GitHub上有[1800多个问题][github issues]，而且这个数字每天都在增长。 AppStore、Google Play和支持邮件中满是评论和问题。我们希望提供高品质应用程序。
 3. 有了充足的资金，我们就可以更快开发新功能，例如：
    - 每周和自动更新地图数据
    - 书签备份和同步
@@ -43,7 +43,7 @@ Click a preferred payment method icon below:
 
 ## 如何捐赠？
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
