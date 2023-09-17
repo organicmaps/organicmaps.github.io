@@ -7,9 +7,9 @@ sort_by: weight
 title: "Organic Maps: Offline pěší turistika, cykloturistika, stezky a navigace"
 ---
 
-**Organické mapy** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.
+**Organic Maps** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.
 
-**Aplikace Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.
+**Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.
 
 ### Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
@@ -68,7 +68,7 @@ Aplikace je ověřena od [Exodus Privacy Project][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+Aplikace pro iOS je ověřena pomocí [TrackerControl for iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -92,7 +92,8 @@ Odmítněte dohled - přijměte svou svobodu.
 Aplikace je pro všechny zdarma. Podpořte nás prosím
 [donate](@/donate/index.cs.md)!
 
-To donate immediately, click a preferred payment method icon below:
+Chcete-li přispět okamžitě, klikněte na ikonu preferovaného způsobu platby
+níže:
 
 {{ donate_buttons() }}
 

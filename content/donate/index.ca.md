@@ -16,7 +16,7 @@ Organic Maps és _gratis per a tothom_ gràcies a les seves
 - Notificacions emergents
 - Codi obert
 
-Click a preferred payment method icon below:
+Feu clic a la icona de pagament preferit:
 
 {{ donate_buttons() }}
 
@@ -56,7 +56,7 @@ Click a preferred payment method icon below:
 
 ## Com donar?
 
-Click a preferred payment method icon below:
+Feu clic a la icona de pagament preferit:
 
 {{ donate_buttons() }}
 
