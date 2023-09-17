@@ -4,7 +4,7 @@
 
 <h1>{{ resource.date | date(format='%B %e, %Y') }}</h1>
 
-<div class="news_content">
+<div class="news_content"{% if resource.translations | length <= 1 %} dir="auto"{% endif %}>
   {{ resource.content | safe }}
 </div>
 
