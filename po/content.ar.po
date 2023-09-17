@@ -851,7 +851,7 @@ msgstr "تثبيت Organic Maps من سوق Google Play"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "الإنجليزية"
+msgstr "العربية"
 
 #. type: Hash Value: name
 #: translations.yaml
