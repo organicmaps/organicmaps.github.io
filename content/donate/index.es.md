@@ -38,7 +38,7 @@ Haz clic en el icono del método de pago que prefieras:
    creciendo.
 2. La asistencia a los usuarios, el arreglo de errores y la mejora de la
    estabilidad de la aplicación son nuestras principales prioridades. Hay
-   más de [1200 informes en GitHub][github issues], y este número crece cada
+   más de [1800 informes en GitHub][github issues], y este número crece cada
    día. AppStore, Google Play y los correos de atención están inundados con
    comentarios e informes. Queremos entregar un producto de calidad.
 3. Con suficiente dinero, pueden desarrollarse prestaciones nuevas más

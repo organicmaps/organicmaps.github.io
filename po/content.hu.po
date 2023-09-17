@@ -42,7 +42,7 @@ msgstr "Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalma
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az Organic Maps-et, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.\n"
 
 #. type: Title ###
@@ -289,7 +289,7 @@ msgstr "Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon](@/
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Plain text
@@ -425,7 +425,7 @@ msgstr "Nyílt forráskód"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Title ##
@@ -462,8 +462,8 @@ msgstr "Gyors szerverekért fizetünk, így a világon bárki késedelem nélkü
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "A felhasználói segítség, a hibajavítás és az alkalmazás stabilitásának javítása a prioritások között az első helyen áll.   GitHubon [1200+ hibanapló van megnyitva][github issues], és ez a szám napról napra nő.  Az AppStore, a Google Play és a támogatási e-maileket elárasztják a megjegyzések és a hibák. Minőségi terméket akarunk előállítani."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "A felhasználói segítség, a hibajavítás és az alkalmazás stabilitásának javítása a prioritások között az első helyen áll.   GitHubon [1800+ hibanapló van megnyitva][github issues], és ez a szám napról napra nő.  Az AppStore, a Google Play és a támogatási e-maileket elárasztják a megjegyzések és a hibák. Minőségi terméket akarunk előállítani."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

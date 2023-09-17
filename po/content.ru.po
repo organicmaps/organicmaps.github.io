@@ -32,7 +32,7 @@ msgstr "**Organic Maps** – это бесплатные iOS и Android офла
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** поддерживает 100% функций без активного Интернет-подключения. Загрузите нужные карты, выбросьте SIM-карту (кстати, ваш оператор постоянно отслеживает вас) и отправляйтесь в недельное путешествие на одном заряде батареи.\n"
 
 #. type: Title ###
@@ -448,8 +448,8 @@ msgstr "Мы платим за быстрые серверы, чтобы люб�
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Поддержка пользователей, исправление ошибок и повышение стабильности приложения — в числе наших наивысших приоритетов. Сейчас [на GitHub более 1200 сообщений об ошибках и улучшениях][github issues], и это число растет с каждым днем. AppStore, Google Play и наша электронная почта так же переполнены комментариями. Мы хотим поддерживать качество и скорость работы на высоком уровне."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Поддержка пользователей, исправление ошибок и повышение стабильности приложения — в числе наших наивысших приоритетов. Сейчас [на GitHub более 1800 сообщений об ошибках и улучшениях][github issues], и это число растет с каждым днем. AppStore, Google Play и наша электронная почта так же переполнены комментариями. Мы хотим поддерживать качество и скорость работы на высоком уровне."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

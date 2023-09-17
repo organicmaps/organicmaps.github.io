@@ -16,7 +16,7 @@ Organic Maps app is _gratis voor iedereen_ dankzij jullie
 - Geen pushmeldingen
 - Open source
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -36,7 +36,7 @@ Click a preferred payment method icon below:
    kaartenupdates kan downloaden zonder vertraging. Dit zijn honderden
    terabytes per maand, en de hoeveelheid neemt toe.
 2. Gebruikersondersteuning, bugs fixen, en de stabiliteit van de app
-   verbeteren zijn onze topprioriteiten. Er zijn [1200+ issues op
+   verbeteren zijn onze topprioriteiten. Er zijn [1800+ issues op
    GitHub][github issues], en dit aantal neemt elke dag toe. De AppStore,
    Google Play, en support email-adressen worden overspoeld met reacties en
    fouten. We willen een product van een hoge kwaliteit leveren.
@@ -55,7 +55,7 @@ Click a preferred payment method icon below:
 
 ## Hoe kan je doneren?
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 

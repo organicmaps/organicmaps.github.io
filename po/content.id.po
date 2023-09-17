@@ -33,7 +33,7 @@ msgstr "**Organic Maps** adalah aplikasi peta luring Android & iOS gratis untuk 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** adalah salah satu dari sedikit aplikasi saat ini yang mendukung 100% fitur tanpa koneksi Internet aktif. Instal Organic Maps, unduh peta, buang kartu SIM Anda (ngomong-ngomong, operator Anda terus melacak Anda), dan lakukan perjalanan mingguan dengan satu kali pengisian baterai tanpa bita apa pun yang dikirim ke jaringan.\n"
 
 #. type: Title ###
@@ -280,7 +280,7 @@ msgstr "Aplikasi ini gratis untuk semua orang. Silakan [berdonasi](@/donate/inde
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr "Untuk segera berdonasi, klik ikon metode pembayaran pilihan di bawah ini:"
 
 #. type: Plain text
@@ -416,7 +416,7 @@ msgstr "Sumber terbuka"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr "Klik ikon metode pembayaran yang diinginkan di bawah ini:"
 
 #. type: Title ##
@@ -453,8 +453,8 @@ msgstr "Kami membayar untuk server yang cepat, sehingga siapa pun di Dunia dapat
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi adalah prioritas utama kami.  Ada [1200+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari.  App Store, Google Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin memberikan produk berkualitas tinggi."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi adalah prioritas utama kami.  Ada [1800+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari.  App Store, Google Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin memberikan produk berkualitas tinggi."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

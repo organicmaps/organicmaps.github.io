@@ -33,7 +33,7 @@ msgstr "**Organic Maps** est une application de cartes hors-ligne sur Android & 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** est l'une des rares applications de nos jours à prendre en charge 100% des fonctionnalités sans connection Internet active. Installez Organic Maps, téléchargez des cartes, jetez votre carte SIM (au fait, votre opérateur vous traque en permanence) et partez pour un voyage d'une semaine avec une seule charge de batterie sans aucun octet envoyé au réseau.\n"
 
 #. type: Title ###
@@ -494,13 +494,13 @@ msgstr "Nous payons pour des serveurs rapides, afin que n'importe qui dans le Mo
 #: content/donate/index.md
 msgid ""
 "User support, bugfixing, and improving the stability of the app are at the "
-"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
+"top of our priorities.  There are [1800+ issues on GitHub][github issues], "
 "and this number is growing every day.  AppStore, Google Play, and support "
 "emails are overflooded with comments and bugs. We want to deliver a high-"
 "quality product."
 msgstr ""
 "L'assistance aux utilisateurs, la correction des bogues et l'amélioration de "
-"la stabilité de l'application sont en tête de nos priorités.  Il y a [1200+ "
+"la stabilité de l'application sont en tête de nos priorités.  Il y a [1800+ "
 "problèmes sur GitHub] [github issues], et ce nombre augmente chaque jour.  "
 "L'AppStore, Google Play et les courriels d'assistance sont inondés de "
 "commentaires et de bogues. Nous voulons livrer un produit de haute qualité."

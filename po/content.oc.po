@@ -42,7 +42,7 @@ msgstr "**Mapas Organicas** es una aplicacion de mapas a gratis sensa connexion 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "N’i a gaire a l’ora d’ara d’aplicacions coma **Mapas Organicas** que foncionan entierament sensa la connexion a Internet activa. Installatz Mapas Organicas, teledescargatz de mapas, escampatz vòstra carteta SIM (que, o sabètz, vòstre operator vos es a l’après de lònga) e partètz per una setmana de viatge amb un solet plen de batariá sensa un bit mandat au malhum.\n"
 
 #. type: Title ###
@@ -290,7 +290,7 @@ msgstr "L'aplicacion es a gratis per totei. Se volètz [donar](@/donate/index.ca
 
 #. type: Plain text
 #: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Plain text
@@ -426,7 +426,7 @@ msgstr "Còde dobèrt"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Title ##
@@ -463,8 +463,8 @@ msgstr "Pagam per de servidors rapides, que pertot dins lo monde se pòsque desc
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "L'assisténcia deis utilizators, la correccion d'errors e una estabiitat melhora de l'aplicacion son nòstrei prioritats principalas. I a mai de [1200 senhalaments sus GitHub][github issues], e lo nombre crèis cada jorn. AppStore, Google Play, e lei messatjariás d'assisténcia regòrgan de comentaris e de senhalaments. Volèm ofrir un produch de qualitat."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "L'assisténcia deis utilizators, la correccion d'errors e una estabiitat melhora de l'aplicacion son nòstrei prioritats principalas. I a mai de [1800 senhalaments sus GitHub][github issues], e lo nombre crèis cada jorn. AppStore, Google Play, e lei messatjariás d'assisténcia regòrgan de comentaris e de senhalaments. Volèm ofrir un produch de qualitat."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

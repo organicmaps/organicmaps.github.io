@@ -16,7 +16,7 @@ esker:
 - Push jakinarazpenik ez
 - Kode irekikoa
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -36,7 +36,7 @@ Click a preferred payment method icon below:
    deskargatu ahal izango ditu mapa eguneraketak atzerapenik gabe. Hilero
    ehunka Terabyte dira hauek, eta tamaina handitzen doa.
 2. Erabiltzaileei laguntza, akats-konponketa eta app-aren egonkortasuna
-   hobetzea dira gure lehentasunak. [1200 eskaera baino gehiago daude
+   hobetzea dira gure lehentasunak. [1800 eskaera baino gehiago daude
    GitHub-en][github issues] eta zenbaki hau egunero handitzen da.
    AppStore, Google Play eta arretako eposta helbideak iradokizun eta
    akatsekin beteta daude. Kalitate handiko produktu bat eman nahi dugu.
@@ -56,7 +56,7 @@ Click a preferred payment method icon below:
 
 ## Nola egin dohaintza?
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 

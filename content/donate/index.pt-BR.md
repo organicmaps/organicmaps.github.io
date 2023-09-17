@@ -36,7 +36,7 @@ Clique no método preferido de pagamento abaixo:
    baixar gratuitamente as atualizações de dados do mapa sem atrasos. São
    centenas de terabytes por mês, que cresce mais e mais.
 2. Suporte ao usuário, correção de erros e melhoria da estabilidade do app
-   estão no topo de nossas prioridades. Existem [mais de 1200 problemas no
+   estão no topo de nossas prioridades. Existem [mais de 1800 problemas no
    GitHub][github issues], e este número está crescendo a cada dia.
    AppStore, Google Play, e e-mails de suporte estão sobrecarregados com
    comentários e erros. Queremos entregar um produto de alta qualidade.

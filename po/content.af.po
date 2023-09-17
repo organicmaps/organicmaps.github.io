@@ -33,7 +33,7 @@ msgstr "**Organic Maps** is ’n gratis Android & iOS vanlyn kaarttoep vir reisi
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** is een van die min toeps deesdae wat 100% van die funksionaliteit het sonder ’n aktiewe internetverbinding. Installeer Organic Maps, laai kaarte af, gooi u SIM-kaart weg (trouens, u verskaffer spoor u altyd na), en gaan ’n week op pad sonder om u battery te moet laai en sonder dat daar een greep na die netwerk verstuur word.\n"
 
 #. type: Title ###
@@ -321,7 +321,7 @@ msgstr "Die toep is gratis vir almal. [Skenk](@/donate/index.nl.md) asseblief om
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "To donate immediately, click a preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr "Om onmiddellik te skenk kan u op ’n voorkeurbetaalmetode hier onder klik:"
 
 #. type: Plain text
@@ -477,7 +477,7 @@ msgstr "Oopbron"
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
-msgid "Click a preferred payment method icon below:"
+msgid "Click on your preferred payment method icon below:"
 msgstr "Klik op u voorkeurbetaalmetode-ikoon hier onder:"
 
 #. type: Title ##
@@ -519,8 +519,8 @@ msgstr "Ons betaal vir vinnige bedieners, sodat elkeen in die wêreld sonder ver
 #. type: Bullet: '2. '
 #: content/donate/index.md
 #, markdown-text
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Gebruikersondersteuning, foute herstel, en verbetering van die toepstabiliteit is ons hoofprioriteite.  Daar is [1200+ probleme op GitHub][github issues], en die aantal neem daagliks toe.  Die AppStore, Google Play, en ondersteuningse-posadresse word oorstroom met kommentaar en foute. Ons wil ’n produk van hoë kwaliteit lewer."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Gebruikersondersteuning, foute herstel, en verbetering van die toepstabiliteit is ons hoofprioriteite.  Daar is [1800+ probleme op GitHub][github issues], en die aantal neem daagliks toe.  Die AppStore, Google Play, en ondersteuningse-posadresse word oorstroom met kommentaar en foute. Ons wil ’n produk van hoë kwaliteit lewer."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md

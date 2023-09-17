@@ -33,7 +33,7 @@ msgstr "**ഓർഗാനിക് മാപ്‌സ്** യാത്രക്
 #. type: Plain text
 #: content/_index.md
 #, fuzzy, markdown-text, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**ഓർഗാനിക് മാപ്‌സ്** എന്നത് സജീവമായ ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ലാതെ 100% സവിശേഷതകളെ പിന്തുണയ്ക്കുന്ന ചുരുക്കം ചില പ്രയോഗങ്ങളിൽ ഒന്നാണ്. ഓർഗാനിക് മാപ്‌സ് ഇൻസ്‌റ്റാൾ ചെയ്യുക, ഭൂപടങ്ങൾ ഡൗൺലോഡ് ചെയ്യുക, നിങ്ങളുടെ സിം കാർഡ് വലിച്ചെറിയുക (വഴി, നിങ്ങളുടെ ഓപ്പറേറ്റർ നിങ്ങളെ നിരന്തരം ട്രാക്ക് ചെയ്യുന്നു), നെറ്റ്‌വർക്കിലേക്ക് അയയ്‌ക്കേണ്ട ഒരു ബൈറ്റ് ഇല്ലാതെ ഒരൊറ്റ ബാറ്ററി ചാർജിൽ ഒരു ആഴ്‌ച നീണ്ട യാത്ര പോകുക.\n"
 
 #. type: Title ###
@@ -513,7 +513,7 @@ msgstr ""
 #. type: Bullet: '2. '
 #: content/donate/index.md
 #, markdown-text
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgstr ""
 
 #. type: Bullet: '3. '

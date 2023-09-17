@@ -15,7 +15,7 @@ Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
 - No push notifications
 - Open source
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -32,7 +32,7 @@ Click a preferred payment method icon below:
 1. We pay for fast servers, so anyone in the World can download free map data updates without delays.
    It's hundreds of terabytes monthly, and the amount is growing.
 2. User support, bugfixing, and improving the stability of the app are at the top of our priorities.
-   There are [1200+ issues on GitHub][github issues], and this number is growing every day.
+   There are [1800+ issues on GitHub][github issues], and this number is growing every day.
    AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
 3. With enough money, new features can be developed faster, for example:
    - Weekly and automated map data updates
@@ -48,7 +48,7 @@ Click a preferred payment method icon below:
 
 ## How to donate?
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 

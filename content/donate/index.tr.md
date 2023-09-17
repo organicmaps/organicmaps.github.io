@@ -30,7 +30,7 @@ Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizd
 1. Daha hızlı sunucular için ödeme yapıyoruz, böylece dünyadaki herkes ücretsiz harita güncellemelerini gecikme olmadan indirebiliyor.
    Aylık yüzlerce terabayt harita indiriliyor ve bu rakam her geçen gün artıyor.
 2. Kullanıcı desteği, hata düzeltme ve uygulamanın kararlılığını iyileştirme, önceliklerimizin başında geliyor.
-   [GitHub sayfamızda 1200'den fazla sorun][github issues] var ve bu sayı her geçen gün artıyor.
+   [GitHub sayfamızda 1800'den fazla sorun][github issues] var ve bu sayı her geçen gün artıyor.
    App Store, Google Play ve destek e-postamız; yorum ve hatalarla dolu. Yüksek kaliteli bir ürün sunmak istiyoruz.
 3. Yeterli para ile yeni özellikler daha hızlı geliştirilebilir, örneğin:
    - Haftalık ve otomatik harita güncellemeleri
