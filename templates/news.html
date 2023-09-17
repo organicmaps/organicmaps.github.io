@@ -23,6 +23,9 @@
 {% if translatedPage %}
   {% set page = get_page(path=translatedPage.path) %}
 {% endif %}
+
+<section{% if page.translations | length <= 1 %} dir="auto"{% endif %}>
+
 <div class="news_date">&nbsp;<a href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
 {# Display wide images below the text instead of to the right. #}
 {% set_global noflex = '' %}
@@ -43,6 +46,8 @@
 <img class="news_image" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 </span>
+
+</section>
 
 </div>
 {% endfor %}

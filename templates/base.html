@@ -5,7 +5,8 @@
 {%- endif %}
 
 <!DOCTYPE html>
-<html lang="{{ lang }}">
+{%- set rtl_langs = ["ar", "arc", "dv", "fa", "ha", "he", "khw", "ks", "ku", "ps", "ur", "yi"] -%}
+<html lang="{{ lang }}" {%- if lang in rtl_langs -%} dir="rtl" {%- endif -%}>
 
 <head>
   <meta charset="utf-8">
