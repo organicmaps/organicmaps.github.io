@@ -54,7 +54,7 @@ msgstr "从 [AppStore][appstore]、[Google Play][googleplay]、[FDroid][fdroid]�
 #. type: Plain text
 #: content/_index.md
 msgid "{{ badges() }}"
-msgstr "{{ badges() }}}"
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -221,7 +221,7 @@ msgstr "本应用程序已经[Exodus Privacy Project][exodus]认证："
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot() }}"
-msgstr "{{ exodus_screenshot() }}}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
