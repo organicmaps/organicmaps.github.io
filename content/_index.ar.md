@@ -1,10 +1,10 @@
 ---
-description: 'خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات، انشأت من قبل مؤسسي تطبيق MapsWithMe (Maps.Me).'
+description: "خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات، انشأت من قبل مؤسسي تطبيق MapsWithMe (Maps.Me)."
 extra:
   menu_title: الرئيسية
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: خرائط بدون إنترنت للتنزه، الدراجة، المسارات والتوجيه'
+title: "Organic Maps: خرائط بدون إنترنت للتنزه، الدراجة، المسارات والتوجيه"
 ---
 
 **Organic Maps** هو تطبيق أندرويد و آيفون مجاني ولا يحتاج الإتصال بالإنترنت من أجل المسافرين،السياح ، المتنزهين والدراجين مبني على بيانات المصدر العام **[OpenStreetMap][openstreetmap]**. مهتم بخصوصية المستخدمين، مفتوح المصدر، متفرع من تطبيق **Maps.Me** (المعروف سابقا بـ [**MapsWithMe**][mapswithme])، يقوم بصيانته نفس الأشخاص الذين أسسو **MapsWithMe** سنة 2011.
@@ -103,10 +103,10 @@ To donate conveniently, click on your preferred payment method icon below:
 Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تحت ترخيص Apache 2.0.
 
 - يرجى الانضمام إلى برنامجنا التجريبي، واقتراح ميزاتك، والإبلاغ عن الأخطاء:
-  * [iOS تجريبي (TestFlight)][testflight]
-  * [أندرويد تجريبي (Firebase)][firebase]
-  * [سطح مكتب Linux تجريبي (Flatpak)][flatpak]
-  * [سطح مكتب Linux تجريبي (حزم)][repology]
+  - [iOS تجريبي (TestFlight)][testflight]
+  - [أندرويد تجريبي (Firebase)][firebase]
+  - [سطح مكتب Linux تجريبي (Flatpak)][flatpak]
+  - [سطح مكتب Linux تجريبي (حزم)][repology]
 - أبلغ عن الأخطاء أو المشكلات إلى [متعقب المشكلات][issues] أو [مراسلتنا عبر
   البريد الإلكتروني][email].
 - [مناقشة][ideas] الأفكار أو اقتراح طلبات الميزات.
