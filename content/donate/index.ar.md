@@ -15,7 +15,7 @@ weight: 10
 - لا إشعارات مزعجة
 - مفتوح المصدر
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
@@ -33,7 +33,7 @@ Click a preferred payment method icon below:
    تحديثات بيانات الخريطة المجانية دون تأخير. إنها مئات التيرابايت شهريًا،
    والمبلغ آخذ في الازدياد.
 2. يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس
-   أولوياتنا. هناك [1200 + مشكلة على GitHub][github issues]، وهذا الرقم
+   أولوياتنا. هناك [1800 + مشكلة على GitHub][github issues]، وهذا الرقم
    يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني
    الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة.
 3. مع ما يكفي من المال، يمكن تطوير ميزات جديدة بشكل أسرع، على سبيل المثال:
@@ -50,7 +50,7 @@ Click a preferred payment method icon below:
 
 ## كيف تتبرع؟
 
-Click a preferred payment method icon below:
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
