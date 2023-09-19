@@ -13,7 +13,7 @@ title: "Organic Maps：离线的远足、自行车、登山和导航地图"
 
 ### 从 [AppStore][appstore]、[Google Play][googleplay]、[FDroid][fdroid]、[华为 AppGallery][appgallery] 下载并安装Organic Maps {#install}
 
-{{ badges() }}}
+{{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='登山') }}
 
@@ -60,7 +60,7 @@ Organic Maps 应用没有跟踪器和其他糟糕的东西：
 
 本应用程序已经[Exodus Privacy Project][exodus]认证：
 
-{{ exodus_screenshot() }}}
+{{ exodus_screenshot() }}
 
 The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
 
