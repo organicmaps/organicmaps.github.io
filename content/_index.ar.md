@@ -88,7 +88,7 @@ Organic Maps لا يطلب أذونات مفرطة للتجسس عليك:
 
 التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.md) لدعمنا!
 
-To donate immediately, click a preferred payment method icon below:
+To donate conveniently, click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
