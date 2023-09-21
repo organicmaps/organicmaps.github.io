@@ -317,7 +317,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Our sponsors:"
-msgstr "Ein noddwyr:"
+msgstr "Ein noddwyr"
 
 #. type: Plain text
 #: content/_index.md
