@@ -1,12 +1,16 @@
-# Organic Maps Web Site
+# Organic Maps Website
 
-This website is build with [Zola](https://www.getzola.org/) and Cloudflare Pages.
+This static website is built with [Zola](https://www.getzola.org/) and Cloudflare Pages.
+
+![Main Website](./static/images/website-main.png)
 
 ## Development
 
-Use `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
+Download zola (version 0.17.2) for your operating system and set up the necessary path variable.
 
-`npm i && npm run format` will pretty-format Markdown and scss.
+Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
+
+Run `npm i && npm run format` when you want to pretty-format the Markdown and scss files.
 
 Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
 
