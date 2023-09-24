@@ -10,7 +10,7 @@ Download zola (version 0.17.2) for your operating system and set up the necessar
 
 Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 
-Run `npm i && npm run format` when you want to pretty-format the Markdown and scss files.
+Run `npm i && npm run format` when you want to pretty-format the Markdown and SCSS files.
 
 Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
 
