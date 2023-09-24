@@ -6,7 +6,7 @@ This static website is built with [Zola](https://www.getzola.org/) and Cloudflar
 
 ## Development
 
-Download zola (version 0.17.2) for your operating system and set up the necessary path variable.
+Download the latest zola (version 0.17.2 at the time of writing) for your operating system and set up the necessary path variable.
 
 Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 
