@@ -1,76 +1,25 @@
 ---
-title: Text-to-Speech on Android
-description: Guide on how to make TTS work on Android
-weight: 100
+title: "F.A.Q."
+description: "Frequently asked questions for Organic Maps application"
+weight: 1000
 extra:
-    menu_title: FAQ
+  menu_title: F.A.Q.
 ---
 
-TLDR:
+[General questions](general) - who created Organic Maps, what's our goal, useful links
 
-Organic Maps uses the system text-to-speech (TTS) engine for voice instructions. The default engines vary by device. The choices can include Google Text-to Speech, device manufacturer's engine or a third-party one. 
+[Map questions](map) - how to use map, gestures, updating and editing
 
-The official recommendation from Organic Maps is [RHVoice](https://rhvoice.org/), which is a free and open source speech engine that can be downloaded from [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) and [F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/).
+[Routing questions](routing) - how to build routes, detour settings, compas calibration
 
-## Instructions
+[Android questions](android) - android versions support, android specific behaviours
 
-- Open the Settings app on your Android device.
-- Select Additional Settings and then select Accessibility.
-- Choose your preferred engine, speech rate and pitch.
+[iPhone questions](ios) - iOS specific questions
 
-If you cannot find the relevant setting, open the settings app and search for Text-to-speech.
+[Bookmarks and tracks questions](bookmarks) - how to use bookmarks, import tracks and backup your marks
 
-P.S: Do note that these steps will vary based on the phone brand you are using.
+[Voice instructions](tts) - how to enable voice instructions, TTS settings on device
 
-Said options may not appear if you don't have a TTS already installed on your device. Please refer to the table below to install any one of them that supports your native language.
-
-## Screenshots
-
-|             |             |             |
-| ----------- | ----------- | ----------- |
-| <img src='/images/screenshots/tts_config_1.jpg' width='400' alt='Screenshot 1'> | <img src='/images/screenshots/tts_config_2.jpg' width='400' alt='Screenshot 2'> | <img src='/images/screenshots/tts_config_3.jpg' width='400' alt='Screenshot 3'> |
-
-## Engines
-
-Below is a comprehensive list showing several engines and the languages they support (download links can be found after the table):
-
-{{ tts_table() }}
-
-## Downloads
-
-- [Acapela Voices TTS](https://play.google.com/store/apps/details?id=com.acapelagroup.android.tts)
-- [Amazon Ivona TTS](https://apkpure.com/ivona-text-to-speech-hq/com.ivona.tts/download)
-- [eSpeak TTS](https://f-droid.org/en/packages/com.reecedunn.espeak/)
-- [Google Speech Services](https://play.google.com/store/apps/details?id=com.google.android.tts)
-- [RHVoice TTS (Recommended)](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android)
-- [Vocalizer (Code Factory)](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)
-- [Vocalizer 2 (Nuance)](https://nvda.ru/sintezatory-rechi-vocalizer-expressive2-dlja-nvda#)
-- [Yandex SpeechKit TTS](https://4pda.to/forum/index.php?showtopic=200728&st=4200#download)
-
-## Workarounds
-
-If you’re having trouble initializing the RHVoice TTS engine on LineageOS or other custom ROMs, try this workaround. RHVoice may not initialize properly and the app may crash, especially if you haven’t used any TTS engine on your phone before (e.g., new installation, factory reset, etc.). If you’re using a custom ROM like LineageOS <ins>without Google Play services and Speech Services by Google</ins>, and you want to use RHVoice as your preferred TTS engine, follow the instructions below as a workaround:
-
-- Install the [eSpeak TTS engine](https://f-droid.org/en/packages/com.reecedunn.espeak) available on F-Droid
-
-- Set it as the preferred system engine
-
-    - Go to LineageOS main **Settings**.
-
-    - Scroll down to **Accessibility**.
-
-    - Select **text-to-speech output** and **Preferred engine** (left side) and make sure **eSpeak** is selected.
-
-- Go back and press **play** to see if it is working
-
-- Install [RHVoice](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) available on F-droid.
-
-    - Open it, select the language you want to use, tap on the cloud icon (far left) to download voices.
-
-    - Press play button to verify if it is working
-    
-- Set **RHVoice** as preferred engine (see step 2)
-
-- Now, you should be able to use RHVoice without any problems
-
-*In order to hear voice instructions you have to actually start a navigation to receive any voice output, Organic Maps will not give you any voice instructions while you're standing still.*
+[github]: https://github.com/organicmaps/organicmaps
+[license]: http://www.apache.org/licenses/LICENSE-2.0
+[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
