@@ -8,24 +8,44 @@ extra:
 
 ### Project history
 
-### Кто занимается проектом?
+TODO
 
-### Чем OM лучше других?
+### Who is working on the project?
 
-Compare our privacy policy with other maps apps. Tell your friends about the difference. https://organicmaps.app/privacy/
+Core team consists of:
+* Alexander Borsuk
+* Konstantin Pastbin
+* Viktor Govako
+* Roman Tsisyk
 
-### Что планируется сделать?
+Also contributors help with new features, bugfixing, testing, graphical design and translations.
 
-### Как отправить нам репорт об ошибке? Как включать логи (только андроид)?
+### What are the advantages of OM compared to other maps?
 
-### Where to read latest news updates
+OrganicMaps is focused on speed, privacy, battery efficiency and minimization of network utilization.
+You can use offline map for navigation in places far from civilization and in cities with complex traffic network.
+Also compare our [privacy policy](/privacy) with other maps apps. Tell your friends about the difference. 
 
-Подпишитесь в гитхабе или в телеге на новости о фичах, которые хотите (надо добавить почтовую рассылку на сайт тоже)
+### What is your product roadmap?
+
+Crunch till the end of our days!!
 
 ### Why you should always update app to the latest version?
 
-Мы постоянно исправляем много багов, обновления карт пока привязаны к обновлениям приложения. Отвяжем.
+We constantly working on improvements and fixing bugs. New map data is distributed only with regular application updates.
 
+### How to send up a bugreport?
+
+Report bugs or issues to [the issue tracker][issues] or [email us][email].
+
+### Where to read latest news updates?
+
+- Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates.
+- Join our [Telegram Group][telegram_chat] to discuss with other users.
+- Visit our [GitHub page][github].
+- Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn].
+
+{{ references() }}
 
 [github]: https://github.com/organicmaps/organicmaps
 [license]: http://www.apache.org/licenses/LICENSE-2.0
