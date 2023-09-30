@@ -136,9 +136,9 @@ function parseHtml(html) {
       const ext = photo.split('.').pop();
       const fileName = `${i}.${ext}`;
       // Handle special cases when image is published as a separate message immediately after
-      // the main text message (Telegram has 1024 chars limit for image caption).
+      // the main text message (Telegram has 1024/2048 chars limit for image caption).
       if (!text && prevDate && (new Date(date) - new Date(prevDate)) <= kPostsDiffInMs) {
-        // Do not download jpg if images already exist.
+        // Do not download if images already exist.
         if (!fs.existsSync(`${prevDir}/${i}.png`)
             && !fs.existsSync(`${prevDir}/${i}.webp`)
             && !fs.existsSync(`${prevDir}/${i}.jpg`)
