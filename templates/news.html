@@ -43,7 +43,8 @@
 
 <span class="news_images">
 {% for photo in page.assets | sort %}
-<img class="news_image" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
+{% set meta = get_image_metadata(path=photo) %}
+<img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 </span>
 
