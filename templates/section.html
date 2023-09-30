@@ -16,8 +16,7 @@
   <div class="news_content">{{ page.content | safe }}</div>
 {% endif %}
 {% for photo in page.assets %}
-{% set meta = get_image_metadata(path=photo) %}
-<img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
+<img class="news_image" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
 {% endfor %}
 </div>
 {% endfor %}
