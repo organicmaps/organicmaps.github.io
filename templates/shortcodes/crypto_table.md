@@ -16,6 +16,7 @@ Cosmos        | ATOM | cosmos1jurqcft6vf8gah8lpyz53ue9qf5gz2rfy8wfla
 Dash          | DASH | XgWTXGVCNEVVEkL9DQutscjcs6zvDUgccf
 Dai/ETH       | DAI  | 0x1D59bBe5d4332e34116DccDE5c1a8c736E1C2810
 Dogecoin      | DOGE | DRdtRetmiSFHLkorNHyf4nL2MT375Xkmrm
+eCash         | XEC  | ecash:qpy6c5050vyste69tph2xmmqjchwldvggg7pe99937
 Ethereum      | ETH  | 0x1D59bBe5d4332e34116DccDE5c1a8c736E1C2810
 Fantom/ETH    | FTM  | 0x1D59bBe5d4332e34116DccDE5c1a8c736E1C2810
 Filecoin      | FIL  | f1s4n3oog2d3swxgdqz7llo47pdfxu2ykvvptapiq
