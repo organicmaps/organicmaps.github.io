@@ -6,9 +6,36 @@ extra:
   menu_title: F.A.Q. - General questions
 ---
 
-### Как построить маршрут? Разница на iOS и Android
+### How to build a route?
 
-### Как добавить промежуточные остановки для маршрута?
+OrganicMaps can build route for car trip, bycicle ride or foot walk.
+
+Pick destination point with tap on a POI or by long tap on any place. Use "Route to" button to start route planning.
+
+<img src="/images/faq/faq-routing-button-route-to.jpg" width="400px"/>
+
+
+You can change route type from top menu:
+* Car
+* By foot
+* Metro
+* Bycicle
+* Ruller
+
+<img src="/images/faq/faq-routing-type.jpg" width="400px"/>
+
+Push "Start" to begin step-by-step routing.
+
+### How to add intermediate route points?
+
+In route planning or routing mode you can pick point on map and tap "Add Stop" button. New intermediate point would be added to the route.
+
+<img src="/images/faq/faq-routing-add-stop.jpg" width="400px"/>
+
+In routing mode you can search for gas stations, parking, food, stores and ATMs with search button
+
+<img src="/images/faq/faq-routing-search.jpg" width="75px"/>
+
 
 ### Добавить промежуточные точки для обхода/объезда (как?)
 
@@ -16,7 +43,7 @@ extra:
 
 ### Why map rotates around my position?
 
-The reason could be magnet on your phone case or radiation source near the phone. It could interfere compass sensor in your phone.
+The reason could be magnet on your phone case or radiation source near the phone. It could interfere compass sensor.
 
 To improve compass use callibration moves according to [instruction](https://www.youtube.com/watch?v=-Uq7AmSAjt8).
 
