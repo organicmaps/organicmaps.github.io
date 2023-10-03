@@ -36,10 +36,27 @@ In routing mode you can search for gas stations, parking, food, stores and ATMs 
 
 <img src="/images/faq/faq-routing-search.jpg" width="75px"/>
 
+### How to enable route aviodance rules?
+
+Go to Settings - Routing options and select types of road you want to avoid:
+
+<img src="/images/faq/faq-routing-avoid.jpg" width="400px"/>
+
+If you want to avoid unpaved roads pick selector near "Unpaved roads" as on screenshot.
+
+If OrganicMaps builds a route with some roads which could be avoided you will see button "Define roads to avoid" for quick setup.
+
+<img src="/images/faq/faq-routing-define-roads.jpg" width="400px"/>
 
 ### Добавить промежуточные точки для обхода/объезда (как?)
 
-### Кривые роуты/маршруты если не обновляете карты или не все карты, мы их постоянно улучшаем. Обновляйтесь почаще!
+???
+
+### Why OrganicMaps builds crooked route?
+
+This could happen if map data is outdated. We work on routing constantly. Please update the app regularly.
+
+Sometimes near country or region borders route could be unoptimal. This is known issue.
 
 ### Why map rotates around my position?
 
