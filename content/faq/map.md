@@ -86,9 +86,9 @@ You can use it for azimuth navigation if routing is not possible for some reason
 
 ???
 
-### What if I see blue circle instead of my position triangle?
+### Why do I see blue circle instead of an arrow indicating my position?
 
-???
+Tablets don't have compass sensor that's why circle is drawn instead of directed arrow. You can find your model on [gsmarena.com](https://www.gsmarena.com) to see if compass is present.
 
 ### How to make sure I have latest application installed and up-to-date maps?
 

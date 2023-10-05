@@ -54,7 +54,7 @@ If OrganicMaps builds a route with some avoidable roads you will see button "Def
 
 ### How to measure distance with OrganicMaps? Is there a ruler?
 
-To measure distance from your current position to some object pick that object on map, tap "Route to" button and select Ruler route type:
+To measure distance from your current position to some object pick that object on map, tap "Route to" button, and select Ruler route type:
 
 <img src="/images/faq/faq-routing-ruller-type.jpg" width="400px"/>
 
