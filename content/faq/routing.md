@@ -44,13 +44,25 @@ Go to Settings - Routing options and select types of road you want to avoid:
 
 If you want to avoid unpaved roads pick selector near "Unpaved roads" as on screenshot.
 
-If OrganicMaps builds a route with some roads which could be avoided you will see button "Define roads to avoid" for quick setup.
+If OrganicMaps builds a route with some avoidable roads you will see button "Define roads to avoid" for quick setup.
 
 <img src="/images/faq/faq-routing-define-roads.jpg" width="400px"/>
 
 ### Добавить промежуточные точки для обхода/объезда (как?)
 
 ???
+
+### How to measure distance with OrganicMaps? Is there a ruler?
+
+To measure distance from your current position to some object pick that object on map, tap "Route to" button and select Ruler route type:
+
+<img src="/images/faq/faq-routing-ruller-type.jpg" width="400px"/>
+
+With ruler enabled tap anywhere on map to continue polyline.
+
+<img src="/images/faq/faq-routing-ruler-line.jpg" width="400px"/>
+
+You can choose any start point with "Route from" button.
 
 ### Why OrganicMaps builds crooked route?
 
