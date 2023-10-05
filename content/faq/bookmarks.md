@@ -6,15 +6,27 @@ extra:
   menu_title: F.A.Q. - Bookmarks and tracks
 ---
 
-### Как перемещать треки из одного списка в другой, разница ios и android
+### How to move imported track to another folder?
+
+On Android : ???
+
+On iOS : ???
 
 ### How to import multiple bookmarks on Android?
 
-...
+<img src="/images/faq/faq-bookmarks-android-import.jpg" width="400px"/>
 
-### Hot to import GPX tracke on Android and iOS?
+Push "Import Bookmarks and tracks" button. Choose folder on your phone with KML/KMZ/GPX files. OrganicMaps will scan picked folder and import all bookmarks and tracks.
 
-...
+### Hot to import GPX track on Android and iOS?
+
+If you recieved GPX file in email, messenger, or cloud drive you can import it directly to OrganicMaps app.
+
+On iOS tap on GPX file and press Share button: <img src="/images/faq/faq-bookmarks-ios-share.jpg" width="50px"/>. Then select OrganicMaps to open the file.
+
+On Android tap on recieved GPX file to see Share menu. Select OrganicMaps to import the file.
+
+<img src="/images/faq/faq-bookmarks-android-share.jpg" width="50px"/>
 
 ### How to find bookmarks and tracks files on phone?
 
@@ -26,13 +38,11 @@ You can access these files on iPhone/iPad from desktop using iTunes app.
 
 ...
 
-### What happened with my bookmarks and tracks after uninstalling app?
+### What would happen with my bookmarks and tracks after uninstalling app?
 
 All you tracks and bookmarks are removed from device when OrganicMaps is uninstalled. Please backup your bookmarks and tracks using export button.
 
 Cloud bookmarks backup is planned in future releases.
-
-### Как удалить импортированные треки?
 
 ### Как редактировать и перемещать метки и треки в списках
 
