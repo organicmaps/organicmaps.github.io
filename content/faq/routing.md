@@ -64,6 +64,10 @@ With ruler enabled tap anywhere on map to continue polyline.
 
 You can choose any start point with "Route from" button.
 
+### Почему маршруты в ОМ честные и отличаются от других приложений?
+
+???
+
 ### Why OrganicMaps builds crooked route?
 
 This could happen if map data is outdated. We work on routing constantly. Please update the app regularly.
