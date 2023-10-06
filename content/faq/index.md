@@ -8,3 +8,4 @@ extra:
 ---
 
 ### This page is replaced with taxonomy "faq" from templates/faq/list.html template
+This file is needed for bottom_menu.html template to show F.A.Q.
