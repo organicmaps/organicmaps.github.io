@@ -25,6 +25,48 @@ Every merge into the _master_ branch deploys changes into the production at http
 Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/OrganicMapsApp),
 then create a git commit and push it.
 
+## Taxonomy and F.A.Q. architecture
+
+Each MD page in `/faq/` has taxonomies defined in header. E.g.:
+
+```yaml
+taxonomies:
+  faq: ["Android"]
+```
+
+Zola collects all such taxonomies:
+
+| File                 | Taxonomy key | Taxonomy value |
+| -------------------- | ------------ | -------------- |
+| android-lags.md      | `faq`        | `Android`      |
+| android-logs.md      | `faq`        | `Android`      |
+| general-team.md      | `faq`        | `General`      |
+| general-bugreport.md | `faq`        | `General`      |
+| ios-versions.md      | `faq`        | `iOS`          |
+| map-longtap.md       | `faq`        | `Map`          |
+| ...                  | ...          | ...            |
+
+After that Zola gets all values for `faq` taxonomy: `[General, Android, iOS, Map, ...]`. And generates pages:
+
+* For key `/faq/` with the list of values (see `templates/faq/list.html`)
+* For each value `/faq/general`, `/faq/android`, etc. with the list of questions (see `templates/faq/single.html`)
+
+If you want to add new question then create .md file with header:
+
+```yaml
+taxonomies:
+  faq: ["iOS"]
+```
+
+Zola will add your question to specific F.A.Q. sub-page.
+
+**Limitation**: List of taxonomies at `/faq/` page is always alphabetical. So 'Android' is always the first, 'Bookmarks' is the second, 'General' is the third and so on.
+
+**Limitation**: You can't sort questions at any F.A.Q. sub-page. So questions at `/faq/general` are always sorted by filename. We can create additional extra field like `extra.order` and sort questions by this field. But reordering would be hard.
+
+**Limitation**: Each F.A.Q. sub-page has only a name. No description, no icon. Only name 'Android', or 'iOS', or 'Routing', etc.
+
+
 ## Contribution
 
 Any good ideas and help with web site improvement are appreciated. And it's always better to discuss
