@@ -4,7 +4,7 @@
 // there were no previous redirects or explicit language selections before (see language_seletor.html)
 if (null === window.localStorage.getItem('lang')) {
   // ["en", "ru", ...]
-  var pageTranslations = {{ resource.translations | map(attribute="lang") | sort | json_encode() | safe }};
+  var pageTranslations = {{ resource | get(key="translations", default=[]) | map(attribute="lang") | sort | json_encode() | safe }};
   var userPreferredLanguages = navigator.languages ? navigator.languages : [navigator.language];
   outerLoop:
   for (var i = 0; i < userPreferredLanguages.length; i++) {

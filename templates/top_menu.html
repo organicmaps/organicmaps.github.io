@@ -18,10 +18,10 @@
         {% set page = get_page(path=translated.path) %}
       {% endif %}
     {% endif %}
-    <span class="top_menu_{{ page.path | split(pat="/") | reverse | nth(n=1) }} top_menu_item{% if resource.path is defined and page.path == resource.path %}_active">{% else %}">
-      <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% endif %}
+    <span class="top_menu_{{ page.path | split(pat="/") | reverse | nth(n=1) }} top_menu_item{% if page.path != resource_path %}">
+      <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
         <span>{{ page.extra.menu_title }}</span>
-        {%- if resource.path is undefined or page.path != resource.path %}</a>{% endif %}
+        {%- if page.path != resource_path %}</a>{% endif %}
     </span>
     •
     {% endfor %}
