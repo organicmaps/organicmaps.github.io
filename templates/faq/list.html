@@ -1,0 +1,58 @@
+{%- set resource = taxonomy %}
+
+<!DOCTYPE html>
+{%- set rtl_langs = ["ar", "arc", "dv", "fa", "ha", "he", "khw", "ks", "ku", "ps", "ur", "yi"] -%}
+<html lang="{{ lang }}" {%- if lang in rtl_langs -%} dir="rtl" {%- endif -%}>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+
+  <meta name="description" content="">
+
+  <link rel="canonical" href="{{ config.base_url | safe }}{{ taxonomy.name }}">
+
+  <meta property="og:url" content="{{ current_url | safe }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="((Title))">
+  <meta property="og:description" content="{{ taxonomy.name }}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="((Title))">
+  <meta name="twitter:description" content="{{ taxonomy.name }}">
+
+  <meta name="apple-itunes-app" content="app-id=1567437057">
+  <meta name="wikidata" content="Q107078602">
+
+  <meta name="generator" content="Zola">
+
+  <link href="{{ get_url(path="main.css", cachebust=true) }}" rel="stylesheet" type="text/css">
+
+  <title>{{ taxonomy.name }}</title>
+</head>
+
+<body>
+  <header>
+    {% include 'top_menu.html' %}
+    (( __tera_context ))
+  </header>
+
+  <main>
+    <h1>F.A.Q.</h1>
+    {%- for term in terms -%}
+    <p><a href="{{term.permalink}}">{{term.name}} questions</a></p>
+    {%- endfor -%}
+  </main>
+
+  <footer>
+    ((bottom_menu.html))
+    <p>
+      <span>© 2023 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
+      <span>Harju maakond, Tallinn, Kesklinna linnaosa, Rävala pst 8-810, 10143, Estonia</span>
+    </p>
+  </footer>
+
+</body>
+
+</html>

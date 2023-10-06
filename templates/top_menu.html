@@ -9,7 +9,6 @@
       get_section(path="news/_index.md"),
       get_page(path="donate/index.md"),
       get_page(path="support-us/index.md"),
-      get_page(path="faq/index.md")
     ] %}
     {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
     {% if translated %}
@@ -19,13 +18,19 @@
         {% set page = get_page(path=translated.path) %}
       {% endif %}
     {% endif %}
-    <span class="top_menu_{{ page.path | split(pat="/") | reverse | nth(n=1) }} top_menu_item{% if page.path != resource.path %}">
-      <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
+    <span class="top_menu_{{ page.path | split(pat="/") | reverse | nth(n=1) }} top_menu_item{% if resource.path is defined and page.path == resource.path %}_active">{% else %}">
+      <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% endif %}
         <span>{{ page.extra.menu_title }}</span>
-        {%- if page.path != resource.path %}</a>{% endif %}
+        {%- if resource.path is undefined or page.path != resource.path %}</a>{% endif %}
     </span>
     •
     {% endfor %}
+    <span class="top_menu_faq top_menu_item">
+      <a href="{{ get_taxonomy(kind="faq") | get(key="permalink") }}">
+        <span>F.A.Q.</span>
+      </a>
+    </span>
+    •
     <span class="top_menu_item">
       <a href="https://github.com/organicmaps/organicmaps" target="_blank" class="top_menu_github">
         <span>GitHub</span>
