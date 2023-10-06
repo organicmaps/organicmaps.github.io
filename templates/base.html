@@ -6,13 +6,13 @@
 {%- set resource = section %}
 {%- set resource_title = resource.title %}
 {%- set resource_path = resource.path %}
-{%- elif taxonomy %}
-{%- set resource = taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
-{%- set resource_path = '/' ~ resource.name ~ '/' %}
-{%- set resource_title = resource.name %}
 {%- elif term %}
 {%- set resource = term %}{# taxonomy term has only 'name', 'slug' and 'path' properties #}
 {%- set resource_path = resource.path %}
+{%- set resource_title = resource.name %}
+{%- elif taxonomy %}
+{%- set resource = taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
+{%- set resource_path = '/' ~ resource.name ~ '/' %}
 {%- set resource_title = resource.name %}
 {%- endif %}
 

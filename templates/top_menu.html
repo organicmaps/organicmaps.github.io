@@ -9,6 +9,7 @@
       get_section(path="news/_index.md"),
       get_page(path="donate/index.md"),
       get_page(path="support-us/index.md"),
+      get_page(path="faq/index.md"),
     ] %}
     {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
     {% if translated %}
@@ -25,12 +26,6 @@
     </span>
     •
     {% endfor %}
-    <span class="top_menu_faq top_menu_item">
-      <a href="{{ get_taxonomy(kind="faq") | get(key="permalink") }}">
-        <span>F.A.Q.</span>
-      </a>
-    </span>
-    •
     <span class="top_menu_item">
       <a href="https://github.com/organicmaps/organicmaps" target="_blank" class="top_menu_github">
         <span>GitHub</span>
