@@ -8,7 +8,7 @@ extra:
 
 ### Project history
 
-TODO
+???
 
 ### Who is working on the project?
 
@@ -23,7 +23,7 @@ Also contributors help with new features, bugfixing, testing, graphical design a
 ### What are the advantages of OM compared to other maps?
 
 OrganicMaps is focused on speed, privacy, battery efficiency and minimization of network utilization.
-You can use offline map for navigation in places far from civilization and in cities with complex traffic network.
+You can use offline map for navigation in places far from civilization or in cities with complex traffic network.
 Also compare our [privacy policy](/privacy) with other maps apps. Tell your friends about the difference. 
 
 ### What is your product roadmap?
@@ -32,11 +32,12 @@ Crunch till the end of our days!!
 
 ### Why you should always update app to the latest version?
 
-We constantly working on improvements and fixing bugs. New map data is distributed only with regular application updates.
+We constantly work on improvements and fixing bugs. New map data is distributed only with regular application updates.
 
 ### How to send up a bugreport?
 
-Report bugs or issues to [the issue tracker][issues] or [email us][email].
+Report bugs or issues to [the issue tracker][issues] or [email us][email]. You can submit feedback directly from app.
+Just click icon with "?" on iOS or with green OrganicMaps icon on Android. You'll find "Report a bug" button there.
 
 ### Where to read latest news updates?
 

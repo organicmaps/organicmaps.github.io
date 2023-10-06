@@ -6,9 +6,9 @@ extra:
   menu_title: F.A.Q. - iOS
 ---
 
-### Как в iOS открывать/импортировать KML и GPX
+### What iOS version can run OrganicMaps?
 
-???
+OrganicMaps runs on devices with iOS/iPadOS 12+.
 
 ### Why CarPlay is always dark?
 

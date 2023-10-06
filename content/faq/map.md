@@ -6,7 +6,7 @@ extra:
   menu_title: F.A.Q. - How to use map
 ---
 
-### We have Long Tap!
+### How to use Long Tap?
 
 You can do a lot of thing in the app using long tap:
 
@@ -20,16 +20,16 @@ Try long tap in OrganicMaps to discover hidden features.
 
 <img src="/images/faq/faq-map-legend.jpg" width="400px"/>
 
-Use long tap on unknown object to get it's type and name.
-You will see road type or forest kind in lower panel.
-By the way you use search to find all objects of such kind.
+Use long tap on any object to get it's type and name.
+You can find road type or forest kind in the bottom panel.
+By the way you search objects by type also.
 
 ### How to maximize map?
 
 Perform single tap on empty space to hide app interface and get fullscreen map.
 Tap on the map again to get UI back.
 
-### What gestures OrganicMaps supports?
+### What gestures does OrganicMaps support?
 
 (On iOS and iPadOS) Tap and hold on zoom buttons then drag up or down to zoom.
 
@@ -41,10 +41,10 @@ You can rotate, pan and zoom map with two fingers gestures.
 
 <video width="300px" controls>
   <source src="/images/faq/faq-map-one-finger-zoom-Mauritius.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
+  (Your browser does not support the video tag.)
 </video>
 
-Tap twice on screen and on the second tap just slide your finger up and down to zoom in and zoom out respectively.
+Tap twice on map and on the second tap just slide your finger up and down to zoom in and zoom out respectively.
 
 This gesture works on Android and iOS and not only in OrganicMaps.
 
@@ -52,15 +52,15 @@ This gesture works on Android and iOS and not only in OrganicMaps.
 
 <img src="/images/faq/faq-map-my-position.jpg" width="400px"/>
 
-Tap on a blue arrow indicating you position to see your GPS coordinates, speed, and height above mean sea level.
-Use long tap to copy those values or push share button to give you coordinates to friends.
+Tap on blue arrow indicating your position to see GPS coordinates, speed, and height above mean sea level.
+Push share button to give you coordinates to friends.
 
 ### What does gray circle around my position mean?
 
 <img src="/images/faq/faq-map-grey-circle.jpg" width="400px"/>
 
-GPS sensors have accuracy rate. Gray circle indicates this accuracy. It means that your actual position is somewhere inside this circle.
-Accuracy degrade inside buildings, near constructions of steal or radiation sources.
+GPS sensors have accuracy rate. Gray circle indicates this accuracy. Your actual position is somewhere inside this circle.
+Accuracy degrade inside buildings, near steal constructions or radiation sources.
 To improve GPS precision go outside to be under clear sky.
 Enabling [Google Location Accuracy](https://support.google.com/maps/answer/2839911?co=GENIE.Platform%3DAndroid) on Android improves precision significantly.
 
@@ -68,9 +68,9 @@ Enabling [Google Location Accuracy](https://support.google.com/maps/answer/28399
 
 <img src="/images/faq/faq-map-blue-arrow.jpg" width="400px"/>
 
-This arrow shows direction from your location to the point and distance. You should enable location to see it.
-Press this button to see fullscreen indicator of orientation and distance.
-You can use it for azimuth navigation if routing is not possible for some reason.
+This arrow shows direction and distance from your location to selected POI. You should enable location to see it.
+Pressing this button gets fullscreen indicator of orientation and distance.
+You can use it for azimuth navigation if step-by-step routing is not possible for some reason.
 
 ### What does icon bellow zoom buttons mean?
 
@@ -104,11 +104,13 @@ First make sure you installed updated app from [AppStore][appstore], [Google Pla
 
 <img src="/images/faq/faq-map-edit-button.jpg" width="400px"/>
 
-OrganicMaps works with map data from [OpenStreetMaps.org](https://osm.org) project. You can improve places details using "Edit Place" button. To make you changes available to others you need an account on [OpenStreetMaps.org](https://osm.org). If you want to change POI position, or clarify footway, or add buildings and bridges, please use [OpenStreetMaps.org](https://osm.org) site with enhanced editing tools.
+OrganicMaps works with map data from [OpenStreetMaps.org](https://osm.org) project. You can improve place details using "Edit Place" button. To make your changes publicly available you need an account on [OpenStreetMaps.org](https://osm.org). If you want to change POI position, or clarify footway, or add buildings and bridges, please use [OpenStreetMaps.org](https://osm.org) site with powerful editing tools.
 
 ### How edits are uploaded on OpenStreetMaps.org, how conflicts are resolved?
 
-OrganicMaps application stores POI changes locally till internet connection is available. You can make changes while offline. Edits are uploaded to [OpenStreetMaps.org](https://osm.org) in background. If there are edit conflicts ???
+OrganicMaps application stores POI changes locally till internet connection is available. You can make changes while offline. Edits are uploaded to [OpenStreetMaps.org](https://osm.org) in background.
+
+If there are edit conflicts ???
 
 ### Who moderates changes?
 
@@ -116,17 +118,17 @@ OrganicMaps application stores POI changes locally till internet connection is a
 
 ### Why "Edit place" button is disabled or hidden?
 
-Your maps data is more than 2 month old and requires update. Please install latest app and download up-to-date maps.
+If your maps data is more than 2 month then edit button is unavailable. Please install latest app and download up-to-date maps to enable editting.
 
 ### How to use search?
 
-You can search places, addresses, cities, sites and many other interrests. OrganicMaps looks not only by name but by type. You can find nearest drinking water, bycicle parking, bookstore or cave with search field.
+You can search places, addresses, cities, sites and many other interrests. OrganicMaps looks not only by name but by type. You can find nearest drinking water, bycicle parking, bookstore or cave from search field.
 
 ### What are secret search queries?
 
 `?vulkan`, `?gl` - ???
 
-`?edits` - will show changes you made lately and its status. You can see if changes you made are already uploaded to [OpenStreetMaps.org](https://osm.org) or there were any problems?
+`?edits` - will show changes you made lately and its status. You can see if changes are already uploaded to [OpenStreetMaps.org](https://osm.org) or there were any problems?
 
 See [documentation](https://github.com/organicmaps/organicmaps/blob/master/docs/DEBUG_COMMANDS.md) for the full list of commands.
 

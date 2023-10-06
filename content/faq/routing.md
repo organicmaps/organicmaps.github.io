@@ -1,14 +1,14 @@
 ---
-title: "F.A.Q. - General questions"
+title: "F.A.Q. - Routing"
 description: "Frequently asked questions for Organic Maps application"
 weight: 1000
 extra:
-  menu_title: F.A.Q. - General questions
+  menu_title: F.A.Q. - Routing
 ---
 
 ### How to build a route?
 
-OrganicMaps can build route for car trip, bycicle ride or foot walk.
+OrganicMaps can build a route for car trip, bycicle ride or foot walk.
 
 Pick destination point with tap on a POI or by long tap on any place. Use "Route to" button to start route planning.
 
@@ -28,7 +28,7 @@ Push "Start" to begin step-by-step routing.
 
 ### How to add intermediate route points?
 
-In route planning or routing mode you can pick point on map and tap "Add Stop" button. New intermediate point would be added to the route.
+In route planning or routing mode pick a point on map and tap "Add Stop" button. New intermediate point would be added to the route.
 
 <img src="/images/faq/faq-routing-add-stop.jpg" width="400px"/>
 
@@ -38,7 +38,7 @@ In routing mode you can search for gas stations, parking, food, stores and ATMs 
 
 ### How to enable route aviodance rules?
 
-Go to Settings - Routing options and select types of road you want to avoid:
+Go to Settings → Routing options and select types of road you want to avoid:
 
 <img src="/images/faq/faq-routing-avoid.jpg" width="400px"/>
 
@@ -70,7 +70,7 @@ You can choose any start point with "Route from" button.
 
 ### Why OrganicMaps builds crooked route?
 
-This could happen if map data is outdated. We work on routing constantly. Please update the app regularly.
+This could happen if map is outdated. We work on routing constantly. Please update the app regularly.
 
 Sometimes near country or region borders route could be unoptimal. This is known issue.
 
@@ -84,9 +84,7 @@ To improve compass use callibration moves according to [instruction](https://www
 
 Probably you have problem with compass sensor. See previous question for solution.
 
-### Routing options are visible only when route can be modified by them. Otherwise they're hidden.
-
-### How to enable north up?
+### How to enable north up in navigation mode?
 
 <img src="/images/faq/faq-map-location-icon-4.png" width="75px"/>
 

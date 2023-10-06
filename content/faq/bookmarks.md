@@ -44,6 +44,8 @@ Bookmarks and tracks are stored in private app folder and are not accessible fro
 
 You can access these files on iPhone/iPad from desktop using iTunes app.
 
+On Android device with Root enabled you can find bookmarks in `/data/data/app.organicmaps`.
+
 ### How to remove bookmark or track?
 
 On Android you can remove bookmark from from bookmarks list using longtap menu.
@@ -54,7 +56,7 @@ On iOS: ???
 
 All you tracks and bookmarks are removed from device when OrganicMaps is uninstalled. Please backup your bookmarks and tracks using export button.
 
-Cloud bookmarks backup is planned in future releases.
+Cloud bookmarks backup and sync is planned in future releases.
 
 
 {{ references() }}
