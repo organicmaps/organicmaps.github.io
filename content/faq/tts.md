@@ -2,8 +2,12 @@
 title: Text-to-Speech on Android
 description: Guide on how to make TTS work on Android
 weight: 100
+
+taxonomies:
+  faq: ["TTS"]
+
 extra:
-    menu_title: FAQ
+    question: How to setup voice instructions?
 ---
 
 ## Summary
