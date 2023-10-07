@@ -1,6 +1,6 @@
 [appgallery]: https://appgallery.huawei.com/#/app/C104325611?local={{ lang }} "{{ trans(key='install-appgallery', lang=lang) }}"
-[appgallery_review]: appmarket://details?id=app.organicmaps
-[appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "{{ trans(key='install-appstore', lang=lang) }}"
+[appgallery_review]: https://appgallery.huawei.com/#/app/C104325611?local={{ lang }}
+[appstore]: https://apps.apple.com/app/organic-maps/id1567437057 {{ trans(key='install-appstore', lang=lang) }}"
 [appstore_review]: https://itunes.apple.com/app/id1567437057?action=write-review
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
 [email]: mailto:support@organicmaps.app
@@ -12,7 +12,7 @@
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
-[googleplay_review]: market://details?id=app.organicmaps
+[googleplay_review]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }}
 [gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/organicmaps.app/
