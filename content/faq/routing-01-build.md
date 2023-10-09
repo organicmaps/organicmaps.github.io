@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: How to build a route?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: How to build a route?
   order: 10
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - General questions"
+title: Where to read latest news updates?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["General"]
 
 extra:
-  question: Where to read latest news updates?
   order: 70
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - General questions"
+title: How to send up a bugreport?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["General"]
 
 extra:
-  question: How to send up a bugreport?
   order: 60
 ---
 

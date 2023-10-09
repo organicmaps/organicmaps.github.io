@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Bookmarks and tracks"
+title: How to find bookmarks and tracks files on phone?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  question: How to find bookmarks and tracks files on phone?
   order: 70
 ---
 

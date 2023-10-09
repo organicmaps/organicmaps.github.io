@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How to get map legend?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How to get map legend?
   order: 20
 ---
 

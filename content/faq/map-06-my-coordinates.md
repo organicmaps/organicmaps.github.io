@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How to get my coordinates, speed, and altitude?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How to get my coordinates, speed, and altitude?
   order: 60
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - General questions"
+title: Who is working on the project?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["General"]
 
 extra:
-  question: Who is working on the project?
   order: 20
 ---
 

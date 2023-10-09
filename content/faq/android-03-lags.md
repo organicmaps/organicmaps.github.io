@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Android"
+title: Why OrganicMaps is slow on my device, UI is laggy, and it crashes randomly?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Android"]
 
 extra:
-  question: Why OrganicMaps is slow on my device, UI is laggy, and it crashes randomly?
   order: 30
 ---
 

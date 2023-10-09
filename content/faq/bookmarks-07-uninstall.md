@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Bookmarks and tracks"
+title: What would happen with my bookmarks and tracks after uninstalling app?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  question: What would happen with my bookmarks and tracks after uninstalling app?
   order: 60
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: How to enable north up in navigation mode?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: How to enable north up in navigation mode?
   order: 80
 ---
 

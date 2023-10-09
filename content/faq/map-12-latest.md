@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How to make sure I have latest application installed and up-to-date maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How to make sure I have latest application installed and up-to-date maps?
   order: 120
 ---
 

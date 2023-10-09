@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Android"
+title: What's the difference between F-Droid and Google Play versions of tha app?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Android"]
 
 extra:
-  question: What's the difference between F-Droid and Google Play versions of tha app?
   order: 20
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How to zoom in/zoom out with one hand?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How to zoom in/zoom out with one hand?
   order: 50
 ---
 

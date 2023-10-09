@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Android"
+title: What Android version can run OrganicMaps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Android"]
 
 extra:
-  question: What Android version can run OrganicMaps?
   order: 10
 ---
 

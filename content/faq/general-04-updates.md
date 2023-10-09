@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - General questions"
+title: Why you should always update app to the latest version?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["General"]
 
 extra:
-  question: Why you should always update app to the latest version?
   order: 40
 ---
 

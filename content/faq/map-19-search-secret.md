@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: What are secret search queries?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: What are secret search queries?
   order: 190
 ---
 

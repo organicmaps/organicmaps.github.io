@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How to make changes to the map?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How to make changes to the map?
   order: 140
 ---
 

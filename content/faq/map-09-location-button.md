@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: What does icon bellow zoom buttons mean?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: What does icon bellow zoom buttons mean?
   order: 90
 ---
 

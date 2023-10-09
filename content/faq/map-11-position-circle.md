@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: Why do I see blue circle instead of an arrow indicating my position?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: Why do I see blue circle instead of an arrow indicating my position?
   order: 110
 ---
 

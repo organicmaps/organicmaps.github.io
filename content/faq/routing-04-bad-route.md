@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: Why OrganicMaps builds crooked route?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: Why OrganicMaps builds crooked route?
   order: 40
 ---
 

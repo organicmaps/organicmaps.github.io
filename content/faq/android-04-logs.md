@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Android"
+title: How to enable logs?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Android"]
 
 extra:
-  question: How to enable logs?
   order: 40
 ---
 

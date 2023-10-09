@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: Why "Edit place" button is disabled or hidden?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: Why "Edit place" button is disabled or hidden?
   order: 170
 ---
 

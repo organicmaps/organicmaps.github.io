@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - iOS"
+title: Why CarPlay is always dark?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["iOS"]
 
 extra:
-  question: Why CarPlay is always dark?
   order: 20
 ---
 

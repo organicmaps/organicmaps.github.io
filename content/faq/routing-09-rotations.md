@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: Why map rotates around my position?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: Why map rotates around my position?
   order: 90
 ---
 

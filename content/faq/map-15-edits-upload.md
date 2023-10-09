@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How edits are uploaded on OpenStreetMaps.org, how conflicts are resolved?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How edits are uploaded on OpenStreetMaps.org, how conflicts are resolved?
   order: 150
 ---
 

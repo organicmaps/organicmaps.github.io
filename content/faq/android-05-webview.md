@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Android"
+title: What if app crashes on start?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Android"]
 
 extra:
-  question: What if app crashes on start?
   order: 50
 ---
 

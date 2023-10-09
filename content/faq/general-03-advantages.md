@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - General questions"
+title: What are the advantages of OM compared to other maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["General"]
 
 extra:
-  question: What are the advantages of OM compared to other maps?
   order: 30
 ---
 

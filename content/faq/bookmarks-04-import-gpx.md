@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Bookmarks and tracks"
+title: Hot to import GPX track on Android and iOS?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  question: Hot to import GPX track on Android and iOS?
   order: 40
 ---
 

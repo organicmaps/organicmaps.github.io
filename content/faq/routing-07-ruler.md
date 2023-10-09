@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: How to measure distances with OrganicMaps? Is there a ruler?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: How to measure distance with OrganicMaps? Is there a ruler?
   order: 70
 ---
 

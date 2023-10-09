@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Bookmarks and tracks"
+title: How to move imported track to another folder?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  question: How to move imported track to another folder?
   order: 50
 ---
 

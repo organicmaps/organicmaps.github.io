@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: What does gray circle around my position mean?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: What does gray circle around my position mean?
   order: 70
 ---
 

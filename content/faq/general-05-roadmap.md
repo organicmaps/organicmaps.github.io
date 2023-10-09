@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - General questions"
+title: What is your product roadmap?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["General"]
 
 extra:
-  question: What is your product roadmap?
   order: 50
 ---
 

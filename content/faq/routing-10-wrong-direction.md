@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: Location arrow points to wrong direction. How to fix?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: Location arrow points to wrong direction. How to fix?
   order: 100
 ---
 

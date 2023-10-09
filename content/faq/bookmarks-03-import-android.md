@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Bookmarks and tracks"
+title: How to import multiple bookmarks on Android?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  question: How to import multiple bookmarks on Android?
   order: 30
 ---
 

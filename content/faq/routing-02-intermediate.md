@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - Routing"
+title: How to add intermediate route points?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Routing"]
 
 extra:
-  question: How to add intermediate route points?
   order: 20
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: What gestures does OrganicMaps support?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: What gestures does OrganicMaps support?
   order: 40
 ---
 

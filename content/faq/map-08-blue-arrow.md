@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: What is the purpose of little blue arrow?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: What is the purpose of little blue arrow?
   order: 80
 ---
 

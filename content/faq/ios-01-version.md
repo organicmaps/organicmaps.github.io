@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - iOS"
+title: What iOS version can run OrganicMaps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["iOS"]
 
 extra:
-  question: What iOS version can run OrganicMaps?
   order: 10
 ---
 

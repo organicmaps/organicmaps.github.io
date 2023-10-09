@@ -1,12 +1,11 @@
 ---
-title: "F.A.Q. - How to use map"
+title: How to use search?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
   faq: ["Map"]
 
 extra:
-  question: How to use search?
   order: 180
 ---
 
