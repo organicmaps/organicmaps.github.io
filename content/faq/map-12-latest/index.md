@@ -11,6 +11,6 @@ extra:
 
 First make sure you installed updated app from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], or [Huawei AppGallery][appgallery]. If maps data is outdated you will see red dot. Please download latest maps from menu.
 
-<img src="/images/faq/faq-map-data-updates.png" width="400px"/>
+<img src="/faq/map-12-latest/ios-data-updates.png" width="400px"/>
 
 {{ references() }}

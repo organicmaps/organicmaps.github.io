@@ -9,7 +9,7 @@ extra:
   order: 20
 ---
 
-<img src="/images/faq/faq-map-legend.jpg" width="400px"/>
+<img src="/faq/map-02-legend/legend.jpg" width="400px"/>
 
 Use long tap on any object to get it's type and name.
 You can find road type or forest kind in the bottom panel.

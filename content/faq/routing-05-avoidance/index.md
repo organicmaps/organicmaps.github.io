@@ -11,10 +11,10 @@ extra:
 
 Go to Settings → Routing options and select types of road you want to avoid:
 
-<img src="/images/faq/faq-routing-avoid.jpg" width="400px"/>
+<img src="/faq/routing-05-avoidance/avoidance.jpg" width="400px"/>
 
 If you want to avoid unpaved roads pick selector near "Unpaved roads" as on screenshot.
 
 If OrganicMaps builds a route with some avoidable roads you will see button "Define roads to avoid" for quick setup.
 
-<img src="/images/faq/faq-routing-define-roads.jpg" width="400px"/>
+<img src="/faq/routing-05-avoidance/define-roads.jpg" width="400px"/>

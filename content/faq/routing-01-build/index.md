@@ -13,7 +13,7 @@ OrganicMaps can build a route for car trip, bycicle ride or foot walk.
 
 Pick destination point with tap on a POI or by long tap on any place. Use "Route to" button to start route planning.
 
-<img src="/images/faq/faq-routing-button-route-to.jpg" width="400px"/>
+<img src="/faq/routing-01-build/route-to-button.jpg" width="400px"/>
 
 
 You can change route type from top menu:
@@ -23,6 +23,6 @@ You can change route type from top menu:
 * Bycicle
 * Ruller
 
-<img src="/images/faq/faq-routing-type.jpg" width="400px"/>
+<img src="/faq/routing-01-build/routing-types.jpg" width="400px"/>
 
 Push "Start" to begin step-by-step routing.

@@ -9,7 +9,7 @@ extra:
   order: 70
 ---
 
-<img src="/images/faq/faq-map-grey-circle.jpg" width="400px"/>
+<img src="/faq/map-07-circle/grey-circle.jpg" width="400px"/>
 
 GPS sensors have accuracy rate. Gray circle indicates this accuracy. Your actual position is somewhere inside this circle.
 Accuracy degrade inside buildings, near steal constructions or radiation sources.

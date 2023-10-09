@@ -11,10 +11,10 @@ extra:
 
 To measure distance from your current position to some object pick that object on map, tap "Route to" button, and select Ruler route type:
 
-<img src="/images/faq/faq-routing-ruller-type.jpg" width="400px"/>
+<img src="/faq/routing-07-ruler/ruler-type.jpg" width="400px"/>
 
 With ruler enabled tap anywhere on map to continue polyline.
 
-<img src="/images/faq/faq-routing-ruler-line.jpg" width="400px"/>
+<img src="/faq/routing-07-ruler/ruler-line.jpg" width="400px"/>
 
 You can choose any start point with "Route from" button.

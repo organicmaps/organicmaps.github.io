@@ -11,8 +11,8 @@ extra:
 
 | Icon | Meaning |
 | ---- | ------- |
-| <img src="/images/faq/faq-map-location-icon-1.png" width="75px"/> | Location search is not initiated |
-| <img src="/images/faq/faq-map-location-icon-2.png" width="75px"/> | App is looking for location |
-| <img src="/images/faq/faq-map-location-icon-3.png" width="75px"/> | Current position is found. Map is centered on current position and oriented to North. |
-| <img src="/images/faq/faq-map-location-icon-4.png" width="75px"/> | Map is centered on current position and rotates according to device compas. |
+| <img src="/faq/map-09-location-button/location-icon-1.png" width="75px"/> | Location search is not initiated |
+| <img src="/faq/map-09-location-button/location-icon-2.png" width="75px"/> | App is looking for location |
+| <img src="/faq/map-09-location-button/location-icon-3.png" width="75px"/> | Current position is found. Map is centered on current position and oriented to North. |
+| <img src="/faq/map-09-location-button/location-icon-4.png" width="75px"/> | Map is centered on current position and rotates according to device compas. |
 

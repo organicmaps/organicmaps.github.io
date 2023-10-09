@@ -9,8 +9,8 @@ extra:
   order: 50
 ---
 
-<video width="300px" controls>
-  <source src="/images/faq/faq-map-one-finger-zoom-Mauritius.mp4" type="video/mp4"/>
+<video width="300px" controls="enabled">
+  <source src="/faq/map-05-one-hand-zoom/one-finger-zoom-Mauritius.mp4" type="video/mp4"/>
   (Your browser does not support the video tag.)
 </video>
 
