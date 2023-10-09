@@ -6,7 +6,7 @@
 
 {% block content %}
   <h1>F.A.Q. - {{ term.name }}</h1>
-  {%- for faq_page in term.pages -%} {# How to sort questions #}
+  {%- for faq_page in term.pages | sort(attribute="extra.order") -%}
   <h3>{{ faq_page.extra | get(key="question", default="[No extra.question provided]") }}</h3>
   {{ faq_page.content | safe }}
   {%- endfor -%}
