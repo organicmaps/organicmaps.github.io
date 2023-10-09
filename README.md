@@ -27,7 +27,7 @@ then create a git commit and push it.
 
 ## Taxonomy and F.A.Q. architecture
 
-Each MD page in `/faq/` has taxonomies defined in header. E.g.:
+Each MD page in `/faq/` has one or more taxonomy defined in header. E.g.:
 
 ```yaml
 taxonomies:
