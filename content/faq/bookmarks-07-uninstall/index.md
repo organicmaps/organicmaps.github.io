@@ -9,6 +9,6 @@ extra:
   order: 60
 ---
 
-All you tracks and bookmarks are removed from device when OrganicMaps is uninstalled. Please backup your bookmarks and tracks using export button.
+All you tracks and bookmarks are removed from device when Organic Maps is uninstalled. Please backup your bookmarks and tracks using export button.
 
 Cloud bookmarks backup and sync is planned in future releases.

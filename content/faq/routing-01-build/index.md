@@ -9,7 +9,7 @@ extra:
   order: 10
 ---
 
-OrganicMaps can build a route for car trip, bycicle ride or foot walk.
+Organic Maps can build a route for car trip, bycicle ride or foot walk.
 
 Pick destination point with tap on a POI or by long tap on any place. Use "Route to" button to start route planning.
 

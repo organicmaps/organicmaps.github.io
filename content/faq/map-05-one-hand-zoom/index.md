@@ -16,4 +16,4 @@ extra:
 
 Tap twice on map and on the second tap just slide your finger up and down to zoom in and zoom out respectively.
 
-This gesture works on Android and iOS and not only in OrganicMaps.
+This gesture works on Android and iOS and not only in Organic Maps.

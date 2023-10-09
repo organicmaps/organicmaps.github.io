@@ -11,4 +11,4 @@ extra:
 
 <img src="/faq/bookmarks-03-import-android/android-import-bookmarks.jpg" width="400px"/>
 
-Push "Import Bookmarks and tracks" button. Choose folder on your phone with KML/KMZ/GPX files. OrganicMaps will scan picked folder and import all bookmarks and tracks.
+Push "Import Bookmarks and tracks" button. Choose folder on your phone with KML/KMZ/GPX files. Organic Maps will scan picked folder and import all bookmarks and tracks.

@@ -1,5 +1,5 @@
 ---
-title: What iOS version can run OrganicMaps?
+title: What iOS version can run Organic Maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
@@ -9,4 +9,4 @@ extra:
   order: 10
 ---
 
-OrganicMaps runs on devices with iOS/iPadOS 12+.
+Organic Maps runs on devices with iOS/iPadOS 12+.

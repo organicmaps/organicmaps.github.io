@@ -1,5 +1,5 @@
 ---
-title: What Android version can run OrganicMaps?
+title: What Android version can run Organic Maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
@@ -9,7 +9,7 @@ extra:
   order: 10
 ---
 
-You need at leat Android 5 to run the app. Devices with latest Android can run OrganicMaps.
+You need at leat Android 5 to run the app. Devices with latest Android can run Organic Maps.
 
-OrganicMaps can work on devices with Google Services installed and without Google support.
+Organic Maps can work on devices with Google Services installed and without Google support.
 
