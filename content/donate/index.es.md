@@ -16,9 +16,15 @@ Organic Maps es _gratis para todo el mundo_ gracias a sus
 - Sin notificaciones
 - Software libre
 
+## ¿Cómo donar?
+
 Haz clic en el icono del método de pago que prefieras:
 
 {{ donate_buttons() }}
+
+Las donaciones recurrentes son la mejor manera de asegurar un ingreso
+periódico para el proyecto y nos motiva para tareas y objetivos a largo
+plazo. Pero también puede donar una vez.
 
 ## ¿Por qué donar a Organic Maps?
 
@@ -53,16 +59,6 @@ Haz clic en el icono del método de pago que prefieras:
    - Mejor búsqueda de direcciones sin conexión, enrutamiento y navegación
    - Transporte público
    - ... y [muchas otras][github issues] funcionalidades que desea
-
-## ¿Cómo donar?
-
-Haz clic en el icono del método de pago que prefieras:
-
-{{ donate_buttons() }}
-
-Las donaciones recurrentes son la mejor manera de asegurar un ingreso
-periódico para el proyecto y nos motiva para tareas y objetivos a largo
-plazo. Pero también puede donar una vez.
 
 ### Transferencia bancaria
 

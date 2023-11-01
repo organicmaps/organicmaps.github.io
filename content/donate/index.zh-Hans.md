@@ -15,9 +15,13 @@ Organic Maps 应用程序 _对每个人都是免费的_ ，感谢您的**[donati
 - 无推送通知
 - 开源
 
-Click on your preferred payment method icon below:
+## 如何捐赠？
+
+单击下面您首选的付款方式图标：
 
 {{ donate_buttons() }}
+
+定期捐赠是确保项目有相对稳定收入的最好方式，并将激励我们完成长期任务和目标。但您也可以只捐赠一次。
 
 ## 为何要捐赠给 Organic Maps ？
 
@@ -40,14 +44,6 @@ Click on your preferred payment method icon below:
    - 更好的离线地址搜索、路线选择和导航
    - 公共交通
    - ...和[许多其他][github issues]您想要和喜欢的功能
-
-## 如何捐赠？
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-定期捐赠是确保项目有相对稳定收入的最好方式，并将激励我们完成长期任务和目标。但您也可以只捐赠一次。
 
 ### 银行转账
 

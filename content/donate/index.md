@@ -15,9 +15,15 @@ Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
 - No push notifications
 - Open source
 
+## How to donate?
+
 Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
+
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. But you can also
+donate one time.
 
 ## Why donate to Organic Maps?
 
@@ -45,16 +51,6 @@ Click on your preferred payment method icon below:
    - Better offline address search, routing, and navigation
    - Public Transport
    - … and [many other][github issues] features you want and love
-
-## How to donate?
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-Recurring donations are the best way to ensure a relatively stable income for
-the project and motivate us for long-term tasks and goals. But you can also
-donate one time.
 
 ### Bank Transfer
 

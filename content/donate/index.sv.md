@@ -16,9 +16,15 @@ Appen Organic Maps är _gratis för alla_ tack vare era
 - Inga push-notifikationer
 - Öppen källkod
 
+## Hur kan man donera?
+
 Klicka på en ikon för önskad betalningsmetod nedan:
 
 {{ donate_buttons() }}
+
+Återkommande donationer är det bästa sättet att säkerställa en relativt
+stabil inkomst för projektet och motivera oss för långsiktiga uppgifter och
+mål. Men du kan också skänka en engångssumma.
 
 ## Varför ska jag donera till Organic Maps?
 
@@ -53,16 +59,6 @@ Klicka på en ikon för önskad betalningsmetod nedan:
    - Kollektivtrafik
    - ... och [många andra][github issues] funktioner som efterfrågas och
      uppskattas
-
-## Hur kan man donera?
-
-Klicka på en ikon för önskad betalningsmetod nedan:
-
-{{ donate_buttons() }}
-
-Återkommande donationer är det bästa sättet att säkerställa en relativt
-stabil inkomst för projektet och motivera oss för långsiktiga uppgifter och
-mål. Men du kan också skänka en engångssumma.
 
 ### Banköverföring
 

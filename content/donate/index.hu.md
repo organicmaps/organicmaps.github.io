@@ -16,9 +16,16 @@ Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
 - Nincsenek leküldéses értesítések
 - Nyílt forráskód
 
-Click on your preferred payment method icon below:
+## Hogyan adományozhatok?
+
+Kattintson a kívánt fizetési mód ikonjára alább:
 
 {{ donate_buttons() }}
+
+Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil
+bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú
+feladatok és célok megvalósításában. De egyszeri adományozásra is van
+lehetőség.
 
 ## Miért adományozzon az Organic Maps-nek?
 
@@ -53,17 +60,6 @@ Click on your preferred payment method icon below:
    - Jobb offline címkeresés, útvonaltervezés és navigáció
    - Tömegközlekedés
    - ... és [sok más][github issues] funkciót, amit szeretnél és imádsz
-
-## Hogyan adományozhatok?
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil
-bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú
-feladatok és célok megvalósításában. De egyszeri adományozásra is van
-lehetőség.
 
 ### Banki átutalás
 

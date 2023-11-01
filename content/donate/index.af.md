@@ -15,9 +15,15 @@ Organic Maps is _gratis vir almal_ danksy u **[skenkings][stripe]**:
 - Geen stootkennisgewings
 - Oopbron
 
+## Hoe om te skenk?
+
 Klik op u voorkeurbetaalmetode-ikoon hier onder:
 
 {{ donate_buttons() }}
+
+Herhalende skenkings is die beste manier om ’n relatief stabiele inkomste
+vir die projek te verseker en motiveer ons vir langtermyn take en
+doele. Maar u kan ook eenmalig skenk.
 
 ## Waarom skenk aan Organic Maps?
 
@@ -50,16 +56,6 @@ Klik op u voorkeurbetaalmetode-ikoon hier onder:
    - Beter vanlyn adressoekfunksie, roetes, en navigasie
    - Openbare vervoer
    - … en [vele ander][github issues] funksies wat u wil hê en waarvan u hou
-
-## Hoe om te skenk?
-
-Klik op u voorkeurbetaalmetode-ikoon hier onder:
-
-{{ donate_buttons() }}
-
-Herhalende skenkings is die beste manier om ’n relatief stabiele inkomste
-vir die projek te verseker en motiveer ons vir langtermyn take en
-doele. Maar u kan ook eenmalig skenk.
 
 ### Bankoorplasing
 

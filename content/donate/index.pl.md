@@ -16,9 +16,16 @@ Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
 - Brak wyskakujących powiadomień push
 - Otwarte źródła
 
+## Jak przekazać darowiznę?
+
 Kliknij ikonę preferowanej metody płatności poniżej:
 
 {{ donate_buttons() }}
+
+Powtarzające się darowizny to najlepszy sposób na zapewnienie względnie
+stabilnego dochodu dla projektu i zmotywowanie nas do realizacji
+długoterminowych zadań i celów. Ale możesz też przekazać darowiznę
+jednorazowo.
 
 ## Dlaczego warto przekazać darowiznę na rzecz Organic Maps?
 
@@ -53,17 +60,6 @@ Kliknij ikonę preferowanej metody płatności poniżej:
      nawigacja
    - Transport publiczny
    - ... i [wiele innych][github issues] funkcji, które chcesz i kochasz
-
-## Jak przekazać darowiznę?
-
-Kliknij ikonę preferowanej metody płatności poniżej:
-
-{{ donate_buttons() }}
-
-Powtarzające się darowizny to najlepszy sposób na zapewnienie względnie
-stabilnego dochodu dla projektu i zmotywowanie nas do realizacji
-długoterminowych zadań i celów. Ale możesz też przekazać darowiznę
-jednorazowo.
 
 ### Przelew bankowy
 

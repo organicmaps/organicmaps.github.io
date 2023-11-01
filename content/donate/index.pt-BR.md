@@ -16,9 +16,15 @@ O app Organic Maps é _gratuito para todos_ graças as suas
 - Sem notificações push
 - Código aberto
 
+## Como doar?
+
 Clique no método preferido de pagamento abaixo:
 
 {{ donate_buttons() }}
+
+Doações recorrentes são a melhor maneira de garantir uma renda relativamente
+estável para o projeto e nos motivar para tarefas e objetivos de longo
+prazo. Mas você também pode doar uma única vez.
 
 ## Por que doar para Organic Maps?
 
@@ -53,16 +59,6 @@ Clique no método preferido de pagamento abaixo:
    - Transporte público
    - ... e [muitas outras][github issues] funcionalidades que você quer e
      ama
-
-## Como doar?
-
-Clique no método preferido de pagamento abaixo:
-
-{{ donate_buttons() }}
-
-Doações recorrentes são a melhor maneira de garantir uma renda relativamente
-estável para o projeto e nos motivar para tarefas e objetivos de longo
-prazo. Mas você também pode doar uma única vez.
 
 ### Transferência bancária
 

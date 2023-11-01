@@ -16,9 +16,15 @@ L'Organic Maps és _gratis per a tothom_ gràcies a les seves
 - Notificacions emergents
 - Codi obert
 
+## Com donar?
+
 Feu clic a la icona de pagament preferit:
 
 {{ donate_buttons() }}
+
+Les donacions recurrents són la millor manera d'assegurar un ingrés periòdic
+per al projecte i ens motiva per a tasques i objectius a llarg termini. Però
+també pots fer donació una vegada.
 
 ## Per què fer donatius a l’Organic Maps?
 
@@ -52,16 +58,6 @@ Feu clic a la icona de pagament preferit:
    - Millor cerca de direccions sense connexió, encaminament i navegació
    - Transport públic
    - ... i [moltes altres][github issues] funcionalitats que vulgueu
-
-## Com donar?
-
-Feu clic a la icona de pagament preferit:
-
-{{ donate_buttons() }}
-
-Les donacions recurrents són la millor manera d'assegurar un ingrés periòdic
-per al projecte i ens motiva per a tasques i objectius a llarg termini. Però
-també pots fer donació una vegada.
 
 ### Transferència bancària
 
