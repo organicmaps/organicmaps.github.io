@@ -9,6 +9,6 @@ extra:
   order: 20
 ---
 
-On Android you can remove bookmark from from bookmarks list using longtap menu.
+On Android you can remove bookmark from the bookmarks list using longtap menu.
 
 On iOS: ???
