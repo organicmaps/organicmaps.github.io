@@ -11,6 +11,6 @@ extra:
 
 Bookmarks and tracks are stored in private app folder and are not accessible from 3rd party apps.
 
-You can access these files on iPhone/iPad from desktop using iTunes app.
+On iOS, you can access these files on iPhone/iPad from desktop using iTunes app.
 
 On Android device with Root enabled you can find bookmarks in `/data/data/app.organicmaps`.
