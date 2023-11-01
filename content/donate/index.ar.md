@@ -15,7 +15,7 @@ weight: 10
 - لا إشعارات مزعجة
 - مفتوح المصدر
 
-Click on your preferred payment method icon below:
+انقر على أيقونة طريقة الدفع المفضلة أدناه:
 
 {{ donate_buttons() }}
 
@@ -50,7 +50,7 @@ Click on your preferred payment method icon below:
 
 ## كيف تتبرع؟
 
-Click on your preferred payment method icon below:
+انقر على أيقونة طريقة الدفع المفضلة أدناه:
 
 {{ donate_buttons() }}
 

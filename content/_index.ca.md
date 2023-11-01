@@ -22,7 +22,7 @@ L’**Organic Maps** és una de les poques aplicacions actuals que admet fer ser
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Cerca fora de
 línia') }}
 
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navegació en el mode
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navegació en mode
 fosc') }}
 
 ## Funcionalitats
@@ -31,13 +31,12 @@ L’Organic Maps és l’aplicació definitiva per a viatgers, turistes,
 excursionistes i ciclistes:
 
 - Mapes detallats fora de línia amb llocs que no existeixen en altres mapes,
-  gràcies a [OpenStreetMap][openstreetmap]
+  gràcies a l'[OpenStreetMap][openstreetmap]
 - Rutes ciclistes, pistes de senderisme i camins
 - Línies de contorn, perfils d'elevació, pics i pendents
 - Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu
 - Cerques ràpides al mapa, sense connexió
-- Els marcadors s'exporten i importen en els formats KML/KMZ (GPX està
-  [planificat][gpx_issue])
+- Marcadors i rutes en format KML, KMZ i GPX
 - Mode fosc per a protegir els vostres ulls
 - Els països i les regions usen poc espai
 - De codi lliure i obert
@@ -59,7 +58,7 @@ dolentes:
 - No es connecta en secret a cap servidor
 - Sense registres incòmodes
 - No hi ha tutorials obligatoris
-- Sense spam per correu electrònic
+- No us enviem correu brossa per correu electrònic
 - Notificacions emergents
 - Sense components brossa
 - ~~Sense pesticides~~ Completament orgànic!
@@ -73,31 +72,31 @@ iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
-Organic Maps no demana permisos excessius per a espiar-li:
+L'Organic Maps no us espia ni demana permisos excessius:
 
 {{ privacy_screenshots() }}
 
-En Organic Maps, creiem que la privacitat és un dret humà fonamental:
+En Organic Maps, creiem que la privadesa és un dret humà fonamental:
 
 - Organic Maps és un projecte independent, comunitari i obert
-- Protegim la seva privacitat dels ulls espies de les grans tecnològiques
-- Mantingui's fora de perill sense importar on estigui
+- Protegim la vostra privadesa de la mirada espia de les grans tecnològiques
+- Utilització segura sense importar on sou
 
-Rebutgi la vigilància. Assumeixi la seva llibertat.
+Rebutgeu la vigilància. Assumiu la vostra llibertat.
 
-**[¡Provi Organic Maps!](#install)**
+**[Proveu l'Organic Maps!](#install)**
 
 ## Qui paga per l'aplicació gratuïta?
 
-L'aplicació és gratuïta per a tothom. Si us plau
-[donar](@/donate/index.ca.md) per a donar-nos suport!
+L'aplicació és gratuïta per a tothom. Si us plau,
+[doneu](@/donate/index.ca.md) per a ajudar-nos!
 
 Per a fer un donatiu immediatament, feu clic a la icona del mètode de
 pagament preferit:
 
 {{ donate_buttons() }}
 
-### Els nostres patrocinadors
+### Els nostres socis:
 
 El proveïdor [Mythic Beasts](https://www.mythic-beasts.com/) [ens
 aporta][mythic_beasts_donation] dos servidors virtuals amb 400 TB/mes
@@ -107,26 +106,26 @@ actualitzacions i descàrregues dels mapes.
 ## Comunitat
 
 Organic Maps és un [programa lliure][github] disponible en virtut de la
-Llicència Apatxe 2.0.
+Llicència Apache 2.0.
 
-- Uneix-te al nostre programa beta per a suggerir funcionalitats i informar
+- Uniu-vos al nostre programa beta i suggeriu funcionalitats o informeu
   d'errors:
-  * [Beta de iOS (TestFlight)][testflight]
-  * [Beta de Android (Firebase)][firebase]
+  * [Beta d'iOS (TestFlight)][testflight]
+  * [Beta d'Android (Firebase)][firebase]
   * [Beta de PC Linux (Flatpak)][flatpak]
-  * [Beta de PC Linux (paquetes)][repology]
-- Informi d'errors o problemes en el [rastrejador d'errors][issues] o
-  [enviant-nos un correu electrònic][email].
-- [Debati][ideas] idees o proposa sol·licituds de funcions.
-- Subscriu-te al nostre [canal de Telegram][telegram] o al [espai
-  matriu][matrix] per a estar al dia.
-- Uneix-te al nostre [grup de Telegram][telegram_chat] per a parlar amb
+  * [Beta de PC Linux (paquets)][repology]
+- Informeu d'errors o problemes mitjançant el [rastrejador d'errors][issues]
+  o [enviant-nos un correu electrònic][email].
+- [Debateu][ideas] idees o proposeu característiques.
+- Uniu-vos al nostre [canal del Telegram][telegram] o al [Matrix][matrix]
+  per a estar al dia.
+- Uniu-vos al nostre [grup del Telegram][telegram_chat] i converseu amb
   altres usuaris.
-- Visiteu la nostra [pàgina al GitHub][github].
-- Segueix les nostres novetats en [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
-  [Reddit][reddit] i [LinkedIn][LinkedIn].
+- Visiteu el nostre [GitHub][github].
+- Seguiu les nostres novetats al [Mastodon][mastodon], [Facebook][facebook],
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] i
+  [LinkedIn][LinkedIn].
 
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
+[fork]: https://ca.wikipedia.org/wiki/Fork
 
 {{ references() }}

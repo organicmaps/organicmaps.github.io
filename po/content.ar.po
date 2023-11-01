@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-09-20 14:18+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 5.1-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -55,25 +64,17 @@ msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
 #. type: Plain text
 #: content/_index.md
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
-"{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات "
-"طويلة') }}"
+msgstr "{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات طويلة') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/search.jpg', alt='البحث دون اتصال') }}"
+msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='البحث دون اتصال') }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark "
-"mode') }}"
-msgstr ""
-"{{ screenshot(src='/images/screenshots/dark.jpg', alt='التنقل في الوضع "
-"الداكن') }}"
+msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='التنقل في الوضع الداكن') }}"
 
 #. type: Title ##
 #: content/_index.md
@@ -83,21 +84,13 @@ msgstr "المميزات"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
-"and cyclists:"
-msgstr ""
-"تطبيق Organic Maps هو الرفيق الأفضل للمسافرين، السياح، المتنزهين و راكبي "
-"الدراجات:"
+msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
+msgstr "تطبيق Organic Maps هو الرفيق الأفضل للمسافرين، السياح، المتنزهين و راكبي الدراجات:"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Detailed offline maps with places that don't exist on other maps, thanks to "
-"[OpenStreetMap][openstreetmap]"
-msgstr ""
-"خرائط تفصيلية بدون إنترنت مع أماكن غير متواجدة في تطبيقات أخرى، بفضل "
-"[OpenStreetMap][openstreetmap]"
+msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
+msgstr "خرائط تفصيلية بدون إنترنت مع أماكن غير متواجدة في تطبيقات أخرى، بفضل [OpenStreetMap][openstreetmap]"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -122,8 +115,7 @@ msgstr "بحث سريع في الخريطة بدون الحاجة لإنترنت
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr ""
-"تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ (GPX [مخطط له][gpx_issue])"
+msgstr "تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ (GPX [مخطط له][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -169,8 +161,7 @@ msgstr "لا يستخدم بيانات الموبايل بشكل غير متوق
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
-"تطبيق Organic Maps لا يحتوي على البرامج التجسسية والأشياء الأخرى السيئة:"
+msgstr "تطبيق Organic Maps لا يحتوي على البرامج التجسسية والأشياء الأخرى السيئة:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -234,8 +225,7 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
+msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
 msgstr "تم التحقق من تطبيق iOS بواسطة [TrackerControl لـ iOS][trackercontrol]:"
 
 #. type: Plain text
@@ -292,15 +282,12 @@ msgstr "من الذي يدفع مقابل التطبيق المجاني؟"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"The app is free for everyone. Please [donate](@/donate/index.md) to support "
-"us!"
+msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.md) لدعمنا!"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"To donate conveniently, click on your preferred payment method icon below:"
+msgid "To donate conveniently, click on your preferred payment method icon below:"
 msgstr ""
 
 #. type: Plain text
@@ -316,14 +303,8 @@ msgstr "الرعاة"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us]"
-"[mythic_beasts_donation] two virtual servers with 400 TB/month of free "
-"bandwidth to help our users with maps downloads and updates."
-msgstr ""
-"[Mythic Beasts](https://www.mythic-beasts.com/) مزود خدمة الإنترنت [يقدم لنا]"
-"[mythic_beasts_donation] اثنين من الخوادم الافتراضية مع 400 تيرابايت/شهر من "
-"النطاق الترددي المجاني لمساعدة مستخدمينا في تنزيلات الخرائط والتحديثات."
+msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
+msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) مزود خدمة الإنترنت [يقدم لنا][mythic_beasts_donation] اثنين من الخوادم الافتراضية مع 400 تيرابايت/شهر من النطاق الترددي المجاني لمساعدة مستخدمينا في تنزيلات الخرائط والتحديثات."
 
 #. type: Title ##
 #: content/_index.md
@@ -333,17 +314,13 @@ msgstr "المجتمع"
 
 #. type: Plain text
 #: content/_index.md
-msgid ""
-"Organic Maps is an [open-source software][github] licensed under the Apache "
-"License 2.0."
-msgstr ""
-"Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تحت ترخيص Apache 2.0."
+msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
+msgstr "Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تحت ترخيص Apache 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
-"يرجى الانضمام إلى برنامجنا التجريبي، واقتراح ميزاتك، والإبلاغ عن الأخطاء:"
+msgstr "يرجى الانضمام إلى برنامجنا التجريبي، واقتراح ميزاتك، والإبلاغ عن الأخطاء:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -367,11 +344,8 @@ msgstr "[سطح مكتب Linux تجريبي (حزم)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
-"أبلغ عن الأخطاء أو المشكلات إلى [متعقب المشكلات][issues] أو [مراسلتنا عبر "
-"البريد الإلكتروني][email]."
+msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
+msgstr "أبلغ عن الأخطاء أو المشكلات إلى [متعقب المشكلات][issues] أو [مراسلتنا عبر البريد الإلكتروني][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -380,18 +354,13 @@ msgstr "[مناقشة][ideas] الأفكار أو اقتراح طلبات الم
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
-"[matrix] for updates."
-msgstr ""
-"اشترك في [قناة Telegram][telegram] أو في [فضاء ماتركس][matrix] للحصول على "
-"التحديثات."
+msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
+msgstr "اشترك في [قناة Telegram][telegram] أو في [فضاء ماتركس][matrix] للحصول على التحديثات."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
-"انضم إلى [مجموعة Telegram][telegram_chat] للمناقشة مع المستخدمين الآخرين."
+msgstr "انضم إلى [مجموعة Telegram][telegram_chat] للمناقشة مع المستخدمين الآخرين."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -400,12 +369,8 @@ msgstr "زُر [صفحة Github][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid ""
-"Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter]"
-"[twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr ""
-"تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]، [تويتر]"
-"[twitter]، [Instagram][instagram]، [Reddit][reddit]."
+msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
+msgstr "تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]، [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]."
 
 #. type: Plain text
 #: content/_index.md
@@ -438,9 +403,7 @@ msgstr "تبرع لدعم تطوير Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Organic Maps app is _free for everyone_ thanks to your **[donations]"
-"[stripe]**:"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
 msgstr "هو _مجاني للجميع_ بفضل **[تبرعاتك][stripe]**:"
 
 #. type: Bullet: '- '
@@ -471,27 +434,17 @@ msgstr "لماذا التبرع لOrganic Maps؟"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid ""
-"We rely on your donations to carry out our mission to keep Organic Maps open "
-"and free.  And free from ads."
-msgstr ""
-"نحن نعتمد على تبرعاتك لتنفيذ مهمتنا لبقاء Organic Maps مفتوحًا ومجانيًا. وخالي "
-"من الإعلانات."
+msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
+msgstr "نحن نعتمد على تبرعاتك لتنفيذ مهمتنا لبقاء Organic Maps مفتوحًا ومجانيًا. وخالي من الإعلانات."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid ""
-"We are a few enthusiasts contributing in our free time, and spending our "
-"families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr ""
-"نحن عدد قليل من المتحمسين نساهم في وقت فراغنا وننفق أموال عائلاتنا على "
-"المشروع.  نحن نحب ما نفعله، ونحب مستخدمينا ❤️."
+msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgstr "نحن عدد قليل من المتحمسين نساهم في وقت فراغنا وننفق أموال عائلاتنا على المشروع.  نحن نحب ما نفعله، ونحب مستخدمينا ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid ""
-"With your support, we want to become a better, privacy-focused version of "
-"Google Maps."
+msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
 msgstr "بدعمك، نريد أن نصبح إصدارًا أفضل يركز على الخصوصية من خرائط Google."
 
 #. type: Title ##
@@ -502,34 +455,18 @@ msgstr "ماذا سيستخدم المال؟"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid ""
-"We pay for fast servers, so anyone in the World can download free map data "
-"updates without delays.  It's hundreds of terabytes monthly, and the amount "
-"is growing."
-msgstr ""
-"نحن ندفع مقابل الخوادم السريعة، حتى يتمكن أي شخص في العالم من تنزيل تحديثات "
-"بيانات الخريطة المجانية دون تأخير. إنها مئات التيرابايت شهريًا، والمبلغ آخذ "
-"في الازدياد."
+msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+msgstr "نحن ندفع مقابل الخوادم السريعة، حتى يتمكن أي شخص في العالم من تنزيل تحديثات بيانات الخريطة المجانية دون تأخير. إنها مئات التيرابايت شهريًا، والمبلغ آخذ في الازدياد."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid ""
-"User support, bugfixing, and improving the stability of the app are at the "
-"top of our priorities.  There are [1800+ issues on GitHub][github issues], "
-"and this number is growing every day.  AppStore, Google Play, and support "
-"emails are overflooded with comments and bugs. We want to deliver a high-"
-"quality product."
-msgstr ""
-"يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك "
-"[1800 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ "
-"AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. "
-"نريد تقديم منتج عالي الجودة."
+msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك [1800 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
-msgstr ""
-"مع ما يكفي من المال، يمكن تطوير ميزات جديدة بشكل أسرع، على سبيل المثال:"
+msgstr "مع ما يكفي من المال، يمكن تطوير ميزات جديدة بشكل أسرع، على سبيل المثال:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -589,13 +526,8 @@ msgstr "كيف تتبرع؟"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Recurring donations are the best way to ensure a relatively stable income "
-"for the project and motivate us for long-term tasks and goals. But you can "
-"also donate one time."
-msgstr ""
-"التبرعات المتكررة هي أفضل طريقة لضمان دخل مستقر نسبيًا للمشروع وتحفيزنا على "
-"المهام والأهداف طويلة الأجل. لكن يمكنك أيضًا التبرع مرة واحدة."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgstr "التبرعات المتكررة هي أفضل طريقة لضمان دخل مستقر نسبيًا للمشروع وتحفيزنا على المهام والأهداف طويلة الأجل. لكن يمكنك أيضًا التبرع مرة واحدة."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -632,12 +564,8 @@ msgstr "هل يمكنك مساعدتنا بأي طريقة أخرى؟"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid ""
-"Yes! There are many ways to support Organic Maps. Please see [Support Us](@/"
-"support-us/index.md) page for more details."
-msgstr ""
-"نعم! هناك العديد من الطرق لدعم Organic Maps. يرجى الاطلاع على صفحة [دعمنا](@/"
-"support-us/index.md) لمزيد من التفاصيل."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
+msgstr "نعم! هناك العديد من الطرق لدعم Organic Maps. يرجى الاطلاع على صفحة [دعمنا](@/support-us/index.md) لمزيد من التفاصيل."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -692,12 +620,8 @@ msgstr "Organic Maps يحترم خصوصيتك ولا يتتبعك."
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid ""
-"Unlike most other applications, there is no tracking, no ads, no spyware, no "
-"data and statistics collection in Organic Maps."
-msgstr ""
-"على عكس معظم التطبيقات الأخرى، لا يوجد تتبع ولا إعلانات ولا برامج تجسس ولا "
-"جمع بيانات وإحصاءات في Organic Maps."
+msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
+msgstr "على عكس معظم التطبيقات الأخرى، لا يوجد تتبع ولا إعلانات ولا برامج تجسس ولا جمع بيانات وإحصاءات في Organic Maps."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -706,12 +630,8 @@ msgstr "ابتعد عن عيون المتطفلين لدى شركات التقن
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid ""
-"If you have any questions or suggestions, please contact us at "
-"[legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr ""
-"إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على [legal@organicmaps."
-"app (mailto:legal@organicmaps.app)."
+msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgstr "إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على [legal@organicmaps.app (mailto:legal@organicmaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -739,13 +659,8 @@ msgstr "دعم تطوير Organic Maps"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid ""
-"Organic Maps is a free, open-source app. It is free from ads, it does not "
-"collect your personal information, and it is developed by a few enthusiasts "
-"with the help of the community."
-msgstr ""
-"Organic Maps هو تطبيق مجاني مفتوح المصدر. إنه خالٍ من الإعلانات، ولا يجمع "
-"معلوماتك الشخصية، ويتم تطويره بواسطة عدد قليل من المتحمسين بمساعدة المجتمع."
+msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+msgstr "Organic Maps هو تطبيق مجاني مفتوح المصدر. إنه خالٍ من الإعلانات، ولا يجمع معلوماتك الشخصية، ويتم تطويره بواسطة عدد قليل من المتحمسين بمساعدة المجتمع."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -754,29 +669,18 @@ msgstr "هناك طرق مختلفة لدعم التطوير:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay "
-"for servers and scale."
-msgstr ""
-"[تبرع](@/donate/index.md)! كل دولار أو يورو مهم ويساعدنا على الدفع مقابل "
-"الخوادم والنطاق."
+msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
+msgstr "[تبرع](@/donate/index.md)! كل دولار أو يورو مهم ويساعدنا على الدفع مقابل الخوادم والنطاق."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr ""
-"أبلغ عن الأخطاء وشارك الأفكار على [GitHub][github] أو عبر [البريد الإلكتروني]"
-"[email]."
+msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+msgstr "أبلغ عن الأخطاء وشارك الأفكار على [GitHub][github] أو عبر [البريد الإلكتروني][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Help us to [fix bugs][contributing] and do code reviews if you are a "
-"developer. Every fixed small issue makes someone happier."
-msgstr ""
-"ساعدنا في [إصلاح الخلل][contributing] وإجراء مراجعات للكود إذا كنت مطورًا. كل "
-"مشكلة صغيرة يتم إصلاحها تجعل شخص ما أكثر سعادة."
+msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
+msgstr "ساعدنا في [إصلاح الخلل][contributing] وإجراء مراجعات للكود إذا كنت مطورًا. كل مشكلة صغيرة يتم إصلاحها تجعل شخص ما أكثر سعادة."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -785,12 +689,8 @@ msgstr "[ترجم][translations] سلاسل مفقودة في واجهة الت�
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Translate [App Store][translations_appstore] and [Android]"
-"[translations_googleplay] descriptions into your language."
-msgstr ""
-"ترجم أوصاف [App Store][translations_appstore] و [Android]"
-"[translations_googleplay] بلغتك."
+msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
+msgstr "ترجم أوصاف [App Store][translations_appstore] و [Android][translations_googleplay] بلغتك."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -799,45 +699,28 @@ msgstr "[ترجم][translations_website] موقعنا على الويب بلغت
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Join the [OpenStreetMap][openstreetmap] community and contribute to the maps "
-"data."
-msgstr ""
-"انضم إلى مجتمع [OpenStreetMap][openstreetmap] و ساهم في بيانات الخرائط."
+msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
+msgstr "انضم إلى مجتمع [OpenStreetMap][openstreetmap] و ساهم في بيانات الخرائط."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Fix red cities found by our [public transport validator]"
-"[public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
-"أصلح المدن الحمراء التي عُثر عليها بواسطة [أداة التحقق من وسائل النقل العام] "
-"[public_transport_validator]، لمترو الأنفاق والسكك الحديدية للعمل في التطبيق."
+msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
+msgstr "أصلح المدن الحمراء التي عُثر عليها بواسطة [أداة التحقق من وسائل النقل العام] [public_transport_validator]، لمترو الأنفاق والسكك الحديدية للعمل في التطبيق."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix]"
-"[matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr ""
-"دعم المستخدمين الآخرين على [GitHub][issues], [Telegram][telegram_chat], "
-"[ماتركس][matrix], [تويتر][twitter], [فيسبوك][facebook], [إنستغرام]"
-"[instagram]."
+msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+msgstr "دعم المستخدمين الآخرين على [GitHub][issues], [Telegram][telegram_chat], [ماتركس][matrix], [تويتر][twitter], [فيسبوك][facebook], [إنستغرام][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Tell everyone about Organic Maps. A bigger community is a stronger community."
+msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
 msgstr "أخبر الجميع عن Organic Maps. المجتمع الأكبر هو المجتمع الأقوى."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid ""
-"Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], "
-"[Huawei Appgallery][appgallery_review]."
-msgstr ""
-"قيمنا في [Google Play][googleplay_review], [Apple Store][appstore_review], "
-"[Huawei Appgallery][appgallery_review]."
+msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+msgstr "قيمنا في [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -846,12 +729,8 @@ msgstr "نرحب بأي مساعدة!"
 
 #. type: Plain text
 #: content/support-us/index.md
-msgid ""
-"Our small team is very grateful for your feedback and support. Organic Maps "
-"would not be possible without our users ❤️."
-msgstr ""
-"فريقنا الصغير ممتن جدًا لتعليقاتك ودعمك. لن يكون Organic Maps ممكن بدون "
-"مستخدمينا ❤️."
+msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+msgstr "فريقنا الصغير ممتن جدًا لتعليقاتك ودعمك. لن يكون Organic Maps ممكن بدون مستخدمينا ❤️."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
@@ -873,45 +752,23 @@ msgstr "Organic Maps: الشروط"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"This app is licensed under the Apache License, Version 2.0 (the "
-"\"License\"); you may not use this application except in compliance with the "
-"License."
-msgstr ""
-"تم ترخيص هذا التطبيق تحت ترخيص Apache، الإصدار 2.0 (\"الترخيص\") ؛ لا يجوز "
-"لك استخدام هذا التطبيق إلا بما يتوافق مع الترخيص."
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
+msgstr "تم ترخيص هذا التطبيق تحت ترخيص Apache، الإصدار 2.0 (\"الترخيص\") ؛ لا يجوز لك استخدام هذا التطبيق إلا بما يتوافق مع الترخيص."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"You may obtain a copy of the License at [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
-msgstr ""
-"يمكنك الحصول على نسخة من الترخيص على [http://www.apache.org/licenses/"
-"LICENSE-2.0][license]"
+msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
+msgstr "يمكنك الحصول على نسخة من الترخيص على [http://www.apache.org/licenses/LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Unless required by applicable law or agreed to in writing, software "
-"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
-"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
-"License for the specific language governing permissions and limitations "
-"under the License."
-msgstr ""
-"ما لم يكن مطلوبًا بموجب القانون المعمول به أو تم الاتفاق عليه كتابيًا ، يتم "
-"توزيع البرامج الموزعة بموجب الترخيص \"كما هي\" ، دون أي ضمانات أو شروط من أي "
-"نوع ، سواء كانت صريحة أو ضمنية. راجع الترخيص لمعرفة الأذونات والقيود التي "
-"تحكم اللغة المحددة بموجب الترخيص."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr "ما لم يكن مطلوبًا بموجب القانون المعمول به أو تم الاتفاق عليه كتابيًا ، يتم توزيع البرامج الموزعة بموجب الترخيص \"كما هي\" ، دون أي ضمانات أو شروط من أي نوع ، سواء كانت صريحة أو ضمنية. راجع الترخيص لمعرفة الأذونات والقيود التي تحكم اللغة المحددة بموجب الترخيص."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Most libraries in the following directories on [GitHub][github] made by "
-"other people and organizations and licensed in different ways:"
-msgstr ""
-"تم إنشاء معظم المكتبات في الدلائل التالية على [GitHub][github] بواسطة أشخاص "
-"ومؤسسات آخرين وتم ترخيصها بطرق مختلفة:"
+msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
+msgstr "تم إنشاء معظم المكتبات في الدلائل التالية على [GitHub][github] بواسطة أشخاص ومؤسسات آخرين وتم ترخيصها بطرق مختلفة:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -925,18 +782,13 @@ msgstr "tools"
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr "يرجى الرجوع إلى ملفات الترخيص أو النسخ أو الإشعار لشروط الاستخدام."
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"See also [data/copyright.html][copyright] file for a full list of copyright "
-"notices for Organic Maps application."
-msgstr ""
-"راجع أيضًا ملف [data / copyright.html][copyright] للحصول على قائمة كاملة "
-"بإشعارات حقوق النشر الخاصة بتطبيق Organic Maps."
+msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
+msgstr "راجع أيضًا ملف [data / copyright.html][copyright] للحصول على قائمة كاملة بإشعارات حقوق النشر الخاصة بتطبيق Organic Maps."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -1010,32 +862,15 @@ msgstr "الاسم"
 msgid "Token"
 msgstr "رمز"
 
-#. type: Plain text
-#: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.\n"
+#~ msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+#~ msgstr "**Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.\n"
 
-#. type: Plain text
-#: content/_index.md
-msgid "To donate immediately, click a preferred payment method icon below:"
-msgstr "للتبرع فورًا، انقر فوق أيقونة طريقة الدفع المفضلة أدناه:"
+#~ msgid "To donate immediately, click a preferred payment method icon below:"
+#~ msgstr "للتبرع فورًا، انقر فوق أيقونة طريقة الدفع المفضلة أدناه:"
 
-#. type: Plain text
-#: content/donate/index.md
-msgid "Click a preferred payment method icon below:"
-msgstr "انقر على أيقونة طريقة الدفع المفضلة أدناه:"
+#~ msgid "Click a preferred payment method icon below:"
+#~ msgstr "انقر على أيقونة طريقة الدفع المفضلة أدناه:"
 
-#. type: Bullet: '2. '
-#: content/donate/index.md
-msgid ""
-"User support, bugfixing, and improving the stability of the app are at the "
-"top of our priorities.  There are [1200+ issues on GitHub][github issues], "
-"and this number is growing every day.  AppStore, Google Play, and support "
-"emails are overflooded with comments and bugs. We want to deliver a high-"
-"quality product."
-msgstr ""
-"يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك "
-"[1200 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ "
-"AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. "
-"نريد تقديم منتج عالي الجودة."
+#~ msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+#~ msgstr "يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك [1200 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة."

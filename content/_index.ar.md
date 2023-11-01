@@ -4,10 +4,10 @@ extra:
   menu_title: الرئيسية
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: خرائط بدون إنترنت للتنزه، الدراجة، المسارات والتوجيه'
+title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال حيثما أردت بدون الإنترنت'
 ---
 
-**Organic Maps** هو تطبيق أندرويد و آيفون مجاني ولا يحتاج الإتصال بالإنترنت من أجل المسافرين،السياح ، المتنزهين والدراجين مبني على بيانات المصدر العام **[OpenStreetMap][openstreetmap]**. مهتم بخصوصية المستخدمين، مفتوح المصدر، متفرع من تطبيق **Maps.Me** (المعروف سابقا بـ [**MapsWithMe**][mapswithme])، يقوم بصيانته نفس الأشخاص الذين أسسو **MapsWithMe** سنة 2011.
+**Organic Maps** هو تطبيق أندرويد و آيفون مجاني ولا يحتاج الإتصال بالإنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات مبني على بيانات المصدر العام **[OpenStreetMap][openstreetmap]**. مهتم بخصوصية المستخدمين، مفتوح المصدر، متفرع من تطبيق **Maps.Me** (المعروف سابقا بـ [**MapsWithMe**][mapswithme])، يقوم بصيانته نفس الأشخاص الذين أسسو **MapsWithMe** سنة 2011.
 
 **Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.
 
@@ -17,7 +17,8 @@ title: 'Organic Maps: خرائط بدون إنترنت للتنزه، الدرا
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
+{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات
+طويلة') }}
 
 {{ screenshot(src='/images/screenshots/search.jpg', alt='البحث دون اتصال')
 }}
@@ -27,7 +28,7 @@ title: 'Organic Maps: خرائط بدون إنترنت للتنزه، الدرا
 
 ## المميزات
 
-تطبيق Organic Maps هو الرفيق الأفضل للمسافرين،السياح، المتنزهين و راكبي
+تطبيق Organic Maps هو الرفيق الأفضل للمسافرين، السياح، المتنزهين و راكبي
 الدراجات:
 
 - خرائط تفصيلية بدون إنترنت مع أماكن غير متواجدة في تطبيقات أخرى، بفضل
@@ -76,7 +77,7 @@ Organic Maps لا يطلب أذونات مفرطة للتجسس عليك:
 
 في Organic Maps نعتقد أن الخصوصية هي حق أساسي من حقوق الإنسان:
 
-- Organic Maps هو مشروع مفتوح المصدر يحركه المجتمع المستقل
+- Organic Maps هو مشروع مفتوح المصدر مُدار من طرف مُجتمع مستقل
 - نحن نحمي خصوصيتك من أعين المتطفلين لدى شركات التقنيات الكبيرة
 - ابق آمنًا بغض النظر عن مكان وجودك
 
@@ -114,9 +115,8 @@ Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تح
   التحديثات.
 - انضم إلى [مجموعة Telegram][telegram_chat] للمناقشة مع المستخدمين الآخرين.
 - زُر [صفحة Github][github].
-- Follow our updates in [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][LinkedIn].
+- تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]،
+  [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 
