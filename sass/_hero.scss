@@ -1,0 +1,34 @@
+.hero {
+    background-image: url('/images/hero/hero-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    min-height: 820px;
+    width: 100vw;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    &__wrapper {
+        display: flex;
+        align-items: center;
+        gap: 100px;
+    }
+    &__about-us-title {
+        font-family: Lato, sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        color:white;
+        font-weight: 300;
+    }
+    &__about-us-description  {
+        font-family: Inter, sans-serif;
+        margin-top: 16px;
+        margin-bottom: 40px;
+        font-size: 24px;
+        color: white
+    }
+    &__image {
+        width: 480px;
+        max-width: 100%;
+    }
+}

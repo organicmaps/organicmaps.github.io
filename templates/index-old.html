@@ -2,13 +2,7 @@
 
 {% block content %}
 
-{% include 'hero.html' %}
-
-{% include 'open_map.html' %}
-
-{% include 'site_sections.html' %}
-
-{% include 'freedom_section.html' %}
+<h1>{{ resource.title }}</h1>
 
 {{ resource.content | safe }}
 

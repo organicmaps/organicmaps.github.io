@@ -5,17 +5,17 @@
   {% for page in [home, news] | concat(with=home.pages) %}
   {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
   {% if translated %}
-    {% if "_index" in translated.path %}
-      {% set page = get_section(path=translated.path) %}
-    {% else %}
-      {% set page = get_page(path=translated.path) %}
-    {% endif %}
+  {% if "_index" in translated.path %}
+  {% set page = get_section(path=translated.path) %}
+  {% else %}
+  {% set page = get_page(path=translated.path) %}
+  {% endif %}
   {% endif %}
 
   {% if page.extra.menu_title %}
   {% if resource.path != page.path %}<a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% endif %}
-    <span>{{ page.extra.menu_title }}</span>
-    {%- if resource.path != page.path %}</a>{% endif %}
+  <span>{{ page.extra.menu_title }}</span>
+  {%- if resource.path != page.path %}</a>{% endif %}
   &nbsp;
   {% endif %}
   {% endfor %}
