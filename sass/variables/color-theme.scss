@@ -1,0 +1,19 @@
+// Common COLOR
+:root {
+  --common-black: #000D07;
+  --common-white: #ffffff;
+  --common-green: #33895E;
+}
+
+// Theme COLOR change
+.light {
+  --white-black: var(--common-white);
+  --black-white: var(--common-black);
+  --green-theme: #006031;
+}
+
+.dark {
+  --white-black: var(--common-black);
+  --black-white: var(--common-white);
+  --green-theme: var(--common-green);
+}

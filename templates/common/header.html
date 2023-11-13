@@ -2,12 +2,9 @@
 {% if lang != config.default_language %}
 {% set langPathPrefix = '/' ~ lang %}
 {% endif %}
-<nav class="top-menu" id="menu" role="navigation">
-  <div class="container">
-    <div class="top-menu__wrapper">
-      <a href="{{ langPathPrefix | safe }}/"><span>{% include 'ui/logo.html' %}</span></a>
-      <span class="top-menu__cta">
-        <span class="top-menu__links">
+<nav class="container header__container" id="menu" role="navigation">
+      <a class="logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
+      <nav class="header__nav">
           {% for page in [
             get_section(path="news/_index.md"),
             get_page(path="donate/index.md"),
@@ -21,21 +18,11 @@
               {% set page = get_page(path=translated.path) %}
             {% endif %}
           {% endif %}
-          <span class="top-menu__{{ page.path | split(pat="/") | reverse | nth(n=1) }} top-menu__item{% if page.path != resource.path %}">
+          <span class="header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__item{% if page.path != resource.path %}">
             <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
               {{ page.extra.menu_title }}
               {%- if page.path != resource.path %}</a>{% endif %}
           </span>
           {% endfor %}
-          <span class="top-menu__item">
-            <a href="https://github.com/organicmaps/organicmaps" target="_blank" class="top-menu__github">
-              GitHub
-            </a>
-          </span>
-        </span>
-      {% include 'ui/download-button.html' %}
-      </span>
-    </div>
-  </div>
-
+        </nav>
 </nav>

@@ -1,0 +1,17 @@
+//font-family: 'Inter', sans-serif;
+//font-family: 'Lato', sans-serif;
+:root {
+  --main-font: 'Inter', sans-serif;
+  --sub-fonst: 'Lato', sans-serif;
+
+  --h1: 300 48rem/60rem var(--sub-fonst);
+  --p: 300 18rem/28rem var(--main-font);
+}
+
+.h1{
+  font: var(--h1);
+}
+.p{
+  font: var(--h1);
+}
+
