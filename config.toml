@@ -37,6 +37,8 @@ install-fdroid="Install Organic Maps from F-Droid"
 language = "English"
 name = "Name"
 token = "Token"
+button-download = "Download"
+footer-copyright = "reg. code 16225385 Harju county, Tallinn, Kesklinna district, Rävala pst 8-810, 10143, Estonia"
 
 # Please sort all other translation sections and values in alphabetical order.
 [languages.de]

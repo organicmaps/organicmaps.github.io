@@ -1,10 +1,10 @@
 @import "./language_selector";
 @import "./top-menu";
 @import "./download-button";
-@import "./hero";
-@import "./open-map.scss";
-@import "./_site-sections.scss";
-@import "./_freedom-section.scss";
+@import "./block/hero";
+@import "./open-map";
+@import "./site-sections";
+@import "./freedom-section";
 
 body {
   margin: 0;
@@ -18,7 +18,8 @@ body {
           sans-serif,
           "apple color emoji",
           "segoe ui emoji",
-          "segoe ui symbol";
+          "segoe ui symbol",
+          sans-serif;
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
