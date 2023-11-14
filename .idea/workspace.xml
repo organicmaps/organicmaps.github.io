@@ -5,43 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/_download-button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_freedom-section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_open-map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_site-sections.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_top-menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow-link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow-link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/open-map/open-map-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/open-map/open-map-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/free-and-builty-by-community-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/no-tracking-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/save-your-battery-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/search-and-plan-route-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/freedom_section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index-old.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/open_map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/site_sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ui/download-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ui/logo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/_top_menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bottom_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bottom_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/top_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top_menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="light-mode" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -68,6 +54,7 @@
     "node.js.selected.package.stylelint": "E:\\organicmaps.github.io\\node_modules\\stylelint",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/dmitroantonuk/Documents/development/organicmaps.github.io/node_modules/prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,5 +88,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
