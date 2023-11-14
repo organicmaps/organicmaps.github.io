@@ -171,8 +171,47 @@
       max-height: 374rem;
       position: absolute;
       top: 50%;
-      left: -28rem;
+      left: -19rem;
       transform: translateY(-50%);
     }
+  }
+}
+
+// Singl
+.single-section {
+margin: 60rem 0;
+  overflow: hidden;
+  &__container {
+    padding: 0rem 40rem 0;
+    border-radius: var(--border-r-24);
+    background-color: var(--bg-green);
+  }
+  &__item {
+    display: flex;
+    align-items: flex-end;
+    gap: 50rem;
+  }
+  &__content {
+    max-width: 498rem;
+    padding: 90rem 0;
+  }
+  &__title {
+    max-width: 357rem;
+  }
+  &__description {
+    margin: 24rem 0;
+  }
+  &__card {
+    position: relative;
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+
+  &__img {
+    padding: 0;
+    z-index: 3;
+    width: 90%;
   }
 }

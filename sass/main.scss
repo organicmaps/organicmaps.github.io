@@ -10,10 +10,12 @@
 
 // Common Style
 @import "./common/header";
+@import "./common/footer";
 
 // Component Style
 @import "./component/buttons";
 @import "./component/switch-theme";
+@import "./component/animation";
 
 // Pages Style
 @import "./pages/home";
