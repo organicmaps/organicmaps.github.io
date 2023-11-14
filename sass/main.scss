@@ -2,6 +2,7 @@
 @import "./variables/color-theme";
 @import "./variables/fonts";
 @import "./variables/spasing";
+@import "./variables/images";
 
 /// Global Style ///
 @import "./global/reset";
@@ -9,13 +10,14 @@
 
 // Common Style
 @import "./common/header";
+@import "./common/footer";
 
 // Component Style
 @import "./component/buttons";
 @import "./component/switch-theme";
-@import "./component/hero";
+@import "./component/animation";
 
 // Pages Style
-
+@import "./pages/home";
 
 

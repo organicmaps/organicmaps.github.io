@@ -7,9 +7,13 @@
   --h1: 300 48rem/60rem var(--sub-fonst);
   --h1-sub: 400 24rem/32rem var(--main-font);
   --p: 300 18rem/28rem var(--main-font);
+  --p-md: 400 16rem/28rem var(--main-font);
+  --p-sm: 500 14rem/28rem var(--main-font);
+  --p-sub: 300 12rem/28rem var(--main-font);
   --nav-link: 500 16rem/28rem var(--main-font);
 }
 
+// Title
 .h1{
   font: var(--h1);
   color: var(--common-white);
@@ -18,10 +22,25 @@
   font: var(--h1-sub);
   color: var(--common-white);
 }
-.p{
+.h2{
   font: var(--h1);
+  color: var(--black-white);
+}
+.h2-sub{
+  font: var(--h1-sub);
+  color: var(--black-white);
 }
 
+// Text
+.p{
+  font: var(--p);
+}
+.p-md {
+  font: var(--p-md);
+}
+.p-sm {
+  font: var(--p-sm);
+}
 .nav-link{
  font: var(--nav-link);
 }

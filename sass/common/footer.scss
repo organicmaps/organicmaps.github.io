@@ -1,0 +1,29 @@
+.footer {
+  background-color: var(--footer-bg);
+  padding: 30rem 0;
+  &__description {
+    color: var(--black-white);
+  }
+  &__logo {
+    color: var(--common-green);
+  }
+  &__nav {
+    border-top: 1rem solid var(--common-grey);
+    display: flex;
+    justify-content: space-between;
+    padding: 20rem 0;
+    margin-top: 20rem;
+  }
+  &__link {
+    text-decoration: none;
+    color: var(--black-white);
+  }
+  &__rw {
+    display: grid;
+    grid-template-columns: 160rem repeat(2, 1fr);
+    gap: 38rem;
+    svg {
+      width: 100%;
+    }
+  }
+}
