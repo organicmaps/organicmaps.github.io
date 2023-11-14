@@ -1,0 +1,17 @@
+<script>
+
+    const element = document.querySelector('.header')
+
+    const scrollThreshold = 20;
+
+    window.addEventListener('scroll', function () {
+
+        let scrollPosition = window.scrollY || window.pageYOffset;
+
+        if (scrollPosition > scrollThreshold) {
+            element.classList.add('header--green');
+        } else {
+            element.classList.remove('header--green');
+        }
+    });
+</script>

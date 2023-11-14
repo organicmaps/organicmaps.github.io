@@ -1,13 +1,13 @@
 <section class="hero">
-    <div class="container">
-        <div class="hero__about-us">
-            <div class="hero__about-us-title">
+    <div class="container hero__container">
+        <div class="hero__content">
+            <h1 class="h1 hero__title">
                 {{ resource.title }}
-            </div>
-            <div class="hero__about-us-description">
+            </h1>
+            <p class="h1-sub hero__description">
                 {{ resource.description }}
-            </div>
-            {% include 'ui/download-button.html' %}
+            </p>
+            {% include 'components/download-button.html' %}
         </div>
         <img class="hero__image" src="/images/hero/hero-image.png" alt="hero image">
     </div>

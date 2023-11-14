@@ -2,9 +2,9 @@
 {% if lang != config.default_language %}
 {% set langPathPrefix = '/' ~ lang %}
 {% endif %}
-<nav class="container header__container" id="menu" role="navigation">
-      <a class="logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
-      <nav class="header__nav">
+<div class="container header__container" id="menu" role="navigation">
+      <a class="header__logo logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
+      <div class="header__row">
           {% for page in [
             get_section(path="news/_index.md"),
             get_page(path="donate/index.md"),
@@ -18,11 +18,15 @@
               {% set page = get_page(path=translated.path) %}
             {% endif %}
           {% endif %}
-          <span class="header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__item{% if page.path != resource.path %}">
+          <nav class="header__nav header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__link{% if page.path != resource.path %}">
             <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
               {{ page.extra.menu_title }}
-              {%- if page.path != resource.path %}</a>{% endif %}
-          </span>
+              {%- if page.path != resource.path %}</a>
+          {% endif %}
+          </nav>
           {% endfor %}
-        </nav>
-</nav>
+        </div>
+        <div class="header__btn">
+            {% include 'components/download-button.html' %}
+        </div>
+</div>

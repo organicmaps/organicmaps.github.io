@@ -4,6 +4,12 @@ html {
 
 body {
   font: var(--p);
-  color: var(--common-black);
+  color: var(--black-white);
   background-color: var(--white-black);
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: var(--container);
 }

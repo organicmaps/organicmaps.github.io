@@ -1,0 +1,21 @@
+.button {
+  width: fit-content;
+  padding: 12rem 16rem;
+  min-width: 133rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font: var( --nav-link);
+  color: var(--common-white);
+  text-decoration: none;
+  border-radius: var(--border-r-8);
+  transition: background-color var(--transition);
+  &:hover {
+    transition: background-color var(--transition);
+    background-color: var(--common-green-hover);
+  }
+  &--main {
+  background-color: var(--common-green);
+  }
+}

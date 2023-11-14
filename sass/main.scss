@@ -1,13 +1,19 @@
 /// Variables ///
 @import "./variables/color-theme";
 @import "./variables/fonts";
+@import "./variables/spasing";
 
 /// Global Style ///
 @import "./global/reset";
 @import "./global";
 
+// Common Style
+@import "./common/header";
+
 // Component Style
+@import "./component/buttons";
 @import "./component/switch-theme";
+@import "./component/hero";
 
 // Pages Style
 

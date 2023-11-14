@@ -60,7 +60,7 @@
   <title>{{ resource.title }}</title>
 
   {%- if lang == config.default_language %}
-  {% include 'language_redirect.html' %}
+  {% include 'components/language_redirect.html' %}
   {% endif -%}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -69,23 +69,26 @@
 </head>
 
 <body class="light">
-<header class="header">
-  {% include 'common/header.html' %}
-</header>
+  <div class="wrapper">
+    <header class="header">
+      {% include 'common/header.html' %}
+    </header>
 
-<main class="main">
-  {% block content %}{% endblock %}
-</main>
+    <main class="main">
+      {% block content %}{% endblock %}
+    </main>
 
-<footer class="footer">
-  {% include 'common/footer.html' %}
-  <p>
-    <span>© 2023 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
-    <span>Harju maakond, Tallinn, Kesklinna linnaosa, Rävala pst 8-810, 10143, Estonia</span>
-  </p>
-</footer>
+    <footer class="footer">
+      {% include 'common/footer.html' %}
+      <p>
+        <span>© 2023 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
+        <span>Harju maakond, Tallinn, Kesklinna linnaosa, Rävala pst 8-810, 10143, Estonia</span>
+      </p>
+    </footer>
+  </div>
 
-{% include 'shortcodes/switch-theme.html' %}
+  {% include 'shortcodes/switch-theme.html' %}
+  {% include 'shortcodes/header-switch.html' %}
 
 </body>
 

@@ -7,12 +7,12 @@
 
 {% include 'components/open_map.html' %}
 
-{% include 'site_sections.html' %}
+{% include 'section/site_sections.html' %}
 
-{% include 'freedom_section.html' %}
+{% include 'section/freedom_section.html' %}
 
 {{ resource.content | safe }}
 
-{% include 'google_native_app_prompt.html' %}
+{% include 'components/google_native_app_prompt.html' %}
 
 {% endblock content %}

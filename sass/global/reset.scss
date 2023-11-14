@@ -3,7 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+.wrapper {
+  overflow: hidden;
+}
 button {
   outline: none;
   border: none;
