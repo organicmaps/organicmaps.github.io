@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="no index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/templates/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +65,11 @@
       <recent name="E:\organicmaps.github.io\sass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="E:\organicmaps.github.io\static\images\sections" />
       <recent name="E:\organicmaps.github.io\static\images\open-map" />
       <recent name="E:\organicmaps.github.io\static\images\hero" />
       <recent name="E:\organicmaps.github.io\static\images" />
-      <recent name="E:\organicmaps.github.io\templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,6 +84,14 @@
       <workItem from="1699445857666" duration="387000" />
       <workItem from="1699446263788" duration="8939000" />
     </task>
+    <task id="LOCAL-00001" summary="no index">
+      <created>1699960224756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699960224756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="no index" />
+    <option name="LAST_COMMIT_MESSAGE" value="no index" />
   </component>
 </project>
