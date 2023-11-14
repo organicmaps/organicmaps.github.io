@@ -4,7 +4,9 @@
   --common-white: #ffffff;
   --common-green: #006C35;
   --common-green-primery: #CCE1D7;
+  --common-green-btn: #006031;
   --common-green-hover: #2b6445;
+
 }
 
 // Theme COLOR change
@@ -12,10 +14,12 @@
   --white-black: var(--common-white);
   --black-white: var(--common-black);
   --green-theme: #006031;
+  --bg-green: #E5F0EB;
 }
 
 .dark {
   --white-black: var(--common-black);
   --black-white: var(--common-white);
   --green-theme: var(--common-green);
+  --bg-green: #33453D;
 }

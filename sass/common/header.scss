@@ -30,9 +30,11 @@
     background-color: var(--common-green-primery);
     .header {
         &__logo {
+          transition: color var(--transition);
           color: var(--common-green);
         }
         &__link a{
+          transition: color var(--transition);
           color: var(--common-black);
         }
     }

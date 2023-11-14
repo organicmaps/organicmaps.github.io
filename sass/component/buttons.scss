@@ -11,11 +11,34 @@
   text-decoration: none;
   border-radius: var(--border-r-8);
   transition: background-color var(--transition);
+  gap: 10rem;
   &:hover {
     transition: background-color var(--transition);
     background-color: var(--common-green-hover);
   }
   &--main {
   background-color: var(--common-green);
+  }
+  &--transparent {
+    color: var(--common-green-btn);
+    transition: transform var(--transition);
+    padding: 10rem 0;
+    min-width: fit-content;
+    &:hover {
+      transition: background-color var(--transition);
+      background-color: transparent;
+      transition: transform var(--transition);
+      transform: scale(1.1);
+    }
+  }
+
+  &--card {
+    background-color: var(--common-green);
+    font: var(--p-sub);
+    padding: 8rem;
+    flex-direction: row-reverse;
+    svg {
+      transform: scaleX(-1);
+    }
   }
 }
