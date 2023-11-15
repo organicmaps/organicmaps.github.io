@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% include 'section/hero.html' %}
+{% include 'section/component.html' %}
+
+
+{% include 'section/open_map.html' %}
+
+{% include 'section/home-services.html' %}
+
+{% include 'section/single-section.html' %}
+
+{{ resource.content | safe }}
+
+
+
+{% endblock content %}

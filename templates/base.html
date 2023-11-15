@@ -80,6 +80,9 @@
 
     <footer class="footer">
       {% include 'common/footer.html' %}
+      {% if page.extra.menu_title %}
+        {{ page.extra.menu_title }}
+      {% endif %}
     </footer>
   </div>
 
