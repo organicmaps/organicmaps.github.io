@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="no index">
+      <change afterPath="$PROJECT_DIR$/sass/variables/media.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/templates/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/common/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/common/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/common/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/common/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/component/animation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/animation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/component/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/global/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/global/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/color-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/color-theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/images.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/spasing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/spasing.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/section/home-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/section/home-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/animation-section-js.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/animation-section-js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/header-switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/header-switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/paralax.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/paralax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/switch-theme.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/switch-theme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "preprod",
     "last_opened_file_path": "E:/organicmaps.github.io/static/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",

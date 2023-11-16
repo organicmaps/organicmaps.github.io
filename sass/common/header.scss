@@ -1,3 +1,5 @@
+@import "../variables/media";
+
 .header {
   position: fixed;
   left: 0;
@@ -5,10 +7,14 @@
   width: 100%;
   padding: 14rem 0;
   z-index: 100;
+  @media (max-width: $media-md) {
+    background-color: var(--common-green-primery);
+  }
   &__container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
   }
   &__link a{
     text-decoration: none;
@@ -16,15 +22,61 @@
     color: var(--common-white);
     cursor: pointer;
     padding: 8rem 16rem;
+    @media (max-width: $media-md) {
+      color: var(--common-black);
+    }
   }
 
   &__logo {
     color: var(--common-white);
+    @media (max-width: $media-md) {
+      color: var(--common-green);
+    }
   }
   &__row {
- display: flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
+
+    @media (max-width: $media-md) {
+      position: absolute;
+      background-color: var(--common-green-primery);
+      top: 55rem;
+      width: 100%;
+      left: -500rem;
+      padding: 16rem 0;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 16rem;
+      text-transform: uppercase;
+      z-index: 80;
+      transition:left var(--transition), opacity var(--transition);
+
+      &.is-active {
+        left: 0;
+        opacity: 80;
+      }
+    }
+  }
+  &__btn {
+    @media (max-width: $media-md) {
+      margin-left: auto;
+      .button--main {
+        padding: 8rem 12rem;
+        min-width:107rem;
+      }
+    }
+  }
+  &__menu-btn {
+    display: none;
+    @media (max-width: $media-md) {
+     display: block;
+     padding:  8rem 0 8rem 8rem ;
+      margin-left: 20rem;
+      display: flex;
+      align-items: center;
+    }
   }
   &--green {
     background-color: var(--common-green-primery);

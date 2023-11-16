@@ -1,52 +1,55 @@
-.animation {
-  &--right {
-    .animation-item {
-      left: 171rem!important;
-      opacity: 0!important;
-      transition: left var(--transition), opacity var(--transition);
+@import "../variables/media";
+@media (min-width: $media-md) {
+  .animation {
+    &--right {
+      .animation-item {
+        left: 171rem!important;
+        opacity: 0!important;
+        transition: left var(--transition), opacity var(--transition);
+      }
+
+    }
+    &--right-play {
+      .animation-item {
+        left: -20rem!important;
+        opacity: 1!important;
+        transition: left var(--transition), opacity var(--transition);
+      }
+
     }
 
-  }
-  &--right-play {
-    .animation-item {
-      left: -20rem!important;
-      opacity: 1!important;
-      transition: left var(--transition), opacity var(--transition);
+    &--left {
+      .animation-item {
+        right: 171rem!important;
+        opacity: 0!important;
+        transition: right var(--transition), opacity var(--transition);
+      }
+
+    }
+    &--left-play {
+      .animation-item {
+        right: -20rem!important;
+        opacity: 1!important;
+        transition: right var(--transition), opacity var(--transition);
+      }
+
     }
 
-  }
+    &--down {
+      .animation-item {
+        margin-bottom: -271rem!important;
+        opacity: 0!important;
+        transition: margin-bottom var(--transition), opacity var(--transition);
+      }
 
-  &--left {
-    .animation-item {
-      right: 171rem!important;
-      opacity: 0!important;
-      transition: right var(--transition), opacity var(--transition);
     }
+    &--down-play {
+      .animation-item {
+        margin-bottom: 0rem!important;
+        opacity: 1!important;
+        transition: margin-bottom var(--transition), opacity var(--transition);
+      }
 
-  }
-  &--left-play {
-    .animation-item {
-      right: -20rem!important;
-      opacity: 1!important;
-      transition: right var(--transition), opacity var(--transition);
     }
-
-  }
-
-  &--down {
-    .animation-item {
-      margin-bottom: -271rem!important;
-      opacity: 0!important;
-      transition: margin-bottom var(--transition), opacity var(--transition);
-    }
-
-  }
-  &--down-play {
-    .animation-item {
-      margin-bottom: 0rem!important;
-      opacity: 1!important;
-      transition: margin-bottom var(--transition), opacity var(--transition);
-    }
-
   }
 }

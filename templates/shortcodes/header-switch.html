@@ -1,17 +1,29 @@
 <script>
+    if (window.matchMedia('(min-width: 991px)').matches) {
+        const element = document.querySelector('.header')
 
-    const element = document.querySelector('.header')
+        const scrollThreshold = 20;
 
-    const scrollThreshold = 20;
+        window.addEventListener('scroll', function () {
 
-    window.addEventListener('scroll', function () {
+            let scrollPosition = window.scrollY || window.pageYOffset;
 
-        let scrollPosition = window.scrollY || window.pageYOffset;
+            if (scrollPosition > scrollThreshold) {
+                element.classList.add('header--green');
+            } else {
+                element.classList.remove('header--green');
+            }
+        });
+    } else {
+       const mobIcon = document.querySelector(".header__menu-btn")
+        const menu = document.querySelector('.header__row')
+        const wrapper = document.querySelector('.wrapper')
 
-        if (scrollPosition > scrollThreshold) {
-            element.classList.add('header--green');
-        } else {
-            element.classList.remove('header--green');
-        }
-    });
+        mobIcon.addEventListener('click', () => {
+            mobIcon.classList.toggle('is-active')
+            menu.classList.toggle('is-active')
+            wrapper.classList.toggle('frizz')
+        })
+    }
+
 </script>
