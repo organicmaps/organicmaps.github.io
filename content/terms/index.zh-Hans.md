@@ -25,4 +25,4 @@ weight: 1000
 
 [Github]: https://github.com/organicmaps/organicmaps
 [许可协议]: http://www.apache.org/licenses/LICENSE-2.0
-[版权信息]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+[版权信息]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html
