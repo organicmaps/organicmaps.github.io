@@ -1,5 +1,4 @@
 <script>
-
     document.addEventListener('DOMContentLoaded', function () {
         const switchTheme = document.querySelector('.switch-theme');
         let activeCheck = localStorage.getItem('switchTheme') === 'true';
@@ -9,7 +8,7 @@
 
 
         if (firstCheck == 'first') {
-            console.log("test")
+
             if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
                 switchTheme.classList.add('is-active');
                 switchThemeToggle(true)
@@ -65,5 +64,6 @@
             }
         }
     });
+
 
 </script>

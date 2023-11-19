@@ -1,47 +1,52 @@
 <script>
+    if (window.matchMedia('(min-width: 991px)').matches) {
+        let targetElement = document.querySelectorAll('.animation');
 
+        if(targetElement){
+            targetElement.forEach(item => {
+                let observer = new IntersectionObserver(function(entries, observer) {
+                    entries.forEach(function(entry) {
+                        let animationRight = entry.target.className.includes('animation--right')
+                        let animationLeft = entry.target.className.includes('animation--left')
+                        let animationDown = entry.target.className.includes('animation--down')
+                        if (entry.isIntersecting) {
 
-    let targetElement = document.querySelectorAll('.animation');
+                            if(animationRight) {
+                                item.classList.add('animation--right-play');
+                            }
+                            if (animationLeft) {
+                                item.classList.add('animation--left-play');
+                            }
 
-    if(targetElement){
-        targetElement.forEach(item => {
-            let observer = new IntersectionObserver(function(entries, observer) {
-                entries.forEach(function(entry) {
-                    let animationRight = entry.target.className.includes('animation--right')
-                    let animationLeft = entry.target.className.includes('animation--left')
-                    let animationDown = entry.target.className.includes('animation--down')
-                    if (entry.isIntersecting) {
+                            if (animationDown) {
+                                item.classList.add('animation--down-play');
+                            }
 
-                        if(animationRight) {
-                            item.classList.add('animation--right-play');
+                        } else {
+                            if(animationRight) {
+                                item.classList.remove('animation--right-play');
+                            }
+                            if (animationLeft) {
+                                item.classList.remove('animation--left-play');
+                            }
+                            if (animationDown) {
+                                item.classList.remove('animation--down-play');
+                            }
                         }
-                        if (animationLeft) {
-                            item.classList.add('animation--left-play');
-                        }
-
-                        if (animationDown) {
-                            item.classList.add('animation--down-play');
-                        }
-
-                    } else {
-                        if(animationRight) {
-                            item.classList.remove('animation--right-play');
-                        }
-                        if (animationLeft) {
-                            item.classList.remove('animation--left-play');
-                        }
-                        if (animationDown) {
-                            item.classList.remove('animation--down-play');
-                        }
-                    }
-                });
-            }, { threshold: 0.3 });
+                    });
+                }, { threshold: 0.3 });
 
 
-            observer.observe(item);
-        })
+                observer.observe(item);
+            })
 
+        }
+    } else {
+
+        console.log('Mobile');
     }
+
+
 
 
 </script>

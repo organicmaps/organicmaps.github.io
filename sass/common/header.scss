@@ -1,3 +1,5 @@
+@import "../variables/media";
+
 .header {
   position: fixed;
   left: 0;
@@ -5,10 +7,14 @@
   width: 100%;
   padding: 14rem 0;
   z-index: 100;
+  @media (max-width: $media-md) {
+    background-color: var(--common-green-primery);
+  }
   &__container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
   }
   &__link a{
     text-decoration: none;
@@ -16,15 +22,114 @@
     color: var(--common-white);
     cursor: pointer;
     padding: 8rem 16rem;
+    @media (max-width: $media-md) {
+      color: var(--common-black);
+    }
   }
 
   &__logo {
     color: var(--common-white);
+    display: flex;
+    align-items: center;
+    @media (max-width: $media-md) {
+      color: var(--common-green);
+    }
   }
   &__row {
- display: flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
+
+    @media (max-width: $media-md) {
+      position: absolute;
+      background-color: var(--common-green-primery);
+      top: 50rem;
+      width: 100%;
+      left: -100vw;
+      padding: 0 16rem;
+      overflow: scroll;
+      height: calc(100vh - 55rem);
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 16rem;
+      z-index: 80;
+      transition:left var(--transition), opacity var(--transition);
+
+      &.is-active {
+        left: 0;
+        opacity: 1;
+      }
+    }
+  }
+  &__btn {
+    @media (max-width: $media-md) {
+      margin-left: auto;
+      .button--main {
+        padding: 8rem 12rem;
+        min-width:107rem;
+      }
+    }
+  }
+  &__ul {
+    display: flex;
+    @media (max-width: $media-md) {
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      gap: 16rem;
+      padding: 16rem 0;
+      border-top: 1rem solid var(--common-green-border);
+      border-bottom: 1rem solid var(--common-green-border);
+    }
+  }
+  &__menu-btn {
+    display: none;
+    @media (max-width: $media-md) {
+     display: block;
+     padding:  8rem 0 8rem 8rem ;
+      margin-left: 20rem;
+      display: flex;
+      align-items: center;
+    }
+  }
+  &__item {
+    text-align: center;
+  }
+  &__mobile {
+    display: none;
+    @media (max-width: $media-md) {
+      display: block;
+    }
+  }
+  &__app-link {
+    padding-bottom: 30rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16rem 0;
+    a {
+      display: block;
+      width: 100%;
+    }
+    svg {
+      width: 100%;
+    }
+  }
+  &__card {
+    padding: 20rem 0;
+  }
+  &__icon-title {
+    color: var(--common-black);
+  }
+  &__icon-text {
+    color: var(--common-grey-v2);
+    margin-bottom: 20rem;
+  }
+  &__line {
+   background-color:  var( --common-line-color);
+    height: 1rem;
+    max-width: 240rem;
+    margin: 0 auto;
   }
   &--green {
     background-color: var(--common-green-primery);

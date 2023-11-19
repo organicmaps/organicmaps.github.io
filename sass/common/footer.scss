@@ -1,11 +1,18 @@
+@import "../variables/media";
 .footer {
   background-color: var(--footer-bg);
   padding: 30rem 0;
+  @media (max-width: $media-md) {
+    padding: 48rem 0;
+  }
   &__description {
     color: var(--black-white);
   }
   &__logo {
     color: var(--common-green);
+    @media (max-width: $media-md) {
+     max-height: 40rem;
+    }
   }
   &__nav {
     border-top: 1rem solid var(--common-grey);
@@ -13,10 +20,26 @@
     justify-content: space-between;
     padding: 20rem 0;
     margin-top: 20rem;
+    @media (max-width: $media-md) {
+      margin-top: 32rem;
+      padding: 32rem 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30rem;
+    }
+  }
+  &__nav-item {
+    @media (max-width: $media-md) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
   }
   &__link {
     text-decoration: none;
     color: var(--black-white);
+    padding: 8rem 16rem;
   }
   &__rw {
     display: grid;
@@ -24,6 +47,12 @@
     gap: 38rem;
     svg {
       width: 100%;
+    }
+    @media (max-width: $media-md) {
+      grid-template-columns: 1fr;
+      align-items: center;
+      text-align: center;
+      gap: 30rem;
     }
   }
 }
