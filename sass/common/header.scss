@@ -29,6 +29,8 @@
 
   &__logo {
     color: var(--common-white);
+    display: flex;
+    align-items: center;
     @media (max-width: $media-md) {
       color: var(--common-green);
     }
@@ -41,21 +43,22 @@
     @media (max-width: $media-md) {
       position: absolute;
       background-color: var(--common-green-primery);
-      top: 55rem;
+      top: 50rem;
       width: 100%;
-      left: -500rem;
-      padding: 16rem 0;
+      left: -100vw;
+      padding: 0 16rem;
+      overflow: scroll;
+      height: calc(100vh - 55rem);
       display: flex;
       align-items: center;
       flex-direction: column;
       gap: 16rem;
-      text-transform: uppercase;
       z-index: 80;
       transition:left var(--transition), opacity var(--transition);
 
       &.is-active {
         left: 0;
-        opacity: 80;
+        opacity: 1;
       }
     }
   }
@@ -68,6 +71,18 @@
       }
     }
   }
+  &__ul {
+    display: flex;
+    @media (max-width: $media-md) {
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      gap: 16rem;
+      padding: 16rem 0;
+      border-top: 1rem solid var(--common-green-border);
+      border-bottom: 1rem solid var(--common-green-border);
+    }
+  }
   &__menu-btn {
     display: none;
     @media (max-width: $media-md) {
@@ -77,6 +92,44 @@
       display: flex;
       align-items: center;
     }
+  }
+  &__item {
+    text-align: center;
+  }
+  &__mobile {
+    display: none;
+    @media (max-width: $media-md) {
+      display: block;
+    }
+  }
+  &__app-link {
+    padding-bottom: 30rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16rem 0;
+    a {
+      display: block;
+      width: 100%;
+    }
+    svg {
+      width: 100%;
+    }
+  }
+  &__card {
+    padding: 20rem 0;
+  }
+  &__icon-title {
+    color: var(--common-black);
+  }
+  &__icon-text {
+    color: var(--common-grey-v2);
+    margin-bottom: 20rem;
+  }
+  &__line {
+   background-color:  var( --common-line-color);
+    height: 1rem;
+    max-width: 240rem;
+    margin: 0 auto;
   }
   &--green {
     background-color: var(--common-green-primery);

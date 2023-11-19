@@ -5,6 +5,7 @@
 <div class="container header__container" id="menu" role="navigation">
       <a class="header__logo logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
       <div class="header__row">
+          <ul class="header__ul">
           {% for page in [
             get_section(path="news/_index.md"),
             get_page(path="donate/index.md"),
@@ -18,13 +19,61 @@
               {% set page = get_page(path=translated.path) %}
             {% endif %}
           {% endif %}
-          <nav class="header__nav header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__link{% if page.path != resource.path %}">
+          <li class="header__nav header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__link{% if page.path != resource.path %}">
             <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
               {{ page.extra.menu_title }}
               {%- if page.path != resource.path %}</a>
           {% endif %}
-          </nav>
+          </li>
           {% endfor %}
+          </ul>
+          <div class="header__mobile">
+
+            <div class="header__item">
+                <h3 class="h3-bold header__h3">Get Involved</h3>
+                <div class="header__card">
+                    {% include 'ui/icons/header/donate.html' %}
+                    <h5 class="h4 header__icon-title">
+                        Donate
+                    </h5>
+                    <p class="p-sm-light header__icon-text">
+                        The app runs on your donations, help improve it
+                    </p>
+                  <div class="header__line"></div>
+                </div>
+                <div class="header__card">
+                    {% include 'ui/icons/header/code.html' %}
+                    <h5 class="h4 header__icon-title">
+                        Contribute Code
+                    </h5>
+                    <p class="p-sm-light header__icon-text">
+                        Build the app used by people around the world
+                    </p>
+                    <div class="header__line"></div>
+                </div>
+                <div class="header__card">
+                    {% include 'ui/icons/header/location.html' %}
+                    <h5 class="h4 header__icon-title">
+                        Contribute Location Info
+                    </h5>
+                    <p class="p-sm-light header__icon-text">
+                        Add info around you, and make the product
+                        better for everyone
+                    </p>
+                    <div class="header__line"></div>
+                </div>
+                <h3 class="h3-bold header__h3">Freedom Awaits</h3>
+                <p class="p-sm-light header__icon-text">
+                    Download now
+                </p>
+                <div class="header__app-link">
+                    {% include 'ui/icons/apps/google-play.html' %}
+                    {% include 'ui/icons/apps/app-store.html' %}
+                    {% include 'ui/icons/apps/f-droid.html' %}
+                    {% include 'ui/icons/apps/app-galery.html' %}
+                </div>
+            </div>
+          </div>
         </div>
         <div class="header__btn">
             {% include 'components/download-button.html' %}
