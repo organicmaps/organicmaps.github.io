@@ -1,4 +1,5 @@
 /// Variables ///
+@import "./variables/media";
 @import "./variables/color-theme";
 @import "./variables/fonts";
 @import "./variables/spasing";
@@ -13,6 +14,7 @@
 @import "./common/footer";
 
 // Component Style
+@import "./component/lang-switcher";
 @import "./component/buttons";
 @import "./component/switch-theme";
 @import "./component/animation";

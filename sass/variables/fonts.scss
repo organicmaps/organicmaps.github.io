@@ -1,16 +1,33 @@
 //font-family: 'Inter', sans-serif;
 //font-family: 'Lato', sans-serif;
+@import "../variables/media";
 :root {
   --main-font: 'Inter', sans-serif;
   --sub-fonst: 'Lato', sans-serif;
 
   --h1: 300 48rem/60rem var(--sub-fonst);
   --h1-sub: 400 24rem/32rem var(--main-font);
+  --h3-boold: 700 24rem/32rem var(--main-font);
+  --h4: 500 18rem/28rem var(--main-font);
   --p: 300 18rem/28rem var(--main-font);
   --p-md: 400 16rem/28rem var(--main-font);
   --p-sm: 500 14rem/28rem var(--main-font);
   --p-sub: 300 12rem/28rem var(--main-font);
   --nav-link: 500 16rem/28rem var(--main-font);
+}
+
+@media (max-width: $media-md) {
+  :root {
+
+    --h1: 300 36rem/normal var(--sub-fonst);
+    --h1-sub: 400 18rem/32rem var(--main-font);
+    --p: 300 18rem/28rem var(--main-font);
+    --p-md: 400 16rem/28rem var(--main-font);
+    --p-sm: 500 14rem/28rem var(--main-font);
+    --p-sm-light: 300 14rem/28rem var(--main-font);
+    --p-sub: 300 12rem/28rem var(--main-font);
+    --nav-link: 500 13rem/24rem var(--main-font);
+  }
 }
 
 // Title
@@ -31,6 +48,14 @@
   color: var(--black-white);
 }
 
+.h3-bold {
+  font: var( --h3-boold);
+  color: var(--common-black);
+}
+.h4 {
+  font: var(--h4);
+}
+
 // Text
 .p{
   font: var(--p);
@@ -40,6 +65,9 @@
 }
 .p-sm {
   font: var(--p-sm);
+}
+.p-sm-light {
+  font: var(--p-sm-light);
 }
 .nav-link{
  font: var(--nav-link);

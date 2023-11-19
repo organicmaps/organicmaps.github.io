@@ -7,6 +7,10 @@
   --common-green-btn: #006031;
   --common-green-hover: #2b6445;
   --common-grey: #D9DBDA;
+  --common-grey-v2: #5A5A5A;
+  --common-green-border: #99C4AF;
+  --common-line-color: #AEC5BA;
+  --common-black-sub: #26312C;
 }
 
 // Theme COLOR change
@@ -18,6 +22,7 @@
   --bg-green: #E5F0EB;
   --footer-bg: #F5F5F5;
   --green-button: var(--common-green);
+  --icon-border-green: #66A686;
 }
 
 .dark {
@@ -28,4 +33,5 @@
   --bg-green: #33453D;
   --footer-bg: var(--common-black);
   --green-button: #BBD7A7;
+  --icon-border-green: var(--common-white);
 }

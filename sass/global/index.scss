@@ -1,3 +1,5 @@
+@import "../variables/media";
+
 html {
   font-size: 1px;
 }
@@ -11,5 +13,16 @@ body {
 .container {
   width: 100%;
   margin: 0 auto;
+  padding: 0 16rem;
   max-width: var(--container);
+}
+
+.logo .svg-logo {
+  @media(max-width: $media-md) {
+max-width: 130rem;
+  }
+}
+
+.frizz {
+overflow: hidden;
 }

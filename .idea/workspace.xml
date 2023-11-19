@@ -4,44 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/_download-button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_freedom-section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_open-map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_site-sections.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_top-menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow-link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow-link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/open-map/open-map-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/open-map/open-map-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/free-and-builty-by-community-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/no-tracking-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/save-your-battery-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sections/search-and-plan-route-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/freedom_section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index-old.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/open_map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/site_sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ui/download-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ui/logo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/_top_menu.scss" beforeDir="false" />
+    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="no index">
+      <change afterPath="$PROJECT_DIR$/sass/variables/media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/common/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/common/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/common/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/common/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/component/animation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/animation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/component/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/global/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/global/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/color-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/color-theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/images.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/spasing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/spasing.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bottom_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bottom_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/top_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/section/home-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/section/home-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/animation-section-js.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/animation-section-js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/header-switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/header-switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/paralax.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/paralax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shortcodes/switch-theme.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shortcodes/switch-theme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="light-mode" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,9 +59,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "preprod",
     "last_opened_file_path": "E:/organicmaps.github.io/static/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
@@ -68,6 +72,7 @@
     "node.js.selected.package.stylelint": "E:\\organicmaps.github.io\\node_modules\\stylelint",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/dmitroantonuk/Documents/development/organicmaps.github.io/node_modules/prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,11 +83,11 @@
       <recent name="E:\organicmaps.github.io\sass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="E:\organicmaps.github.io\static\images\sections" />
       <recent name="E:\organicmaps.github.io\static\images\open-map" />
       <recent name="E:\organicmaps.github.io\static\images\hero" />
       <recent name="E:\organicmaps.github.io\static\images" />
-      <recent name="E:\organicmaps.github.io\templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,9 +102,32 @@
       <workItem from="1699445857666" duration="387000" />
       <workItem from="1699446263788" duration="8939000" />
     </task>
+    <task id="LOCAL-00001" summary="no index">
+      <created>1699960224756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699960224756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="no index" />
+    <option name="LAST_COMMIT_MESSAGE" value="no index" />
   </component>
 </project>
