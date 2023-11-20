@@ -1,17 +1,105 @@
-
-
 {% extends "base.html" %}
 
 
 {%- block content %}
 {% include 'section/hero.html' %}
 
+<section>
+    <div>
+        <img src="images/community/discussion-card-banner.png">
+        <h2>
+            {{ page.extra.community_card_title_1 | safe }}
+        </h2>
+        <p>
+            {{ page.extra.community_card_description_1 | safe }}
+        </p>
+    </div>
 
+    <div>
+        <img src="images/community/contribute-code-banner.png">
+        <h2>
+            {{ page.extra.community_card_title_2 | safe }}
+        </h2>
+        <p>
+            {{ page.extra.community_card_description_2 | safe }}
+        </p>
+    </div>
+
+    <div>
+        <img src="images/community/location-info-banner.png">
+        <h2>
+            {{ page.extra.community_card_title_3 | safe }}
+        </h2>
+        <p>
+            {{ page.extra.community_card_description_3 | safe }}
+        </p>
+    </div>
+    <div>
+        <img src="images/community/provide-support-banner.png">
+        <h2>
+            {{ page.extra.community_card_title_4 | safe }}
+        </h2>
+        <p>
+            {{ page.extra.community_card_description_4 | safe }}
+        </p>
+
+    </div>
+    <div>
+        <img src="images/community/translate-banner.png">
+        <h2>
+            {{ page.extra.community_card_title_5 | safe }}
+        </h2>
+        <p>
+            {{ page.extra.community_card_description_5 | safe }}
+        </p>
+
+    </div>
+    <div>
+        <img src="images/community/design-product-banner.png">
+        <h2>
+            {{ page.extra.community_card_title_6 | safe }}
+        </h2>
+        <p>
+            {{ page.extra.community_card_description_6 | safe }}
+        </p>
+    </div>
+</section>
+<section>
+    <h2 style="text-align: center;">
+        {{ page.extra.stay_connected_section_title | safe }}
+    </h2>
+    <a href="#">
+        <img src="logos/instagram-dark-icon.png" alt="instagram">
+    </a>
+    <a href="#">
+        <img src="logos/twitter-dark-icon.png" alt="twitter">
+    </a>
+    <a href="#">
+        <img src="logos/telegram-dark-icon.png" alt="telegram">
+    </a>
+    <a href="#">
+        <img src="logos/linkedin-dark-icon.png" alt="linkedin">
+    </a>
+    <a href="#">
+        <img src="logos/facebook-dark-icon.png" alt="facebook">
+    </a>
+    <a href="#">
+        <img src="logos/mastodon-dark-icon.png" alt="mastodon">
+    </a>
+    <a href="#">
+        <img src="logos/mail-dark-icon.png" alt="mail">
+    </a>
+    <a href="#">
+        <img src="logos/matrix-dark-icon.png" alt="matrix">
+    </a>
+    <a href="#">
+        <img src="logos/reddit-dark-icon.png" alt="reddit">
+    </a>
+    <a href="#">
+        <img src="logos/github-dark-icon.png" alt="github">
+    </a>
+</section>
 <div>
-<h2>
-        {{ page.extra.test | safe }}
-</h2>
-
-
+    <img src="images/donation-banner.png" alt="donation">
 </div>
 {%- endblock content %}
