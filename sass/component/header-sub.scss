@@ -1,0 +1,38 @@
+@import "../variables/media";
+
+.hero-sub {
+  background-size: cover;
+  padding: var(--menu-height) 0 124rem;
+  position: relative;
+
+  &:before {
+    content: "";
+    height: 100%;
+    width: 100%;
+    display: block;
+    background: var(--common-green-gradient);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    position: relative;
+  }
+
+  &__title {
+    padding: 60rem 0 22rem;
+    z-index: 3;
+    position: relative;
+    @media (max-width: $media-md) {
+      padding: 40rem 0 10rem;
+    }
+  }
+
+  &__description {
+    max-width: 346rem;
+  }
+}

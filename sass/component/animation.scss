@@ -11,7 +11,7 @@
     }
     &--right-play {
       .animation-item {
-        left: -20rem!important;
+        left: 38rem!important;
         opacity: 1!important;
         transition: left var(--transition), opacity var(--transition);
       }
@@ -28,7 +28,7 @@
     }
     &--left-play {
       .animation-item {
-        right: -20rem!important;
+        right: 40rem!important;
         opacity: 1!important;
         transition: right var(--transition), opacity var(--transition);
       }
@@ -50,6 +50,13 @@
         transition: margin-bottom var(--transition), opacity var(--transition);
       }
 
+    }
+    &--play-right-revers {
+    .animation-item {
+            left: 170rem!important;
+            opacity: 1!important;
+            transition: left var(--transition), opacity var(--transition);
+          }
     }
   }
 }

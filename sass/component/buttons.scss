@@ -34,8 +34,11 @@
   }
 
   &--card {
-    background-color: var(--common-green);
+    max-width: 170rem;
+    text-align: left;
+    background-color: var(--common-green-btn-social);
     font: var(--p-sub);
+    gap: 10rem;
     padding: 8rem;
     flex-direction: row-reverse;
     svg {

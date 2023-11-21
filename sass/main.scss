@@ -12,14 +12,18 @@
 // Common Style
 @import "./common/header";
 @import "./common/footer";
+@import "./common/bred-crum";
 
 // Component Style
 @import "./component/lang-switcher";
 @import "./component/buttons";
 @import "./component/switch-theme";
 @import "./component/animation";
+@import "./component/header-sub";
+@import "./component/icons";
 
 // Pages Style
 @import "./pages/home";
+@import "./pages/community";
 
 

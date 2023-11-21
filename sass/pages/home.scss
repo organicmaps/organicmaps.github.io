@@ -224,6 +224,7 @@ margin-bottom: 35rem;
       margin-left: -50rem;
       .services__card {
       justify-content: flex-start;
+
       }
       .services__img--first  {
         left: auto;
@@ -246,7 +247,7 @@ margin-bottom: 35rem;
     max-width: 498rem;
   }
   &__title {
-    max-width: 357rem;
+    max-width: 367rem;
   }
   &__description {
     margin: 24rem 0;
@@ -258,6 +259,9 @@ margin-bottom: 35rem;
     display: flex;
     justify-content: flex-end;
     overflow: hidden;
+    &--start {
+      justify-content: flex-start;
+    }
     @media (max-width: $media-md) {
       width: 100%;
     display: flex;
@@ -276,6 +280,8 @@ margin-bottom: 35rem;
   &__img {
     padding: 20rem;
     z-index: 3;
+    max-width: 310rem;
+
     @media (max-width: $media-md) {
       max-width: 140rem;
       max-height: 240rem;

@@ -5,7 +5,9 @@ template: community.html
 weight: 10
 extra:
   menu_title: Community
-  hero_image: donate/donate.png
+  menu_title_pre: Home
+  community_hero_description: Organic Maps is created and maintained by people like you
+  hero_image: community/community-bg.png
   preview_image: donate/donate.png
   community_card_title_1: Join the discussion
   community_card_description_1: Report, bugs, discuss idea, and propose features
@@ -20,4 +22,7 @@ extra:
   community_card_title_6: Design & Product Management
   community_card_description_6: Shape the direction of the product and the user experience
   stay_connected_section_title: Stay Connected
+  donate:
+     title: Donate
+     description: The app runs on your donations, help improve it
 ---
