@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+
+{%- block content %}
+<section class="hero-sub">
+  <div class="container hero-sub__container">
+    <h1>{{ page.extra.hero_title | safe }}</h1>
+  </div>
+</section>
+<section class="section-community">
+  <img src="logos/search-ico.svg">
+  {{ trans(key='search-label', lang=lang) }}
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_1 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+    <h3>{{ page.extra.faq_question_app_q_1 | safe }}</p>
+    <img src="images/faq/app-img-1.png">
+    <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+    <img src="images/faq/app-img-2.png">
+    <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+    <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+    <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+    <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+    <img src="images/faq/app-img-3.png">
+    <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+    <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+    <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+    <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+    <img src="images/faq/app-img-4.png">
+    <img src="images/faq/app-img-5.png">
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_3 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_4 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_5 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_6 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_7 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_8 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_9 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_10 | safe }}
+    </h2>
+  </div>
+  <div>
+    <h2>
+      {{ page.extra.faq_question_title_11 | safe }}
+    </h2>
+  </div>
+</section>
+<section>
+  {{ trans(key='ged-involved-title', lang=lang) }}
+  <div>
+    <img src="get-involved/donation-ico.png">
+    {{ trans(key='donate-title', lang=lang) }}
+    {{ trans(key='donate-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-code-ico.png">
+    {{ trans(key='contribute-code-title', lang=lang) }}
+    {{ trans(key='contribute-code-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-info-ico.png">
+    {{ trans(key='contribute-location-title', lang=lang) }}
+    {{ trans(key='contribute-location-description', lang=lang) }}
+  </div>
+</section>
+{%- endblock content %}
