@@ -225,13 +225,11 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
 msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
 msgstr ""
 
@@ -794,11 +792,15 @@ msgstr "ऑर्गेनिक मैप्स ऐप के लिए कॉ�
 
 #. type: Plain text
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "[github]: https://github.com/organicmaps/organicmaps\n"
+#| "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
+#| "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+"[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
 msgstr ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"

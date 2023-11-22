@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-08-02 12:05+0000\nLast-Translator: Kom nake <kominak310@svcache.com>\nLanguage-Team: Bengali <https://hosted.weblate.org/projects/organicmaps/website/bn/>\nLanguage: bn\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.0-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Kom nake <kominak310@svcache.com>\n"
+"Language-Team: Bengali <https://hosted.weblate.org/projects/organicmaps/website/bn/>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -217,13 +226,11 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
 msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
 msgstr ""
 
@@ -788,7 +795,7 @@ msgstr ""
 msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+"[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
 msgstr ""
 
 #. type: Hash Value: address
