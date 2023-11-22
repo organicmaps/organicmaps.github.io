@@ -7,9 +7,7 @@
       <div class="header__row">
           <ul class="header__ul">
           {% for page in [
-            get_section(path="news/_index.md"),
-            get_page(path="donate/index.md"),
-            get_page(path="support-us/index.md")
+            get_page(path="community/index.md")
           ] %}
           {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
           {% if translated %}
