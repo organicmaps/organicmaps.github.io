@@ -225,19 +225,16 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
 msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
 msgstr ""
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
 msgstr "Mapas Organicas demanda pas de permissions excessivas per vos espiar:"
 
@@ -797,7 +794,7 @@ msgstr ""
 msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+"[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
 msgstr ""
 
 #. type: Hash Value: address
