@@ -19,6 +19,10 @@ body {
   word-wrap: break-word;
 }
 
+code {
+  color: red;
+}
+
 code,
 a {
   // Prevents horizontal scrolling in Safari on narrow screen for long links and code lines.
