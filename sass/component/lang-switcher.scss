@@ -1,0 +1,51 @@
+@import "../variables/media";
+
+.lang-menu{
+  position: relative;
+  color: var(--black-white);
+  cursor: pointer;
+ input {
+   display: none;
+ }
+  &__label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 5rem;
+  }
+  &__link {
+    color: var(--black-white);
+    text-decoration: none;
+  }
+  &__menu {
+    display: none;
+    position: absolute;
+    background-color: var(--white-black);
+    bottom: 30rem;
+    right: 0;
+    z-index: 100;
+    color: var(--black-white);
+    padding: 10rem;
+    border-radius: 3rem;
+    flex-direction: column;
+    gap: 16rem;
+    grid-template-columns: repeat(3, 1fr);
+    overflow: scroll;
+    @media (max-width: $media-md) {
+       width: 100vw;
+       right: auto;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+  &__trigger {
+    &:checked ~ .lang-menu__menu {
+      display: grid;
+    }
+  }
+  &__trigger {
+    &:checked ~ .lang-menu__label .lang-menu__arrow {
+      transform: scaleY(-1);
+    }
+  }
+}

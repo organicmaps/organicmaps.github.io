@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{%- block content %}
+  <section class="hero-sub">
+    <div class="container hero-sub__container">
+      <h1>{{ page.extra.hero_title | safe }}</h1>
+    </div>
+  </section>
+  <section class="section-community">
+    <div>
+      <h2>{{ page.extra.support_card_title_1 | safe }}</h2>
+      <p>{{ page.extra.support_card_description_1 | safe }}</p>
+      <img class="section-community__img" src="/images/support/email-card-banner.png" alt="img">
+    </div>
+    <div>
+      <h2>{{ page.extra.support_card_title_2 | safe }}</h2>
+      <p>{{ page.extra.support_card_description_2 | safe }}</p>
+      <img class="section-community__img" src="/images/support/faq-card-banner.png" alt="img">
+    </div>
+    <div>
+      <h2>{{ page.extra.support_card_title_3 | safe }}</h2>
+      <p>{{ page.extra.support_card_description_3 | safe }}</p>
+      <img class="section-community__img" src="/images/support/support-channel-banner.png" alt="img">
+    </div>
+  </section>
+  <section>
+    {{ trans(key='ged-involved-title', lang=lang) }}
+    <div>
+      <img src="get-involved/donation-ico.png">
+      {{ trans(key='donate-title', lang=lang) }}
+      {{ trans(key='donate-description', lang=lang) }}
+    </div>
+    <div>
+      <img src="get-involved/contribute-code-ico.png">
+      {{ trans(key='contribute-code-title', lang=lang) }}
+      {{ trans(key='contribute-code-description', lang=lang) }}
+    </div>
+    <div>
+      <img src="get-involved/contribute-info-ico.png">
+      {{ trans(key='contribute-location-title', lang=lang) }}
+      {{ trans(key='contribute-location-description', lang=lang) }}
+    </div>
+  </section>
+{%- endblock content %}

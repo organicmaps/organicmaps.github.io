@@ -1,0 +1,10 @@
+.bred-crum {
+  padding: 15rem 0 0;
+  &--active {
+    text-decoration: none;
+  }
+  &__row {
+    display: flex;
+    gap: 10rem;
+  }
+}
