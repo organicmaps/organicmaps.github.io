@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{%- block content %}
+<section class="hero-sub">
+  <div class="container hero-sub__container">
+    <h1>{{ page.extra.hero_title | safe }}</h1>
+    <p>{{ page.extra.hero_description_1 | safe }}</p>
+    <p>{{ page.extra.hero_description_2 | safe }}</p>
+  </div>
+</section>
+<section class="section-community">
+  <div>
+    <div>
+      <h2>{{ page.extra.project_info_section_title | safe }}</h2>
+      <p>{{ page.extra.project_info_section_description | safe }}</p>
+    </div>
+    <img src="images/about-us/project-info-main-banner.png">
+  </div>
+  <div>
+    <img src="images/about-us/info-card-banner-1.png">
+    <div>
+      <img src="images/about-us/mission-ico.png">
+      <h3>{{ page.extra.project_info_card_title_1 | safe }}</h3>
+      <p>{{ page.extra.project_info_card_description_1 | safe }}</p>
+    </div>
+  </div>
+  <div>
+    <img src="images/about-us/info-card-banner-2.png">
+    <div>
+      <img src="images/about-us/vision-ico.png">
+      <h3>{{ page.extra.project_info_card_title_2 | safe }}</h3>
+      <p>{{ page.extra.project_info_card_description_2 | safe }}</p>
+    </div>
+  </div>
+</section>
+<section>
+  <h2>{{ page.extra.history_section_title | safe }}</h2>
+  <p>{{ page.extra.history_section_20_11 | safe }}</p>
+  <p>{{ page.extra.history_section_20_15 | safe }}</p>
+  <p>{{ page.extra.history_section_20_21 | safe }}</p>
+  <p>{{ page.extra.history_section_20_22 | safe }}</p>
+  <p>{{ page.extra.history_section_20_23 | safe }}</p>
+</section>
+<section>
+  <h2>{{ page.extra.integration_section_title | safe }}</h2>
+  <img src="images/about-us/open-maps-banner.png">
+  <img src="images/about-us/wikipedia-banner.png">
+</section>
+<section>
+  {{ trans(key='ged-involved-title', lang=lang) }}
+  <div>
+    <img src="get-involved/donation-ico.png">
+    {{ trans(key='donate-title', lang=lang) }}
+    {{ trans(key='donate-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-code-ico.png">
+    {{ trans(key='contribute-code-title', lang=lang) }}
+    {{ trans(key='contribute-code-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-info-ico.png">
+    {{ trans(key='contribute-location-title', lang=lang) }}
+    {{ trans(key='contribute-location-description', lang=lang) }}
+  </div>
+</section>
+{%- endblock content %}

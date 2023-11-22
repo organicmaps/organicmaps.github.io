@@ -60,6 +60,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 # Please sort all other translation sections and values in alphabetical order.
 [languages.de]
 [languages.de.translations]
@@ -94,6 +95,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.fr]
 [languages.fr.translations]
 address = "Addresse"
@@ -127,6 +129,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.it]
 [languages.it.translations]
 address = "Indirizzi"
@@ -160,6 +163,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.pl]
 [languages.pl.translations]
 address = "Adres"
@@ -193,6 +197,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.ru]
 [languages.ru.translations]
 address = "Адрес"
@@ -226,6 +231,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.tr]
 [languages.tr.translations]
 address = "Adres"
@@ -259,6 +265,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.id]
 [languages.id.translations]
 address = "Alamat"
@@ -292,6 +299,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.cs]
 [languages.cs.translations]
 address = "Adresa"
@@ -325,6 +333,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.pt-BR.translations]
 address = "Endereço"
 back = "Voltar às Notícias"
@@ -357,6 +366,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.es.translations]
 address = "Dirección"
 back = "Volver a Noticias"
@@ -389,6 +399,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.nl.translations]
 address = "Adres"
 back = "Terug naar Nieuws"
@@ -421,6 +432,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.eu.translations]
 address = "Helbidea"
 back = "Back to News"
@@ -453,6 +465,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.hu.translations]
 address = "Cím"
 back = "Vissza a Hírekhez"
@@ -485,6 +498,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.hi.translations]
 address = "पता"
 back = "ख़बरों पर वापस जाएं"
@@ -549,6 +563,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.ca.translations]
 address = "Adreça"
 back = "Torna a Notícies"
@@ -614,6 +629,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.sv.translations]
 address = "Adress"
 back = "Tillbaka till nyheter"
@@ -646,6 +662,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.mr.translations]
 address = "पत्ता"
 back = "बातम्यांवर परता"
@@ -678,6 +695,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.zh-Hans.translations]
 address = "地址"
 back = "返回到新闻"
@@ -710,6 +728,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.oc.translations]
 address = "Address"
 back = "Back to News"
@@ -742,6 +761,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.af.translations]
 address = "Adres"
 back = "Terug na nuus"
@@ -774,6 +794,7 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
 [languages.ar.translations]
 address = "العنوان"
 back = "العودة إلى الأخبار"
@@ -806,3 +827,4 @@ services_section_card_description_3 = "Save Your Battery Efficiently uses your b
 services_section_card_description_4 = "People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code"
 single_section_title = "Offline Search and Route"
 single_section_description = "See the place you want to go while in an underground parking garage, and navigate while on a distant hike."
+learn-more-link = "Learn more"
