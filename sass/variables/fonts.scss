@@ -10,9 +10,11 @@
   --h1-sub: 400 24rem/32rem var(--main-font);
   --h1-sub_v2: 300 24rem/32rem var(--main-font);
   --h3-boold: 700 24rem/32rem var(--main-font);
+  --h3-normal: 600 24rem/32rem var(--main-font);
   --h4: 500 18rem/28rem var(--main-font);
   --h5: 500 20rem/28rem var(--main-font);
   --h6: 500 30rem/36rem var(--main-font);
+  --h5-boold: 700 22rem/28rem var(--main-font);
   --p: 300 18rem/28rem var(--main-font);
   --p-md: 400 16rem/28rem var(--main-font);
   --p-sm: 500 14rem/28rem var(--main-font);
@@ -62,7 +64,9 @@
   font: var(--h1-sub_v2);
   color: var(--common-white);
 }
-
+.h3-normal {
+  font: var(--h3-normal);
+}
 .h3-bold {
   font: var( --h3-boold);
   color: var(--common-black);
@@ -77,6 +81,9 @@
 }
 .h6 {
   font: var(--h6);
+}
+.h5-boold {
+  font: var( --h5-boold);
 }
 // Text
 .p{

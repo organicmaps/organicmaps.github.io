@@ -1,0 +1,55 @@
+.section-volunteering {
+  padding: var(--container-mob-section) 0;
+
+  &__select {
+    display: flex;
+    justify-content: space-between;
+    padding: 22rem 30rem;
+    border-radius: 10rem;
+    background-color: var(--acordion-green);
+    margin-bottom: 20rem;
+    cursor: pointer;
+border: 1rem solid transparent;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+&__main {
+   padding: 30rem;
+}
+  &__content {
+    overflow: hidden;
+    max-height: 0;
+    background-color: var(--acordion-green-bg);
+    transition: max-height 0.5s ease-in-out;
+    margin-bottom: 20rem;
+     margin-top: -24rem;
+    border-radius: 0 0 10rem 10rem;
+
+
+  }
+
+  &__button {
+    background-color: var(--common-acord-button);
+    color: var(--common-green);
+    width: 34rem;
+    height: 34rem;
+    font-size: 21px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 34rem;
+  }
+.is-active {
+
+  border: 1rem solid var(--common-acord-button);
+  background-color: var(--acordion-green-bg);
+}
+.is-active + .section-volunteering__content {
+  max-height: 1500rem;
+ border: 1rem solid var(--common-acord-button);
+
+}
+}
+
