@@ -1,4 +1,6 @@
 // Common COLOR
+
+@import "../variables/media";
 :root {
   --common-black: #000D07;
   --common-white: #ffffff;
@@ -12,12 +14,16 @@
   --common-line-color: #AEC5BA;
   --common-black-sub: #26312C;
   --common-green-btn-social: #33895E;
-
+ --common-acord-button: #BFDACC;
   --common-green-gradient: linear-gradient(90deg, #006C35 0%, rgba(0, 96, 49, 0.00) 100%);
 }
 
+
+
 // Theme COLOR change
 .light {
+  --acordion-green: #F2F8F5;
+  --acordion-green-bg: #E5F0EB;
   --body-bg: var(--common-white);
   --white-black: var(--common-white);
   --black-white: var(--common-black);
@@ -29,6 +35,8 @@
 }
 
 .dark {
+  --acordion-green: #33453D;
+   --acordion-green-bg: #64776E;
   --body-bg: #2C2C2C;
   --white-black: var(--common-black);
   --black-white: var(--common-white);

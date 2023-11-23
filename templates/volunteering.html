@@ -1,76 +1,273 @@
 {% extends "base.html" %}
 
 {%- block content %}
-<section class="hero-sub">
-  <div class="container hero-sub__container">
-    <h1>{{ page.extra.hero_title | safe }}</h1>
-  </div>
-</section>
-<section class="section-community">
-  <h2>
-    {{ page.extra.section_item_title_1 | safe }}
-  </h2>
-  <h2>
-    {{ page.extra.section_item_title_2 | safe }}
-  </h2>
-  <h2>
-    {{ page.extra.section_item_title_3 | safe }}
-  </h2>
-  <h2>
-    {{ page.extra.section_item_title_4 | safe }}
-  </h2>
-  
-  <div>
-    <h2>
-      {{ page.extra.section_item_title_5 | safe }}
-    </h2>
-    <div>
-      <h3>
-        {{ page.extra.section_marketing_title_1 | safe }}
-      </h3>
-      <p>
-        {{ page.extra.section_marketing_description_1 | safe }}
-      </p>
-      <button>
-        {{ trans(key='volunteer-button', lang=lang) }}
-      </button>
+
+    <section class="hero-sub" style="background-image: url({{ page.extra.hero_image | safe }})">
+        <div class="container hero-sub__container">
+            <nav class="bred-crum">
+                <ul class="bred-crum__row">
+                    <li class="bred-crum__item">
+                        <a class="nav-bred bred-crum__link" href="/">{{ page.extra.menu_title_pre }}</a>
+                    </li>
+                    <li class="bred-crum__item">
+                    <span class="nav-bred">
+                        >
+                    </span>
+                    </li>
+                    <li class="bred-crum__item">
+                        <a class="nav-bred bred-crum__link bred-crum--active"
+                           href="/{{ page.extra.hero_title | lower }}">{{ page.extra.hero_title }}</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="hero-sub__content">
+                <h1 class="h1 hero-sub__title">
+                    {{ page.extra.hero_title | safe }}
+                </h1>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section class="section-volunteering">
+        <div class="container section-volunteering__container">
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_item_title_1 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    <div class="section-volunteering__main">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis distinctio enim eveniet, fuga
+                    molestiae sequi voluptas. Commodi consequatur debitis deleniti deserunt dicta dignissimos ducimus
+                    eaque eos error excepturi explicabo facere harum hic id iste neque nobis nostrum obcaecati
+                    perspiciatis quam qui, quidem quod quos reprehenderit soluta tempora temporibus tenetur vero
+                    voluptas voluptatum. Ab aliquid animi aperiam architecto blanditiis commodi cupiditate debitis
+                    ducimus ex excepturi in magni minima molestiae molestias natus nemo nostrum nulla, numquam odio odit
+                    perspiciatis reprehenderit saepe, ullam vel voluptatibus! Aliquid, amet beatae blanditiis
+                    consectetur, culpa debitis doloremque esse itaque, nam necessitatibus non saepe sunt vitae! Omnis,
+                    voluptate.
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_item_title_2 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                 <div class="section-volunteering__content">
+                    <div class="section-volunteering__main">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis distinctio enim eveniet, fuga
+                    molestiae sequi voluptas. Commodi consequatur debitis deleniti deserunt dicta dignissimos ducimus
+                    eaque eos error excepturi explicabo facere harum hic id iste neque nobis nostrum obcaecati
+                    perspiciatis quam qui, quidem quod quos reprehenderit soluta tempora temporibus tenetur vero
+                    voluptas voluptatum. Ab aliquid animi aperiam architecto blanditiis commodi cupiditate debitis
+                    ducimus ex excepturi in magni minima molestiae molestias natus nemo nostrum nulla, numquam odio odit
+                    perspiciatis reprehenderit saepe, ullam vel voluptatibus! Aliquid, amet beatae blanditiis
+                    consectetur, culpa debitis doloremque esse itaque, nam necessitatibus non saepe sunt vitae! Omnis,
+                    voluptate.
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_item_title_3 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                  <div class="section-volunteering__content">
+                    <div class="section-volunteering__main">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis distinctio enim eveniet, fuga
+                    molestiae sequi voluptas. Commodi consequatur debitis deleniti deserunt dicta dignissimos ducimus
+                    eaque eos error excepturi explicabo facere harum hic id iste neque nobis nostrum obcaecati
+                    perspiciatis quam qui, quidem quod quos reprehenderit soluta tempora temporibus tenetur vero
+                    voluptas voluptatum. Ab aliquid animi aperiam architecto blanditiis commodi cupiditate debitis
+                    ducimus ex excepturi in magni minima molestiae molestias natus nemo nostrum nulla, numquam odio odit
+                    perspiciatis reprehenderit saepe, ullam vel voluptatibus! Aliquid, amet beatae blanditiis
+                    consectetur, culpa debitis doloremque esse itaque, nam necessitatibus non saepe sunt vitae! Omnis,
+                    voluptate.
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_item_title_3 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis distinctio enim eveniet, fuga
+                    molestiae sequi voluptas. Commodi consequatur debitis deleniti deserunt dicta dignissimos ducimus
+                    eaque eos error excepturi explicabo facere harum hic id iste neque nobis nostrum obcaecati
+                    perspiciatis quam qui, quidem quod quos reprehenderit soluta tempora temporibus tenetur vero
+                    voluptas voluptatum. Ab aliquid animi aperiam architecto blanditiis commodi cupiditate debitis
+                    ducimus ex excepturi in magni minima molestiae molestias natus nemo nostrum nulla, numquam odio odit
+                    perspiciatis reprehenderit saepe, ullam vel voluptatibus! Aliquid, amet beatae blanditiis
+                    consectetur, culpa debitis doloremque esse itaque, nam necessitatibus non saepe sunt vitae! Omnis,
+                    voluptate.
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_item_title_4 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                 <div class="section-volunteering__content">
+                    <div class="section-volunteering__main">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis distinctio enim eveniet, fuga
+                    molestiae sequi voluptas. Commodi consequatur debitis deleniti deserunt dicta dignissimos ducimus
+                    eaque eos error excepturi explicabo facere harum hic id iste neque nobis nostrum obcaecati
+                    perspiciatis quam qui, quidem quod quos reprehenderit soluta tempora temporibus tenetur vero
+                    voluptas voluptatum. Ab aliquid animi aperiam architecto blanditiis commodi cupiditate debitis
+                    ducimus ex excepturi in magni minima molestiae molestias natus nemo nostrum nulla, numquam odio odit
+                    perspiciatis reprehenderit saepe, ullam vel voluptatibus! Aliquid, amet beatae blanditiis
+                    consectetur, culpa debitis doloremque esse itaque, nam necessitatibus non saepe sunt vitae! Omnis,
+                    voluptate.
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_item_title_4 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis distinctio enim eveniet, fuga
+                    molestiae sequi voluptas. Commodi consequatur debitis deleniti deserunt dicta dignissimos ducimus
+                    eaque eos error excepturi explicabo facere harum hic id iste neque nobis nostrum obcaecati
+                    perspiciatis quam qui, quidem quod quos reprehenderit soluta tempora temporibus tenetur vero
+                    voluptas voluptatum. Ab aliquid animi aperiam architecto blanditiis commodi cupiditate debitis
+                    ducimus ex excepturi in magni minima molestiae molestias natus nemo nostrum nulla, numquam odio odit
+                    perspiciatis reprehenderit saepe, ullam vel voluptatibus! Aliquid, amet beatae blanditiis
+                    consectetur, culpa debitis doloremque esse itaque, nam necessitatibus non saepe sunt vitae! Omnis,
+                    voluptate.
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        {{ page.extra.section_marketing_title_1 | safe }}
+                    </h2>
+                    <div class="section-volunteering__button">
+                        <span class="section-volunteering__symbol">+</span>
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            {{ page.extra.section_marketing_title_1 | safe }}
+                        </h3>
+                        <p>
+                            {{ page.extra.section_marketing_description_1 | safe }}
+                        </p>
+                        <button class="button button--main">
+                            {{ trans(key='volunteer-button', lang=lang) }}
+                        </button>
+                    </div>
+                    <div class="section-volunteering__block">
+                        <h3>
+                            {{ page.extra.section_marketing_title_2 | safe }}
+                        </h3>
+                        <ul>
+                            <li>{{ page.extra.marketing_section_list_item_1| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_2| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_3| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_4| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_5| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_6| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_7| safe }}</li>
+                            <li>{{ page.extra.marketing_section_list_item_8| safe }}</li>
+                        </ul>
+                        <button class="button button--main">
+                            {{ trans(key='volunteer-button', lang=lang) }}
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <div class="support-block">
+        <div class="container support-block__container">
+            <h3 class="h3-bold support-block__title">Get Involved</h3>
+            <div class="support-block__row">
+                <div class="support-block__card">
+                    {% include 'ui/icons/header/donate.html' %}
+                    <h5 class="h4 support-block__icon-title">
+                        Donate
+                    </h5>
+
+                    <p class="p-sm-light support-block__icon-text">
+                        The app runs on your donations, help improve it
+                    </p>
+
+                </div>
+                <div class="support-block__card">
+                    {% include 'ui/icons/header/code.html' %}
+                    <h5 class="h4 support-block__icon-title">
+                        Contribute Code
+                    </h5>
+
+                    <p class="p-sm-light support-block__icon-text">
+                        Build the app used by people around the world
+                    </p>
+
+                </div>
+                <div class="support-block__card">
+                    {% include 'ui/icons/header/location.html' %}
+                    <h5 class="h4 support-block__icon-title">
+                        Contribute Location Info
+                    </h5>
+                    <p class="p-sm-light support-block__icon-text">
+                        Add info around you, and make the product
+                        better for everyone
+                    </p>
+
+                </div>
+            </div>
+
+        </div>
     </div>
-    <div>
-      <h3>
-        {{ page.extra.section_marketing_title_2 | safe }}
-      </h3>
-      <ul>
-        <li>{{ page.extra.marketing_section_list_item_1| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_2| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_3| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_4| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_5| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_6| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_7| safe }}</li>
-        <li>{{ page.extra.marketing_section_list_item_8| safe }}</li>
-      </ul>
-      <button>
-        {{ trans(key='volunteer-button', lang=lang) }}
-      </button>
-    </div>
-  </div>
-</section>
-<section>
-  {{ trans(key='ged-involved-title', lang=lang) }}
-  <div>
-    <img src="get-involved/donation-ico.png">
-    {{ trans(key='donate-title', lang=lang) }}
-    {{ trans(key='donate-description', lang=lang) }}
-  </div>
-  <div>
-    <img src="get-involved/contribute-code-ico.png">
-    {{ trans(key='contribute-code-title', lang=lang) }}
-    {{ trans(key='contribute-code-description', lang=lang) }}
-  </div>
-  <div>
-    <img src="get-involved/contribute-info-ico.png">
-    {{ trans(key='contribute-location-title', lang=lang) }}
-    {{ trans(key='contribute-location-description', lang=lang) }}
-  </div>
-</section>
+
+    <script>
+       try{
+           const select = document.querySelectorAll('.section-volunteering__select')
+
+           select.forEach(item => {
+              item.addEventListener('click', ()=>{
+                 item.classList.toggle('is-active')
+              })
+           })
+       }
+       catch (err) {
+           console.log(err)
+       }
+    </script>
 {%- endblock content %}

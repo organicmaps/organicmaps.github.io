@@ -5,6 +5,8 @@ template: volunteering.html
 weight: 10
 extra:
   hero_title: Volunteering 
+  menu_title_pre: Home
+  hero_image: volunteering/kv.png
   section_item_title_1: Design
   section_item_title_2: Engineering
   section_item_title_3: Product
