@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+
+{%- block content %}
+<section class="hero-sub">
+  <div class="container hero-sub__container">
+    <h1>{{ page.extra.hero_title | safe }}</h1>
+    <p>{{ page.extra.hero_description | safe }}</p>
+    <button> {{ trans(key='donate-title', lang=lang) }}</button>
+  </div>
+</section>
+<section class="section-community">
+  <div>
+    <img src="images/crowdfunding/why-us-banner.png">
+    <h2> {{ page.extra.why_section_title_1 | safe }} </h2>
+    <p> {{ page.extra.why_section_description_1 | safe }}</p>
+
+    <h2> {{ page.extra.why_section_title_2 | safe }} </h2>
+    <p> {{ page.extra.why_section_description_2 | safe }}</p>
+  </div>
+</section>
+<section>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-1.png">
+    <h3>{{ page.extra.benefits_section_card_title_1 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_1 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-2.png">
+    <h3>{{ page.extra.benefits_section_card_title_2 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_2 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-3.png">
+    <h3>{{ page.extra.benefits_section_card_title_3 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_3 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-4.png">
+    <h3>{{ page.extra.benefits_section_card_title_4 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_4 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-5.png">
+    <h3>{{ page.extra.benefits_section_card_title_5 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_5 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-6.png">
+    <h3>{{ page.extra.benefits_section_card_title_6 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_6 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/crowdfunding/benefits-banner-7.png">
+    <h3>{{ page.extra.benefits_section_card_title_7 | safe }}</h3>
+    <p>{{ page.extra.benefits_section_card_description_7 | safe }}</p>
+  </div>
+  <div>
+    <img src="get-involved/donation-ico.png">
+    {{ trans(key='donate-title', lang=lang) }}
+    {{ trans(key='donate-description', lang=lang) }}
+    <button> {{ trans(key='donate-title', lang=lang) }}</button>
+  </div>
+</section>
+<section>
+  <h2>{{ page.extra.support_section_title | safe }}</h2>
+  <p>{{ page.extra.support_section_description | safe }}</p>
+</section>
+<section>
+  <h2>{{ page.extra.rewards_section_title | safe }}</h2>
+  <p>{{ page.extra.rewards_section_description | safe }}</p>
+  <div>
+    <img src="images/crowdfunding/rewards-banner-1.png">
+    <div>
+      <h3>{{ page.extra.rewards_section_card_title_1 | safe }}</h3>
+      <p>{{ page.extra.rewards_section_card_description_1 | safe }}</p>
+    </div>
+  </div>
+  <div>
+    <img src="images/crowdfunding/rewards-banner-2.png">
+    <div>
+      <h3>{{ page.extra.rewards_section_card_title_2 | safe }}</h3>
+      <p>{{ page.extra.rewards_section_card_description_2 | safe }}</p>
+    </div>
+  </div>
+  <div>
+    <img src="images/crowdfunding/rewards-banner-3.png">
+    <div>
+      <h3>{{ page.extra.rewards_section_card_title_3 | safe }}</h3>
+      <p>{{ page.extra.rewards_section_card_description_3 | safe }}</p>
+    </div>
+  </div>
+  <div>
+    <img src="images/crowdfunding/rewards-banner-4.png">
+    <div>
+      <h3>{{ page.extra.rewards_section_card_title_4 | safe }}</h3>
+      <p>{{ page.extra.rewards_section_card_description_4 | safe }}</p>
+    </div>
+  </div>
+  <button> {{ trans(key='donate-title', lang=lang) }}</button>
+</section>
+<section>
+  <img src="images/crowdfunding/join-us-banner.png">
+  <h2>{{ page.extra.join_us_section_title | safe }}</h2>
+  <p>{{ page.extra.join_us_section_description_1 | safe }}</p>
+  <div>
+    <img src="images/crowdfunding/join-us-ico.png">
+    <p>{{ page.extra.join_us_section_description_2 | safe }}</p>
+  </div>
+  <p>{{ page.extra.join_us_section_description_3 | safe }}</p>
+</section>
+<section>
+  {{ trans(key='ged-involved-title', lang=lang) }}
+  <div>
+    <img src="get-involved/donation-ico.png">
+    {{ trans(key='donate-title', lang=lang) }}
+    {{ trans(key='donate-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-code-ico.png">
+    {{ trans(key='contribute-code-title', lang=lang) }}
+    {{ trans(key='contribute-code-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-info-ico.png">
+    {{ trans(key='contribute-location-title', lang=lang) }}
+    {{ trans(key='contribute-location-description', lang=lang) }}
+  </div>
+</section>
+{%- endblock content %}

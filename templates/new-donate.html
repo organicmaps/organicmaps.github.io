@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{%- block content %}
+<section class="hero-sub">
+  <div class="container hero-sub__container">
+    <h1>{{ page.extra.hero_title | safe }}</h1>
+    <p>{{ page.extra.hero_description | safe }}</p>
+    <button> {{ trans(key='donate-title', lang=lang) }}</button>
+  </div>
+</section>
+<section class="section-community">
+  <div>
+    <img src="images/donate/earth-ico.png">
+    <p>{{ page.extra.info_section_card_description_1 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/donate/heart-ico.png">
+    <p>{{ page.extra.info_section_card_description_2 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/donate/info-ico.png">
+    <p>{{ page.extra.info_section_card_description_3 | safe }}</p>
+  </div>
+</section>
+<section>
+  <div>
+    <img src="images/donate/first-card-banner.png">
+    <h2>{{ page.extra.funding_section_card_title_1 | safe }}</h2>
+    <p>{{ page.extra.funding_section_card_description_1 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/donate/second-card-banner.png">
+    <h2>{{ page.extra.funding_section_card_title_2 | safe }}</h2>
+    <p>{{ page.extra.funding_section_card_description_2 | safe }}</p>
+  </div>
+  <div>
+    <img src="images/donate/third-card-banner.png">
+    <h2>{{ page.extra.funding_section_card_title_3 | safe }}</h2>
+    <p>{{ page.extra.funding_section_card_description_3 | safe }}</p>
+  </div>
+  <button> {{ trans(key='donate-title', lang=lang) }}</button>
+</section>
+<section>
+  <h2>{{ page.extra.users_way_section_title | safe }}</h2>
+  <div>
+    <p>{{ page.extra.users_way_donation_description_1 | safe }}</p>
+    <h3>{{ page.extra.users_way_donation_name_1| safe }}</h3>
+    <img src="images/donate/first-donate-ico.png"> 
+  </div>
+  <div>
+    <p>{{ page.extra.users_way_donation_description_2 | safe }}</p>
+    <h3>{{ page.extra.users_way_donation_name_2| safe }}</h3>
+    <img src="images/donate/second-donate-ico.png"> 
+  </div>
+</section>
+<section>
+  {{ trans(key='ged-involved-title', lang=lang) }}
+  <div>
+    <img src="get-involved/donation-ico.png">
+    {{ trans(key='donate-title', lang=lang) }}
+    {{ trans(key='donate-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-code-ico.png">
+    {{ trans(key='contribute-code-title', lang=lang) }}
+    {{ trans(key='contribute-code-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-info-ico.png">
+    {{ trans(key='contribute-location-title', lang=lang) }}
+    {{ trans(key='contribute-location-description', lang=lang) }}
+  </div>
+</section>
+{%- endblock content %}

@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{%- block content %}
+<section class="hero-sub">
+  <div class="container hero-sub__container">
+    <h1>{{ page.extra.hero_title | safe }}</h1>
+    <p>{{ page.extra.hero_description | safe }}</p>
+  </div>
+</section>
+<section class="section-community">
+  <div>
+    <h3>{{ page.extra.mobile_payment_title | safe }}</h3>
+    <div>
+      <p>{{ page.extra.mobile_payment_methods_1 | safe }}</p>
+      <p>{{ page.extra.mobile_shop_name_1 | safe }}</p>
+      <img src="images/download/app-store-logo.png">
+    </div>
+    <div>
+      <div>
+        <p>{{ page.extra.mobile_payment_methods_2 | safe }}</p>
+        <p>{{ page.extra.mobile_shop_name_2 | safe }}</p>
+        <img src="images/download/googleplay-logo.png">
+      </div>
+      <div>
+        <p>{{ page.extra.mobile_shop_name_3 | safe }}</p>
+        <img src="images/download/f-droid-logo.png">
+      </div>
+      <div>
+        <p>{{ page.extra.mobile_shop_name_4 | safe }}</p>
+        <img src="images/download/app-gallery-logo.png">
+      </div>
+    </div>
+  </div>
+  <div>
+    <h3>{{ page.extra.desktop_payment_title | safe }}</h3>
+    <div>
+      <p>{{ page.extra.desktop_payment_methods_1 | safe }}</p>
+      <p>{{ page.extra.desktop_shop_name_1 | safe }}</p>
+      <img src="images/download/app-store-logo.png">
+    </div>
+    <div>
+      <p>{{ page.extra.desktop_payment_methods_2 | safe }}</p>
+      <p>{{ page.extra.desktop_shop_name_2 | safe }}</p>
+      <img src="images/download/flathub-logo.png">
+    </div>
+  </div>
+</section>
+<section>
+  <h2>{{ page.extra.download_section_title | safe }}</h2>
+  <div>
+    <p>{{ page.extra.download_section_list_title_1 | safe }}</p>
+  </div>
+  <div>
+    <p>{{ page.extra.download_section_list_title_2 | safe }}</p>
+  </div>
+  <div>
+    <p>{{ page.extra.download_section_list_title_3 | safe }}</p>
+  </div>
+  <div>
+    <p>{{ page.extra.download_section_list_title_4 | safe }}</p>
+  </div>
+</section>
+<section>
+  {{ trans(key='ged-involved-title', lang=lang) }}
+  <div>
+    <img src="get-involved/donation-ico.png">
+    {{ trans(key='donate-title', lang=lang) }}
+    {{ trans(key='donate-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-code-ico.png">
+    {{ trans(key='contribute-code-title', lang=lang) }}
+    {{ trans(key='contribute-code-description', lang=lang) }}
+  </div>
+  <div>
+    <img src="get-involved/contribute-info-ico.png">
+    {{ trans(key='contribute-location-title', lang=lang) }}
+    {{ trans(key='contribute-location-description', lang=lang) }}
+  </div>
+</section>
+{%- endblock content %}
