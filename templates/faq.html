@@ -40,6 +40,7 @@
     </section>
     <section class="faq-page section-volunteering">
         <div class="container section-volunteering__container">
+            <!--
             <div class="section-volunteering__item">
                 <div class="section-volunteering__select">
                     <h2 class="h5-boold  section-volunteering__title">
@@ -425,9 +426,496 @@
 
                 </div>
             </div>
+            -->
         </div>
 
     </section>
 
     {% include 'section/donate.html' %}
+
+
+
+
+    <script>
+
+
+        try {
+                    const faqArr = [
+            {
+                title: '{{ page.extra.faq_question_title_1| safe }}',
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_2| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_3| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_4| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_5| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_6| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_7| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_8| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_9| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_10| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+            {
+                title: `{{ page.extra.faq_question_title_11| safe }}`,
+                content: `
+
+                        <h2>{{ page.extra.faq_question_title_2| safe }}</h2>
+
+                        <h3> {{ page.extra.faq_question_app_q_1 | safe }} </h3>
+                        <img src="/images/faq/app-img-1.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_1 | safe }}</p>
+                        <img src="/images/faq/app-img-2.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_1_2 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_2 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_2_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_3 | safe }}</h3>
+                        <img src="/images/faq/app-img-3.png" alt="img">
+                        <p>{{ page.extra.faq_answer_app_q_3_1 | safe }}</p>
+
+                        <h3>{{ page.extra.faq_question_app_q_4 | safe }}</h3>
+                        <p>{{ page.extra.faq_answer_app_q_4_1 | safe }}</p>
+                        <p>{{ page.extra.faq_answer_app_q_4_2 | safe }}</p>
+                        <img src="/images/faq/app-img-4.png" alt="img">
+                        <img src="/images/faq/app-img-5.png" alt="img">
+
+
+                `,
+            },
+        ];
+            const searchInp = document.getElementById('inpSearch')
+            const searchOut = document.querySelector('.section-volunteering__container')
+
+            searchInp.addEventListener("keyup", search)
+
+            function search() {
+                searchOut.innerHTML = ''
+                faqArr.map((item, index) => {
+                    if (item.title.toLowerCase().includes(searchInp.value.toLowerCase())) {
+                        searchOut.append(searchItem(item))
+                    }
+                })
+            }
+
+            function searchItem(data) {
+                const div = document.createElement('div')
+                div.setAttribute('class', 'section-volunteering__item')
+
+                const select = document.createElement('div')
+                select.classList.add('section-volunteering__select')
+
+                select.onclick = () => {
+                    select.classList.toggle('is-active')
+                    content.classList.toggle('active-hei')
+                }
+
+                const h2Title = document.createElement('h2')
+                h2Title.setAttribute('class', 'h5-boold  section-volunteering__title')
+                h2Title.innerText = data.title;
+
+
+                const seBtn = document.createElement('div')
+                seBtn.classList.add('section-volunteering__button')
+
+                const symB = document.createElement('span')
+                symB.classList.add('section-volunteering__symbol')
+                symB.innerText = "+"
+
+                const content = document.createElement('div')
+                content.classList.add('section-volunteering__content')
+
+                const contentBlock = document.createElement('div')
+                contentBlock.classList.add('section-volunteering__block')
+
+                contentBlock.innerHTML = data.content
+
+
+                content.append(contentBlock)
+                seBtn.append(symB)
+
+                select.append(h2Title, seBtn)
+
+                div.append(select, content)
+
+                return div
+            }
+
+            function defRender() {
+                searchOut.innerHTML = ''
+                faqArr.map(item => {searchOut.append(searchItem(item))})
+            }
+            setTimeout(()=>{defRender()},400)
+        } catch (err) {
+            console.log(err)
+        }
+
+
+
+
+        /** const faqArr = [
+         {
+         title: 'About Organic Maps',
+         content: [
+         {
+         title: 'How to edit or move bookmarks?',
+         block: [
+         {
+         img: ['/images/faq/app-img-1.png'],
+         text: 'To edit a bookmark use longtap menu or hit "Edit bookmark" when bookmark is selected on map.',
+         },
+         {
+         img: ['/images/faq/app-img-1.png'],
+         text: `ou can change bookmark name, description, color, and folder. Don't forget to tap "Save".`,
+         }
+         ]
+
+         },
+         {
+         title: 'How to remove bookmark or track?',
+         description: [
+         {
+         title: ['Test1'],
+         text: ['On Android you can remove bookmark from from bookmarks list using longtap menu.On iOS: ???']
+         }
+         ]
+         },
+         {
+         title: 'Hot to import GPX track on Android and iOS?',
+         description: [
+         {
+         title: ['Test1'],
+         text: [
+         'If you received GPX file in email, messenger, or cloud drive you can import it directly to Organic Maps app.',
+         `<img src="test"> Then select Organic Maps to open the file.`
+         ]
+         }
+         ],
+         block: [
+         {
+         img: ['/images/faq/app-img-1.png', '/images/faq/app-img-2.png'],
+         text: 'On Android tap on received GPX file to see Share menu. Select Organic Maps to import the file.',
+         },
+
+         ]
+         }
+         ]
+         },
+         {
+         title: 'About Organic Maps 22',
+         content: [
+         {
+         title: 'How to edit or move bookmarks?',
+         block: [
+         {
+         img: ['/images/faq/app-img-1.png'],
+         text: 'To edit a bookmark use longtap menu or hit "Edit bookmark" when bookmark is selected on map.',
+         },
+         {
+         img: ['/images/faq/app-img-1.png'],
+         text: `ou can change bookmark name, description, color, and folder. Don't forget to tap "Save".`,
+         }
+         ]
+
+         },
+         {
+         title: 'How to remove bookmark or track?',
+         description: [
+         {
+         title: ['Test1'],
+         text: ['On Android you can remove bookmark from from bookmarks list using longtap menu.On iOS: ???']
+         }
+         ]
+         },
+         {
+         title: 'Hot to import GPX track on Android and iOS?',
+         description: [
+         {
+         title: ['Test2'],
+         text: [
+         'If you received GPX file in email, messenger, or cloud drive you can import it directly to Organic Maps app.',
+         `<img src="test"> Then select Organic Maps to open the file.`
+         ]
+         }
+         ],
+         block: [
+         {
+         img: ['/images/faq/app-img-1.png', '/images/faq/app-img-2.png'],
+         text: 'On Android tap on received GPX file to see Share menu. Select Organic Maps to import the file.',
+         },
+
+         ]
+         }
+         ]
+         },
+         ];
+         **/
+
+    </script>
 {%- endblock content %}
