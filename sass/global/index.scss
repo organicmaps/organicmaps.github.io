@@ -26,3 +26,14 @@ max-width: 130rem;
 .frizz {
 overflow: hidden;
 }
+
+.line {
+  width: 100%;
+    background-color: var(--green-button);
+    max-width: 222rem;
+    height: 2rem;
+     margin: 10rem auto 40rem;
+  @media (max-width: $media-sm) {
+          margin: 10rem auto 20rem;
+      }
+}

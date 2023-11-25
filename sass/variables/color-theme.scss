@@ -5,44 +5,60 @@
   --common-black: #000D07;
   --common-white: #ffffff;
   --common-green: #006C35;
+  --common-green-02: #33453D ;
   --common-green-primery: #CCE1D7;
   --common-green-btn: #006031;
   --common-green-hover: #2b6445;
   --common-grey: #D9DBDA;
   --common-grey-v2: #5A5A5A;
+  --common-grey-v3: #64776E;
+  --common-grey-v4: #E5F0EB;
   --common-green-border: #99C4AF;
   --common-line-color: #AEC5BA;
   --common-black-sub: #26312C;
   --common-green-btn-social: #33895E;
  --common-acord-button: #BFDACC;
   --common-green-gradient: linear-gradient(90deg, #006C35 0%, rgba(0, 96, 49, 0.00) 100%);
+
 }
 
 
 
 // Theme COLOR change
 .light {
+    --card-box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+  --icon-check-color: var(--common-green-primery);
   --acordion-green: #F2F8F5;
-  --acordion-green-bg: #E5F0EB;
+  --acordion-green-bg: var(--common-grey-v4);;
+  --dots-color: var(--common-grey-v4);;
   --body-bg: var(--common-white);
   --white-black: var(--common-white);
   --black-white: var(--common-black);
   --green-theme: #006031;
-  --bg-green: #E5F0EB;
+  --bg-green: var(--common-grey-v4);;
+  --wite-green: var(--common-white);
   --footer-bg: #F5F5F5;
   --green-button: var(--common-green);
+  --green-button-transparent: transparent;
   --icon-border-green: #66A686;
+  --rewi-card-color: var(--common-white);
 }
 
 .dark {
-  --acordion-green: #33453D;
-   --acordion-green-bg: #64776E;
+    --card-box-shadow: none;
+  --icon-check-color: var(--common-green-primery);
+  --acordion-green: var(--common-green-02);
+  --acordion-green-bg: var( --common-grey-v3);
   --body-bg: #2C2C2C;
+  --dots-color: var(--common-grey-v4);;
   --white-black: var(--common-black);
   --black-white: var(--common-white);
   --green-theme: var(--common-green);
-  --bg-green: #33453D;
+  --bg-green: var(--common-green-02);
+  --wite-green: var(--common-green-02);
   --footer-bg: var(--common-black);
   --green-button: #BBD7A7;
+  --green-button-transparent: #BBD7A7;
   --icon-border-green: var(--common-white);
+    --rewi-card-color: var( --common-grey-v3);
 }

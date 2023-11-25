@@ -4,6 +4,8 @@ template: new-donate.html
 weight: 10
 extra:
   hero_title: Donate
+  hero_image: new-donate/donate-bg.png
+  menu_title_pre: Home
   hero_description: Donate and create better maps together!
   info_section_card_description_1: We rely on your donations to keep Organic Maps open, free, and without ads
   info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users

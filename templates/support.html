@@ -62,40 +62,39 @@
         </div>
 
     </section>
-    <div class="support-block">
+   <div class="support-block">
         <div class="container support-block__container">
-            <h3 class="h3-bold support-block__title">Get Involved</h3>
+            <h3 class="h3-bold support-block__title"> {{ trans(key='ged-involved-title', lang=lang) }}</h3>
             <div class="support-block__row">
                 <div class="support-block__card">
                     {% include 'ui/icons/header/donate.html' %}
                     <h5 class="h4 support-block__icon-title">
-                        Donate
+                        {{ trans(key='donate-title', lang=lang) }}
                     </h5>
 
                     <p class="p-sm-light support-block__icon-text">
-                        The app runs on your donations, help improve it
+                       {{ trans(key='donate-description', lang=lang) }}
                     </p>
 
                 </div>
                 <div class="support-block__card">
                     {% include 'ui/icons/header/code.html' %}
                     <h5 class="h4 support-block__icon-title">
-                        Contribute Code
+                         {{ trans(key='contribute-code-title', lang=lang) }}
                     </h5>
 
                     <p class="p-sm-light support-block__icon-text">
-                        Build the app used by people around the world
+                        {{ trans(key='contribute-code-description', lang=lang) }}
                     </p>
 
                 </div>
                 <div class="support-block__card">
                     {% include 'ui/icons/header/location.html' %}
                     <h5 class="h4 support-block__icon-title">
-                        Contribute Location Info
+                          {{ trans(key='contribute-location-title', lang=lang) }}
                     </h5>
                     <p class="p-sm-light support-block__icon-text">
-                        Add info around you, and make the product
-                        better for everyone
+                        {{ trans(key='contribute-location-description', lang=lang) }}
                     </p>
 
                 </div>

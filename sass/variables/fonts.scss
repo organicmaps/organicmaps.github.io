@@ -16,12 +16,16 @@
   --h6: 500 30rem/36rem var(--main-font);
   --h5-boold: 700 22rem/28rem var(--main-font);
   --p: 300 18rem/28rem var(--main-font);
+  --p-15: 300 15rem/26rem var(--main-font);
   --p-md: 400 16rem/28rem var(--main-font);
+  --p-md-bold: 600 16rem/28rem var(--main-font);
   --p-sm: 500 14rem/28rem var(--main-font);
   --p-sub: 300 12rem/15rem var(--main-font);
   --p-card: 300 17rem/24rem var(--main-font);
   --nav-link: 500 16rem/28rem var(--main-font);
   --nav-bred: 400 13rem/18rem var(--main-font);
+
+  --icon-count: 700 64rem/60rem var(--sub-fonst);
 }
 
 @media (max-width: $media-md) {
@@ -29,6 +33,7 @@
 
     --h1: 300 36rem/normal var(--sub-fonst);
     --h1-sub: 400 18rem/32rem var(--main-font);
+    --h5-boold: 700 16rem/28rem var(--main-font);
     --p: 300 18rem/28rem var(--main-font);
     --p-md: 400 16rem/28rem var(--main-font);
     --p-sm: 500 14rem/28rem var(--main-font);
@@ -37,6 +42,7 @@
     --nav-link: 500 13rem/24rem var(--main-font);
 
     --h1-inter: 500 24rem/36rem var(--main-font);
+     --icon-count: 700 48rem/60rem var(--sub-fonst);
   }
 }
 
@@ -89,6 +95,9 @@
 .p{
   font: var(--p);
 }
+.p-15 {
+  font: var(--p-15);
+}
 .p-md {
   font: var(--p-md);
 }
@@ -101,11 +110,18 @@
 .p-card {
   font: var(--p-card);
 }
+.p-md-bold {
+  font: var(--p-md-bold);
+}
 .nav-link{
  font: var(--nav-link);
 }
 .nav-bred {
   font: var(--nav-bred);
   color: var(--common-white);
+}
+
+.icon-count {
+  font: var(--icon-count);
 }
 
