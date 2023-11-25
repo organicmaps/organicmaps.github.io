@@ -6,32 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="git ignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.af.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.af.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.ar.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.ar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.ca.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.ca.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.cs.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.cs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.de.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.de.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.es.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.es.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.eu.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.eu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.fr.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.fr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.hi.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.hi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.hu.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.hu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.id.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.id.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.mr.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.mr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.nl.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.nl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.oc.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.oc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.pl.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.pl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.pt-BR.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.pt-BR.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.ru.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.sv.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.sv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.tr.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.tr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.uk.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.uk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.zh-Hans.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.zh-Hans.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/community.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/community.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/section/open_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/section/open_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
