@@ -325,60 +325,8 @@
         </div>
 
     </section>
-    <div class="support-block">
-        <div class="container support-block__container">
-            <h3 class="h3-bold support-block__title">Get Involved</h3>
-            <div class="support-block__row">
-                <div class="support-block__card">
-                    {% include 'ui/icons/header/donate.html' %}
-                    <h5 class="h4 support-block__icon-title">
-                        Donate
-                    </h5>
 
-                    <p class="p-sm-light support-block__icon-text">
-                        The app runs on your donations, help improve it
-                    </p>
+     {% include 'section/donate.html' %}
 
-                </div>
-                <div class="support-block__card">
-                    {% include 'ui/icons/header/code.html' %}
-                    <h5 class="h4 support-block__icon-title">
-                        Contribute Code
-                    </h5>
 
-                    <p class="p-sm-light support-block__icon-text">
-                        Build the app used by people around the world
-                    </p>
-
-                </div>
-                <div class="support-block__card">
-                    {% include 'ui/icons/header/location.html' %}
-                    <h5 class="h4 support-block__icon-title">
-                        Contribute Location Info
-                    </h5>
-                    <p class="p-sm-light support-block__icon-text">
-                        Add info around you, and make the product
-                        better for everyone
-                    </p>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    <script>
-       try{
-           const select = document.querySelectorAll('.section-volunteering__select')
-
-           select.forEach(item => {
-              item.addEventListener('click', ()=>{
-                 item.classList.toggle('is-active')
-              })
-           })
-       }
-       catch (err) {
-           console.log(err)
-       }
-    </script>
 {%- endblock content %}
