@@ -5,7 +5,7 @@ template: faq.html
 weight: 10
 extra:
   hero_title: Faq
-  hero_image: faq/hero_image.png
+  hero_image: /faq/hero_image.png
   menu_title_pre: Home
   faq_question_title_1: About Organic Maps
   faq_question_title_2: App

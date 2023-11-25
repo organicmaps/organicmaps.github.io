@@ -7,7 +7,7 @@ extra:
   menu_title: Community
   menu_title_pre: Home
   community_hero_description: Organic Maps is created and maintained by people like you
-  hero_image: community/community-bg.png
+  hero_image: /community/community-bg.png
   preview_image: donate/donate.png
   community_card_title_1: Join the discussion
   community_card_description_1: Report, bugs, discuss idea, and propose features
