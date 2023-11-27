@@ -4,8 +4,10 @@ template: about-us.html
 weight: 10
 extra:
   hero_title: About Us
+  hero_image: /about-us/about-bg.png
   hero_description_1: Free and open navigation with privacy 
   hero_description_2: Built by the community
+  menu_title_pre: Home
   project_info_section_title: Free and open navigation with privacy, built by the community
   project_info_section_description: Organic Maps is a community-focused privacy navigation app for travelers, drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no location tracking, no data collection, and no phoning home so users can take control of their data. All Organic Maps features can operate without an active internet connection for offline navigation at urban or distant locations where a cell signal is not available. Organic Maps is an open-source project, and prioritizes community development.
   project_info_card_title_1: Mission

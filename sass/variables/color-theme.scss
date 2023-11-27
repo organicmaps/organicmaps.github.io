@@ -1,11 +1,12 @@
 // Common COLOR
 
 @import "../variables/media";
+
 :root {
   --common-black: #000D07;
   --common-white: #ffffff;
   --common-green: #006C35;
-  --common-green-02: #33453D ;
+  --common-green-02: #33453D;
   --common-green-primery: #CCE1D7;
   --common-green-btn: #006031;
   --common-green-hover: #2b6445;
@@ -14,20 +15,23 @@
   --common-grey-v3: #64776E;
   --common-grey-v4: #E5F0EB;
   --common-grey-v5: #CECECE;
+  --common-grey-v6: #BBD7A7;
   --common-green-border: #99C4AF;
   --common-line-color: #AEC5BA;
   --common-black-sub: #26312C;
   --common-green-btn-social: #33895E;
- --common-acord-button: #BFDACC;
+  --common-acord-button: #BFDACC;
   --common-green-gradient: linear-gradient(90deg, #006C35 0%, rgba(0, 96, 49, 0.00) 100%);
+   --common-card-box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
 
 }
 
 
-
 // Theme COLOR change
 .light {
-    --card-box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+  --link-map-section: var(--common-white);
+  --cart-bg: var(--common-acord-button);
+  --card-box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
   --icon-check-color: var(--common-green-primery);
   --acordion-green: #F2F8F5;
   --acordion-green-bg: var(--common-grey-v4);;
@@ -46,10 +50,12 @@
 }
 
 .dark {
-    --card-box-shadow: none;
+  --link-map-section: var(--common-grey-v6);
+  --cart-bg: var(--common-green-02);
+  --card-box-shadow: none;
   --icon-check-color: var(--common-green-primery);
   --acordion-green: var(--common-green-02);
-  --acordion-green-bg: var( --common-grey-v3);
+  --acordion-green-bg: var(--common-grey-v3);
   --body-bg: #2C2C2C;
   --dots-color: var(--common-grey-v4);;
   --white-black: var(--common-black);
@@ -58,8 +64,8 @@
   --bg-green: var(--common-green-02);
   --wite-green: var(--common-green-02);
   --footer-bg: var(--common-black);
-  --green-button: #BBD7A7;
-  --green-button-transparent: #BBD7A7;
+  --green-button: var(--common-grey-v6);
+  --green-button-transparent: var(--common-grey-v6);
   --icon-border-green: var(--common-white);
-    --rewi-card-color: var( --common-grey-v3);
+  --rewi-card-color: var(--common-grey-v3);
 }
