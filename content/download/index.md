@@ -5,6 +5,8 @@ weight: 10
 extra:
   hero_title: Download
   hero_description: Organic Maps 
+  hero_image: /download/bg.png
+  menu_title_pre: Home
   mobile_payment_title: Mobile
   desktop_payment_title: Desktop
   mobile_payment_methods_1: IOS

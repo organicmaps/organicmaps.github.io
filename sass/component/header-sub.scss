@@ -20,7 +20,7 @@
   &--big {
      padding:calc(var(--menu-height) + 30rem)  0 274rem;
      @media (max-width: $media-sm) {
-   padding:calc(var(--menu-height) + 30rem)  0 74rem;
+      padding:calc(var(--menu-height) + 30rem)  0 74rem;
     }
     &:before {
       background: transparent;

@@ -1,0 +1,15 @@
+ <section class="donate">
+     <div class="container donate__container">
+         <div class="donate__content">
+            <h2 class="h6 donate__title">
+                {{ trans(key='donate-title', lang=lang) }}
+            </h2>
+             <div class=" donate__line"></div>
+             <p class="h2-sub_v2 donate__description">   {{ trans(key='donate-description', lang=lang) }}</p>
+             {% include 'components/donate-button.html' %}
+         </div>
+         <div class="donate__img">
+               {% include 'ui/icons/community/donate.html' %}
+         </div>
+     </div>
+ </section>

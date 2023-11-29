@@ -7,6 +7,8 @@ extra:
   hero_description: Donate and create better maps for everyone today!
   why_section_title_1: Donate Now!
   why_section_title_2: Why Organic Maps?
+  hero_image: /crowdfunding/crowdfunding-bg.png
+  menu_title_pre: Home
   why_section_description_1: Do you value privacy and prefer to use services that respect your data? We've got the perfect solution for you! Introducing Organic Maps, the innovative map navigation app designed to make your journeys effortless, privacy-focused, and environmentally friendly.
   why_section_description_2: Organic Maps isn't your typical navigation app. We've worked tirelessly to create a unique platform that prioritizes user privacy, sustainability, and functionality. Here's why Organic Maps is the ultimate choice for mindful travelers
   benefits_section_card_title_1: Privacy-Centric
@@ -25,6 +27,7 @@ extra:
   benefits_section_card_description_7: Personalize your navigation experience. Organic Maps allows you to choose between various map styles, so you can tailor the app's appearance to your preference. Additionally, our reliable routing algorithm ensures you reach your destination efficiently.
   support_section_title: Your Support Matters
   support_section_description: We've come a long way in developing Organic Maps, but to continue providing a privacy-first and sustainable navigation experience, we need your support. By backing our crowdfunding campaign, you'll be contributing to the growth of an app that prioritizes user values and the planet.
+  support_section_description_2: By backing our crowdfunding campaign, you'll be contributing to the growth of an app that prioritizes user values and the planet.
   rewards_section_title: Rewards
   rewards_section_description: As a token of our gratitude for your support we've prepared some exciting rewards for our backers
   rewards_section_card_title_1: Privacy Advocate
