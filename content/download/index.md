@@ -21,7 +21,7 @@ extra:
   desktop_shop_name_2: Linux
   download_section_title: Already downloaded?
   download_section_list_title_1: Offline Maps and Exploration
-  download_section_list_title_2: Offline Maps and Exploration
-  download_section_list_title_3: Offline Maps and Exploration
-  download_section_list_title_4: Offline Maps and Exploration
+  download_section_list_title_2: Privacy-Centric
+  download_section_list_title_3: No Ads, No Tracking
+  download_section_list_title_4: Open-Source and Community-Driven
 ---

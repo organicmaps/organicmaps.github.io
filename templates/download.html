@@ -35,7 +35,6 @@
 
     <section class="section-device">
         <div class="container section-device__container">
-
             <div class="section-device__item">
                 <div class="section-device__title-row">
                     <h3 class="h5 section-device__title">{{ page.extra.mobile_payment_title | safe }}</h3>
@@ -45,64 +44,102 @@
                 </div>
 
                 <div class="section-device__content">
-                    <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_1 | safe }}</p>
                     <div class="section-device__content-item">
-                        <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_1 | safe }}</p>
-                        <img class="section-device__img" src="/images/download/app-store-logo.png" alt="img">
+                        <div class="section-device__card">
+                            <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_1 | safe }}</p>
+                            <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_1 | safe }}</p>
+                            <img class="section-device__img" src="/images/download/app-store-logo.png" alt="img">
+                        </div>
+
+                    </div>
+                    <div class="section-device__content-item">
+                        <div class="section-device__card">
+                            <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_2 | safe }}</p>
+                            <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_2 | safe }}</p>
+                            <img class="section-device__img" src="/images/download/googleplay-logo.png" alt="img">
+                        </div>
+                        <div class="section-device__card">
+                            <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_3 | safe }}</p>
+                            <img class="section-device__img" src="/images/download/f-droid-logo.png" alt="img">
+                        </div>
+                        <div class="section-device__card">
+                            <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_4 | safe }}</p>
+                            <img class="section-device__img" src="/images/download/app-gallery-logo.png" alt="img">
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div>
+            <div class="section-device__item">
+                <div class="section-device__title-row">
+                    <h3 class="h5 section-device__title">{{ page.extra.desktop_payment_title | safe }}</h3>
+                    <div class="section-device__icon">
+                        {% include 'ui/icons/social/upload.html' %}
+                    </div>
+                </div>
 
-            <div>
-                <p>{{ page.extra.mobile_payment_methods_1 | safe }}</p>
+                <div class="section-device__content">
+                    <div class="section-device__content-item">
+                        <div class="section-device__card">
+                            <p class="p-15-bold section-device__content-title">{{ page.extra.desktop_payment_methods_1 | safe }}</p>
+                            <p class="p-15 section-device__text">{{ page.extra.desktop_shop_name_1 | safe }}</p>
+                            <img class="section-device__img" src="/images/download/app-store-logo.png" alt="img">
+                        </div>
+                        <div class="section-device__card">
+                            <p class="p-15-bold section-device__content-title">{{ page.extra.desktop_payment_methods_2 | safe }}</p>
+                            <p class="p-15 section-device__text">{{ page.extra.desktop_shop_name_2 | safe }}</p>
+                            <img class="section-device__img" src="/images/download/flathub-logo.png" alt="img">
+                        </div>
+                    </div>
 
-            </div>
-            <div>
-                <div>
-                    <p>{{ page.extra.mobile_payment_methods_2 | safe }}</p>
-                    <p>{{ page.extra.mobile_shop_name_2 | safe }}</p>
-                    <img src="images/download/googleplay-logo.png">
                 </div>
-                <div>
-                    <p>{{ page.extra.mobile_shop_name_3 | safe }}</p>
-                    <img src="images/download/f-droid-logo.png">
-                </div>
-                <div>
-                    <p>{{ page.extra.mobile_shop_name_4 | safe }}</p>
-                    <img src="images/download/app-gallery-logo.png">
-                </div>
-            </div>
-        </div>
-        <div>
-            <h3>{{ page.extra.desktop_payment_title | safe }}</h3>
-            <div>
-                <p>{{ page.extra.desktop_payment_methods_1 | safe }}</p>
-                <p>{{ page.extra.desktop_shop_name_1 | safe }}</p>
-                <img src="images/download/app-store-logo.png">
-            </div>
-            <div>
-                <p>{{ page.extra.desktop_payment_methods_2 | safe }}</p>
-                <p>{{ page.extra.desktop_shop_name_2 | safe }}</p>
-                <img src="images/download/flathub-logo.png">
             </div>
         </div>
     </section>
-    <section>
-        <h2>{{ page.extra.download_section_title | safe }}</h2>
-        <div>
-            <p>{{ page.extra.download_section_list_title_1 | safe }}</p>
+
+    <section class="section-step">
+        <div class="container section-step__container">
+            <h2 class="h6 section-step__title">{{ page.extra.download_section_title | safe }}</h2>
+            <div class="section-step__content">
+                <div class="section-step__item">
+                    <div class="services-support__count">
+                        <span class="icon-count services-support__number">01</span>
+                        <div class="services-support__icon">
+                            {% include 'ui/icons/new-support/pin.html' %}
+                        </div>
+                    </div>
+                    <p class="h5 section-step__text">{{ page.extra.download_section_list_title_1 | safe }}</p>
+                </div>
+                <div class="section-step__item">
+                    <div class="services-support__count">
+                        <span class="icon-count services-support__number">02</span>
+                        <div class="services-support__icon">
+                            {% include 'ui/icons/new-support/pin.html' %}
+                        </div>
+                    </div>
+                    <p class="h5 section-step__text">{{ page.extra.download_section_list_title_2 | safe }}</p>
+                </div>
+                <div class="section-step__item">
+                    <div class="services-support__count">
+                        <span class="icon-count services-support__number">03</span>
+                        <div class="services-support__icon">
+                            {% include 'ui/icons/new-support/pin.html' %}
+                        </div>
+                    </div>
+                    <p class="h5 section-step__text">{{ page.extra.download_section_list_title_3 | safe }}</p>
+                </div>
+                <div class="section-step__item">
+                    <div class="services-support__count">
+                        <span class="icon-count services-support__number">04</span>
+                        <div class="services-support__icon">
+                            {% include 'ui/icons/new-support/pin.html' %}
+                        </div>
+                    </div>
+                    <p class="h5 section-step__text">{{ page.extra.download_section_list_title_4 | safe }}</p>
+                </div>
+            </div>
         </div>
-        <div>
-            <p>{{ page.extra.download_section_list_title_2 | safe }}</p>
-        </div>
-        <div>
-            <p>{{ page.extra.download_section_list_title_3 | safe }}</p>
-        </div>
-        <div>
-            <p>{{ page.extra.download_section_list_title_4 | safe }}</p>
-        </div>
+
+
     </section>
     {% include 'section/donate.html' %}
 {%- endblock content %}
