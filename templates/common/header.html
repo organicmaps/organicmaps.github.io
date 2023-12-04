@@ -17,41 +17,59 @@
               {% set page = get_page(path=translated.path) %}
             {% endif %}
           {% endif %}
-          <li class="header__nav header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__link{% if page.path != resource.path %}">
-            <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}
-              {{ page.extra.menu_title }}
-              {%- if page.path != resource.path %}</a>
-          {% endif %}
+<!--          <li class="header__nav header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__link{% if page.path != resource.path %}">-->
+<!--            <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}-->
+<!--              {{ page.extra.menu_title }}-->
+<!--              {%- if page.path != resource.path %}</a>-->
+<!--          {% endif %}-->
           </li>
           {% endfor %}
+<!--              <li class="header__nav header__link">-->
+<!--                  <a href="/faq/">-->
+<!--                      Faq-->
+<!--                  </a>-->
+<!--              </li>-->
+<!--              <li class="header__nav header__link">-->
+<!--                  <a href="/crowdfunding/">-->
+<!--                      Сrowdfunding-->
+<!--                  </a>-->
+<!--              </li>-->
+              <!--              <li class="header__nav header__link">-->
+              <!--                  <a href="/crowdfunding/">-->
+              <!--                      Download-->
+              <!--                  </a>-->
+              <!--              </li>-->
+
+              <!--              <li class="header__nav header__link">-->
+              <!--                  <a href="/new-news/">-->
+              <!--                      News-->
+              <!--                  </a>-->
+              <!--              </li>-->
+
+              <!--              <li class="header__nav header__link">-->
+              <!--                  <a href="/volunteering/">-->
+              <!--                      Volunteering-->
+              <!--                  </a>-->
+              <!--              </li>-->
               <li class="header__nav header__link">
-                  <a href="/faq/">
-                      Faq
+                  <a href="/community/">
+                      Community
                   </a>
               </li>
-              <li class="header__nav header__link">
-                  <a href="/crowdfunding/">
-                      Сrowdfunding
-                  </a>
-              </li>
-              <li class="header__nav header__link">
-                  <a href="/crowdfunding/">
-                      Download
-                  </a>
-              </li>
-              <li class="header__nav header__link">
-                  <a href="/about-us/">
-                      About us
-                  </a>
-              </li>
+
               <li class="header__nav header__link">
                   <a href="/new-donate/">
                       Donate
                   </a>
               </li>
               <li class="header__nav header__link">
-                  <a href="/volunteering/">
-                      Volunteering
+                  <a href="/support/">
+                      Support
+                  </a>
+              </li>
+              <li class="header__nav header__link">
+                  <a href="/about-us/">
+                      About us
                   </a>
               </li>
           </ul>

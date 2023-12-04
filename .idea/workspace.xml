@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="update navbar">
+    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="update footer">
+      <change afterPath="$PROJECT_DIR$/content/new-news/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/new-news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,32 +41,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;preprod&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dmitroantonuk/Documents/GitHub/organicmaps.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;E:/organicmaps.github.io/node_modules/stylelint&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/dmitroantonuk/Documents/development/organicmaps.github.io/node_modules/prettier&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "preprod",
+    "last_opened_file_path": "/Users/dmitroantonuk/Documents/GitHub/organicmaps.github.io/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "E:/organicmaps.github.io/node_modules/stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/dmitroantonuk/Documents/development/organicmaps.github.io/node_modules/prettier",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/community" />
       <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/community" />
       <recent name="$PROJECT_DIR$/content/new" />
       <recent name="E:\organicmaps.github.io\static\images" />
-      <recent name="E:\organicmaps.github.io\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
@@ -89,7 +92,11 @@
       <workItem from="1700583569450" duration="24000" />
       <workItem from="1701121159173" duration="598000" />
       <workItem from="1701250034648" duration="374000" />
-      <workItem from="1701251942782" duration="44000" />
+      <workItem from="1701251942782" duration="917000" />
+      <workItem from="1701274485654" duration="598000" />
+      <workItem from="1701429859454" duration="1150000" />
+      <workItem from="1701686937193" duration="593000" />
+      <workItem from="1701701540827" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="no index">
       <created>1699960224756</created>
@@ -112,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700936414815</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update footer">
+      <created>1701430404256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701430404256</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="no index" />
     <MESSAGE value="update navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="update navbar" />
+    <MESSAGE value="update footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="update footer" />
   </component>
 </project>
