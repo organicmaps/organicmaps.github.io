@@ -2,8 +2,9 @@
 
 // Hero Section
 .hero {
-  background: url('/images/hero/hero-bg.jpg') center center / cover no-repeat fixed;
-  min-height: 100vh;
+  background: var(--common-black) url('/images/hero/hero-bg.jpg') center center / cover no-repeat fixed;
+  height: 100vh;
+  max-height: 900rem;
   padding: 80rem 0;
   display: flex;
   align-items: center;

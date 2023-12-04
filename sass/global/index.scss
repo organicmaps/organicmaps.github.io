@@ -17,6 +17,10 @@ body {
   max-width: var(--container);
 }
 
+* {
+  transition: background-color 0.3s;
+}
+
 .logo .svg-logo {
   @media(max-width: $media-md) {
 max-width: 130rem;

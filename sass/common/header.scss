@@ -48,9 +48,10 @@
     @media (max-width: $media-md) {
       position: absolute;
       background-color: var(--common-green-primery);
-      top: 50rem;
+      top: 66rem;
       width: 100%;
-      left: -100vw;
+      right: -100vw;
+      opacity: 0;
       padding: 0 16rem;
       overflow: scroll;
       height: calc(100vh - 55rem);
@@ -62,7 +63,7 @@
       transition: left var(--transition), opacity var(--transition);
 
       &.is-active {
-        left: 0;
+        right: 0;
         opacity: 1;
       }
     }
@@ -94,11 +95,51 @@
   &__menu-btn {
     display: none;
     @media (max-width: $media-md) {
-      padding: 8rem 0 8rem 8rem;
+      width: 30rem;
+      height: 30rem;
       margin-left: 20rem;
       display: flex;
       align-items: center;
+      position: relative;
+      &.is-active {
+        .header__close-line {
+       width: 0;
+          &:first-child {
+          transform: translate(-50%, -50%) rotate(45deg);
+    top: 15rem;
+            width: 100%;
+          }
+
+          &:last-child {
+           width: 100%;
+            transform: translate(-50%, -50%) rotate(-45deg);
+    bottom: 13rem;
+          }
+        }
+      }
     }
+  }
+
+  &__close-line {
+    @media (max-width: $media-md) {
+      transition: all 0.5s;
+      height: 2rem;
+      width: 100%;
+      border-radius: 2rem;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: var(--common-black);
+      &:first-child {
+        top: 6rem;
+      }
+      &:last-child {
+        top: auto;
+        bottom: 3rem;
+      }
+    }
+
   }
 
   &__item {
@@ -130,6 +171,7 @@
 
   &__card {
     padding: 20rem 0;
+        color: var(--common-green);
   }
 
   &__icon-title {
@@ -167,7 +209,7 @@
 }
 
 @keyframes header-play {
- from{
+  from {
     max-height: 0;
   }
   to {

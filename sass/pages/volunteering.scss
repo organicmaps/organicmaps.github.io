@@ -9,6 +9,7 @@
       align-items: center;
     }
   }
+
   &__container {
     display: flex;
     flex-direction: column;
@@ -39,9 +40,11 @@
     border-bottom: 1rem solid var(--common-acord-button);
     overflow: scroll;
     max-height: 500rem;
+
     > div {
-       max-height: 500rem;
+      max-height: 500rem;
     }
+
     img {
       display: inline;
       width: fit-content;
@@ -84,12 +87,20 @@
     justify-content: center;
     align-items: center;
     border-radius: 34rem;
+    &:before {
+      content: "+";
+    }
   }
 
   .is-active {
-border-radius: 10rem;
+    border-radius: 10rem;
     border: 1rem solid var(--common-acord-button);
     background-color: var(--acordion-green-bg);
+    .section-volunteering__button {
+      &:before {
+      content: "-";
+    }
+    }
   }
 
   .is-active + .section-volunteering__content {
