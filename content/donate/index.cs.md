@@ -16,9 +16,15 @@ Aplikace Organic Maps je pro všechny _zdarma_ díky vašim
 - Žádná oznámení push
 - Open source
 
+## Jak darovat?
+
 Klikněte na ikonu preferovaného způsobu platby níže:
 
 {{ donate_buttons() }}
+
+Opakované dary jsou nejlepším způsobem, jak zajistit relativně stabilní
+příjem projektu a motivovat nás k dlouhodobým úkolům a cílům. Můžete však
+přispět i jednorázově.
 
 ## Proč darovat Organic Maps?
 
@@ -51,16 +57,6 @@ Klikněte na ikonu preferovaného způsobu platby níže:
    - Lepší offline vyhledávání adres, směrování a navigace
    - Veřejná doprava
    - ... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi
-
-## Jak darovat?
-
-Klikněte na ikonu preferovaného způsobu platby níže:
-
-{{ donate_buttons() }}
-
-Opakované dary jsou nejlepším způsobem, jak zajistit relativně stabilní
-příjem projektu a motivovat nás k dlouhodobým úkolům a cílům. Můžete však
-přispět i jednorázově.
 
 ### Bankovním převodem
 

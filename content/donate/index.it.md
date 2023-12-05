@@ -7,7 +7,19 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Stiamo cercando il vostro aiuto per finanziare l'ulteriore sviluppo dell'applicazione Organic Maps.
+## Come donare?
+
+Ci sono molti modi per donare al progetto:
+
+- **[GitHub Sponsors][] - raccomandato**, nessuna commissione
+- [Liberapay][] - commissioni moderate
+- [PayPal donate@organicmaps.app][paypal] - commissioni elevate
+- [SEPA/bonifico bancario diretto][sepa] - commissioni trascurabili
+- [Criptovalute][crypto] - commissioni estreme
+
+Le donazioni ricorrenti sono il modo migliore per garantire un'entrata relativamente stabile al
+progetto e motivarci per i compiti e gli obiettivi a lungo termine. Ma potete anche
+donare una volta sola.
 
 {{ donate_buttons() }}
 
@@ -53,22 +65,6 @@ In terzo luogo, ci sono molte altre cose interessanti da fare:
 - Android Auto
 - Trasporto pubblico
 - ... e molte altre funzioni che desiderate e amate
-
-## Come donare?
-
-Ci sono molti modi per donare al progetto:
-
-- **[GitHub Sponsors][] - raccomandato**, nessuna commissione
-- [Liberapay][] - commissioni moderate
-- [PayPal donate@organicmaps.app][paypal] - commissioni elevate
-- [SEPA/bonifico bancario diretto][sepa] - commissioni trascurabili
-- [Criptovalute][crypto] - commissioni estreme
-
-Le donazioni ricorrenti sono il modo migliore per garantire un'entrata relativamente stabile al
-progetto e motivarci per i compiti e gli obiettivi a lungo termine. Ma potete anche
-donare una volta sola.
-
-{{ donate_buttons() }}
 
 ### SEPA e bonifico bancario diretto
 

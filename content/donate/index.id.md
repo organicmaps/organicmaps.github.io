@@ -16,9 +16,15 @@ Aplikasi Organic Maps _gratis untuk semua orang_ berkat
 - Tanpa pemberitahuan dorong
 - Sumber terbuka
 
+## Bagaimana cara berdonasi?
+
 Klik ikon metode pembayaran yang diinginkan di bawah ini:
 
 {{ donate_buttons() }}
+
+Donasi berulang adalah cara terbaik untuk memastikan pendapatan yang relatif
+stabil untuk proyek dan memotivasi kami untuk tugas dan tujuan jangka
+panjang. Tetapi Anda juga dapat menyumbang satu kali.
 
 ## Mengapa berdonasi ke Organic Maps?
 
@@ -51,16 +57,6 @@ Klik ikon metode pembayaran yang diinginkan di bawah ini:
    - Pencarian alamat, perutean, dan navigasi luring yang lebih baik
    - Transportasi umum
    - … dan [banyak fitur lain][github issues] yang Anda inginkan dan sukai
-
-## Bagaimana cara berdonasi?
-
-Klik ikon metode pembayaran yang diinginkan di bawah ini:
-
-{{ donate_buttons() }}
-
-Donasi berulang adalah cara terbaik untuk memastikan pendapatan yang relatif
-stabil untuk proyek dan memotivasi kami untuk tugas dan tujuan jangka
-panjang. Tetapi Anda juga dapat menyumbang satu kali.
 
 ### Transfer Bank
 

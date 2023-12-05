@@ -61,20 +61,48 @@ strong {
 }
 
 .donate_buttons {
-  form,
-  input {
-    display: inline;
-    border-width: 0;
-  }
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 15px;
+}
 
-  img,
-  input[type="image"] {
-    height: 48px;
-    width: 48px;
+@media (max-width: 768px) {
+  .donate_buttons {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.donate_buttons form,
+.donate_buttons input {
+  display: inline;
+  border-width: 0;
+}
+
+.donate_buttons img,
+.donate_buttons input[type="image"] {
+  height: 60px;
+  width: 60px;
+  padding: 2px;
+  background-color: white;
+  border-radius: 10px;
+  align-content: center;
+  overflow: hidden;
+  border: 3px solid transparent;
+}
+
+.donate_buttons img:hover,
+.donate_buttons input[type="image"]:hover {
+    height: 60px;
+    width: 60px;
     padding: 2px;
     background-color: white;
-    border-radius: 10px;
-  }
+    border: 3px solid transparent;
+    border-radius: 15px;
+    align-content: center;
+    overflow: hidden;
+    border-color: darkgreen;
+    transition: border-color 300ms ease;
+    transition-delay: 0ms;
 }
 
 #screenshots img {

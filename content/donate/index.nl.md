@@ -16,9 +16,15 @@ Organic Maps app is _gratis voor iedereen_ dankzij jullie
 - Geen pushmeldingen
 - Open source
 
-Click on your preferred payment method icon below:
+## Hoe kan je doneren?
+
+Klik hieronder op het icoontje van uw gewenste betaalmethode:
 
 {{ donate_buttons() }}
+
+Terugkerende donaties zijn de beste manier om een relatief stabiel inkomen
+voor het project te verzorgen en motiveren ons voor lange termijn taken en
+doelen. Maar je kan ook eenmalig doneren.
 
 ## Waarom doneren aan Organic Maps?
 
@@ -52,16 +58,6 @@ Click on your preferred payment method icon below:
    - Openbaar vervoer
    - … en [vele andere][github issues] functies die jullie willen en waar
      jullie van houden
-
-## Hoe kan je doneren?
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-Terugkerende donaties zijn de beste manier om een relatief stabiel inkomen
-voor het project te verzorgen en motiveren ons voor lange termijn taken en
-doelen. Maar je kan ook eenmalig doneren.
 
 ### Bankoverschrijving
 

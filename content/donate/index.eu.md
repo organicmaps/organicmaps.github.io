@@ -16,9 +16,15 @@ esker:
 - Push jakinarazpenik ez
 - Kode irekikoa
 
-Click on your preferred payment method icon below:
+## Nola egin dohaintza?
+
+Egin klik behean nahi duzun ordainketa-metodoaren ikonoan:
 
 {{ donate_buttons() }}
+
+Aldizkako dohaintzak dira proiektuarentzat sarrera jarri batzuk ziurtatzeko
+modu onena eta epe luzerako ekintza eta helburuetarako motibatuko
+gaituzte. Baina behingoagatik ere eman dezakezu.
 
 ## Zergatik eman dirua Organic Maps-i?
 
@@ -53,16 +59,6 @@ Click on your preferred payment method icon below:
    - Garraio publikoa
    - … eta [beste ehunka][github issues] ezaugarri, zuek nahi eta maite
      dituzuenak
-
-## Nola egin dohaintza?
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-Aldizkako dohaintzak dira proiektuarentzat sarrera jarri batzuk ziurtatzeko
-modu onena eta epe luzerako ekintza eta helburuetarako motibatuko
-gaituzte. Baina behingoagatik ere eman dezakezu.
 
 ### Banku transferentzia
 

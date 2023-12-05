@@ -15,7 +15,15 @@ Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizd
 - Push bildirimleri yok
 - Açık kaynak
 
+## Nasıl bağış yapabilirim?
+
+Aşağıda tercih ettiğiniz ödeme yöntemi simgesini tıklayın:
+
 {{ donate_buttons() }}
+
+Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için
+en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive
+eder. Ancak tek seferlik bağış da yapabilirsiniz.
 
 ## Neden Organic Maps'e bağış yapmalıyım?
 
@@ -43,14 +51,6 @@ Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizd
    - Daha iyi çevrimdışı adres arama, rota ve navigasyon
    - Toplu taşıma
    - … ve isteyeceğiniz ve seveceğiniz [diğer birçok][github issues] özellik
-
-## Nasıl bağış yapabilirim?
-
-{{ donate_buttons() }}
-
-Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için
-en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive
-eder. Ancak tek seferlik bağış da yapabilirsiniz.
 
 ### Banka Havalesi
 
