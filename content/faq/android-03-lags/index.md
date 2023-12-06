@@ -13,5 +13,7 @@ Most likely you configured to store maps data on SD card. Usually switchable SD 
 
 Change Organic Maps config to store maps data in internal storage. Open Settings → Save maps to → Internal private storage.
 
+<img src="/faq/android-03-lags/settings-save-map-to.png" style="width:100%; max-width:400px"/>
+
 Or you can replace SD card with faster one to improve map performance.
 
