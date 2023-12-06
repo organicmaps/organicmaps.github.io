@@ -79,6 +79,6 @@ If you’re having trouble initializing the RHVoice TTS engine on LineageOS or o
 
 ## Testing
 
-In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-ToSpeech)" in OM "Settings → Voice Instruction" menu or you can actually start a navigation to receive any voice output. Organic Maps will not give you any voice instructions while you're standing still.
+In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-To-Speech)" in OM "Settings → Voice Instructions" menu or you can actually start a navigation to receive any voice output. Organic Maps will not give you any voice instructions while you're standing still.
 
-<img src='/images/screenshots/tts_test.png' width='400' alt='Screenshot TTS Test'>
+<img src='/images/screenshots/tts_test.png' style='width:100%; max-width:400px' alt='Screenshot TTS Test'>
