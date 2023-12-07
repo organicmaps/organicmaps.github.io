@@ -1,57 +1,95 @@
 {% extends 'base.html' %}
 
 {% block meta %}
-{# TODO: For translated pages the following code generates: Function call 'get_section' failed, Section `` not found  #}
-{# set latestStr = resource.subsections | sort | last #}
-{# set latestSection = get_section(path=latestStr) #}
-{# set latestPage = latestSection.pages | first #}
-{% set latestPage = section.pages | first %}
-<!-- <meta property="article:published_time" content="{# latestPage.date #}"> -->
+    {# TODO: For translated pages the following code generates: Function call 'get_section' failed, Section `` not found  #}
+    {# set latestStr = resource.subsections | sort | last #}
+    {# set latestSection = get_section(path=latestStr) #}
+    {# set latestPage = latestSection.pages | first #}
+    {% set latestPage = section.pages | first %}
+    <!-- <meta property="article:published_time" content="{# latestPage.date #}"> -->
 {% endblock meta %}
 
 {% block content %}
 
-<h1>{{ resource.title }}</h1>
-{# Iterate and use en sections by default and use localized versions only if they are present #}
-{% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
-{% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
-{% for sectionStr in enNewsSection.subsections | sort | reverse %}
-{% set section = get_section(path=sectionStr) %}
-{% for page in section.pages %}
-{% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
-{% if translatedPage %}
-  {% set page = get_page(path=translatedPage.path) %}
-{% endif %}
+    <section class="hero-sub" style="">
+       <div class="container hero-sub__container">
+        <nav class="bred-crum">
+            <ul class="bred-crum__row">
+                <li class="bred-crum__item">
+                    <a class="nav-bred bred-crum__link" href="/">Home</a>
+                </li>
+                <li class="bred-crum__item">
+                <span class="nav-bred">
+                    >
+                </span>
+                </li>
+                <li class="bred-crum__item">
+                    <a class="nav-bred bred-crum__link bred-crum--active"
+                       href="/news">News</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="hero-sub__content">
+            <h1 class="h1 hero-sub__title">
+                News and Releases
+            </h1>
 
-<section{% if page.translations | length <= 1 %} dir="auto"{% endif %}>
 
-<div class="news_date">&nbsp;<a href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
-{# Display wide images below the text instead of to the right. #}
-{% set_global noflex = '' %}
-{% for photo in page.assets %}
-  {% set meta = get_image_metadata(path=photo) %}
-  {% if meta.width > meta.height %}
-    {% set_global noflex = '_noflex' %}
-    {% break %}
-  {% endif %}
-{% endfor %}
-<div class="news_content_image{{ noflex }}">
-{% if page.content %}
-  <div class="news_content">{{ page.content | safe }}</div>
-{% endif %}
+        </div>
+    </div>
+    </section>
 
-<span class="news_images">
-{% for photo in page.assets | sort %}
-{% set meta = get_image_metadata(path=photo) %}
-<img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
-{% endfor %}
-</span>
+<main class="main-news">
+  <div class="container main-news__row">
 
-</section>
+    {# Iterate and use en sections by default and use localized versions only if they are present #}
+    {% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
+    {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
-</div>
-{% endfor %}
-{% endfor %}
+    {% for sectionStr in enNewsSection.subsections | sort | reverse %}
+        {% set section = get_section(path=sectionStr) %}
+        {% for page in section.pages %}
+            {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
+            {% if translatedPage %}
+                {% set page = get_page(path=translatedPage.path) %}
+            {% endif %}
 
+            <div class="news" {% if page.translations | length <= 1 %} dir="auto"{% endif %}>
+                <div class="news__content">
+                    <div class="news__date-row">&nbsp;
+                        <a class="news__date-link"
+                           href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;
+                    </div>
+                    {# Display wide images below the text instead of to the right. #}
+                    {% set_global noflex = '' %}
+                    {% for photo in page.assets %}
+                        {% set meta = get_image_metadata(path=photo) %}
+                        {% if meta.width > meta.height %}
+                            {% set_global noflex = '_noflex' %}
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                    <div class="news__content-image{{ noflex }}">
+                        {% if page.content %}
+                            <div class="news__content">{{ page.content | safe }}</div>
+                        {% endif %}
+
+                        <span class="news__images">
+                {% for photo in page.assets | sort %}
+                    {% set meta = get_image_metadata(path=photo) %}
+                    <img alt="img" class="news__image{% if meta.width > meta.height %}_landscape{% endif %}"
+                         src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+                {% endfor %}
+                </span>
+                    </div>
+                </div>
+            </div>
+
+
+        {% endfor %}
+    {% endfor %}
+  </div>
+ {% include 'section/donate.html' %}
+</main>
 {% endblock content %}

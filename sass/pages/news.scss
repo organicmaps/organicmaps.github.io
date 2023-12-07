@@ -1,0 +1,19 @@
+@import "../variables/media";
+
+.main-news {
+  &__row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+  }
+  .news {
+    width: 48%;
+    margin-bottom: 20rem;
+    img {
+      width: 100%;
+    }
+  }
+}
+

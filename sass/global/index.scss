@@ -30,7 +30,12 @@ max-width: 130rem;
 .frizz {
 overflow: hidden;
 }
-
+.main {
+  padding-top: 80rem;
+  @media(max-width: $media-md) {
+padding-top: 65rem;
+  }
+}
 .line {
   width: 100%;
     background-color: var(--green-button);
