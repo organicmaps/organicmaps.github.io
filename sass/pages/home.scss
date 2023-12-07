@@ -2,6 +2,7 @@
 
 // Hero Section
 .hero {
+  margin: -80rem 0 0;
   background: var(--common-black) url('/images/hero/hero-bg.jpg') center center / cover no-repeat fixed;
   height: 100vh;
   max-height: 900rem;
@@ -15,6 +16,7 @@
     background: url('/images/hero/hero-bg.jpg') center center / cover no-repeat cover;
     min-height: auto;
     padding: 120rem 0 51rem;
+      margin: 0;
   }
 
   &__container {
@@ -53,6 +55,7 @@ margin-bottom: 35rem;
     top: 50%;
     right: -20rem;
     transform: translateY(-50%);
+    max-width: 572rem;
     @media (max-width: $media-md) {
       position: static;
       transform: none;
@@ -96,6 +99,10 @@ margin-bottom: 35rem;
   }
   &__title {
     margin-bottom: var(--mb-16);
+    color: var(--map-grey-text);
+  }
+  &__description {
+      color: var(--map-grey-text);
   }
   &__icon {
     position: absolute;

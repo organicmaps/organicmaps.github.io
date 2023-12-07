@@ -26,7 +26,7 @@ extra:
   services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
   services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
   services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features,  and contributing code
-  services_section_card_button_info_1: Search
+  services_section_card_button_info_1: No internet needed
   services_section_card_button_info_2: No additional permissions required
   services_section_card_button_info_3: less power usage
   services_section_card_button_info_4: Free for everyone, Made with love

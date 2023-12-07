@@ -39,11 +39,12 @@
   &__link {
     text-decoration: none;
     color: var(--black-white);
-    padding: 8rem 16rem;
+    padding: 8rem 6rem;
   }
   &__rw {
-    display: grid;
-    grid-template-columns: 160rem repeat(2, 1fr);
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
     gap: 38rem;
     svg {
       width: 100%;

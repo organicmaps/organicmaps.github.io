@@ -16,6 +16,7 @@
   --common-grey-v4: #E5F0EB;
   --common-grey-v5: #CECECE;
   --common-grey-v6: #BBD7A7;
+  --common-grey-v7: #636363;
   --common-green-border: #99C4AF;
   --common-line-color: #AEC5BA;
   --common-black-sub: #26312C;
@@ -29,6 +30,7 @@
 
 // Theme COLOR change
 .light {
+  --map-grey-text: var(--common-grey-v7);
   --point-color: var(--common-green);
   --link-map-section: var(--common-white);
   --cart-bg: var(--common-acord-button);
@@ -51,6 +53,7 @@
 }
 
 .dark {
+  --map-grey-text: var(--common-white);
   --point-color: var(--common-green-primery);
   --link-map-section: var(--common-grey-v6);
   --cart-bg: var(--common-green-02);
