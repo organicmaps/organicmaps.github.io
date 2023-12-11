@@ -31,10 +31,7 @@ max-width: 130rem;
 overflow: hidden;
 }
 .main {
-  padding-top: 80rem;
-  @media(max-width: $media-md) {
-padding-top: 65rem;
-  }
+ 
 }
 .line {
   width: 100%;

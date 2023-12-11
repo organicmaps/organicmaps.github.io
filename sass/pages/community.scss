@@ -4,11 +4,13 @@
   padding: var(--container-mob-section) 0;
 
   &__container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 84rem 34rem;
+    display: flex;
+
+  flex-flow: row wrap;
+  justify-content: space-around;
+ gap: 80rem 10rem;
     @media (max-width: $media-md) {
-      grid-template-columns: 1fr;
+
       gap: 30rem 34rem;
     }
   }
@@ -28,6 +30,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    max-width: 523rem;
+    width: 50%;
+    @media (max-width: $media-md) {
+  width: 100%;
+    }
   }
 
   &__img {
@@ -43,6 +50,7 @@
 
   &__description {
     text-align: center;
+    color: var(--text-com-color);
   }
 
   &__line {

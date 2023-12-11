@@ -21,6 +21,8 @@ extra:
   community_card_description_5: Add and update translations in the app's interface, app stores and this website.
   community_card_title_6: Design & Product Management
   community_card_description_6: Shape the direction of the product and the user experience
+  community_card_title_7: Volunteer
+  community_card_description_7: Get involved in Engineering, Marketing, Product/Design, or Support
   stay_connected_section_title: Stay Connected
   donate:
      title: Donate

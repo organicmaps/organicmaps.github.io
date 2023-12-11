@@ -30,6 +30,7 @@
 
 // Theme COLOR change
 .light {
+  --text-com-color: var( --common-grey-v2);
   --map-grey-text: var(--common-grey-v7);
   --point-color: var(--common-green);
   --link-map-section: var(--common-white);
@@ -53,6 +54,7 @@
 }
 
 .dark {
+   --text-com-color: var( --common-white);
   --map-grey-text: var(--common-white);
   --point-color: var(--common-green-primery);
   --link-map-section: var(--common-grey-v6);

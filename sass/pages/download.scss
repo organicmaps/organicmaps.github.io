@@ -39,6 +39,7 @@
 
   &__icon {
     color: var(--green-button);
+    opacity: 0.1;
     @media (max-width: $media-md) {
       width: 18rem;
       height: 18rem;

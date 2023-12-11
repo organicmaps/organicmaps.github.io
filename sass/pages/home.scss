@@ -2,7 +2,7 @@
 
 // Hero Section
 .hero {
-  margin: -80rem 0 0;
+  //margin: -80rem 0 0;
   background: var(--common-black) url('/images/hero/hero-bg.jpg') center center / cover no-repeat fixed;
   height: 100vh;
   max-height: 900rem;
@@ -18,7 +18,9 @@
     padding: 120rem 0 51rem;
       margin: 0;
   }
-
+  .button  {
+    padding: 18rem 40rem;
+  }
   &__container {
     display: flex;
     justify-content: flex-start;
