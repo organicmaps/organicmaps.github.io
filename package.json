@@ -11,11 +11,11 @@
     "node-html-markdown": "^1.3.0",
     "node-html-parser": "^6.1.11",
     "postcss-scss": "^4.0.9",
-    "prettier": "^3.1.0",
-    "stylelint": "^15.11.0",
-    "stylelint-config-recommended": "^13.0.0",
-    "stylelint-config-standard": "^34.0.0",
-    "stylelint-scss": "^5.3.1"
+    "prettier": "^3.1.1",
+    "stylelint": "^16.0.2",
+    "stylelint-config-recommended": "^14.0.0",
+    "stylelint-config-standard": "^35.0.0",
+    "stylelint-scss": "^6.0.0"
   },
   "scripts": {
     "format": "stylelint --fix ./sass/*.scss && prettier --write *.md content/**/*.md && js-beautify -r templates/base.html",
