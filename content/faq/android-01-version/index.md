@@ -1,5 +1,6 @@
 ---
 title: What Android version can run Organic Maps?
+slug: What Android version can run Organic Maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

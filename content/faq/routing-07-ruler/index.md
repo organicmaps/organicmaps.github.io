@@ -1,5 +1,6 @@
 ---
 title: How to measure distances with Organic Maps? Is there a ruler?
+slug: How to measure distances with Organic Maps? Is there a ruler?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

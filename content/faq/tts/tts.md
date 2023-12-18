@@ -1,5 +1,6 @@
 ---
 title: Text-to-Speech on Android
+slug: Text-to-Speech on Android
 description: Guide on how to make TTS work on Android
 
 taxonomies:

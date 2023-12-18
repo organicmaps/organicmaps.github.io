@@ -1,5 +1,6 @@
 ---
 title: How to remove bookmark or track?
+slug: How to remove bookmark or track?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

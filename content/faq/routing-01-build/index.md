@@ -1,5 +1,6 @@
 ---
 title: How to build a route?
+slug: How to build a route?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

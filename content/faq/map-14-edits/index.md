@@ -1,5 +1,6 @@
 ---
 title: How to make changes to the map?
+slug: How to make changes to the map?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

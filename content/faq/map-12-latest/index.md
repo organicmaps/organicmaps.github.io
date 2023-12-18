@@ -1,5 +1,6 @@
 ---
 title: How to make sure I have latest application installed and up-to-date maps?
+slug: How to make sure I have latest application installed and up-to-date maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

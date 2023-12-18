@@ -1,5 +1,6 @@
 ---
-title: What's the difference between F-Droid and Google Play versions of tha app?
+title: What's the difference between F-Droid and Google Play versions of the app?
+slug: What's the difference between F-Droid and Google Play versions of the app?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

@@ -1,5 +1,6 @@
 ---
 title: What are the advantages of OM compared to other maps?
+slug: What are the advantages of OM compared to other maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

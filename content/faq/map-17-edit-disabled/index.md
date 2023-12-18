@@ -1,5 +1,6 @@
 ---
 title: Why "Edit place" button is disabled or hidden?
+slug: Why "Edit place" button is disabled or hidden?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

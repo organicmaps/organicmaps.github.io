@@ -1,5 +1,6 @@
 ---
 title: Why map rotates around my position?
+slug: Why map rotates around my position?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

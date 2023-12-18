@@ -1,5 +1,6 @@
 ---
 title: What is your product roadmap?
+slug: What is your product roadmap?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

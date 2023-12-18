@@ -1,5 +1,6 @@
 ---
 title: What does icon bellow zoom buttons mean?
+slug: What does icon bellow zoom buttons mean?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

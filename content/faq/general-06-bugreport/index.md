@@ -1,5 +1,6 @@
 ---
 title: How to send up a bugreport?
+slug: How to send up a bugreport?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

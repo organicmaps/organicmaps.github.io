@@ -1,5 +1,6 @@
 ---
 title: How to maximize map?
+slug: How to maximize map?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

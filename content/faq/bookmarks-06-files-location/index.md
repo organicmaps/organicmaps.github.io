@@ -1,5 +1,6 @@
 ---
 title: How to find bookmarks and tracks files on phone?
+slug: How to find bookmarks and tracks files on phone?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

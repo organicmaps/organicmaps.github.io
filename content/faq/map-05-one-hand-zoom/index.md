@@ -1,5 +1,6 @@
 ---
 title: How to zoom in/zoom out with one hand?
+slug: How to zoom in/zoom out with one hand?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

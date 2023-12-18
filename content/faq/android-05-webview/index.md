@@ -1,5 +1,6 @@
 ---
 title: What if app crashes on start?
+slug: What if app crashes on start?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

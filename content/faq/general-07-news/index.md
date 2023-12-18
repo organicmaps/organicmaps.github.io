@@ -1,5 +1,6 @@
 ---
 title: Where to read latest news updates?
+slug: Where to read latest news updates?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

@@ -1,5 +1,6 @@
 ---
 title: How to enable north up in navigation mode?
+slug: How to enable north up in navigation mode?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

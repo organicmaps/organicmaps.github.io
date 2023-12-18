@@ -1,5 +1,6 @@
 ---
 title: Location arrow points to wrong direction. How to fix?
+slug: Location arrow points to wrong direction. How to fix?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

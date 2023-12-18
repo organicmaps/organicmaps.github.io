@@ -1,5 +1,6 @@
 ---
 title: How to get my coordinates, speed, and altitude?
+slug: How to get my coordinates, speed, and altitude?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

@@ -1,5 +1,6 @@
 ---
 title: What are secret search queries?
+slug: What are secret search queries?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

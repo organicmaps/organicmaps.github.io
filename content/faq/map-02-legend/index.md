@@ -1,5 +1,6 @@
 ---
 title: How to get map legend?
+slug: How to get map legend?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

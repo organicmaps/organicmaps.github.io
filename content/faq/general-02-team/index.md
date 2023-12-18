@@ -1,5 +1,6 @@
 ---
 title: Who is working on the project?
+slug: Who is working on the project?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

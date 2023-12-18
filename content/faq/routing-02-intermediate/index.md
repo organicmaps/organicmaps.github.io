@@ -1,5 +1,6 @@
 ---
 title: How to add intermediate route points?
+slug: How to add intermediate route points?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

@@ -1,5 +1,6 @@
 ---
 title: How to enable logs?
+slug: How to enable logs?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

@@ -1,5 +1,6 @@
 ---
 title: What gestures does Organic Maps support?
+slug: What gestures does Organic Maps support?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

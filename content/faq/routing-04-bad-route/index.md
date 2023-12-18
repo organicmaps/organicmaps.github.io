@@ -1,5 +1,6 @@
 ---
 title: Why Organic Maps builds crooked route?
+slug: Why Organic Maps builds crooked route?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

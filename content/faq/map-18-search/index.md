@@ -1,5 +1,6 @@
 ---
 title: How to use search?
+slug: How to use search?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

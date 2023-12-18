@@ -1,5 +1,6 @@
 ---
 title: Why CarPlay is always dark?
+slug: Why CarPlay is always dark?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

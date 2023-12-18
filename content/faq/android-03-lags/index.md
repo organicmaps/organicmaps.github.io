@@ -1,5 +1,6 @@
 ---
 title: Why Organic Maps is slow on my device, UI is laggy, and it crashes randomly?
+slug: Why Organic Maps is slow on my device, UI is laggy, and it crashes randomly?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

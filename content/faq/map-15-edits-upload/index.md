@@ -1,5 +1,6 @@
 ---
 title: How edits are uploaded on OpenStreetMap.org, how conflicts are resolved?
+slug: How edits are uploaded on OpenStreetMap.org, how conflicts are resolved?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

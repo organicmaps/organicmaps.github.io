@@ -1,5 +1,6 @@
 ---
 title: How to import multiple bookmarks on Android?
+slug: How to import multiple bookmarks on Android?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

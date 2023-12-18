@@ -1,5 +1,6 @@
 ---
 title: How to edit or move bookmarks?
+slug: How to edit or move bookmarks?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

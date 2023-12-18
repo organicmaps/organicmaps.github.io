@@ -1,5 +1,6 @@
 ---
 title: What is the purpose of little blue arrow?
+slug: What is the purpose of little blue arrow?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

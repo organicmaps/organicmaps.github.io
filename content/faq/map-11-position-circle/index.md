@@ -1,5 +1,6 @@
 ---
 title: Why do I see blue circle instead of an arrow indicating my position?
+slug: Why do I see blue circle instead of an arrow indicating my position?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

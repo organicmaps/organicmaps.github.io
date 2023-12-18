@@ -1,5 +1,6 @@
 ---
 title: What does gray circle around my position mean?
+slug: What does gray circle around my position mean?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

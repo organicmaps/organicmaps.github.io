@@ -1,5 +1,6 @@
 ---
 title: How to import GPX track on Android and iOS?
+slug: How to import GPX track on Android and iOS?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

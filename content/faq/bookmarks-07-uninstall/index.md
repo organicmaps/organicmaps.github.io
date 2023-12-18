@@ -1,5 +1,6 @@
 ---
 title: What would happen with my bookmarks and tracks after uninstalling app?
+slug: What would happen with my bookmarks and tracks after uninstalling app?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

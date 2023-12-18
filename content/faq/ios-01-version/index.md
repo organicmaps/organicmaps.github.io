@@ -1,5 +1,6 @@
 ---
 title: What iOS version can run Organic Maps?
+slug: What iOS version can run Organic Maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

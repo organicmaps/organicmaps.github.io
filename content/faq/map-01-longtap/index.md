@@ -1,5 +1,6 @@
 ---
 title: How to use Long Tap?
+slug: How to use Long Tap?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:

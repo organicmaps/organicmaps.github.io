@@ -1,5 +1,6 @@
 ---
 title: How to enable route aviodance rules?
+slug: How to enable route aviodance rules?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
