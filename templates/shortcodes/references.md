@@ -10,6 +10,7 @@
 [fdroid]: https://f-droid.org/{{ lang | truncate(length=2) }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
 [firebase]: https://appdistribution.firebase.dev/i/2f0fee463107b137
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
+[FOSStodon]: https://fosstodon.org/@organicmaps "FOSStodon"
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
 [googleplay_review]: market://details?id=app.organicmaps
@@ -19,7 +20,7 @@
 [issues]: https://github.com/organicmaps/organicmaps/issues
 [LinkedIn]:  https://www.linkedin.com/company/organic-maps/
 [mapswithme]: https://en.wikipedia.org/wiki/Maps.me "Maps.Me"
-[mastodon]: https://fosstodon.org/@organicmaps
+[mastodon]: https://mastodon.social/@organicmaps "Mastodon"
 [matrix]: https://matrix.to/#/#organicmaps:matrix.org "Organic Maps on the Matrix"
 [matrix_ru]: https://matrix.to/#/#organicmapsru:matrix.org "Organic Maps в Matrix"
 [mythic_beasts]: https://www.mythic-beasts.com/
