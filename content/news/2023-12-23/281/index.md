@@ -72,3 +72,5 @@ Translations
 Linux
 * Show Wikipedia articles in a separate dialog
 * Touchscreen pinch-zoom support -- by Ferenc-
+
+We wish you Organic Christmas and Organic New Year!
