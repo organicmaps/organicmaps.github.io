@@ -24,7 +24,7 @@ One of our goals is to provide a privacy-focused map alternative to Google and A
 
 Check our [Donations page](https://organicmaps.app/donate/) to sneak-peak the roadmap, and subscribe to our [Telegram Channel](https://t.me/OrganicMapsApp) or to the [matrix space](https://omaps.app/matrix) for updates, or follow OM on [Fosstodon](https://fosstodon.org/@organicmaps), [Mastodon.social](https://mastodon.social/@organicmaps), [Facebook](https://facebook.com/OrganicMaps), [X (Twitter)](https://twitter.com/OrganicMapsApp), [Instagram](https://instagram.com/organicmaps.app/), [Reddit](https://www.reddit.com/r/organicmaps/), [LinkedIn](https://www.linkedin.com/company/organic-maps/).
 
-And finally, meet the December 2023 release! We have prepared several Christmas 🎅 and New Year presents 🎁 for you:
+And finally, [install](https://omaps.app/get) the December 2023 release! We have prepared several Christmas 🎅 and New Year presents 🎁 for you:
 
 * Android Auto is in review, you can test it by joining a beta program in [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps) after [telling us](mailto:beta@organicmaps.app) your gmail 🤖 🚗 -- kudos to Andrew Shkrob
 * Outdoors map style for hiking, cycling, and exploring Nature (make sure you've updated maps to the latest version!) 🥾 🏕️ 🚣 🚵 -- a long-time work by Konstantin Pastbin
