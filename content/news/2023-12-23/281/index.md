@@ -26,8 +26,8 @@ Check our [Donations page](https://organicmaps.app/donate/) to sneak-peak the ro
 
 And finally, meet the December 2023 release! We have prepared several Christmas 🎅 and New Year presents 🎁 for you:
 
-* Android Auto is in review, you can test it by joining a beta program in [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps) 🤖 🚗 \-- kudos to Andrew Shkrob
-* Outdoors map style for hiking, cycling, and exploring Nature 🥾 _**🏕️**_ 🚣 🚵 \-- a long-time work by Konstantin Pastbin
+* Android Auto is in review, you can test it by joining a beta program in [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps) after [telling us](mailto:beta@organicmaps.app) your gmail 🤖 🚗 -- kudos to Andrew Shkrob
+* Outdoors map style for hiking, cycling, and exploring Nature (make sure you've updated maps to the latest version!) 🥾 🏕️ 🚣 🚵 -- a long-time work by Konstantin Pastbin
 * Search for village addresses without streets in Austria, Czechia, Germany, Poland, Slovakia, and some other countries (the [addr:place OSM tag](https://wiki.openstreetmap.org/wiki/Key:addr:place), and other search improvements too) -- by Viktor Govako
 * Type "skiing" or "ski run" to find downhill and Nordic pistes ⛷️ 🏂 🚡
 * OpenStreetMap map data as of December 13
@@ -39,7 +39,7 @@ And finally, meet the December 2023 release! We have prepared several Christmas 
 * You can open a browser to check photos, reviews, and prices for some hotels. Every booking and every donation contribute to the development of Organic Maps!
 
 Android
-* We need your feedback on how to improve Android Auto!
+* We need your feedback on how to improve Android Auto! [Tell us](mailto:beta@organicmaps.app) your gmail address and join the closed beta program on Google Play
 * Open addresses from Contacts, Calendar, and other apps -- by Roman Tsisyk
 * "Keep Search History" setting for better privacy -- by Bukkapatnam Sandilya
 * Connect your phone to TV with Samsung DeX -- by Meenbeese
