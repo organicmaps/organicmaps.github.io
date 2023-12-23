@@ -125,6 +125,7 @@ function parseHtml(html) {
     const yyyyMMdd = date.substring(0, 10);
     const dir = `${newsPath}${yyyyMMdd}/${id}`;;
     if (!fs.existsSync(dir)) {
+      console.log('Creating ' + dir);
       fs.mkdirSync(dir, { recursive: true });
       fs.writeFileSync(dir + '/../_index.md', `---\ndate: ${yyyyMMdd}\nsort_by: date\n---`);
     }
@@ -144,7 +145,8 @@ function parseHtml(html) {
             && !fs.existsSync(`${prevDir}/${i}.jpg`)
             && !fs.existsSync(`${prevDir}/${i}.jpeg`)) {
           downloads.push(downloadAsync(photo, `${prevDir}/${fileName}`));
-          fs.rmSync(dir, { recursive: true, force: true });
+          //console.log('Removing ' + dir);
+          //fs.rmSync(dir, { recursive: true, force: true });
         }
       } else {
         downloads.push(downloadAsync(photo, `${dir}/${fileName}`));
