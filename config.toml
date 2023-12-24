@@ -24,6 +24,7 @@ paths = "safe"
 
 [extra]
 stripe = "https://donate.organicmaps.app/"
+stripe_usd = "https://donate-usd.organicmaps.app/"
 
 # Default English translation
 [translations]

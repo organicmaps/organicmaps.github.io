@@ -3,7 +3,8 @@
   <a href="https://donate.organicmaps.ru" title="По карте МИР в рублях"><img id="mir" src="/images/donates/mir.svg" alt="По карте МИР в рублях"></a>
   <a href="https://t.me/OrganicMapsRu/29441" title="Telegram по карте МИР в рублях"><img id="telegramRu" src="/images/donates/telegram.svg" alt="Telegram по карте МИР в рублях"></a>
   {% endif -%}
-  <a href="{{ config.extra.stripe | safe }}" title="Credit/Debit Card"><img src="/images/donates/visa_mc.svg" alt="Credit/Debit Card"></a>
+  <a href="{{ config.extra.stripe | safe }}" title="Credit/Debit Card (Euro €)"><span class="donate_currency">€</span><img src="/images/donates/visa_mc.svg" alt="Credit/Debit Card (Euro €)"></a>
+  <a href="{{ config.extra.stripe_usd | safe }}" title="Credit/Debit Card (USD $)"><span class="donate_currency">$</span><img src="/images/donates/visa_mc.svg" alt="Credit/Debit Card (USD $)"></a>
   <a href="{{ config.extra.stripe | safe }}" title="Apple Pay" id="applePay"><img src="/images/donates/apple.svg" alt="Apple Pay"></a>
   <a href="{{ config.extra.stripe | safe }}" title="Google Pay" id="googlePay"><img src="/images/donates/google.svg" alt="Google Pay"></a>
   <form action="https://www.paypal.com/donate" method="post" target="_blank"  title="PayPal">
