@@ -106,7 +106,7 @@ Organic Maps是一个以Apache许可证2.0授权的[开源软件][github]。
 - 订阅我们的[Telegram频道][telegram]或[matrix空间][matrix]以获取最新信息。
 - 加入我们的[Telegram组][telegram_chat]，与其他用户讨论。
 - Visit our [GitHub page][github].
-- 在[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[LinkedIn][LinkedIn]关注我们的更新。
+- 在[FOSStodon][fosstodon]、[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[Reddit][reddit]、[LinkedIn][LinkedIn]关注我们的更新。
 
 [fork]: https://zh.wikipedia.org/wiki/%E5%88%86%E5%8F%89_(%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)
 

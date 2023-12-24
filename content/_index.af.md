@@ -121,9 +121,9 @@ Apache Lisensie 2.0.
 - Sluit aan by ons [Telegram-groep][telegram_chat] om met ander gebruikers
   te bespreek.
 - Besoek ons [GitHub-blad][github].
-- Volg ons opdaterings op [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][LinkedIn].
+- Volg ons opdaterings op [FOSStodon][fosstodon], [Mastodon][mastodon],
+  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
+  [Reddit][reddit], [LinkedIn][LinkedIn].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

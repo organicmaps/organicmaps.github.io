@@ -124,9 +124,9 @@ dilisensikan di bawah lisensi Apache 2.0.
 - Bergabunglah dengan [grup Telegram][telegram_chat] kami untuk berdiskusi
   dengan pengguna lain.
 - Kunjungi [laman GitHub][github] kami.
-- Ikuti pembaruan kami di [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][LinkedIn].
+- Ikuti pembaruan kami di [FOSStodon][fosstodon], [Mastodon][mastodon],
+  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
+  [Reddit][reddit], [LinkedIn][LinkedIn].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

@@ -123,9 +123,9 @@ License 2.0.
 - Připojte se k naší [Telegram skupině][telegram_chat] a diskutujte s
   ostatními uživateli.
 - Navštivte náš [GitHub][github].
-- Sledujte naše aktualizace na [Mastodonu][mastodon], [Facebooku][facebook],
-  [Twitteru][twitter], [Instagramu][instagram], [Redditu][reddit],
-  [LinkedIn][LinkedIn].
+- Sledujte naše aktualizace na [FOSStodon][fosstodon],
+  [Mastodonu][mastodon], [Facebooku][facebook], [Twitteru][twitter],
+  [Instagramu][instagram], [Redditu][reddit], [LinkedIn][LinkedIn].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

@@ -417,7 +417,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
+msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 msgstr ""
 
 #. type: Plain text

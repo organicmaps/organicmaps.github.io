@@ -64,7 +64,7 @@ Organic Maps развивается сообществом энтузиасто�
 - Нарисуйте свой дом и район вокруг в [OpenStreetMap](https://openstreetmap.org);
 - Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки.
 - Поучаствуйте в [разработке][contributing] приложения под Android и iOS;
-- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram].
+- Подпишитесь на нас в [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn].
 - Расскажите своим друзьям и знакомым.
 
 {{ references() }}

@@ -122,9 +122,9 @@ lizentziapean.
 - Sartu gure [Telegram taldean][telegram_chat] beste erabiltzaileekin hitz
   egiteko.
 - Bisitatu gure [GitHub orria][github].
-- Jarrai itzazu gure eguneraketak [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
-  [Reddit][reddit]-en eta [LinkedIn][LinkedIn].
+- Jarrai itzazu gure eguneraketak [FOSStodon][fosstodon],
+  [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
+  [Instagram][instagram], [Reddit][reddit]-en eta [LinkedIn][LinkedIn].
 
 [fork]: https://eu.wikipedia.org/wiki/Fork
 

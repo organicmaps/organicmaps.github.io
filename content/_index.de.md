@@ -125,9 +125,9 @@ License 2.0 lizenziert ist.
 - Tritt unserer [Telegram-Gruppe][telegram_chat] bei, um mit anderen
   Benutzern zu diskutieren.
 - Besuche unsere [GitHub-Seite][github].
-- Verfolge unsere Neuigkeiten auf [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
-  [Reddit][reddit], [LinkedIn][LinkedIn].
+- Verfolge unsere Neuigkeiten auf [FOSStodon][fosstodon],
+  [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
+  [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn].
 
 [fork]: https://de.wikipedia.org/wiki/Abspaltung_(Softwareentwicklung)
 

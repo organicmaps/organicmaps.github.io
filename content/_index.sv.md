@@ -123,9 +123,9 @@ Apache License 2.0.
 - Gå med i vår [Telegramgrupp][telegram_chat] för att diskutera med andra
   användare.
 - Besök vår [GitHub-sida][github].
-- Följ våra uppdateringar på [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][LinkedIn].
+- Följ våra uppdateringar på [FOSStodon][fosstodon], [Mastodon][mastodon],
+  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
+  [Reddit][reddit], [LinkedIn][LinkedIn].
 
 [fork]: https://sv.wikipedia.org/wiki/Fork
 

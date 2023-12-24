@@ -116,7 +116,8 @@ Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تح
 - انضم إلى [مجموعة Telegram][telegram_chat] للمناقشة مع المستخدمين الآخرين.
 - زُر [صفحة Github][github].
 - تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]،
-  [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit].
+  [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]،
+  [FOSStodon][fosstodon]، [LinkedIn][LinkedIn].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

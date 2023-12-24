@@ -123,9 +123,9 @@ Licéncia Apatxe 2.0.
 - Rejonhètz nòstre [grop Telegram][telegram_chat] per charrar amb d’autrei
   utilizators.
 - Visitatz nòstra [pagina GitHub][github].
-- Seguissètz lei noveutats sus [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] e
-  [LinkedIn][LinkedIn].
+- Seguissètz lei noveutats sus [FOSStodon][fosstodon], [Mastodon][mastodon],
+  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
+  [Reddit][reddit] e [LinkedIn][LinkedIn].
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

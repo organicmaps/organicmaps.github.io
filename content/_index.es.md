@@ -122,9 +122,9 @@ Licencia Apache 2.0.
 - Únase a nuestro [grupo de Telegram][telegram_chat] para hablar con otros
   usuarios.
 - Visite nuestra [página de GitHub][github].
-- Siga nuestras novedades en [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] y
-  [LinkedIn][LinkedIn].
+- Siga nuestras novedades en [FOSStodon][fosstodon], [Mastodon][mastodon],
+  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
+  [Reddit][reddit] y [LinkedIn][LinkedIn].
 
 [fork]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)
 

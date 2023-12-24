@@ -122,9 +122,9 @@ Llicència Apache 2.0.
 - Uniu-vos al nostre [grup del Telegram][telegram_chat] i converseu amb
   altres usuaris.
 - Visiteu el nostre [GitHub][github].
-- Seguiu les nostres novetats al [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] i
-  [LinkedIn][LinkedIn].
+- Seguiu les nostres novetats al [FOSStodon][fosstodon],
+  [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
+  [Instagram][instagram], [Reddit][reddit] i [LinkedIn][LinkedIn].
 
 [fork]: https://ca.wikipedia.org/wiki/Fork
 

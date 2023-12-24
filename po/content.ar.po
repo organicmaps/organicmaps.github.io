@@ -369,8 +369,8 @@ msgstr "زُر [صفحة Github][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr "تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]، [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]."
+msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
+msgstr "تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]، [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]، [FOSStodon][fosstodon]، [LinkedIn][LinkedIn]."
 
 #. type: Plain text
 #: content/_index.md

@@ -118,9 +118,9 @@ To donate conveniently, click on your preferred payment method icon below:
 - अन्य उपयोगकर्ताओं के साथ चर्चा करने के लिए हमारे [Telegram
   Group][telegram_chat] में शामिल हों।
 - हमारे [गिटहब पेज][github] पर जाएं।
-- [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
-  [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn] पर हमारे
-  अपडेट का पालन करें।
+- [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook],
+  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
+  [LinkedIn][LinkedIn] पर हमारे अपडेट का पालन करें।
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

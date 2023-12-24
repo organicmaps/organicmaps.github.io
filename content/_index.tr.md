@@ -110,7 +110,7 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - Join our [Telegram Group][telegram_chat] to discuss with other users.
 - [GitHub sayfamızı][github] ziyaret edin
 - [E-posta][email] ile bizimle iletişime geçin
-- Güncellemelerimizi [Facebook][facebook], [Twitter][twitter] ve
+- Güncellemelerimizi [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Reddit][reddit], [LinkedIn][LinkedIn] ve
 - [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
 
 {{ references() }}
