@@ -1,6 +1,9 @@
 @import "./language_selector";
 @import "./top_menu";
 
+$darkBackgroundColor: #121212;
+$darkFontColor: #bbb;
+
 body {
   margin: 1rem;
   padding: 0;
@@ -139,8 +142,8 @@ footer {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #121212;
-    color: #bbb;
+    background: $darkBackgroundColor;
+    color: $darkFontColor;
   }
 
   h1,
@@ -245,3 +248,26 @@ footer {
 .back_to_news {
   margin-top: 1rem;
 }
+
+blockquote {
+  display: inline-block;
+  border-radius: 3px;
+  border-left: 2px solid rgb(109 115 74);
+  margin: 0;
+  background-color: #ececec;
+  padding: 0.5rem;
+  font-size: smaller;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    background-color: #202020;
+    color: $darkFontColor;
+  }
+}
+
