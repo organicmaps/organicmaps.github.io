@@ -7,7 +7,9 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:
+Merry Christmas 🎅 and Organic New Year!
+
+Organic Maps app is _free for everyone_ thanks to your **[donations in EUR][stripe]** or **[in USD][stripe_usd]**:
 
 - No ads
 - No trackers
@@ -21,29 +23,31 @@ Click on your preferred payment method icon below:
 
 ## Why donate to Organic Maps?
 
-1. We rely on your donations to carry out our mission to keep Organic Maps open and free.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. We rely on your donations to keep Organic Maps open and free for everyone.
    And free from ads.
-2. We are a few enthusiasts contributing in our free time, and spending our families' money on the project.
-   We love what we do, and we love our users ❤️.
-3. With your support, we want to become a better, privacy-focused version of Google Maps.
+4. We love what we do, and we love our users ❤️.
 
-## What will the money be used for?
+## Why a free project needs money?
 
-1. We pay for fast servers, so anyone in the World can download free map data updates without delays.
-   It's hundreds of terabytes monthly, and the amount is growing.
-2. User support, bugfixing, and improving the stability of the app are at the top of our priorities.
-   There are [1800+ issues on GitHub][github issues], and this number is growing every day.
+1. In 2023, Organic Maps got its first million users.
+   Our servers provide free, fast and frequent map updates all over the world.
+2. User support, bugfixing and publishing quality app updates are at the top of our priorities.
+   There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.
    AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
-3. With enough money, new features can be developed faster, for example:
-   - Weekly and automated map data updates
-   - Bookmarks backup and sync
-   - Android Auto
-   - GPS track recorder with GPX support
-   - Better map styles for different activities
-   - Hill shading and 3D terrain
-   - Improve the OpenStreetMap editor
-   - Better offline address search, routing, and navigation
+3. With enough money, new features can be developed. To name a few:
+   - Backup and sync bookmarks and tracks
+   - Android Auto is already [in beta](@/news/2023-12-23/281/index.md)
+   - GPS track recorder with GPX export
+   - Satellite imagery
    - Public Transport
+   - Traffic and accident reporting
+   - Photos and Reviews
+   - Map styles for different activities
+   - Hill shading and 3D terrain
+   - More advanced OpenStreetMap editor
+   - Better offline address search, routing, and navigation
    - … and [many other][github issues] features you want and love
 
 ## How to donate?
@@ -53,8 +57,8 @@ Click on your preferred payment method icon below:
 {{ donate_buttons() }}
 
 Recurring donations are the best way to ensure a relatively stable income for
-the project and motivate us for long-term tasks and goals. But you can also
-donate one time.
+the project and motivate us for long-term tasks and goals. One-time donations
+are appreciated too.
 
 ### Bank Transfer
 
@@ -71,5 +75,6 @@ Please consider donating annually to reduce total fees.
 Yes! There are many ways to support Organic Maps. Please see
 [Support Us](@/support-us/index.md) page for more details.
 
-[stripe]: https://donate.organicmaps.app/ "Donate via Stripe"
+[stripe]: https://donate.organicmaps.app/ "Donate via Stripe in EUR"
+[stripe_usd]: https://donate-usd.organicmaps.app/ "Donate via Stripe in USD"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

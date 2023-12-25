@@ -7,6 +7,8 @@ extra:
   preview_image: donate/donate.png
 ---
 
+Желаем органического нового года!
+
 Благодаря вашим **[пожертвованиям][stripe]**, **Organic Maps**:
 
 - Бесплатны для всех;
