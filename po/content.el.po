@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"PO-Revision-Date: 2023-05-30 14:51+0000\n"
-"Last-Translator: Dimitris Vagiakakos <dimitrislinuxos@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/organicmaps/"
-"website/el/>\n"
-"Language: el\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Greek <https://hosted.weblate.org/projects/organicmaps/website/el/>\nLanguage: el\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -404,7 +393,7 @@ msgid ""
 "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], "
 "[Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit]"
 "[reddit]."
-msgstr ""
+msgstr "Ακολουθήστε τις ενημερώσεις μας σε [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 
 #. type: Plain text
 #: content/_index.md

@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-11 16:32+0000\nLast-Translator: ngocanhtve <ngocanh.tve@gmail.com>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/organicmaps/website/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.16.2-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Vietnamese <https://hosted.weblate.org/projects/organicmaps/website/vi/>\nLanguage: vi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -184,7 +184,7 @@ msgstr "Không quảng cáo"
 #: content/_index.md
 #, markdown-text
 msgid "No tracking"
-msgstr ""
+msgstr "Không theo dõi"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -460,13 +460,13 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "No trackers"
-msgstr ""
+msgstr "Không có dây nối"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 #, markdown-text
 msgid "No registration"
-msgstr ""
+msgstr "Đăng ký thuế"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
