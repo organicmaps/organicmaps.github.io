@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Basque <https://hosted.weblate.org/projects/organicmaps/website/eu/>\nLanguage: eu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-30 10:10+0000\nLast-Translator: Alexander Gabilondo <alexgabi@openmailbox.org>\nLanguage-Team: Basque <https://hosted.weblate.org/projects/organicmaps/website/eu/>\nLanguage: eu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -217,12 +217,12 @@ msgstr "{{ exodus_screenshot() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "iOS aplikazioa [TrackerControl iOS-erako][trackercontrol]-ek egiaztatzen du:"
 
 #. type: Plain text
 #: content/_index.md
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -279,7 +279,7 @@ msgstr "App-a denontzat doakoa da. Mesedez [donate](@/donate/index.eu.md) guri l
 #. type: Plain text
 #: content/_index.md
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Dohaintza egokia emateko, egin klik behean nahi duzun ordainketa-metodoaren ikonoan:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -415,7 +415,7 @@ msgstr "Kode irekikoa"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Egin klik behean nahi duzun ordainketa-metodoaren ikonoan:"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -640,7 +640,7 @@ msgstr "Gure doako aplikazioaren garapenean laguntzeko hainbat modu daude"
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support Us"
-msgstr "Lagundu garapena"
+msgstr "Lagundu garapenean"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
@@ -800,7 +800,7 @@ msgstr "Helbidea"
 #: translations.yaml
 #, no-wrap
 msgid "Back to News"
-msgstr ""
+msgstr "Itzuli Berriak-era"
 
 #. type: Hash Value: contact
 #: translations.yaml
@@ -812,25 +812,25 @@ msgstr "Harremanetan jarri"
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Huawei AppGallery"
-msgstr ""
+msgstr "Instalatu Organic Maps Huawei AppGallery-tik"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from the AppStore"
-msgstr ""
+msgstr "Instalatu Organic Maps AppStoretik"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from F-Droid"
-msgstr ""
+msgstr "Instalatu Organic Maps F-Droid-etik"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Google Play"
-msgstr ""
+msgstr "Instalatu Organic Maps Google Play-tik"
 
 #. type: Hash Value: language
 #: translations.yaml
