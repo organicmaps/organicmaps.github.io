@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/sass/component/post-min.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/post/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/post/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/post/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/post/img4.png" afterDir="false" />
+    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="dis fix 1">
+      <change afterPath="$PROJECT_DIR$/sass/pages/single-news.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/component/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/component/post-min.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/post-min.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/news.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/variables/color-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/color-theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="preprod" />
+        <entry key="$PROJECT_DIR$" value="preprod_dis-fix_v2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,8 +49,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "preprod__dis-fix__v2",
-    "last_opened_file_path": "/Users/oleksandr/Work/organicmaps.github.io/static/images/post",
+    "git-widget-placeholder": "preprod__dis-fix__v3",
+    "last_opened_file_path": "/Users/oleksandr/Work/organicmaps.github.io/sass/component",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sass/component" />
+      <recent name="$PROJECT_DIR$/sass/pages" />
       <recent name="$PROJECT_DIR$/static/images/post" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/community" />
-      <recent name="$PROJECT_DIR$/content/new" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
@@ -110,7 +104,7 @@
       <workItem from="1704388337696" duration="98000" />
       <workItem from="1704533710453" duration="9000" />
       <workItem from="1704542337744" duration="743000" />
-      <workItem from="1704634979836" duration="4759000" />
+      <workItem from="1704634979836" duration="8360000" />
     </task>
     <task id="LOCAL-00001" summary="no index">
       <created>1699960224756</created>
@@ -140,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701430404256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dis fix 1">
+      <option name="closed" value="true" />
+      <created>1704651667766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704651667766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +163,7 @@
     <MESSAGE value="no index" />
     <MESSAGE value="update navbar" />
     <MESSAGE value="update footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="update footer" />
+    <MESSAGE value="dis fix 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dis fix 1" />
   </component>
 </project>
