@@ -13,12 +13,21 @@
   border-radius: var(--border-r-8);
   transition: background-color var(--transition);
   gap: 10rem;
+  cursor: pointer;
   &:hover {
     transition: background-color var(--transition);
     background-color: var(--common-green-hover);
   }
   &--main {
   background-color: var(--common-green);
+  }
+  &--line {
+    color: var(--green-button);
+    background-color: transparent;
+    border: 1rem solid var(--green-button);
+    &:hover {
+      color: var(--common-white);
+    }
   }
   &--transparent {
     color: var(--green-button);

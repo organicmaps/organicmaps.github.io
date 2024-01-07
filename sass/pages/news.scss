@@ -2,11 +2,28 @@
 
 .main-news {
   &__row {
+   display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 34rem;
+    margin-bottom: 60rem;
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+    }
+  }
+  &__nav-row {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    gap: 16rem;
+    padding: 50rem 0 20rem;
+    @media (max-width: $media-sm) {
+      .button {
+        min-width: auto;
 
+        flex-grow: 1;
+      }
+    }
+  }
+  &__button {
+    margin: 0 auto 60rem;
   }
   .news {
     width: 48%;

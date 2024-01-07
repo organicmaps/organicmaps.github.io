@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="update footer">
-      <change afterPath="$PROJECT_DIR$/content/new-news/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/new-news.html" afterDir="false" />
+    <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="git ignore">
+      <change afterPath="$PROJECT_DIR$/sass/component/post-min.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/post/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/post/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/post/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/post/img4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/component/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/news.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/variables/color-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/variables/color-theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +45,7 @@
 }</component>
   <component name="ProjectId" id="2XtPqp4nfatb5z8aknynlDefs2J" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,8 +55,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "preprod",
-    "last_opened_file_path": "/Users/dmitroantonuk/Documents/GitHub/organicmaps.github.io/templates",
+    "git-widget-placeholder": "preprod__dis-fix__v2",
+    "last_opened_file_path": "/Users/oleksandr/Work/organicmaps.github.io/static/images/post",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,11 +70,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/post" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/community" />
       <recent name="$PROJECT_DIR$/content/new" />
-      <recent name="E:\organicmaps.github.io\static\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
@@ -97,6 +105,12 @@
       <workItem from="1701429859454" duration="1150000" />
       <workItem from="1701686937193" duration="593000" />
       <workItem from="1701701540827" duration="944000" />
+      <workItem from="1704315263358" duration="598000" />
+      <workItem from="1704370928477" duration="751000" />
+      <workItem from="1704388337696" duration="98000" />
+      <workItem from="1704533710453" duration="9000" />
+      <workItem from="1704542337744" duration="743000" />
+      <workItem from="1704634979836" duration="4759000" />
     </task>
     <task id="LOCAL-00001" summary="no index">
       <created>1699960224756</created>
