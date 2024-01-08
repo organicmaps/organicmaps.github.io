@@ -24,7 +24,7 @@ external_links_target_blank = true
 
 # Allows to have localized URLs.
 [slugify]
-paths = "on"
+paths = "safe"
 
 [extra]
 stripe = "https://donate.organicmaps.app/"
