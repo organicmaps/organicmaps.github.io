@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9871119-7d48-43df-9f66-6fd91d65a1cb" name="Changes" comment="dis fix 1">
-      <change afterPath="$PROJECT_DIR$/sass/pages/single-news.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/news_post-back.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/component/post-min.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/component/post-min.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/news_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/news_post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "preprod__dis-fix__v3",
-    "last_opened_file_path": "/Users/oleksandr/Work/organicmaps.github.io/sass/component",
+    "last_opened_file_path": "/Users/dmitroantonuk/Documents/GitHub/organicmaps.github.io/templates",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,11 +65,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/sass/component" />
       <recent name="$PROJECT_DIR$/sass/pages" />
       <recent name="$PROJECT_DIR$/static/images/post" />
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$/content" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
@@ -105,6 +106,8 @@
       <workItem from="1704533710453" duration="9000" />
       <workItem from="1704542337744" duration="743000" />
       <workItem from="1704634979836" duration="8360000" />
+      <workItem from="1704808454287" duration="345000" />
+      <workItem from="1704819225399" duration="3641000" />
     </task>
     <task id="LOCAL-00001" summary="no index">
       <created>1699960224756</created>
@@ -142,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704651667766</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dis fix 1">
+      <created>1704808609936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704808609936</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +163,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
