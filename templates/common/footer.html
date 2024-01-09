@@ -19,22 +19,34 @@
   <div class="footer__item">
     <div class="footer__nav">
       <nav class="footer__nav-item" id="bottom-menu" role="navigation">
-        {% for page in [home, news] | concat(with=home.pages) %}
-        {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
-        {% if translated %}
-        {% if "_index" in translated.path %}
-        {% set page = get_section(path=translated.path) %}
-        {% else %}
-        {% set page = get_page(path=translated.path) %}
-        {% endif %}
-        {% endif %}
+        <a class="p-sm footer__link" href="/"><span class="p-sm footer__link">Home</span></a>
+        <a class="p-sm footer__link" href="/community/"><span class="p-sm footer__link">Community</span></a>
+        <a class="p-sm footer__link" href="/volunteering/"><span class="p-sm footer__link">Volunteering</span></a>
+        <a class="p-sm footer__link" href="/news/"><span class="p-sm footer__link">News</span></a>
+        <a class="p-sm footer__link" href="/download/"><span class="p-sm footer__link">Download</span></a>
+        <a class="p-sm footer__link" href="/donate/"><span class="p-sm footer__link">Donate</span></a>
+        <a class="p-sm footer__link" href="/faq/"><span class="p-sm footer__link">Faq</span></a>
+        <a class="p-sm footer__link" href="/about/"><span class="p-sm footer__link">About</span></a>
 
-        {% if page.extra.menu_title %}
-        {% if resource.path != page.path %}<a class="p-sm footer__link" href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% endif %}
-        <span class="p-sm footer__link">{{ page.extra.menu_title }}</span>
-        {%- if resource.path != page.path %}</a>{% endif %}
-        {% endif %}
-        {% endfor %}
+
+
+<!--        -->
+<!--        {% for page in [home, news] | concat(with=home.pages) %}-->
+<!--        {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}-->
+<!--        {% if translated %}-->
+<!--        {% if "_index" in translated.path %}-->
+<!--        {% set page = get_section(path=translated.path) %}-->
+<!--        {% else %}-->
+<!--        {% set page = get_page(path=translated.path) %}-->
+<!--        {% endif %}-->
+<!--        {% endif %}-->
+
+<!--        {% if page.extra.menu_title %}-->
+<!--        {% if resource.path != page.path %}<a class="p-sm footer__link" href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% endif %}-->
+<!--        <span class="p-sm footer__link">{{ page.extra.menu_title }}</span>-->
+<!--        {%- if resource.path != page.path %}</a>{% endif %}-->
+<!--        {% endif %}-->
+<!--        {% endfor %}-->
         <a class="p-sm footer__link" href="mailto:hello@organicmaps.app">{{ trans(key='contact', lang=lang) }}</a>
       </nav>
       <div class="switch-theme">
