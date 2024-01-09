@@ -1,3 +1,5 @@
+@import "../variables/media";
+
 .single-news {
   .bred-crum {
     margin: 0 0 20rem;
@@ -15,7 +17,9 @@
     grid-template-columns: 1fr 1fr;
     gap: 20rem;
     margin-bottom: 60rem;
-
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+    }
   }
   &__button {
     margin: 0 auto 60rem;
