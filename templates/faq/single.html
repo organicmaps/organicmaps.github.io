@@ -5,7 +5,17 @@
 {% endblock %}
 
 {% block content %}
-  <h1>F.A.Q. - {{ term.name }}</h1>
+  F.A.Q.
+  {% set categories = get_taxonomy(kind='faq') | get(key="items") %}
+  {% for item in categories %}
+    •
+    {% if term.name == item.name %}
+    <span>{{ item.name }}</span>
+    {% else %}
+    <a href="{{ get_taxonomy_url(kind="faq", name=item.name) }}">{{ item.name }}</a>
+    {% endif %}
+  {% endfor %}
+  <h2>{{ term.name }} questions</h2>
   {%- for faq_page in term.pages | sort(attribute="extra.order") -%}
   <h3><a href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></h3>
   {%- endfor -%}

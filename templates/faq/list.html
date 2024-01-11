@@ -7,7 +7,7 @@
 {% block content %}
   <h1>F.A.Q.</h1>
   {%- for term in terms -%}
-  <h3>{{term.name}} questions</h3>
+  <h3><a href="{{term.permalink}}">{{term.name}} questions</a></h3>
   <ul>
     {%- for faq_page in term.pages | sort(attribute="extra.order") -%}
       <li><a href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></li>

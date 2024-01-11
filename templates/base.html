@@ -85,10 +85,11 @@
 
   <main>
   {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
-    F.A.Q. ::
-      {% for faqCategory in page.taxonomies.faq %}
-        <a href="{{ get_taxonomy_url(kind="faq", name=faqCategory) }}">{{ faqCategory }}</a>
-      {% endfor %}
+    F.A.Q.
+    {% set categories = get_taxonomy(kind='faq') | get(key="items") %}
+    {% for item in categories %}
+      • <a href="{{ get_taxonomy_url(kind="faq", name=item.name) }}">{{ item.name }}</a>
+    {% endfor %}
   {% endif %}
     {% block content %}{% endblock %}
   </main>
