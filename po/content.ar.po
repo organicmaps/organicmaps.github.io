@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-12 19:06+0000\nLast-Translator: jonnysemon <jonnysemon@users.noreply.hosted.weblate.org>\nLanguage-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -279,7 +279,7 @@ msgstr "التطبيق مجاني للجميع. من فضلك [تبرع](@/donat
 #. type: Plain text
 #: content/_index.md
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
+msgstr "للتبرع بسهولة، انقر على أيقونة طريقة الدفع المفضلة لديك أدناه:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
