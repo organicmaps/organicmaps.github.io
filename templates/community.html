@@ -153,17 +153,7 @@
         <h2 class="h1-inter section-social__title">
             {{ page.extra.stay_connected_section_title | safe }}
         </h2>
-        <ul class="container section-social__row">
-            <li class="section-social__item">{% include 'ui/icons/social/instagram.html' %}</li>
-              <li class="section-social__item">{% include 'ui/icons/social/telegram.html' %}</li>
-             <li class="section-social__item">{% include 'ui/icons/social/linkidin.html' %}</li>
-             <li class="section-social__item">{% include 'ui/icons/social/facebook.html' %}</li>
-             <li class="section-social__item"> {% include 'ui/icons/social/frame.html' %}</li>
-             <li class="section-social__item">{% include 'ui/icons/social/mail.html' %}</li>
-            <li class="section-social__item">{% include 'ui/icons/social/matrix.html' %}</li>
-             <li class="section-social__item">{% include 'ui/icons/social/reddid.html' %}</li>
-            <li class="section-social__item">{% include 'ui/icons/social/git.html' %}</li>
-        </ul>
+        {% include 'section/social-icon.html' %}
     </section>
        {% include 'section/solo-donate.html' %}
 {%- endblock content %}

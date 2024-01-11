@@ -67,3 +67,45 @@
     }
   }
 }
+
+.support-search {
+padding: 60rem 16rem 20rem;
+  @media (max-width: $media-md) {
+    padding: 30rem 16rem;
+  }
+
+  &__row {
+    background-color: var(--bg-green);
+    border-radius: 24rem;
+    padding: 50rem 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .search {
+      width: 100%;
+      max-width: 910rem;
+
+    }
+    @media (max-width: $media-md) {
+      padding: 30rem 16rem;
+    }
+  }
+  &__title {
+    color: var(--black-white);
+    text-align: center;
+  }
+}
+
+
+.support-buttons {
+  padding: 30rem 0 80rem;
+  @media (max-width: $media-md) {
+   display: none;
+  }
+  &__row {
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    flex-wrap: wrap;
+  }
+}

@@ -6,13 +6,14 @@
   --sub-fonst: 'Lato', sans-serif;
 
   --h1: 300 48rem/60rem var(--sub-fonst);
+  --h2-inter: 700 28rem/normal var(--main-font);
   --h1-inter: 700 36rem/46rem var(--main-font);
   --h1-sub: 400 24rem/32rem var(--main-font);
-  --h1-sub_v2: 500 24rem/32rem var(--main-font);
+  --h1-sub_v2: 200 24rem/32rem var(--main-font);
   --h3-boold: 700 24rem/32rem var(--main-font);
   --h3-normal: 600 24rem/32rem var(--main-font);
   --h4: 500 18rem/28rem var(--main-font);
-  --h5: 500 20rem/28rem var(--main-font);
+  --h5: 300 20rem/28rem var(--main-font);
   --h6: 500 30rem/36rem var(--main-font);
   --h6-bold: 700 30rem/36rem var(--main-font);
    --h6-date: 700 30rem/36rem var(--main-font);
@@ -66,6 +67,9 @@
 .h2{
   font: var(--h1);
   color: var(--black-white);
+}
+.h2-inter {
+  font: var( --h2-inter);
 }
 .h2-sub{
   font: var(--h1-sub);

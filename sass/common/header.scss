@@ -191,10 +191,11 @@
   }
 
   &--green {
-    animation: header-play 2.2s ease-in-out;
+    //animation: header-play 2.2s ease-in-out;
     background-color: var(--common-green-primery);
-
+    transition: background-color 1s;
     .header {
+      transition: background-color 1s;
       &__logo {
         transition: color var(--transition);
         color: var(--common-green);

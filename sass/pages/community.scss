@@ -61,55 +61,7 @@
   }
 }
 
-.section-social {
-  margin-bottom: var(--container-mob-section);
 
-  &__row {
-    display: flex;
-    justify-content: center;
-    gap: 22rem;
-    @media (max-width: $media-md) {
-      gap: 6rem;
-    }
-  }
-
-  &__title {
-    color: var(--black-white);
-    text-align: center;
-    margin-bottom: 24rem;
-    @media (max-width: $media-md) {
-      margin-bottom: 20rem;
-    }
-  }
-
-  &__item {
-    width: 59px;
-    height: 59px;
-    border: 2rem solid var(--black-white);
-    padding: 13rem;
-    border-radius: 6rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    svg {
-      color: var(--black-white);
-    }
-
-    a {
-      display: flex;
-    }
-
-    @media (max-width: $media-md) {
-      width: 23px;
-      height: 23px;
-      svg {
-        width: 18px;
-        height: 18px;
-      }
-    }
-  }
-}
 
 .donate {
   background-color: var(--bg-green);

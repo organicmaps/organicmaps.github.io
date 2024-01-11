@@ -89,6 +89,7 @@
     border-radius: 34rem;
     &:before {
       content: "+";
+      transform: translateY(-1px);
     }
   }
 

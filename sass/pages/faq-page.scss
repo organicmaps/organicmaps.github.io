@@ -4,3 +4,41 @@
 padding-top: 0;
 }
 
+.faq-page-list {
+  &__title {
+    color: var(--black-white);
+    text-transform: uppercase;
+    margin-bottom: 20rem;
+  }
+  &__table {
+    border: 1rem solid var(--bg-green);
+    border-radius: 10rem;
+    margin-bottom: 20rem;
+  }
+  &__table-item {
+    padding: 30rem 20rem;
+    border-bottom: 1rem solid var(--bg-green);
+    &:last-child {
+      border-bottom: 1rem solid transparent;
+    }
+    @media (max-width: $media-md) {
+      padding: 20rem;
+    }
+  }
+  &__table-link {
+    color: var(--green-button);
+  }
+}
+
+.faq-page-footer {
+  padding-top: 40rem;
+  margin-bottom: 60rem;
+  &__title{
+    margin-bottom: 30rem;
+    text-align: center;
+  }
+  @media (max-width: $media-md) {
+    margin-bottom: 40rem;
+  }
+}
+
