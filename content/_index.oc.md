@@ -35,10 +35,9 @@ lei ciclistas :
 - Percors ciclistes, draias d’escorregudas e caminaments
 - Linhas de contorn, perfius d’elevacion, cimas e pendents
 - Navigacion pas a pas d’a pès, amb la bicicleta, l’automobila e guida de
-  votz
+  votz, Android Auto
 - Recèrcas rapidas sus la mapa e fòra de linha
-- Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ (GPX es
-  [planificat][gpx_issue])
+- Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ, impòrtan GPX
 - Mòde fosc per protegir vòstreis uelhs
 - Lei país e lei regions utilizan gaire d'espaci
 - De còde liure e dobèrt

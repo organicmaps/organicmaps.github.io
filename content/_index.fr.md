@@ -25,11 +25,11 @@ extra:
 Organic Maps est l'application idéale pour les voyageurs, les touristes, les randonneurs et les cyclistes :
 
 - Cartes détaillées hors ligne avec des lieux qui n'existent pas sur d'autres cartes, grâce à [OpenStreetMap](https://osm.org)
-- Itinéraires cyclables, sentiers de randonnée et chemins de promenade.
-- Courbes de niveau, profils d'élévation, sommets et pentes.
-- Navigation à pied, à vélo et en voiture, virage par virage, avec guidage vocal.
+- Itinéraires cyclables, sentiers de randonnée et chemins de promenade
+- Courbes de niveau, profils d'élévation, sommets et pentes
+- Navigation à pied, à vélo et en voiture, virage par virage, avec guidage vocal, Android Auto
 - Recherche rapide hors ligne sur la carte
-- Exportation et importation de signets aux formats KML/KMZ (GPX est [prévu](https://github.com/organicmaps/organicmaps/issues/624))
+- Exportation et importation de signets aux formats KML/KMZ, importation GPX
 - Mode sombre pour protéger vos yeux
 - Les pays et les régions ne prennent pas beaucoup de place
 - Gratuit et open-source

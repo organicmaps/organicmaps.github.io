@@ -34,10 +34,9 @@ fietsers:
 - Fietsroetes, voetslaanroetes en -paaie
 - Kontoerlyne, hoogteprofiele, pieke en hellings
 - Roetebegeleiding vir voetslaan en fietsry en motornavigasie met
-  stembegeleiding
+  stembegeleiding, Android Auto
 - Soek vinnig vanlyn op die kaart
-- Stuur boekmerke uit en voer dit in in KML/KMZ-formate (GPX is
-  [beplan][gpx_issue])
+- Stuur boekmerke uit en voer dit in in KML/KMZ-formate, voer GPX in
 - Donkermodus om u oë te beskerm
 - Lande en streke neem nie baie spasie op nie
 - Gratis en oopbron
