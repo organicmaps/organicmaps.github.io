@@ -33,7 +33,7 @@ Organic Maps is the ultimate companion app for travelers, tourists, hikers, and 
 - Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]
 - Cycling routes, hiking trails, and walking paths
 - Contour lines, elevation profiles, peaks, and slopes
-- Turn-by-turn walking, cycling, and car navigation with voice guidance
+- Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto
 - Fast offline search on the map
 - Bookmarks and tracks in KML, KMZ, GPX formats
 - Dark Mode to protect your eyes

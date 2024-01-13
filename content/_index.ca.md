@@ -34,7 +34,7 @@ excursionistes i ciclistes:
   gràcies a l'[OpenStreetMap][openstreetmap]
 - Rutes ciclistes, pistes de senderisme i camins
 - Línies de contorn, perfils d'elevació, pics i pendents
-- Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu
+- Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu, Android Auto
 - Cerques ràpides al mapa, sense connexió
 - Marcadors i rutes en format KML, KMZ i GPX
 - Mode fosc per a protegir els vostres ulls

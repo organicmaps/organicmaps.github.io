@@ -33,10 +33,9 @@ e ciclistas:
   graças ao [OpenStreetMap][openstreetmap]
 - Rotas de ciclismo, trilhas para caminhadas e caminhos para pedestres
 - Curvas de nível, perfis de elevação, picos e encostas
-- Navegação passo a passo a pé, bicicleta e carro, com orientação por voz
+- Navegação passo a passo a pé, bicicleta e carro, com orientação por voz, Android Auto
 - Busca rápida offline no mapa
-- Exportação e importação de marcadores nos formatos KML/KMZ (GPX é
-  [planejado][gpx_issue])
+- Exportação e importação de marcadores nos formatos KML/KMZ, importação GPX
 - Modo escuro para proteger seus olhos
 - Países e regiões não ocupam muito espaço
 - Livre e de código aberto

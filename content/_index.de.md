@@ -34,10 +34,9 @@ Wanderer und Radfahrer:
 - Rad-, Wander- und Spazierwege
 - Höhenlinien, Höhenprofile, Bergspitzen und Steigungen
 - Schritt-für-Schritt-Navigation für Fußgänger, Radfahrer und Autofahrer mit
-  Sprachführung
+  Sprachführung, Android Auto
 - Schnelle Offline-Suche von Orten auf der Karte
-- Export und Import von Lesezeichen im KML/KMZ-Format (GPX ist
-  [geplant][gpx_issue])
+- Export und Import von Lesezeichen im KML/KMZ-Format, Import GPX
 - Dunkler Modus zum Schutz deiner Augen
 - Länder und Regionen nehmen nicht viel Speicherplatz in Anspruch
 - Kostenlos und Open-Source

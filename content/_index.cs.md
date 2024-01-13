@@ -35,10 +35,9 @@ cyklisty:
 - Cyklistické trasy, turistické stezky a pěší trasy
 - Vrstevnice, výškové profily, vrcholy a svahy
 - Pěší, cyklistická a automobilová navigace krok za krokem s hlasovými
-  pokyny
+  pokyny, Android Auto
 - Rychlé offline vyhledávání na mapě
-- Export a import záložek ve formátech KML/KMZ (GPX je
-  [plánováno][gpx_issue])
+- Export a import záložek ve formátech KML/KMZ, import GPX
 - Tmavý režim pro ochranu očí
 - Země a regiony nezabírají mnoho místa
 - Svobodný a otevřený zdrojový kód

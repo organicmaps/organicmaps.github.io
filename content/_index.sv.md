@@ -35,10 +35,9 @@ cyklister:
 - Cykelvägar, vandringsleder och promenadvägar
 - Konturlinjer, höjdprofiler, toppar och sluttningar
 - Tur-för-tur-navigering för promenader, cykling och bilnavigering med
-  röststyrning
+  röststyrning, Android Auto
 - Snabb offline-sökning på kartan
-- Export och import av bokmärken i KML/KMZ-format (GPX är
-  [planerat][gpx_issue])
+- Export och import av bokmärken i KML/KMZ-format, import GPX
 - Mörkt läge för att skydda dina ögon
 - Länder och regioner tar inte mycket plats
 - Gratis och öppen källkod

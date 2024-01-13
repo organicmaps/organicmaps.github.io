@@ -34,10 +34,9 @@ wandelaars en fietsers:
 - Fietsroutes, wandelroutes en -paden
 - Contourlijnen, hoogteprofielen, pieken en hellingen
 - Routebegeleiding voor wandelen en fietsen en autonavigatie met
-  stembegeleiding
+  stembegeleiding, Android Auto
 - Snel offline zoeken op de kaart
-- Bladwijzers exporteren en importeren in KML/KMZ formats (GPX is
-  [gepland][gpx_issue])
+- Bladwijzers exporteren en importeren in KML/KMZ formats, importeren GPX
 - Donkere stand om je ogen te beschermen
 - Landen en regio's nemen niet veel ruimte in beslag
 - Gratis en open source

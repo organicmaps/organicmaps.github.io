@@ -35,10 +35,9 @@ turis, pejalan kaki, dan pengendara sepeda:
 - Rute bersepeda, jalur pendakian, dan jalur pejalan kaki
 - Garis kontur, profil ketinggian, puncak, dan lereng
 - Navigasi berjalan kaki, bersepeda, dan mobil belok demi belok dengan
-  panduan suara
+  panduan suara, Android Auto
 - Pencarian luring cepat pada peta
-- Ekspor dan impor penanda dalam format KML/KMZ (GPX
-  [direncanakan][gpx_issue])
+- Ekspor dan impor penanda dalam format KML/KMZ, impor GPX
 - Mode Gelap untuk melindungi mata Anda
 - Negara dan wilayah tidak memakan banyak ruang
 - Bebas dan sumber terbuka

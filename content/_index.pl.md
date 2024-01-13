@@ -36,10 +36,9 @@ wędrowców i rowerzystów:
 - Trasy rowerowe, szlaki turystyczne, ścieżki spacerowe
 - Linie konturowe, profile wysokościowe, szczyty i zbocza
 - Nawigacja piesza, rowerowa i samochodowa "zakręt po zakręcie" ze
-  wskazówkami głosowymi
+  wskazówkami głosowymi, Android Auto
 - Szybkie wyszukiwanie offline na mapie
-- Eksport i import zakładek w formatach KML/KMZ (GPX jest
-  [planowane][gpx_issue])
+- Eksport i import zakładek w formatach KML/KMZ, import GPX
 - Tryb ciemny, aby chronić Twoje oczy
 - Kraje i regiony nie zajmują dużo miejsca
 - Wolne i otwarte źródło

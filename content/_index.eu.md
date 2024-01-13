@@ -35,10 +35,9 @@ egokiena:
 - Bizikletarako ibilbideak, mendiko zidorrak eta ibiltzeko bideak
 - Profil lerroak, sestra kurbak, gailur eta aldapak
 - Pausoz-pausoko nabigazioa oinez, bizikletan edo autoz ibiltzeko, ahotsaren
-  aukerarekin
+  aukerarekin, Android Auto
 - Mapan offline bilaketa azkarra
-- Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan
-  (GPX [planned][gpx_issue])
+- Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan, inportatzeko GPX
 - Modu iluna zure begiak babesteko
 - Nazio eta herrialdeek ez dute toki askorik hartzen
 - Librea eta kode irekikoa
