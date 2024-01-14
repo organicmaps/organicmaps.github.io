@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-07-23 18:31+0000\nLast-Translator: Ophiushi <41908476+ishi-sama@users.noreply.github.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.0-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-14 09:01+0000\nLast-Translator: Karlos Sagan <weblate.ljq5x@passmail.net>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -28,7 +28,7 @@ msgstr "Organic Maps, cartes hors ligne et navigation GPS"
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** est une application de cartes hors-ligne sur Android & IOS pour les voyageurs, les touristes, les randonneurs et les cyclistes basée sur les données crowdsourcées d'**[OpenStreetMap][openstreetmap]**. Il s'agit d'un [fork][fork] open-source de l'application **Maps.me** (anciennement connue sous le nom de [**MapsWithMe**][mapswithme]) concentré sur le respect de la vie privée, maintenu par les mêmes personnes qui ont créé**MapsWithMe** en 2011.\n"
+msgstr "**Organic Maps** est une application gratuite de cartes hors-ligne sur Android & iOS pour les voyageurs, les touristes, les randonneurs et les cyclistes basée sur les données crowdsourcées d'**[OpenStreetMap][openstreetmap]**. Il s'agit d'un [fork][fork] open-source de l'application **Maps.me** (anciennement connue sous le nom de [**MapsWithMe**][mapswithme]) concentré sur le respect de la vie privée, maintenu par les mêmes personnes qui ont créé**MapsWithMe** en 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -86,9 +86,7 @@ msgstr "Fonctionnalités"
 msgid ""
 "Organic Maps is the ultimate companion app for travelers, tourists, hikers, "
 "and cyclists:"
-msgstr ""
-"Organic Maps est le compagnon ultime pour les voyageurs, les touristes, les "
-"randonneurs et les cyclistes :"
+msgstr "Organic Maps est le compagnon ultime pour les voyageurs, les touristes, les randonneurs et les cyclistes :"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -123,9 +121,7 @@ msgstr "Recherche hos-connexion rapide sur la carte"
 #: content/_index.md
 msgid ""
 "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr ""
-"Export et import des marque-pages au format KML/KMZ (GPX est [planifié]"
-"[gpx_issue])"
+msgstr "Export et import des marque-pages au format KML/KMZ et GPX"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -146,12 +142,12 @@ msgstr "Libre et open-source"
 #: content/_index.md
 #, no-wrap
 msgid "Why Organic?"
-msgstr "Pourquoi Organic ?"
+msgstr "Pourquoi Organic ?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr "Organic Maps est pur et organique, fait avec amour :"
+msgstr "Organic Maps est pur et organique, fait avec amour :"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -171,9 +167,7 @@ msgstr "Pas de frais de données mobiles inattendus"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
-"L'application Organic Maps est exempte de traqueurs et d'autres éléments "
-"nuisibles :"
+msgstr "L'application Organic Maps est exempte de traqueurs et d'autres éléments nuisibles :"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -192,6 +186,7 @@ msgstr "Pas de collecte de données"
 
 #. type: Bullet: '- '
 #: content/_index.md
+#, fuzzy
 msgid "No phoning home"
 msgstr "Pas de transfert de données"
 
@@ -208,27 +203,27 @@ msgstr "Pas de tutoriels obligatoires"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No noisy email spam"
-msgstr "Pas de pourriel à répétition"
+msgstr "Pas de spams à répétition"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 msgid "No push notifications"
-msgstr "Notifications poussées"
+msgstr "Pas de notifications"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No crapware"
-msgstr "Pas de crapware"
+msgstr "Pas d'applications préinstallées"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "~~No pesticides~~ Purely organic!"
-msgstr "~~Sans pesticides~~ Purement organique !"
+msgstr "~~Sans pesticides~~ Purement organique !"
 
 #. type: Plain text
 #: content/_index.md
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr "L'application est vérifiée par [Exodus Privacy Project][exodus] :"
+msgstr "L'application est vérifiée par [Exodus Privacy Project][exodus] :"
 
 #. type: Plain text
 #: content/_index.md
@@ -239,7 +234,7 @@ msgstr "{{ exodus_screenshot() }}"
 #: content/_index.md
 msgid ""
 "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr "L'application iOS est vérifiée par [TrackerControl for iOS][trackercontrol] :"
+msgstr "L'application iOS est vérifiée par [TrackerControl for iOS][trackercontrol] :"
 
 #. type: Plain text
 #: content/_index.md
@@ -249,7 +244,7 @@ msgstr "{{ trackercontrol_screenshot() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr "Organic Maps ne demande pas de permissions excessives afin de vous espionner :"
+msgstr "Organic Maps ne demande pas de permissions excessives afin de vous espionner :"
 
 #. type: Plain text
 #: content/_index.md
@@ -259,7 +254,7 @@ msgstr "{{ privacy_screenshots() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr "Chez Organic Maps, nous croyons que la protection de la vie privée est un droit humain fondamental :"
+msgstr "Chez Organic Maps, nous croyons que la protection de la vie privée est un droit humain fondamental :"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -279,32 +274,32 @@ msgstr "Restez en sécurité où que vous soyez"
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 msgid "Reject surveillance - embrace your freedom."
-msgstr "Refusez la surveillance - adoptez la liberté."
+msgstr "Refusez la surveillance - adoptez votre liberté."
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr "**[Essayez Organic Maps !](#install)**\n"
+msgstr "**[Essayez Organic Maps !](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Who is paying for the free app?"
-msgstr "Qui paye pour que l'application soit gratuite ?"
+msgstr "Qui paye pour que l'application soit gratuite ?"
 
 #. type: Plain text
 #: content/_index.md
 msgid ""
 "The app is free for everyone. Please [donate](@/donate/index.md) to support "
 "us!"
-msgstr "L'application est gratuite pour tous. Veuillez [faire un don](@/donate/index.md) pour nous soutenir !"
+msgstr "L'application est gratuite pour tous. Veuillez [faire un don](@/donate/index.md) pour nous soutenir !"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "There are different ways to donate:"
-msgstr "Il y a différentes façons de faire un don :"
+msgstr "Il y a plusieurs façons de faire un don :"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -315,7 +310,7 @@ msgstr "{{ donate_buttons() }}"
 #: content/_index.md
 #, no-wrap
 msgid "Our sponsors:"
-msgstr "Nos sponsors :"
+msgstr "Nos sponsors :"
 
 #. type: Plain text
 #: content/_index.md
@@ -341,7 +336,7 @@ msgstr "Organic Maps est un [logiciel open-source][github] sous licence Apache 2
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr "Rejoignez notre programme bêta, proposez vos fonctionnalités et signalez les bogues :"
+msgstr "Rejoignez notre programme bêta, proposez vos fonctionnalités et signalez les bugs :"
 
 #. type: Bullet: '  * '
 #: content/_index.md
@@ -367,7 +362,7 @@ msgstr "[Bêta Linux Desktop (paquets)][repology]"
 #: content/_index.md
 msgid ""
 "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr "Signalez des bogues ou des problèmes dans [l'issue tracker][issues] ou bien [par courrier électronique][email]."
+msgstr "Signalez des bugs ou des problèmes dans [l'issue tracker][issues] ou bien [par courriel][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -379,7 +374,7 @@ msgstr "[Discutez][ideas] des idées ou proposez de nouvelles fonctionnalités."
 msgid ""
 "Subscribe to our [Telegram Channel][telegram] or to the [matrix space]"
 "[matrix] for updates."
-msgstr "Abonnez-vous à notre [Chaîne Telegram][telegram] ou bien à [l'espace matrix][matrix] pour des mises à jour sur le projet."
+msgstr "Abonnez-vous à notre [Canal Telegram][telegram] ou bien à [l'espace matrix][matrix] pour être tenu au courant des mises à jour."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -402,7 +397,7 @@ msgstr "Suivez nos dernières nouvelles sur [FOSStodon][fosstodon], [Mastodon][m
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork] : https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)\n"
+msgstr "[fork] : https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
@@ -425,14 +420,14 @@ msgstr "Faire un don"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
-msgstr "Faire un don pour soutenir le développement d'Organic Maps"
+msgstr "Faites un don pour soutenir le développement d'Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid ""
 "Organic Maps app is _free for everyone_ thanks to your **[donations]"
 "[stripe]**:"
-msgstr "L'application Organic Maps est _gratuite pour tous_ grâce à vos **[dons][stripe]** :"
+msgstr "L'application Organic Maps est _gratuite pour tous_ grâce à vos **[dons][stripe]** :"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -442,7 +437,7 @@ msgstr "Pas de traqueurs"
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No registration"
-msgstr "inscription"
+msgstr "Pas d'inscription"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -453,7 +448,7 @@ msgstr "Open source"
 #: content/donate/index.md
 #, no-wrap
 msgid "Why donate to Organic Maps?"
-msgstr "Pourquoi faire un don à Organic Maps ?"
+msgstr "Pourquoi faire un don à Organic Maps ?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
