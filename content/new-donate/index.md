@@ -17,7 +17,7 @@ extra:
   funding_section_card_description_1: Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed.
   funding_section_card_description_2: We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing.
   funding_section_card_description_3: User support, bug fixing, and improving the stability of the app are at the top of our priorities. There are 1200+ issues on GitHub that is growing every day, and a large number of items to address on AppStore, Google Play, and support emails.
-  users_way_section_title: Our users say
+  users_way_section_title: People say
   users_way_donation_description_1: I donate to Organic Maps for the unique offering they bring, and to support positive change
   users_way_donation_description_2: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
   users_way_donation_description_3: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
