@@ -7,8 +7,31 @@ padding-top: 0;
 .faq-page-list {
   &__title {
     color: var(--black-white);
-    text-transform: uppercase;
+
     margin-bottom: 20rem;
+  }
+&__row {
+  display: flex;
+  gap: 10rem;
+  flex-direction: column;
+  margin-bottom: 60rem;
+}
+  &__buttons {
+    display: flex;
+    gap: 10rem;
+    margin-bottom: 10rem;
+  }
+  &__item {
+    display: flex;
+    gap: 10rem;
+  }
+  &__img {
+    width: 100%;
+    max-width: 300rem;
+  }
+  &__text {
+    position: sticky;
+    top: 20rem;
   }
   &__table {
     border: 1rem solid var(--bg-green);
@@ -40,5 +63,9 @@ padding-top: 0;
   @media (max-width: $media-md) {
     margin-bottom: 40rem;
   }
+}
+
+.faq-post {
+
 }
 

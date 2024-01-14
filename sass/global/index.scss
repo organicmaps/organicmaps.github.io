@@ -31,7 +31,7 @@ max-width: 130rem;
 overflow: hidden;
 }
 .main {
- 
+ min-height: calc(100vh - 200rem);
 }
 .line {
   width: 100%;
@@ -39,6 +39,10 @@ overflow: hidden;
     max-width: 222rem;
     height: 2rem;
      margin: 10rem auto 40rem;
+  &--full {
+    max-width: 100%;
+    margin: 0;
+  }
   @media (max-width: $media-sm) {
           margin: 10rem auto 20rem;
       }
