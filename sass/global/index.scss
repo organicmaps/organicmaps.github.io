@@ -39,11 +39,15 @@ overflow: hidden;
     max-width: 222rem;
     height: 2rem;
      margin: 10rem auto 40rem;
+  @media (max-width: $media-sm) {
+    margin: 10rem auto 20rem;
+  }
   &--full {
     max-width: 100%;
     margin: 0;
+    @media (max-width: $media-sm) {
+      margin: 0;
+    }
   }
-  @media (max-width: $media-sm) {
-          margin: 10rem auto 20rem;
-      }
+
 }

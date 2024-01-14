@@ -30,6 +30,7 @@
     }
   }
   &--line-min {
+    min-width: auto;
     font: var(--nav-bred);
     padding: 7rem 10rem;
     color: var(--green-button);

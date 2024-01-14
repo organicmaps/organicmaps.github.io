@@ -7,14 +7,21 @@ padding-top: 0;
 .faq-page-list {
   &__title {
     color: var(--black-white);
-
     margin-bottom: 20rem;
+    @media (max-width: $media-md) {
+      margin-bottom: 0;
+
+    }
   }
 &__row {
   display: flex;
   gap: 10rem;
   flex-direction: column;
   margin-bottom: 60rem;
+  @media (max-width: $media-md) {
+    margin-bottom: 30rem;
+    gap: 20rem;
+  }
 }
   &__buttons {
     display: flex;
@@ -24,10 +31,20 @@ padding-top: 0;
   &__item {
     display: flex;
     gap: 10rem;
+    @media (max-width: $media-md) {
+     flex-direction: column;
+
+    }
   }
   &__img {
     width: 100%;
     max-width: 300rem;
+    @media (max-width: $media-md) {
+      max-width: 100%;
+      img {
+        width: 100%;
+      }
+    }
   }
   &__text {
     position: sticky;
