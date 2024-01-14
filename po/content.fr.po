@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-14 09:01+0000\nLast-Translator: Karlos Sagan <weblate.ljq5x@passmail.net>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-15 09:06+0000\nLast-Translator: Karlos Sagan <weblate.ljq5x@passmail.net>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -462,20 +462,20 @@ msgstr "Nous comptons sur vos dons pour mener à bien notre mission qui est de f
 msgid ""
 "We are a few enthusiasts contributing in our free time, and spending our "
 "families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Nous sommes quelques passionnés qui contribuent au projet sur notre temps libre et qui y consacrons l'argent de nos familles. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs ❤️."
+msgstr "Nous sommes quelques passionnés qui contribuent au projet sur notre temps libre et nous y consacrons l'argent de nos familles. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid ""
 "With your support, we want to become a better, privacy-focused version of "
 "Google Maps."
-msgstr "Grâce à votre soutien, nous souhaitons devenir une version améliorée de Google Maps, plus respectueuse de la vie privée."
+msgstr "Avec votre soutien, nous souhaitons devenir une version améliorée de Google Maps, axée sur la confidentialité."
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "What will the money be used for?"
-msgstr "À quoi servira l'argent ?"
+msgstr "À quoi servira l'argent ?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -483,7 +483,7 @@ msgid ""
 "We pay for fast servers, so anyone in the World can download free map data "
 "updates without delays.  It's hundreds of terabytes monthly, and the amount "
 "is growing."
-msgstr "Nous payons pour des serveurs rapides, afin que n'importe qui dans le Monde puisse télécharger des mises à jour de cartes gratuites sans délais.  Ce sont des téraoctets mensuellement et la quantité continue d'augmenter."
+msgstr "Nous payons pour des serveurs rapides, afin que n'importe qui dans le Monde puisse télécharger des mises à jour de cartes gratuites sans délais.  Ce sont des centaines de téraoctets téléchargés mensuellement et ce chiffre ne cesse de croître."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
