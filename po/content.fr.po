@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-16 18:06+0000\nLast-Translator: Ophiushi <41908476+ishi-sama@users.noreply.github.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-16 18:06+0000\nLast-Translator: Karlos Sagan <weblate.ljq5x@passmail.net>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -492,17 +492,12 @@ msgid ""
 "and this number is growing every day.  AppStore, Google Play, and support "
 "emails are overflooded with comments and bugs. We want to deliver a high-"
 "quality product."
-msgstr ""
-"L'assistance aux utilisateurs, la correction des bogues et l'amélioration de "
-"la stabilité de l'application sont en tête de nos priorités.  Il y a [1800+ "
-"problèmes sur GitHub] [github issues], et ce nombre augmente chaque jour.  "
-"L'AppStore, Google Play et les courriels d'assistance sont inondés de "
-"commentaires et de bogues. Nous voulons livrer un produit de haute qualité."
+msgstr "L'assistance aux utilisateurs, la correction des bugs et l'amélioration de la stabilité de l'application sont en tête de nos priorités.  Il y a [1800+ issues sur GitHub] [github issues], et ce nombre augmente chaque jour.  L'AppStore, Google Play et les emails d'assistance sont inondés de commentaires et de bugs. Nous voulons livrer un produit de haute qualité."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
-msgstr "Avec assez d'argent, de nouvelles fonctionnalités peuvent être développées plus rapidement, par exemple :"
+msgstr "Avec assez d'argent, de nouvelles fonctionnalités peuvent être développées plus rapidement, par exemple :"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
