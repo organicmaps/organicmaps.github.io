@@ -32,8 +32,17 @@
     justify-content: flex-start;
     max-width: 523rem;
     width: 50%;
+    text-decoration: none;
+    cursor: pointer;
+    transition: scale 0.5s;
+    &:hover {
+      scale: 1.02;
+    }
     @media (max-width: $media-md) {
   width: 100%;
+      &:hover {
+        scale: 1;
+      }
     }
   }
 
@@ -65,7 +74,7 @@
 
 .donate {
   background-color: var(--bg-green);
-  padding: 77rem 0;
+  padding: 77rem 120rem;
   margin: 0 var(--container-mob-section) var(--container-mob-section);
   border-radius: var(--border-r-24);
   @media (max-width: $media-md) {

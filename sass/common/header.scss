@@ -25,9 +25,10 @@
     font: var(--nav-link);
     color: var(--common-white);
     cursor: pointer;
-    padding: 8rem 10rem;
+    padding: 8rem 16rem;
     @media (max-width: $media-md) {
       color: var(--common-black);
+      padding: 8rem 10rem;
     }
   }
 
@@ -81,6 +82,7 @@
 
   &__ul {
     display: flex;
+    gap: 8rem;
     @media (max-width: $media-md) {
       width: 100%;
       flex-direction: column;
