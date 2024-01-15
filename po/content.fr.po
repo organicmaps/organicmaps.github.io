@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-15 09:06+0000\nLast-Translator: Karlos Sagan <weblate.ljq5x@passmail.net>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-16 18:06+0000\nLast-Translator: Ophiushi <41908476+ishi-sama@users.noreply.github.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/organicmaps/website/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -186,9 +186,8 @@ msgstr "Pas de collecte de données"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
 msgid "No phoning home"
-msgstr "Pas de transfert de données"
+msgstr "Pas de téléphone fixe"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -548,7 +547,7 @@ msgstr "Amélioration de la recherche d'adresse hors ligne, du routage et de la 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Public Transport"
-msgstr "Public Transport"
+msgstr "Transport public"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -584,7 +583,7 @@ msgstr "{{ bank_transfer() }}"
 #: content/donate/index.md
 #, no-wrap
 msgid "Crypto"
-msgstr "cryptographique"
+msgstr "Crypto"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -882,7 +881,7 @@ msgstr "[github] : https://github.com/organicmaps/organicmaps\n[licence] : http:
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr "Addresse"
+msgstr "Adresse"
 
 #. type: Hash Value: back
 #: translations.yaml
