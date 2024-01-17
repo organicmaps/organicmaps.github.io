@@ -3,7 +3,9 @@
             <h3 class="h3-bold support-block__title"> {{ trans(key='ged-involved-title', lang=lang) }}</h3>
             <div class="support-block__row">
                 <div class="support-block__card">
-                    {% include 'ui/icons/header/donate.html' %}
+                    <a href="/new-donate" target="_blank">
+                        {% include 'ui/icons/header/donate.html' %}
+                    </a>
                     <h5 class="h4 support-block__icon-title">
                         {{ trans(key='donate-title', lang=lang) }}
                     </h5>
@@ -14,7 +16,10 @@
 
                 </div>
                 <div class="support-block__card">
-                    {% include 'ui/icons/header/code.html' %}
+                    <a href="/community" target="_blank">
+                        {% include 'ui/icons/header/code.html' %}
+                    </a>
+
                     <h5 class="h4 support-block__icon-title">
                         {{ trans(key='contribute-code-title', lang=lang) }}
                     </h5>
@@ -25,7 +30,10 @@
 
                 </div>
                 <div class="support-block__card">
-                    {% include 'ui/icons/header/location.html' %}
+                    <a href="/community" target="_blank">
+                        {% include 'ui/icons/header/location.html' %}
+                    </a>
+
                     <h5 class="h4 support-block__icon-title">
                         {{ trans(key='contribute-location-title', lang=lang) }}
                     </h5>
