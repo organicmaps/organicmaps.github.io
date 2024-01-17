@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Hindi <https://hosted.weblate.org/projects/organicmaps/website/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-18 18:00+0000\nLast-Translator: Abhinav Gupta <Abhinav.gupta@outlook.de>\nLanguage-Team: Hindi <https://hosted.weblate.org/projects/organicmaps/website/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -212,7 +212,7 @@ msgstr "यह ऐप [Exodus Privacy Project][exodus] द्वारा सत
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot() }}"
-msgstr "{{ exodus_screenshot() }}"
+msgstr "{{एक्सोडस _ स्क्रीनशॉट}}"
 
 #. type: Plain text
 #: content/_index.md
@@ -232,7 +232,7 @@ msgstr "ऑर्गेनिक नक़्शे आपकी जासूस
 #. type: Plain text
 #: content/_index.md
 msgid "{{ privacy_screenshots() }}"
-msgstr "{{ privacy_screenshots() }}"
+msgstr "{{गोपनीयता _ स्क्रीनशॉट्स ()}}"
 
 #. type: Plain text
 #: content/_index.md
@@ -284,7 +284,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons() }}"
-msgstr "{{ donate_buttons() }}"
+msgstr "{{दान बटन ()}}"
 
 #. type: Title ###
 #: content/_index.md
