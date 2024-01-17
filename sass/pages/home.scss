@@ -3,7 +3,7 @@
 // Hero Section
 .hero {
   //margin: -80rem 0 0;
-  background: var(--common-black) url('/images/hero/hero-bg.jpg') center center / cover no-repeat fixed;
+  background: var(--common-black) url('/images/hero/hero-bg.jpg') center center / cover no-repeat;
   height: 100vh;
   max-height: 900rem;
   padding: 80rem 0;
@@ -227,9 +227,9 @@ margin-bottom: 35rem;
     @media (max-width: $media-md) {
       flex-direction: column-reverse;
       margin-right: 0;
-      gap: 40rem;
+      gap: 10rem;
       text-align: center;
-      padding-bottom: 120rem;
+      padding-bottom: 40rem;
     }
     &:nth-child(2n) {
       flex-direction: row-reverse;
