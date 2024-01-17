@@ -14,6 +14,7 @@
   --h3-normal: 600 24rem/32rem var(--main-font);
   --h4: 500 18rem/28rem var(--main-font);
   --h5: 300 20rem/28rem var(--main-font);
+  --h5-bold: 500 20rem/28rem var(--main-font);
   --h6: 500 30rem/36rem var(--main-font);
   --h6-bold: 700 30rem/36rem var(--main-font);
    --h6-date: 700 30rem/36rem var(--main-font);
@@ -94,6 +95,9 @@
 .h5 {
   font: var(--h5);
   color: var(--black-white);
+}
+.h5-bold {
+  font: var(--h5-bold);
 }
 .h6-date {
   font: var(--h6-date);

@@ -130,7 +130,7 @@
 
 .about-history {
   padding-top: var(--container-mob-section);
-
+  margin-bottom: 60rem;
   &__title {
     margin-bottom: 30rem;
   }
@@ -232,6 +232,28 @@
     box-shadow: var(--common-card-box-shadow);
     border-radius: 10rem;
     background-color: var(--link-map-section);
+  }
+}
+
+.about-news {
+  margin-bottom: 50rem;
+  .post-min__img {
+    width: auto;
+  }
+  &__title {
+    color: var(--black-white);
+    margin-bottom: 30rem;
+  }
+  &__content {
+    display: flex;
+    gap: 20rem;
+    @media (max-width: $media-sm) {
+    flex-wrap: wrap;
+      gap: 40rem;
+    }
+  }
+  .post-min__title {
+    margin-bottom: 10rem;
   }
 }
 
