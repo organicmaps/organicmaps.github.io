@@ -18,6 +18,7 @@
   --h6-bold: 700 30rem/36rem var(--main-font);
    --h6-date: 700 30rem/36rem var(--main-font);
   --h5-boold: 700 22rem/28rem var(--main-font);
+  --h7: 400 32rem/36rem var(--main-font);
   --p: 300 18rem/28rem var(--main-font);
   --p-15: 300 15rem/26rem var(--main-font);
     --p-15-bold: 500 15rem/18rem var(--main-font);
@@ -105,6 +106,9 @@
 }
 .h5-boold {
   font: var( --h5-boold);
+}
+.h7 {
+  font: var(--h7);
 }
 // Text
 .p{

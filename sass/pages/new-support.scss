@@ -33,11 +33,17 @@
     justify-content: center;
     align-items: center;
     gap: 15rem;
+    @media (max-width: $media-sm) {
+      flex-direction: row;
+    }
   }
 
   &__text {
     max-width: 292rem;
     text-align: center;
+    @media (max-width: $media-sm) {
+      text-align: left;
+    }
   }
 
   &__icon {
@@ -50,6 +56,11 @@
     background-color: var(--acordion-green-bg);
     color: var(--green-button);
     border: 1rem solid var(--green-button-transparent);
+    @media (max-width: $media-sm) {
+      width: 74rem;
+      height: 74rem;
+      padding: 13rem;
+    }
   }
 }
 
@@ -178,9 +189,56 @@
   }
 }
 
-.reviews {
-  padding: var(--container-mob-section) 0;
+.donate-services {
 
+  &__row {
+    box-shadow: var(--common-card-box-shadow);
+    padding: 40rem 15rem 30rem;
+    border-radius: 10rem;
+    background-color: var(--rewi-card-color);
+    @media (max-width: $media-sm) {
+      background-color: transparent;
+      box-shadow: none;
+      padding: 21rem 0 0 ;
+    }
+  }
+  &__title {
+    text-align: center;
+    margin-bottom: 33rem;
+    @media (max-width: $media-sm) {
+      margin-bottom: 20rem;
+    }
+  }
+  &__text {
+    color: var(--black-white);
+    text-align: center;
+    margin-bottom: 34rem;
+    @media (max-width: $media-sm) {
+      margin-bottom: 20rem;
+    }
+  }
+  &__icons {
+    display: flex;
+    gap: 5rem;
+    @media (max-width: $media-sm) {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  &__icon {
+    text-decoration: none;
+    transition: transform 0.5s;
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}
+
+.reviews {
+  padding: 110rem 0;
+  @media (max-width: $media-sm) {
+    padding: var(--container-mob-section) 0;
+  }
   &__title {
     text-align: center;
   }
