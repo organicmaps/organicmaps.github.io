@@ -1,8 +1,10 @@
 @import "../variables/media";
 
 .free-open {
-  padding: var(--container-mob-section) 0;
-
+  padding: 83rem 0 var(--container-mob-section);
+  @media (max-width: $media-sm) {
+    padding: var(--container-mob-section) 0;
+  }
   &__container {
     display: grid;
     grid-template-columns: 1fr 1.2fr;
@@ -27,20 +29,10 @@
   &__img-row {
     position: absolute;
     top: 0;
-    right: 16rem;
+    right: 0rem;
     width: 50%;
 
-    &:before {
-      content: '';
-      display: block;
-      width: 100%;
-      height: 100%;
-      background-color: var(--cart-bg);
-      border-radius: 20rem;
-      position: absolute;
-      transform: translate(-15rem, 10rem);
-      z-index: 1;
-    }
+
 
     @media (max-width: $media-sm) {
       position: relative;
@@ -64,6 +56,7 @@
 }
 
 .about-us {
+  padding-top: 60rem;
   &__content {
     background-color: var(--cart-bg);
     width: fit-content;

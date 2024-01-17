@@ -67,7 +67,8 @@
   &__img {
     display: block;
     width: 47%;
-    border-radius: 10rem 0 0 10rem;
+    border-radius: 10rem;
+    margin-right: -60rem;
     @media (max-width: $media-sm) {
       border-radius: 10rem;
       width: calc(100% - 10rem);
@@ -79,10 +80,10 @@
     border-radius: 10rem;
     display: flex;
     align-items: center;
-    margin-bottom: 10rem;
-      @media (max-width: $media-sm) {
-          margin-bottom: 20rem;
-      }
+    margin-bottom: 66rem;
+    @media (max-width: $media-sm) {
+      margin-bottom: 20rem;
+    }
     &:nth-child(2n) {
       flex-direction: row-reverse;
       @media (max-width: $media-sm) {
@@ -90,14 +91,17 @@
       }
 
       .services-support__img {
-        border-radius: 0 10rem 10rem 0;
+        margin-right: 0;
+        margin-left: -10rem;
+        border-radius: 10rem;
         @media (max-width: $media-sm) {
           border-radius: 10rem;
           width: calc(100% - 10rem);
           margin: 0 0rem -20rem 10rem;
         }
       }
-      .services-support__item-content  {
+
+      .services-support__item-content {
         @media (max-width: $media-sm) {
 
           width: calc(100% - 10rem);
@@ -119,13 +123,13 @@
   &__row {
     margin-bottom: 40rem;
     @media (max-width: $media-sm) {
-         margin-bottom: 10rem;
-      }
+      margin-bottom: 10rem;
+    }
   }
 
   &__item-content {
     background-color: var(--bg-green);
-    padding: 110rem 40rem;
+    padding: 30rem 40rem;
     border-radius: 10rem;
     position: relative;
     @media (max-width: $media-sm) {
@@ -180,11 +184,13 @@
   &__title {
     text-align: center;
   }
-&__line {
-  @media (max-width: $media-sm) {
+
+  &__line {
+    @media (max-width: $media-sm) {
       margin-bottom: -10rem;
     }
-}
+  }
+
   &__item {
     display: flex;
     flex-direction: column;
@@ -196,9 +202,10 @@
     padding: 58rem 30rem 0;
     background-color: var(--rewi-card-color);
     position: relative;
- @media (max-width: $media-sm) {
-         padding: 30rem 30rem 0;
+    @media (max-width: $media-sm) {
+      padding: 30rem 30rem 0;
     }
+
     &:before {
       content: "";
       width: 150rem;
