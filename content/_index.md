@@ -16,8 +16,8 @@ extra:
   services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
   services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
   services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code
-  single_section_title: Offline Search and Route
-  single_section_description: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  single_section_title: Freedom Is Here
+  single_section_description: Discover your journey, navigate the world with privacy and community at the forefront.
   services_section_card_title_1: Offline Search and Route
   services_section_card_title_2: No Tracking or Data Collection
   services_section_card_title_3: Save Your Battery

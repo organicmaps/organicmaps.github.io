@@ -6,6 +6,8 @@ extra:
   hero_title: Donate
   hero_image: /new-donate/donate-bg.png
   menu_title_pre: Home
+  service_title: Created with love by enthusiast volunteers
+  service_text: Donate to keep the project running
   hero_description: Donate and create better maps together!
   info_section_card_description_1: We rely on your donations to keep Organic Maps open, free, and without ads
   info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users
