@@ -2,9 +2,11 @@
 
 .support-block {
   margin-bottom: var(--container-mob-section);
+
   @media (max-width: $media-sm) {
-        padding: 0 16rem;
-       }
+    padding: 0 16rem;
+  }
+
   &__container {
     background-color: var(--bg-green);
     border-radius: 24rem;
@@ -18,14 +20,22 @@
 
   &__title {
     color: var(--black-white);
-       @media (max-width: $media-md) {
-         text-align: center;
-       }
+
+    @media (max-width: $media-md) {
+      text-align: center;
+    }
+  }
+
+  &__icon-text {
+    color: var(--text-com-color);
+    text-decoration: none;
   }
 
   &__row {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+
+
     @media (max-width: $media-md) {
       display: flex;
       flex-direction: column;
@@ -34,12 +44,15 @@
   }
 
   &__icon-title {
+    color: var(--black-white);
     margin: 20rem 0 10rem;
+    text-decoration: none;
   }
 
   &__card {
     padding: 0 50rem;
     border-right: 1rem solid var(--common-line-color);
+    text-decoration: none;
 
     svg {
       color: var(--green-button);
@@ -62,16 +75,18 @@
       margin-bottom: 20rem;
       border: none;
       border-bottom: 1rem solid var(--common-line-color);
+
       &:last-child {
-     border: none;
+        border: none;
         padding: 0;
-      margin-bottom: 0;
+        margin-bottom: 0;
 
       }
     }
+
     @media (max-width: $media-md) {
-         text-align: center;
-       }
+      text-align: center;
+    }
   }
 
 }

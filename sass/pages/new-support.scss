@@ -10,14 +10,25 @@
   margin: -120rem 0 80rem;
   position: relative;
   z-index: 10;
+
   @media (max-width: $media-sm) {
-    margin: -20rem 0 80rem;
+    margin: -20rem 0 25rem;
+  }
+
+  &__btn {
+    display: none;
+
+    @media (max-width: $media-sm) {
+      display: flex;
+      margin: 40rem auto 0;
+    }
   }
 
   &__container {
     display: flex;
     justify-content: center;
     gap: 15rem;
+
     @media (max-width: $media-sm) {
       flex-direction: column;
     }
@@ -33,6 +44,7 @@
     justify-content: center;
     align-items: center;
     gap: 15rem;
+
     @media (max-width: $media-sm) {
       flex-direction: row;
     }
@@ -41,6 +53,7 @@
   &__text {
     max-width: 292rem;
     text-align: center;
+
     @media (max-width: $media-sm) {
       text-align: left;
     }
@@ -56,6 +69,7 @@
     background-color: var(--acordion-green-bg);
     color: var(--green-button);
     border: 1rem solid var(--green-button-transparent);
+
     @media (max-width: $media-sm) {
       width: 74rem;
       height: 74rem;
@@ -80,6 +94,7 @@
     width: 47%;
     border-radius: 10rem;
     margin-right: -60rem;
+
     @media (max-width: $media-sm) {
       border-radius: 10rem;
       width: calc(100% - 10rem);
@@ -92,11 +107,14 @@
     display: flex;
     align-items: center;
     margin-bottom: 66rem;
+
     @media (max-width: $media-sm) {
       margin-bottom: 20rem;
     }
+
     &:nth-child(2n) {
       flex-direction: row-reverse;
+
       @media (max-width: $media-sm) {
         flex-direction: column;
       }
@@ -105,6 +123,7 @@
         margin-right: 0;
         margin-left: -10rem;
         border-radius: 10rem;
+
         @media (max-width: $media-sm) {
           border-radius: 10rem;
           width: calc(100% - 10rem);
@@ -133,6 +152,7 @@
 
   &__row {
     margin-bottom: 40rem;
+
     @media (max-width: $media-sm) {
       margin-bottom: 10rem;
     }
@@ -143,6 +163,7 @@
     padding: 30rem 40rem;
     border-radius: 10rem;
     position: relative;
+
     @media (max-width: $media-sm) {
       padding: 20rem 16rem;
       width: calc(100% - 10rem);
@@ -170,6 +191,7 @@
     background-color: var(--icon-check-color);
 
     color: var(--common-green);
+
     @media (max-width: $media-sm) {
       width: 33rem;
       height: 33rem;
@@ -196,38 +218,47 @@
     padding: 40rem 15rem 30rem;
     border-radius: 10rem;
     background-color: var(--rewi-card-color);
+
     @media (max-width: $media-sm) {
       background-color: transparent;
       box-shadow: none;
-      padding: 21rem 0 0 ;
+      padding: 21rem 0 0;
     }
   }
+
   &__title {
     text-align: center;
     margin-bottom: 33rem;
+
     @media (max-width: $media-sm) {
       margin-bottom: 20rem;
     }
   }
+
   &__text {
     color: var(--black-white);
     text-align: center;
     margin-bottom: 34rem;
+
     @media (max-width: $media-sm) {
       margin-bottom: 20rem;
     }
   }
+
   &__icons {
     display: flex;
     gap: 5rem;
+
     @media (max-width: $media-sm) {
       flex-wrap: wrap;
       justify-content: center;
     }
   }
+
   &__icon {
     text-decoration: none;
     transition: transform 0.5s;
+
     &:hover {
       transform: scale(1.05);
     }
@@ -236,9 +267,11 @@
 
 .reviews {
   padding: 110rem 0;
+
   @media (max-width: $media-sm) {
     padding: var(--container-mob-section) 0;
   }
+
   &__title {
     text-align: center;
   }
@@ -260,6 +293,7 @@
     padding: 58rem 30rem 0;
     background-color: var(--rewi-card-color);
     position: relative;
+
     @media (max-width: $media-sm) {
       padding: 30rem 30rem 0;
     }

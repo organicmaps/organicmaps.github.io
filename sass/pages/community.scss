@@ -6,9 +6,10 @@
   &__container {
     display: flex;
 
-  flex-flow: row wrap;
-  justify-content: space-around;
- gap: 80rem 10rem;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    gap: 80rem 10rem;
+
     @media (max-width: $media-md) {
 
       gap: 30rem 34rem;
@@ -35,11 +36,14 @@
     text-decoration: none;
     cursor: pointer;
     transition: scale 0.5s;
+
     &:hover {
       scale: 1.02;
     }
+
     @media (max-width: $media-md) {
-  width: 100%;
+      width: 100%;
+
       &:hover {
         scale: 1;
       }
@@ -48,6 +52,7 @@
 
   &__img {
     max-width: 370rem;
+
     @media (max-width: $media-md) {
       max-width: 100%;
     }
@@ -55,6 +60,11 @@
 
   &__title {
     padding: 20rem 0 0;
+    font-weight: 500;
+  }
+
+  &__title-color {
+    color: var(--green-button);
   }
 
   &__description {
@@ -77,6 +87,7 @@
   padding: 77rem 120rem;
   margin: 0 var(--container-mob-section) var(--container-mob-section);
   border-radius: var(--border-r-24);
+
   @media (max-width: $media-md) {
     padding: 20rem 0;
     margin: 0 14rem 50rem;
@@ -87,6 +98,7 @@
     align-items: center;
     justify-content: space-between;
     gap: 30rem;
+
     @media (max-width: $media-md) {
       flex-direction: column-reverse;
       text-align: center;
@@ -102,16 +114,17 @@
 
   &__content {
     max-width: 351rem;
-     @media (max-width: $media-md) {
-     display: flex;
-       flex-direction: column;
-       align-items: center;
+
+    @media (max-width: $media-md) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
   }
 
   &__description {
     margin-bottom: 30rem;
-    color: var( --data-text-color);
+    color: var(--data-text-color);
   }
 
   &__img {
