@@ -248,9 +248,12 @@
   &__icons {
     display: flex;
     gap: 5rem;
-
+    max-width: 750rem   ;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
     @media (max-width: $media-sm) {
-      flex-wrap: wrap;
+
       justify-content: center;
     }
   }
@@ -258,7 +261,14 @@
   &__icon {
     text-decoration: none;
     transition: transform 0.5s;
-
+    width: 72rem;
+    height: 72rem;
+    flex-shrink: 0;
+    img {
+      width: 100%;
+      width: 72rem;
+      height: 72rem;
+    }
     &:hover {
       transform: scale(1.05);
     }
