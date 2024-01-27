@@ -21,7 +21,8 @@
 {% for page in section.pages %}
 {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
 {% if translatedPage %}
-  {% set page = get_page(path=translatedPage.path) %}
+
+  {# set page = get_page(path=translatedPage.path) #}
 {% endif %}
 
 <section{% if page.translations | length <= 1 %} dir="auto"{% endif %}>
