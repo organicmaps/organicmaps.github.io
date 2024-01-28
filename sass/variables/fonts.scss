@@ -13,6 +13,7 @@
   --h3-boold: 700 24rem/32rem var(--main-font);
   --h3-normal: 600 24rem/32rem var(--main-font);
   --h4: 500 18rem/28rem var(--main-font);
+  --h4-bold: 700 18rem/28rem var(--main-font);
   --h5: 300 20rem/28rem var(--main-font);
   --h5-bold: 500 20rem/28rem var(--main-font);
   --h6: 500 30rem/36rem var(--main-font);
@@ -26,6 +27,7 @@
   --p-md: 400 16rem/28rem var(--main-font);
   --p-md-bold: 600 16rem/28rem var(--main-font);
   --p-sm: 500 14rem/21rem var(--main-font);
+  --p-sm-bold: 700 14rem/21rem var(--main-font);
   --p-sub: 300 12rem/15rem var(--main-font);
   --p-card: 300 17rem/24rem var(--main-font);
   --nav-link: 500 16rem/28rem var(--main-font);
@@ -91,11 +93,14 @@
 .h4 {
   font: var(--h4);
 }
-
+.h4-bold {
+  font: var(--h4-bold);
+}
 .h5 {
   font: var(--h5);
   color: var(--black-white);
 }
+
 .h5-bold {
   font: var(--h5-bold);
 }
@@ -126,6 +131,9 @@
 }
 .p-sm {
   font: var(--p-sm);
+}
+.p-sm-bold{
+  font: var(--p-sm-bold);
 }
 .p-sm-light {
   font: var(--p-sm-light);
