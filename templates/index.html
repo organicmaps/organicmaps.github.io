@@ -2,17 +2,10 @@
 
 {% block content %}
 
-{% include 'section/hero.html' %}
-
-
-{% include 'section/open_map.html' %}
-
-{% include 'section/home-services.html' %}
-
-{% include 'section/single-section.html' %}
+<h1>{{ resource.title }}</h1>
 
 {{ resource.content | safe }}
 
-
+{% include 'google_native_app_prompt.html' %}
 
 {% endblock content %}

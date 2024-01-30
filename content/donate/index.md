@@ -5,8 +5,6 @@ weight: 10
 extra:
   menu_title: Donate
   preview_image: donate/donate.png
-  service_title: Created with love by enthusiast volunteers
-  service_text: Donate to keep the project running
 ---
 
 Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:

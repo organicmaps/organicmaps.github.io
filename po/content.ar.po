@@ -6,14 +6,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: MOHAMED ALYAHRI <hamudialyafei@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/organicmaps/website/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.0.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -31,13 +31,13 @@ msgstr "الرئيسية"
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال حيثما أردت بدون الإنترنت"
+msgstr "Organic Maps: خرائط بدون إنترنت للتنزه، الدراجة، المسارات والتوجيه"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** هو تطبيق أندرويد و آيفون مجاني ولا يحتاج الإتصال بالإنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات مبني على بيانات المصدر العام **[OpenStreetMap][openstreetmap]**. مهتم بخصوصية المستخدمين، مفتوح المصدر، متفرع من تطبيق **Maps.Me** (المعروف سابقا بـ [**MapsWithMe**][mapswithme])، يقوم بصيانته نفس الأشخاص الذين أسسو **MapsWithMe** سنة 2011.\n"
+msgstr "**Organic Maps** هو تطبيق أندرويد و آيفون مجاني ولا يحتاج الإتصال بالإنترنت من أجل المسافرين،السياح ، المتنزهين والدراجين مبني على بيانات المصدر العام **[OpenStreetMap][openstreetmap]**. مهتم بخصوصية المستخدمين، مفتوح المصدر، متفرع من تطبيق **Maps.Me** (المعروف سابقا بـ [**MapsWithMe**][mapswithme])، يقوم بصيانته نفس الأشخاص الذين أسسو **MapsWithMe** سنة 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -63,8 +63,9 @@ msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
 
 #. type: Plain text
 #: content/_index.md
+#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات طويلة') }}"
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -85,7 +86,7 @@ msgstr "المميزات"
 #. type: Plain text
 #: content/_index.md
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr "تطبيق Organic Maps هو الرفيق الأفضل للمسافرين، السياح، المتنزهين و راكبي الدراجات:"
+msgstr "تطبيق Organic Maps هو الرفيق الأفضل للمسافرين،السياح، المتنزهين و راكبي الدراجات:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -251,7 +252,7 @@ msgstr "في Organic Maps نعتقد أن الخصوصية هي حق أساسي 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "Organic Maps هو مشروع مفتوح المصدر مُدار من طرف مُجتمع مستقل"
+msgstr "Organic Maps هو مشروع مفتوح المصدر يحركه المجتمع المستقل"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -369,6 +370,8 @@ msgstr "زُر [صفحة Github][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
+#, fuzzy
+#| msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 msgstr "تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]، [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]."
 
@@ -424,7 +427,7 @@ msgstr "مفتوح المصدر"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click on your preferred payment method icon below:"
-msgstr "انقر على أيقونة طريقة الدفع المفضلة أدناه:"
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
@@ -861,16 +864,3 @@ msgstr "الاسم"
 #, no-wrap
 msgid "Token"
 msgstr "رمز"
-
-#, no-wrap
-#~ msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-#~ msgstr "**Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.\n"
-
-#~ msgid "To donate immediately, click a preferred payment method icon below:"
-#~ msgstr "للتبرع فورًا، انقر فوق أيقونة طريقة الدفع المفضلة أدناه:"
-
-#~ msgid "Click a preferred payment method icon below:"
-#~ msgstr "انقر على أيقونة طريقة الدفع المفضلة أدناه:"
-
-#~ msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-#~ msgstr "يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس أولوياتنا. هناك [1200 + مشكلة على GitHub][github issues]، وهذا الرقم يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة."
