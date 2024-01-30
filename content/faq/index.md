@@ -1,8 +1,8 @@
 ---
-title: 
-description: 
+title: "F.A.Q."
+description: "Frequently asked questions for Organic Maps application"
 template: faq.html
-weight: 10
+weight: 1000
 extra:
   hero_title: Faq
   hero_image: /faq/hero_image.png
@@ -16,5 +16,8 @@ extra:
   faq_question_title_1_6: Who are the people behind Telegram?
   faq_question_title_2: Telegram Basics
   faq_question_title_3: Groups and Channels
-
+sort_by: weight
 ---
+
+### This page is replaced with taxonomy "faq" from templates/faq/list.html template
+This file is needed for top_menu.html and bottom_menu.html templates to show F.A.Q.
