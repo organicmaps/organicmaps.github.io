@@ -1,0 +1,23 @@
+.search {
+  padding: 20rem 0 20rem;
+  &__container {
+    position: relative;
+  }
+
+  &__input {
+    width: 100%;
+    outline: none;
+    padding: 15rem 15rem 15rem 40rem;
+    border-radius: 90rem;
+    border: 1px solid var(--common-grey-v5);
+  }
+  &__label {
+    position: relative;
+  }
+  &__icon {
+    position: absolute;
+    top: 3rem;
+    left: 15rem;
+    color: var(--common-grey-v5);
+  }
+}

@@ -1,21 +1,21 @@
 ---
 description: "Sense rastrejament, anuncis, recopilació de dades i estadístiques o programari espia"
 extra:
-  menu_title: Privacitat
-title: "Organic Maps: Política de Privacitat"
+  menu_title: Privadesa
+title: "Organic Maps: Política de Privadesa"
 weight: 900
 ---
 
-Organic Maps respecta la vostra privacitat i NO US RASTREJA.
+Organic Maps respecta la vostra privadesa i NO US RASTREJA.
 
-A diferència d'altres aplicacions, no hi ha rastrejadors, ni anuncis, ni
-programes espia, ni recol·lecció de dades i estadístiques en Organic Maps.
+A diferència d'altres aplicacions, a l'Organic Maps no hi ha rastrejadors,
+anuncis o programes espia, ni recol·lecció de dades o estadístiques.
 
-Rebutgi la vigilància. Assumeixi la seva llibertat.
+Rebutgeu la vigilància. Assumiu la vostra llibertat.
 
-Allunya't de les mirades indiscretes de les grans tecnològiques !
+Allunyeu-vos de les mirades indiscretes de les grans tecnològiques!
 
-Si tens preguntes o suggeriments, posa't en contacte amb nosaltres en
+Si teniu cap dubte o suggeriment, contacteu (en anglès) amb nosaltres a
 [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 <sub>Aquesta normativa és efectiva des del 24/04/2021.</sub>

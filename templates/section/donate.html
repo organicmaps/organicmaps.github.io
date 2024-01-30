@@ -1,0 +1,48 @@
+<section class="support-block">
+    <div class="container support-block__container">
+        <h3 class="h3-bold support-block__title"> {{ trans(key='ged-involved-title', lang=lang) }}</h3>
+        <div class="support-block__row">
+            <a href="/new-donate" class="support-block__card">
+
+                {% include 'ui/icons/header/donate.html' %}
+
+                <h5 class="h4 support-block__icon-title">
+                    {{ trans(key='donate-title', lang=lang) }}
+                </h5>
+
+                <p class="p-sm-light support-block__icon-text">
+                    {{ trans(key='donate-description', lang=lang) }}
+                </p>
+
+            </a>
+            <a href="/community" class="support-block__card">
+
+                {% include 'ui/icons/header/code.html' %}
+
+
+                <h5 class="h4 support-block__icon-title">
+                    {{ trans(key='contribute-code-title', lang=lang) }}
+                </h5>
+
+                <p class="p-sm-light support-block__icon-text">
+                    {{ trans(key='contribute-code-description', lang=lang) }}
+                </p>
+
+            </a>
+            <a href="/community" class="support-block__card">
+
+                {% include 'ui/icons/header/location.html' %}
+
+
+                <h5 class="h4 support-block__icon-title">
+                    {{ trans(key='contribute-location-title', lang=lang) }}
+                </h5>
+                <p class="p-sm-light support-block__icon-text">
+                    {{ trans(key='contribute-location-description', lang=lang) }}
+                </p>
+
+            </a>
+        </div>
+
+    </div>
+</section>
