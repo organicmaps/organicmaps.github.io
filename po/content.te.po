@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-02-03 14:17+0000\nLast-Translator: sai <phanindragvs2002@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-02-04 15:01+0000\nLast-Translator: sai <phanindragvs2002@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -22,7 +22,7 @@ msgstr "హోమ్"
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్: ఆఫ్‌లైన్ హైక్, బైక్, ట్రైల్స్ మరియు నావిగేషన్"
 
 #. type: Plain text
 #: content/_index.md
