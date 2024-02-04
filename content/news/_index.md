@@ -9,3 +9,4 @@ extra:
   menu_title_pre: Home
   hero_image: /news/kv-news.png
 ---
+
