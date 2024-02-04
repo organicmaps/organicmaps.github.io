@@ -12,45 +12,67 @@
 {% block content %}
 
 <h1>{{ resource.title }}</h1>
-{# Iterate and use en sections by default and use localized versions only if they are present #}
-{% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
-{% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
-{% for sectionStr in enNewsSection.subsections | sort | reverse %}
-{% set section = get_section(path=sectionStr) %}
-{% for page in section.pages %}
-{% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
-{% if translatedPage %}
+  {# Iterate and use en sections by default and use localized versions only if they are present #}
+  {% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
+  {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
-  {# set page = get_page(path=translatedPage.path) #}
-{% endif %}
-
-<section{% if page.translations | length <= 1 %} dir="auto"{% endif %}>
-
-<div class="news_date">&nbsp;<a href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
-{# Display wide images below the text instead of to the right. #}
-{% set_global noflex = '' %}
-{% for photo in page.assets %}
-  {% set meta = get_image_metadata(path=photo) %}
-  {% if meta.width > meta.height %}
-    {% set_global noflex = '_noflex' %}
-    {% break %}
+  {% for sectionStr in enNewsSection.subsections | sort | reverse %}
+    {% set section = get_section(path=sectionStr) %}
+  {% for page in section.pages %}
+    {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
+  {% if translatedPage %}
+    {# set page = get_page(path=translatedPage.path) #}
   {% endif %}
-{% endfor %}
-<div class="news_content_image{{ noflex }}">
-{% if page.content %}
-  <div class="news_content">{{ page.content | safe }}</div>
-{% endif %}
 
-<span class="news_images">
-{% for photo in page.assets | sort %}
-<img class="news_image" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
-{% endfor %}
-</span>
+  <section class="news__item" {% if page.translations | length <= 1 %} dir="auto"{% endif %}>
 
-</section>
+  <div class="news_date">&nbsp;<a href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
+  {# Display wide images below the text instead of to the right. #}
+  {% set_global noflex = '' %}
+  {% for photo in page.assets %}
+    {% set meta = get_image_metadata(path=photo) %}
+    {% if meta.width > meta.height %}
+      {% set_global noflex = '_noflex' %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  <style>
+    .news__wrapper {
+      display: flex;
+      justify-content: space-between;
+    }
+    .news__item {
+      width: 48%;
+      display: inline-block;
+    }
+    .news__item img {
+      max-width: 100%;
+      max-height: 100vh;
+      border: 2px solid red;
+    }
+  </style>
+  <div class="news__somr">
+    {% if page.title %}
+      <div class="news_title">
+        title:
+        {{ page.title | safe }}
+      </div>
+    {% endif %}
+    {% if page.description %}
+      <div class="news_description">
+        description:
+        {{ page.description | safe }}</div>
+    {% endif %}
 
-</div>
+    <span class="news_images">
+      {% for photo in page.assets | sort %}
+        <img class="news_image" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
+<!--        need to set firs image and discuss-->
+      {% endfor %}
+    </span>
+
+  </section>
 {% endfor %}
 {% endfor %}
 
