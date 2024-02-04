@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block meta_description %}
+  <meta name="description" content="Organic Maps F.A.Q.">
+{% endblock %}
+
+{% block content %}
+  <h1>F.A.Q.</h1>
+  {%- for term in terms -%}
+  <h3><a href="{{term.permalink}}">{{term.name}} questions</a></h3>
+  <ul>
+    {%- for faq_page in term.pages | sort(attribute="extra.order") -%}
+      <li><a href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></li>
+    {%- endfor -%}
+  </ul>
+  {%- endfor -%}
+{% endblock content %}

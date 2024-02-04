@@ -1,7 +1,19 @@
 {%- if page %}
-    {%- set resource = page %}
+{%- set resource = page %}
+{%- set resource_title = resource.title %}
+{%- set resource_path = resource.path %}
 {%- elif section %}
-    {%- set resource = section %}
+{%- set resource = section %}
+{%- set resource_title = resource.title %}
+{%- set resource_path = resource.path %}
+{%- elif term %}
+{%- set resource = term %}{# taxonomy term has only 'name', 'slug' and 'path' properties #}
+{%- set resource_path = resource.path %}
+{%- set resource_title = resource.name %}
+{%- elif taxonomy %}
+{%- set resource = taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
+{%- set resource_path = '/' ~ resource.name ~ '/' %}
+{%- set resource_title = resource.name %}
 {%- endif %}
 
 <!DOCTYPE html>
@@ -26,7 +38,9 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
 
-    <meta name="description" content="{{ resource.description }}">
+    {% block meta_description %}
+        <meta name="description" content="{{ resource.description }}">
+    {% endblock %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,27 +57,27 @@
               href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
     {% endblock %}
 
-    <link rel="canonical" href="{{ config.base_url | safe }}{{ resource.path | safe }}">
+    <link rel="canonical" href="{{ config.base_url | safe }}{{ resource_path | safe }}">
 
     {%- set preview_image = 'images/screenshots/prague.jpg' -%}
     {%- if resource.extra.preview_image -%}
-        {%- set preview_image = resource.extra.preview_image -%}
+    {%- set preview_image = resource.extra.preview_image -%}
     {%- elif resource.assets %}
-        {%- set basename = resource.assets[0] | split(pat='/') | last %}
-        {%- if basename is ending_with('.jpg') or basename is ending_with('.jpeg') or basename is ending_with('.png') or basename is ending_with('.webp') %}
-            {%- set preview_image = resource.path ~ basename -%}
-        {%- endif %}
+    {%- set basename = resource.assets[0] | split(pat='/') | last %}
+    {%- if basename is ending_with('.jpg') or basename is ending_with('.jpeg') or basename is ending_with('.png') or basename is ending_with('.webp') %}
+    {%- set preview_image = resource_path ~ basename -%}
+    {%- endif %}
     {%- endif %}
     <meta property="og:image" content="{{ get_url(path=preview_image) }}">
     <meta property="og:url" content="{{ current_url | safe }}">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ resource.title }}">
+    <meta property="og:title" content="{{ resource_title }}">
     {%- if resource.description -%}
         <meta property="og:description" content="{{ resource.description }}">
     {%- endif -%}
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ resource.title }}">
+    <meta property="og:title" content="{{ resource_title }}">
     {%- if resource.description -%}
         <meta name="twitter:description" content="{{ resource.description }}">
     {%- endif -%}
@@ -81,7 +95,7 @@
 
     <link href="{{ get_url(path="main.css", cachebust=true) }}" rel="stylesheet" type="text/css">
 
-    <title>{{ resource.title }}</title>
+    <title>{{ resource_title }}</title>
 
     {%- if lang == config.default_language %}
         {% include 'components/language_redirect.html' %}
@@ -102,6 +116,13 @@
     </header>
 
     <main class="main">
+        {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
+        F.A.Q.
+        {% set categories = get_taxonomy(kind='faq') | get(key="items") %}
+        {% for item in categories %}
+        • <a href="{{ get_taxonomy_url(kind="faq", name=item.name) }}">{{ item.name }}</a>
+        {% endfor %}
+        {% endif %}
         {% block content %}{% endblock %}
     </main>
 
