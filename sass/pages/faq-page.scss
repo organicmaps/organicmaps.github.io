@@ -2,11 +2,13 @@
 
 .faq-page {
 padding-top: 0;
+
 }
 
 .faq-page-list {
   a {
     text-decoration: none;
+    color: var(--black-white);
   }
   &__title {
     color: var(--black-white);
