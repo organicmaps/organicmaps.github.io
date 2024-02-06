@@ -2,9 +2,14 @@
 
 .faq-page {
 padding-top: 0;
+
 }
 
 .faq-page-list {
+  a {
+    text-decoration: none;
+    color: var(--black-white);
+  }
   &__title {
     color: var(--black-white);
     margin-bottom: 20rem;
@@ -12,6 +17,9 @@ padding-top: 0;
       margin-bottom: 0;
 
     }
+  }
+  &__table-title {
+    color: var(--black-white);
   }
 &__row {
   display: flex;

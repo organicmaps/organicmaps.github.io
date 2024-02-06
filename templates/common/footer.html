@@ -30,25 +30,6 @@
         <a class="p-sm footer__link" href="/about/"><span class="p-sm footer__link">About</span></a>
 
 
-
-        <!--        -->
-        <!--        {% for page in [home, news] | concat(with=home.pages) %}-->
-        <!--        {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}-->
-        <!--        {% if translated %}-->
-        <!--        {% if "_index" in translated.path %}-->
-        <!--        {% set page = get_section(path=translated.path) %}-->
-        <!--        {% else %}-->
-        <!--        {% set page = get_page(path=translated.path) %}-->
-        <!--        {% endif %}-->
-        <!--        {% endif %}-->
-
-        <!--        {% if page.extra.menu_title %}-->
-        <!--        {% if resource.path != page.path %}<a class="p-sm footer__link" href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% endif %}-->
-        <!--        <span class="p-sm footer__link">{{ page.extra.menu_title }}</span>-->
-        <!--        {%- if resource.path != page.path %}</a>{% endif %}-->
-        <!--        {% endif %}-->
-        <!--        {% endfor %}-->
-        <!-- <a class="p-sm footer__link" href="mailto:hello@organicmaps.app">{{ trans(key='contact', lang=lang) }}</a> -->
       </nav>
       <div class="switch-theme">
         <div class="switch-theme__toggle"></div>
