@@ -15,6 +15,7 @@ build_search_index = false
 
 ignored_content = [".DS_Store"]
 
+
 taxonomies = [
     {name = "faq", feed = false},
 ]
@@ -28,6 +29,7 @@ paths = "safe"
 
 [extra]
 stripe = "https://donate.organicmaps.app/"
+
 
 # Default English translation
 [translations]
@@ -573,11 +575,11 @@ learn-more-link = "Learn more"
 [languages.ca.translations]
 address = "Adreça"
 back = "Torna a Notícies"
-contact = "Contacteu amb nosaltres"
-install-appgallery = "Instal·leu l’Organic Maps des de l’AppGallery de Huawei"
-install-appstore = "Instal·leu l’Organic Maps des de l’AppStore"
-install-googleplay = "Instal·leu l’Organic Maps des del Google Play"
-install-fdroid = "Instal·leu l’Organic Maps des del F-Droid"
+contact = "Contacta'ns"
+install-appgallery = "Instal·la l’Organic Maps des de l’AppGallery de Huawei"
+install-appstore = "Instal·la l’Organic Maps des de l’AppStore"
+install-googleplay = "Instal·la l’Organic Maps des del Google Play"
+install-fdroid = "Instal·la l’Organic Maps des del F-Droid"
 language = "Català"
 name = "Nom"
 token = "Testimoni"

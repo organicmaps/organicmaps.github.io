@@ -6,24 +6,7 @@
       <a class="header__logo logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
       <div class="header__row">
           <ul class="header__ul">
-          {% for page in [
-            get_page(path="community/index.md")
-          ] %}
-          {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}
-          {% if translated %}
-            {% if "_index" in translated.path %}
-              {% set page = get_section(path=translated.path) %}
-            {% else %}
-              {% set page = get_page(path=translated.path) %}
-            {% endif %}
-          {% endif %}
-<!--          <li class="header__nav header__{{ page.path | split(pat="/") | reverse | nth(n=1) }} header__link{% if page.path != resource.path %}">-->
-<!--            <a href="{{ page.permalink | replace(from=config.base_url, to="") | safe }}">{% else %}_active">{% endif %}-->
-<!--              {{ page.extra.menu_title }}-->
-<!--              {%- if page.path != resource.path %}</a>-->
-<!--          {% endif %}-->
-          </li>
-          {% endfor %}
+
 <!--              <li class="header__nav header__link">-->
 <!--                  <a href="/faq/">-->
 <!--                      Faq-->
