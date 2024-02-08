@@ -26,13 +26,13 @@
                         </span>
         </li>
         <li class="bred-crum__item">
-          <a class="nav-bred bred-crum__link bred-crum--active" href="/post/"> <span style="color: red"> Need Title</span></a>
+          <a class="nav-bred bred-crum__link bred-crum--active" href="/post/"> {{ resource.title | safe }}</a>
         </li>
       </ul>
     </nav>
 
     <div class="single-news__item">
-      <h2 class="h1 post-min__title"> <span style="color: red"> Need Title</span></h2>
+      <h2 class="h1 post-min__title"> {{ resource.title | safe }}</h2>
       <div class="post-min">
 
 

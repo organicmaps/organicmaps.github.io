@@ -71,12 +71,13 @@
     {% endfor %}
     {% if page.assets %}
     {% for photo in page.assets | sort %}
+
     <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
-    <!--        need to set firs image and discuss-->
+
     {% endfor %}
 
     {% else %}
-    <img class="post-min__img post-min__img--one" src="/"/>
+    <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
     {% endif %}
     {% if page.title %}
     <h2 class="h2-sub_v2 post-min__title">

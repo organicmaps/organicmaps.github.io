@@ -33,6 +33,7 @@ stripe = "https://donate.organicmaps.app/"
 
 # Default English translation
 [translations]
+home = "Home"
 address = "Address"
 back = "Back to News"
 contact = "Contact Us"
