@@ -11,7 +11,8 @@ generate_feed = true
 feed_filename = "rss.xml"
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
+default_language = "en"
 
 ignored_content = [".DS_Store"]
 
