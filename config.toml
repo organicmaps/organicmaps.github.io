@@ -12,14 +12,47 @@ feed_filename = "rss.xml"
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
-default_language = "en"
+#default_language = "en"
 
-ignored_content = [".DS_Store"]
+#index_format = "elasticlunr_javascript"
+
+#[search]
+#    include_title = true
+#    include_description = true
+#    include_path = true
+#    include_content = true
 
 
 taxonomies = [
     {name = "faq", feed = false},
 ]
+
+# Whether to include the title of the page/section in the index
+#include_title = true
+# Whether to include the description of the page/section in the index
+#include_description = false
+# Whether to include the path of the page/section in the index
+#include_path = true
+
+# Whether to include the rendered content of the page/section in the index
+#include_content = true
+
+# At which character to truncate the content to. Useful if you have a lot of pages and the index would
+# become too big to load on the site. Defaults to not being set.
+# truncate_content_length = 100
+
+# Wether to produce the search index as a javascript file or as a JSON file
+# Accepted value "elasticlunr_javascript" or "elasticlunr_json"
+
+
+ignored_content = [".DS_Store"]
+
+
+
+#[taxonomies]
+#name = "faq"
+#paginate_by = 0  # This effectively disables pagination for this taxonomy if desired
+#feed = false
 
 [markdown]
 external_links_target_blank = true
