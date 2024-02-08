@@ -15,7 +15,7 @@
         <nav class="bred-crum">
             <ul class="bred-crum__row">
                 <li class="bred-crum__item">
-                    <a class="nav-bred bred-crum__link" href="/">Home</a>
+                    <a class="nav-bred bred-crum__link" href="/">{{ trans(key='home_title', lang=lang) }}</a>
                 </li>
                 <li class="bred-crum__item">
                 <span class="nav-bred">
@@ -24,7 +24,7 @@
                 </li>
                 <li class="bred-crum__item">
                     <a class="nav-bred bred-crum__link bred-crum--active"
-                       href="/news">News</a>
+                       href="/news">{{ trans(key='news_title', lang=lang) }}</a>
                 </li>
             </ul>
         </nav>
@@ -38,9 +38,9 @@
 </section>
 <div class="container  main-news__nav">
     <div class="main-news__nav-row">
-        <button class="button button--main">All</button>
-        <button class="button button--line">News</button>
-        <button class="button button--line">Releases</button>
+        <button class="button button--main">{{ trans(key='all_title', lang=lang) }}</button>
+        <button class="button button--line">{{ trans(key='news_title', lang=lang) }}</button>
+        <button class="button button--line">{{ trans(key='releases_title', lang=lang) }}</button>
     </div>
 </div>
 <div class="container main-news__row">
@@ -108,7 +108,7 @@
                 <path d="M10.2917 11.9167L9.20842 11.9167C9.13727 11.9167 9.06682 11.9028 9.00108 11.8756C8.93534 11.8484 8.87562 11.8085 8.82531 11.7581C8.775 11.7078 8.7351 11.6481 8.7079 11.5824C8.68069 11.5166 8.66671 11.4462 8.66675 11.375L8.66675 4.87504C8.66671 4.8039 8.68069 4.73344 8.7079 4.66771C8.7351 4.60197 8.775 4.54224 8.82531 4.49193C8.87561 4.44163 8.93534 4.40173 9.00108 4.37452C9.06682 4.34732 9.13727 4.33333 9.20841 4.33337L11.3751 4.33337C11.4462 4.33333 11.5167 4.34732 11.5824 4.37452C11.6482 4.40173 11.7079 4.44163 11.7582 4.49193C11.8085 4.54224 11.8484 4.60197 11.8756 4.66771C11.9028 4.73344 11.9168 4.8039 11.9167 4.87504L11.9167 10.2917C11.9163 10.7225 11.7449 11.1356 11.4403 11.4402C11.1356 11.7449 10.7226 11.9162 10.2917 11.9167ZM9.75008 10.8334L10.2917 10.8334C10.4354 10.8333 10.5731 10.7762 10.6747 10.6746C10.7762 10.5731 10.8333 10.4353 10.8334 10.2917L10.8334 5.41671L9.75008 5.41671L9.75008 10.8334Z"
                       fill="#AEC5BA"/>
             </svg>
-            <span class="p-sm post-min__date-title">News</span>
+            <span class="p-sm post-min__date-title">{{ trans(key='news_title', lang=lang) }}</span>
         </div>
     </div>
     {% if page.description %}
@@ -117,7 +117,7 @@
         {{ page.description | safe }}
     </p>
     {% endif %}
-    <a class="p-sm post-min__link" href="{{ page.path | safe }}">More</a>
+    <a class="p-sm post-min__link" href="{{ page.path | safe }}">{{ trans(key='more_title', lang=lang) }}</a>
 
     </section>
 
