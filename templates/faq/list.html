@@ -51,10 +51,37 @@
     <ul class="faq-page-list__table">
       <li class="faq-page-list__table-item"><a class="h5-boold faq-page-list__table-title" href="{{term.permalink}}">{{term.name}} questions</a></li>
       {%- for faq_page in term.pages | sort(attribute="extra.order") -%}
-      <li class="faq-page-list__table-item"><a class="h5 faq-page-list__table-link" href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></li>
+        <li class="faq-page-list__table-item"><a class="h5 faq-page-list__table-link" href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></li>
       {%- endfor -%}
+
     </ul>
     {%- endfor -%}
+
+
+
+    <h1>test</h1>
+
+    <script>
+
+      let faqs = [
+          {%- for term in terms -%}
+          {%- for faq_page in term.pages -%}
+          {
+            "title": "{{ faq_page.title | escape(json=true) }}",
+            "description": "{{ faq_page.description | escape(json=true) }}",
+            "url": "{{ faq_page.permalink }}"
+
+          }{%- if not loop.last -%},{%- endif -%}
+          {%- endfor -%}
+          {%- if not loop.last -%},{%- endif -%}
+          {%- endfor -%}
+        ]
+
+    </script>
+
+    <script>
+      console.log(faqs);
+    </script>
 
   </div>
 </section>
@@ -66,4 +93,7 @@
   {% include 'section/social-icon.html' %}
 </section>
 {% include 'section/donate.html' %}
+
+
+
 {% endblock content %}
