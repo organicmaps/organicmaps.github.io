@@ -5,7 +5,10 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-
+  ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
   &__row {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -14,16 +17,22 @@
   &__img {
     margin-bottom: 20rem;
     width: 100%;
-    max-width: 400rem;
+
     &--float {
       float: right;
+      max-width: 100rem;
+      margin:  5rem;
+      max-height: 200rem;
+      object-fit: contain;
     }
     &--one {
-     max-height: 278rem;
+      max-height: 278rem;
+      max-width: 100%;
+      height: 278rem;
       object-fit: cover;
       object-position: center;
       border-radius: 10rem;
-      height: 100%;
+
       &:not(:first-of-type) {
         display: none;
       }
@@ -43,6 +52,7 @@
 
   &__content {
     overflow: hidden;
+    margin-bottom: 60rem;
   }
 
   &__title {
