@@ -50,6 +50,7 @@
 
     {% for sectionStr in enNewsSection.subsections | sort | reverse %}
     {% set section = get_section(path=sectionStr) %}
+
     {% for page in section.pages %}
     {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
     {% if translatedPage %}
@@ -124,5 +125,15 @@
 
     {% endfor %}
     {% endfor %}
+
+
+    <nav class="pagination">
+        {% if paginator.previous %}
+            <a class="previous" href="{{ paginator.previous }}">‹ Previous</a>
+        {% endif %}
+        {% if paginator.next %}
+            <a class="next" href="{{ paginator.next }}">Next ›</a>
+        {% endif %}
+    </nav>
 </div>
 {% endblock content %}
