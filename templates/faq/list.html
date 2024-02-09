@@ -81,6 +81,63 @@
 
     <script>
       console.log(faqs);
+
+      let inpSear = document.getElementById('inpSearch')
+      let inSearchOut = document.querySelector('.faq-page-list__table')
+      let inSearchOutRow = document.querySelector('.faq-page-list__row')
+      function decodeHtmlEntities(str) {
+        return str.replace(/&amp;/g, '&')
+                .replace(/&lt;/g, '<')
+                .replace(/&gt;/g, '>')
+                .replace(/&quot;/g, '"')
+                .replace(/&apos;/g, "'")
+                .replace(/&#x27;/g, "'")
+                .replace(/&#39;/g, "'")
+                .replace(/&nbsp;/g, ' ')
+                .replace(/&#([0-9]{1,4});/g, function(match, numStr) {
+                  return String.fromCharCode(parseInt(numStr, 10));
+                })
+                .replace(/&#[xX]([A-Fa-f0-9]{1,4});/g, function(match, hexStr) {
+                  return String.fromCharCode(parseInt(hexStr, 16));
+                });
+      }
+
+      function cleateLi123(title, linkA){
+        const li = document.createElement('li')
+       li.classList.add('faq-page-list__table-item')
+
+        const link = document.createElement('a')
+        link.classList.add('h5', 'faq-page-list__table-link')
+        link.href = decodeHtmlEntities(linkA)
+        link.innerText = decodeHtmlEntities(title)
+        li.append(link)
+
+        return li
+      }
+
+      inpSear.addEventListener('keyup', ()=> {
+        inSearchOutRow.innerHTML = ''
+        let out = document.createElement('ul')
+        out.classList.add('faq-page-list__table')
+        inSearchOutRow.append(out)
+        out.innerHTML = 'Loading...'
+
+        inpSear.value ? setTimeout(()=>{
+          out.innerHTML = ''
+          faqs.map(item => {
+
+            let DecodlowTitle =  decodeHtmlEntities(item.title)
+            let lowTitle = DecodlowTitle.toLowerCase()
+            let newInput = inpSear.value.toLowerCase()
+            if(lowTitle.includes(newInput)){
+
+
+              out.append(cleateLi123(item.title, item.url))
+            }
+          })
+        }, 800) : location.reload()
+
+      })
     </script>
 
   </div>
