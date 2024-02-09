@@ -8,8 +8,6 @@ extra:
   menu_title_pre: Home
   
 ---
-
-
 # API Page
 
 To visit api page click here: [omaps.app/api](https://omaps.app/api)
