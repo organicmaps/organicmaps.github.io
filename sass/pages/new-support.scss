@@ -248,10 +248,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 20rem;
 
   }
   &__tab-close {
     cursor: pointer;
+
+  }
+  &__tab--1 {
+    display: none;
+  }
+  &__tab--2 {
+    display: none;
   }
  &__tab-row {
 
