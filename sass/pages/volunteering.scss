@@ -38,12 +38,8 @@
     flex-direction: column;
     gap: 16rem;
     border-bottom: 1rem solid var(--common-acord-button);
-    overflow: scroll;
-    max-height: 500rem;
 
-    > div {
-      max-height: 500rem;
-    }
+
 
     img {
       display: inline;
@@ -105,7 +101,7 @@
   }
 
   .is-active + .section-volunteering__content {
-    max-height: 500rem;
+    max-height: 2500rem;
     border: 1rem solid var(--common-acord-button);
 
   }
