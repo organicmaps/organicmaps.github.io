@@ -1,4 +1,5 @@
 ---
+title: Donate
 description: 
 template: new-donate.html
 weight: 10
