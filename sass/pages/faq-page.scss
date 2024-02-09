@@ -6,10 +6,7 @@ padding-top: 0;
 }
 
 .faq-page-list {
-  a {
-    text-decoration: none;
-    color: var(--black-white);
-  }
+
   &__title {
     color: var(--black-white);
     margin-bottom: 20rem;
@@ -20,6 +17,7 @@ padding-top: 0;
   }
   &__table-title {
     color: var(--black-white);
+    text-decoration: none;
   }
 &__row {
   display: flex;
