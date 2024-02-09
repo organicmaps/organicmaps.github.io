@@ -1,5 +1,5 @@
 ---
-title:  API Page
+title: API Page
 description: To visit api paease click
 template: pure.html
 weight: 10
