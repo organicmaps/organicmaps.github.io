@@ -4,7 +4,7 @@ template: new-donate.html
 weight: 10
 extra:
   hero_title: Donate
-  hero_image: /new-donate/donate-bg.png
+  hero_image: /donate/donate-bg.png
   menu_title_pre: Home
   service_title: Created with love by enthusiast volunteers
   service_text: Donate to keep the project running
