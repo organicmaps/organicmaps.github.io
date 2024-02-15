@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-30 10:10+0000\nLast-Translator: Alexander Gabilondo <alexgabi@openmailbox.org>\nLanguage-Team: Basque <https://hosted.weblate.org/projects/organicmaps/website/eu/>\nLanguage: eu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-02-16 10:02+0000\nLast-Translator: Gari Araolaza <garaolaza@codesyntax.com>\nLanguage-Team: Basque <https://hosted.weblate.org/projects/organicmaps/website/eu/>\nLanguage: eu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -578,7 +578,7 @@ msgstr "Mantendu informatuta gure taldearen azken bertsio-publikazio, albiste et
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr "Berriak"
+msgstr "Albisteak"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -733,7 +733,7 @@ msgstr "Organic Maps aplikazioaren erabilera baldintzak"
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr "Baldintzak"
+msgstr "Erabilera baldintzak"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -806,7 +806,7 @@ msgstr "Itzuli Berriak-era"
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr "Harremanetan jarri"
+msgstr "Gurekin harremanetan jarri"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
