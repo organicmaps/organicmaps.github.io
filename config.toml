@@ -40,7 +40,6 @@ install-appstore = "Install Organic Maps from the AppStore"
 install-googleplay = "Install Organic Maps from Google Play"
 install-fdroid="Install Organic Maps from F-Droid"
 language = "English"
-const_lang = "Language"
 name = "Name"
 token = "Token"
 
@@ -94,10 +93,14 @@ language = "Polski"
 name = "Nazwa"
 token = "Token"
 [languages.ru]
+taxonomies = [
+  {name = "faq", feed = false},
+]
 [languages.ru.translations]
 address = "Адрес"
 back = "Назад к новостям"
 contact = "Связаться с нами"
+engines = "Поддерживаемые TTS движки"
 install-appgallery = "Установите Organic Maps из Huawei AppGallery"
 install-appstore = "Установите Organic Maps из AppStore"
 install-googleplay = "Установите Organic Maps из Google Play"

@@ -1,6 +1,6 @@
 <p id="tts-table" />
 
-{{ trans(key='const_lang', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
+{{ trans(key='language', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
 :------------------|:----------------------------------------------------------
 Afrikaans          | &emsp; eSpeak
 Albanian           | &emsp; RHVoice, eSpeak
