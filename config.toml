@@ -42,6 +42,8 @@ install-fdroid="Install Organic Maps from F-Droid"
 language = "English"
 name = "Name"
 token = "Token"
+faq-menu-title = "F.A.Q"
+faq-questions = "questions"
 
 # Please sort all other translation sections and values in alphabetical order.
 [languages.de]
@@ -108,6 +110,9 @@ install-fdroid = "Установите Organic Maps из F-Droid"
 language = "Русский"
 name = "Название"
 token = "Токен"
+faq-menu-title = "Справка"
+faq-questions = "вопросы"
+
 [languages.tr]
 [languages.tr.translations]
 address = "Adres"
