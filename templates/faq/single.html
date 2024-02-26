@@ -5,16 +5,7 @@
 {% endblock %}
 
 {% block content %}
-  {{ trans(key='faq-menu-title', lang=lang) }}
-  {% set categories = get_taxonomy(kind='faq', lang=lang) | get(key="items") %}
-  {% for item in categories %}
-    •
-    {% if term.name == item.name %}
-    <span>{{ item.name }}</span>
-    {% else %}
-    <a href="{{ item.permalink }}">{{ item.name }}</a>
-    {% endif %}
-  {% endfor %}
+  {% include 'faq/faq-breadcrumbs.html' %}
   <h2>{{ term.name }} {{ trans(key='faq-questions', lang=lang) }}</h2>
   {%- for faq_page in term.pages | sort(attribute="extra.order") -%}
   <h3><a href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></h3>

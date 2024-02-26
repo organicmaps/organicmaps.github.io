@@ -85,11 +85,7 @@
 
   <main>
   {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
-    {{ trans(key='faq-menu-title', lang=lang) }}
-    {% set categories = get_taxonomy(kind='faq', lang=page.lang) | get(key="items") %}
-    {% for item in categories %}
-      • <a href="{{ item.permalink }}">{{ item.name }}</a>
-    {% endfor %}
+    {% include 'faq/faq-breadcrumbs.html' %}
   {% endif %}
     {% block content %}{% endblock %}
   </main>
