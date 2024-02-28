@@ -3,7 +3,7 @@ title: Какие версии Android поддерживает Organic Maps?
 description: "Frequently asked questions for Organic Maps application"
 
 taxonomies:
-  faq: ["Android"]
+  faq: ["Андроид"]
 
 extra:
   order: 10

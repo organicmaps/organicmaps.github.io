@@ -3,7 +3,7 @@ title: Синтез речи (Text-to-Speech, TTS) на Android
 description: Как настроить озвучку навигатора в Organic Maps на Android
 
 taxonomies:
-  faq: ["TTS"]
+  faq: ["Голосовые подсказки"]
 
 extra:
   order: 10
