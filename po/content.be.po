@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: be\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-01 10:57+0000\nLast-Translator: Aliaksei Tayanouski <altay1992@gmail.com>\nLanguage-Team: Belarusian <https://hosted.weblate.org/projects/organicmaps/website/be/>\nLanguage: be\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -16,7 +16,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "На галоўную"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -40,37 +40,37 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "Спампуйце і ўсталюйце Organic Maps з [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ badges() }}"
-msgstr ""
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пешы паход') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Прага') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Афлайн пошук') }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Навігацыя ў начным рэжыме') }}"
 
 #. type: Title ##
 #: content/_index.md
