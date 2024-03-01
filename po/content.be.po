@@ -4,13 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-01 10:57+0000\nLast-Translator: Aliaksei Tayanouski <altay1992@gmail.com>\nLanguage-Team: Belarusian <https://hosted.weblate.org/projects/organicmaps/website/be/>\nLanguage: be\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-01 10:57+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Belarusian <https://hosted.weblate.org/projects/organicmaps/website/be/>\nLanguage: be\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "Хуткія, падрабязныя афлайн мапы для падарожнікаў, турыстаў, кіроўцаў і веласіпедыстаў, створаныя заснавальнікамі праграмы MapsWithMe (пазней перайменаванай у Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -22,13 +22,13 @@ msgstr "На галоўную"
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "Organic Maps: афлайн мапы"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr ""
+msgstr "**Organic Maps** - гэта бясплатныя афлайн мапы для падарожнікаў, турыстаў і веласіпедыстаў, заснаваныя на дадзеных **[OpenStreetMap][openstreetmap]**. Гэта дадатак для iOS і Android з адкрытым зыходным кодам, [форк][fork] прыкладання **Maps.Me** (раней вядомага як [**MapsWithMe**][mapswithme], які падтрымліваецца стваральнікамі **MapsWithMe**.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -76,7 +76,7 @@ msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Навігацы�
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "Магчымасці"
 
 #. type: Plain text
 #: content/_index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "Нашы спонсары"
 
 #. type: Plain text
 #: content/_index.md
@@ -346,7 +346,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Супольнасць"
 
 #. type: Plain text
 #: content/_index.md
@@ -442,7 +442,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Ахвяраваць"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -472,7 +472,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Open source"
-msgstr ""
+msgstr "адкрыты код"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -580,7 +580,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Public Transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -604,7 +604,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Bank Transfer"
-msgstr ""
+msgstr "Банкаўскі перавод"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -616,7 +616,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Crypto"
-msgstr ""
+msgstr "Крыптавалюта"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -660,7 +660,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Навіны"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -678,7 +678,7 @@ msgstr ""
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Прыватнасць"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
@@ -834,7 +834,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Умовы"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -876,7 +876,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "Інструменты"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -903,7 +903,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Адрас"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -915,7 +915,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Звязацца з намі"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -945,16 +945,16 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Беларуская"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 #. type: Hash Value: token
 #: translations.yaml
 #, no-wrap
 msgid "Token"
-msgstr ""
+msgstr "токен"
