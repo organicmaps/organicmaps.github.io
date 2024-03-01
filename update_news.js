@@ -127,7 +127,7 @@ function parseHtml(html) {
     if (!fs.existsSync(dir)) {
       console.log('Creating ' + dir);
       fs.mkdirSync(dir, { recursive: true });
-      fs.writeFileSync(dir + '/../_index.md', `---\ndate: ${yyyyMMdd}\nsort_by: date\n---`);
+      fs.writeFileSync(dir + '/../_index.md', `---\ndate: ${yyyyMMdd}\nsort_by: date\ntemplate: news/date_section.html\n---`);
     }
 
     // Each message may have 0 or more photos.
