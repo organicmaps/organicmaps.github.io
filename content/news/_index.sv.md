@@ -4,6 +4,6 @@ extra:
   menu_title: Nyheter
 page_template: news_post.html
 sort_by: date
-template: news.html
+template: news/root_section.html
 title: "Organic Maps: De senaste nyheterna och uppdateringarna från vårt team"
 ---

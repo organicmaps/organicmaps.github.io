@@ -4,6 +4,6 @@ extra:
   menu_title: Berriak
 page_template: news_post.html
 sort_by: date
-template: news.html
+template: news/root_section.html
 title: "Organic Maps: azken albiste eta eguneraketak gure lan-taldetik"
 ---

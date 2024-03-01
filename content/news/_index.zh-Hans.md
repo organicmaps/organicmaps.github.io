@@ -4,6 +4,6 @@ extra:
   menu_title: 新闻
 page_template: news_post.html
 sort_by: date
-template: news.html
+template: news/root_section.html
 title: "Organic Maps：近期新闻和更新"
 ---
