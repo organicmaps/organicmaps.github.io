@@ -43,7 +43,6 @@ Klikněte na ikonu preferovaného způsobu platby níže:
 3. S dostatkem peněz lze například rychleji vyvíjet nové funkce:
    - Týdenní a automatické aktualizace mapových dat
    - Zálohování a synchronizace záložek
-   - Android Auto
    - Záznamník stop GPS s podporou GPX
    - Lepší styly map pro různé činnosti
    - Stínování kopců a 3D terén

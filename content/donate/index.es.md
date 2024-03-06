@@ -45,7 +45,6 @@ Haz clic en el icono del método de pago que prefieras:
    rápidamente, por ejemplo:
    - Actualizaciones semanales y automatizadas de los mapas
    - Copia y sincronización de marcadores
-   - Android Auto
    - Grabadora GPS con compatibilidad para GPX
    - Mejores estilos cartográficos para diferentes actividades
    - Sombreado de colinas y terreno 3D

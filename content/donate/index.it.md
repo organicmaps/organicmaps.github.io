@@ -50,7 +50,6 @@ In terzo luogo, ci sono molte altre cose interessanti da fare:
 - Migliorare gli stili delle mappe e migliorare le carte topografiche
 - Migliorare l'editor di OpenStreetMap
 - Migliorare la ricerca, il percorso e la navigazione offline
-- Android Auto
 - Trasporto pubblico
 - ... e molte altre funzioni che desiderate e amate
 

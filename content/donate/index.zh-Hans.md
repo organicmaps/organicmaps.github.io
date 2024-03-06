@@ -32,7 +32,6 @@ Click on your preferred payment method icon below:
 3. 有了充足的资金，我们就可以更快开发新功能，例如：
    - 每周和自动更新地图数据
    - 书签备份和同步
-   - Android Auto
    - 支持GPX的GPS轨迹记录器
    - 为不同的活动提供更好的地图风格
    - 山体着色和三维地形

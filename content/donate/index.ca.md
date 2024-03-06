@@ -44,7 +44,6 @@ Feu clic a la icona de pagament preferit:
    noves, com ara:
    - Actualitzacions setmanals i automatitzades dels mapes
    - Còpia de seguretat i sincronització dels llocs d’interès
-   - Android Auto
    - Gravadora GPS amb compatibilitat per a GPX
    - Millors estils cartogràfics per a diferents activitats
    - Ombreig de pujols i terreny 3D

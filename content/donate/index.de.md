@@ -45,7 +45,6 @@ Klicke unten auf das Symbol einer bevorzugten Zahlungsmethode:
    Beispiel:
    - Wöchentliche und automatische Aktualisierung der Kartendaten
    - Sicherung und Synchronisierung von Lesezeichen
-   - Android Auto
    - GPS-Kursaufzeichnung mit GPX-Unterstützung
    - Bessere Kartenstile für verschiedene Aktivitäten
    - Hügelschattierung und 3D-Gelände

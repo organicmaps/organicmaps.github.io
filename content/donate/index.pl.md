@@ -44,7 +44,6 @@ Kliknij ikonę preferowanej metody płatności poniżej:
    nowe funkcje:
    - Cotygodniowe i automatyczne aktualizacje danych mapowych
    - Kopia zapasowa i synchronizacja zakładek
-   - Android Auto
    - Rejestrator śladów GPS z obsługą GPX
    - Lepsze style map dla różnych działań
    - Cieniowanie wzgórz i teren 3D

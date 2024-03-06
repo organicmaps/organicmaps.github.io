@@ -43,7 +43,6 @@ Klik ikon metode pembayaran yang diinginkan di bawah ini:
    misalnya:
    - Pembaruan data peta mingguan dan otomatis
    - Pencadangan dan sinkronisasi penanda
-   - Android Auto
    - Perekam trek GPS dengan dukungan GPX
    - Gaya peta yang lebih baik untuk aktivitas yang berbeda
    - Bayangan bukit dan medan 3D

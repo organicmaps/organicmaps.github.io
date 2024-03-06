@@ -44,7 +44,6 @@ Clique no método preferido de pagamento abaixo:
    rapidamente, por exemplo:
    - Atualizações semanais e automatizadas dos dados do mapa
    - Backup e sincronização de marcadores
-   - Android Auto
    - Gravador de trilhas GPS com suporte a GPX
    - Melhores estilos de mapas para diferentes atividades
    - Relevo e terreno 3D

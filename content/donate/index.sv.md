@@ -44,7 +44,6 @@ Klicka på en ikon för önskad betalningsmetod nedan:
    exempel:
    - Automatiska uppdateringar av kartdata varje vecka
    - Säkerhetskopiering och synkronisering av bokmärken
-   - Android Auto
    - Inspelning av GPS-spår med GPX-stöd
    - Bättre versioner av kartan för olika aktiviteter
    - Skuggning av kullar och berg samt 3D-terräng

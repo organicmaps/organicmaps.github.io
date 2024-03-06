@@ -42,7 +42,6 @@ Klik op u voorkeurbetaalmetode-ikoon hier onder:
 3. Met genoeg geld kan nuwe funksies vinniger ontwikkel word, soos:
    - Weeklikse en geoutomatiseerde kaartdatabywerkings
    - Boekmerkrugsteun en -sinchronisering
-   - Android Auto
    - GPS-padopnemer met GPX ondersteuning
    - Beter kaartenstyle vir verskillende aktiwiteite
    - Reliëfskaduwees en 3D-terreine

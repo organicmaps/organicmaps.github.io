@@ -44,7 +44,6 @@ Click on your preferred payment method icon below:
    adibidez:
    - Mapa datu eguneraketa automatikoak astero
    - Gogoko puntuen segurtasun kopia eta sinkronizazioa
-   - Android Auto
    - GPS ibilbide grabatzailea GPX formatuarekin
    - Aktibitate mota bakoitzerako mapa estilo hobeak
    - Mendi magalen itzalak eta 3D-ko lurra

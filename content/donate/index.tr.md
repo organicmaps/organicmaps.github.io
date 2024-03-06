@@ -35,7 +35,6 @@ Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizd
 3. Yeterli para ile yeni özellikler daha hızlı geliştirilebilir, örneğin:
    - Haftalık ve otomatik harita güncellemeleri
    - Yer imleri yedekleme ve senkronizasyon
-   - Android Auto desteği
    - GPX desteği sunan bir GPS kaydedici
    - Farklı etkinlikler için daha iyi harita stilleri
    - Tepe gölgeleri ve 3B arazi görünümü

@@ -35,7 +35,6 @@ L'application Organic Maps est _gratuite pour tout le monde_ grâce à vos **[do
 3. Avec suffisamment d'argent, de nouvelles fonctionnalités peuvent être développées plus rapidement, par exemple :
    - Mises à jour hebdomadaires et automatisées des données cartographiques.
    - Sauvegarde et synchronisation des signets
-   - Android Auto
    - Enregistreur de trace GPS avec support GPX
    - De meilleurs styles de cartes pour différentes activités
    - Ombrage des collines et terrain en 3D

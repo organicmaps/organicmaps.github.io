@@ -38,7 +38,6 @@ Click on your preferred payment method icon below:
    AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
 3. With enough money, new features can be developed. To name a few:
    - Backup and sync bookmarks and tracks
-   - Android Auto is already [in beta](@/news/2023-12-23/281/index.md)
    - GPS track recorder with GPX export
    - Satellite imagery
    - Public Transport

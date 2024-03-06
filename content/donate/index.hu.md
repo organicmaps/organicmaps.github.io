@@ -45,7 +45,6 @@ Click on your preferred payment method icon below:
    mint például:
    - Heti és automatikus térképadat-frissítések
    - Könyvjelzők mentése és szinkronizálása
-   - Android Auto
    - GPS nyomvonal felvevő GPX támogatással
    - Jobb térképrétegek a különböző tevékenységekhez
    - Magassági árnyékolás és 3D terep
