@@ -124,6 +124,7 @@ License 2.0-t használja.
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit] és [LinkedIn][LinkedIn]
   szolgáltatásokon.
+- Csatlakozz fordítói közösségekhez: [Magyar fordítók Matrix szobája](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29
 
