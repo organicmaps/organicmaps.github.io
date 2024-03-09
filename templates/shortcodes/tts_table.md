@@ -1,5 +1,5 @@
 
-{{ trans(key='language', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
+{{ trans(key='language-word', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
 :------------------|:----------------------------------------------------------
 Afrikaans          | &emsp; eSpeak
 Albanian           | &emsp; RHVoice, eSpeak
