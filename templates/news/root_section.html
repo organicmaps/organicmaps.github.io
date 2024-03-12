@@ -30,10 +30,12 @@
 {# Display wide images below the text instead of to the right. #}
 {% set_global noflex = '' %}
 {% for photo in page.assets %}
-  {% set meta = get_image_metadata(path=photo) %}
-  {% if meta.width > meta.height %}
-    {% set_global noflex = '_noflex' %}
-    {% break %}
+  {% if photo is not ending_with(".mp4") %}
+    {% set meta = get_image_metadata(path=photo) %}
+    {% if meta.width > meta.height %}
+      {% set_global noflex = '_noflex' %}
+      {% break %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 <div class="news_content_image{{ noflex }}">
@@ -43,8 +45,10 @@
 
 <span class="news_images">
 {% for photo in page.assets | sort %}
-{% set meta = get_image_metadata(path=photo) %}
+  {% if photo is not ending_with(".mp4") %}
+    {% set meta = get_image_metadata(path=photo) %}
 <img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
+  {% endif %}
 {% endfor %}
 </span>
 

@@ -118,8 +118,10 @@ function parseHtml(html) {
   let prevDate;
   messages.forEach(m => {
     let photos = m.querySelectorAll('.tgme_widget_message_photo_wrap');
+    let videos = m.querySelectorAll('video');
     let text = m.querySelector('.tgme_widget_message_text');
-    let date = m.querySelector('time').getAttribute('datetime');
+    // Video files contain time tag with video length. Filter it out.
+    let date = m.querySelectorAll('time').filter(el => el.hasAttribute('datetime'))[0].getAttribute('datetime');
     const id = m.getAttribute('data-post').split('/').pop();
 
     const yyyyMMdd = date.substring(0, 10);
@@ -150,6 +152,22 @@ function parseHtml(html) {
         }
       } else {
         downloads.push(downloadAsync(photo, `${dir}/${fileName}`));
+      }
+    }
+
+    // Each message may have 0 or more videos.
+    for (let i = 1; i <= videos.length; ++i) {
+      let videoUrl = videos[i - 1].getAttribute('src');
+      let fileName = new URL(videoUrl).pathname.split('/').pop();
+      // Handle special cases when video is published as a separate message immediately after
+      // the main text message (Telegram has 1024/2048 chars limit for media post's caption).
+      if (!text && prevDate && (new Date(date) - new Date(prevDate)) <= kPostsDiffInMs) {
+        // Do not download if video already exist.
+        if (!fs.existsSync(`${prevDir}/${fileName}`)) {
+          downloads.push(downloadAsync(videoUrl, `${prevDir}/${fileName}`));
+        }
+      } else {
+        downloads.push(downloadAsync(videoUrl, `${dir}/${fileName}`));
       }
     }
 
