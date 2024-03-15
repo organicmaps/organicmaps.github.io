@@ -1,6 +1,6 @@
 ---
 title: Domande frequenti
-description: Questa sezione contiene le risposte a molte domande sull'applicazione Organic Maps, sui nostri collaboratori e sul nostro progetto
+description: "Questa sezione contiene le risposte a molte domande sull'applicazione Organic Maps, sui nostri collaboratori e sul nostro progetto"
 extra:
   menu_title: Domande frequenti
 ---
