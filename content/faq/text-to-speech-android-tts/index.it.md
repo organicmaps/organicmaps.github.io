@@ -1,6 +1,7 @@
 ---
 title: Text-to-Speech su Android
 description: Guida su come far funzionare il TTS su Android
+slug: text-to-speech-su-android
 
 taxonomies:
   faq: ["Voice Directions"]
@@ -15,7 +16,7 @@ Organic Maps utilizza il motore text-to-speech (TTS) del sistema per le istruzio
 
 La raccomandazione ufficiale di Organic Maps è [RHVoice](https://rhvoice.org/), un motore vocale gratuito ed open source che può essere scaricato da [Google Play Store](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) e [F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/).
 
-## Istruizoni
+## Istruzioni
 
 - Aprire l'applicazione Impostazioni sul dispositivo Android.
 - Selezionare Impostazioni aggiuntive, quindi selezionare Accessibilità.
@@ -27,7 +28,7 @@ P.S.: Tenete presente che questi passaggi variano a seconda della marca del tele
 
 Le suddette opzioni potrebbero non essere presenti se sul dispositivo non è già installato un software TTS. Fare riferimento alla tabella seguente per installare uno dei TTS che supporta la propria lingua madre.
 
-## Screenshots
+## Schermate
 
 |             |             |             |
 | ----------- | ----------- | ----------- |
@@ -47,7 +48,7 @@ Se hai problemi ad inizializzare il motore TTS di RHVoice su LineageOS o altre R
 2. Impostarlo come motore TTS di sistema preferito
     - Aprire le **Impostazioni** principali di LineageOS.
     - Scorrere fino a **Accessibilità**.
-    - Selezionare **text-to-speech output** e **Preferred engine** (lato sinistro) e assicurarsi che sia selezionato **eSpeak**.
+    - Selezionare **text-to-speech output** e **Motore preferito** (lato sinistro) e assicurarsi che sia selezionato **eSpeak**.
 3. Tornare indietro e premere **play** per vedere se funziona.
 4. Installare [RHVoice](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/) disponibile su F-droid.
     - Aprirlo, selezionare la lingua che si desidera utilizzare, toccare l'icona della nuvola (all'estrema sinistra) per scaricare le voci.
