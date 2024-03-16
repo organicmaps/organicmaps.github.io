@@ -4,3 +4,4 @@ node_modules
 public
 translations.yaml
 .idea/*
+.vscode/settings.json
