@@ -7,8 +7,6 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Merry Christmas 🎅 and Organic New Year!
-
 Organic Maps app is _free for everyone_ thanks to your **[donations in EUR][stripe]** or **[in USD][stripe_usd]**:
 
 - No ads
