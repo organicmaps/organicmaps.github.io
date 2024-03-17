@@ -2,6 +2,8 @@
 title: "If you missed it, the February 2024 Organic Maps update is already available in Google Play, Huawei AppGallery, and AppStore."
 date: 2024-02-14T22:19:01+00:00
 slug: "february-2024-organic-maps-update-is-already-available-in-google-play-huawei-appgallery-and-appstore"
+taxonomies:
+  news: ["Releases"]
 ---
 
 If you missed it, the February 2024 Organic Maps update is already available in [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps), [Huawei AppGallery](https://appgallery.huawei.com/#/app/C104325611), and [AppStore](https://apps.apple.com/app/organic-maps/id1567437057).

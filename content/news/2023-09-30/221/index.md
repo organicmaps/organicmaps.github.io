@@ -2,6 +2,8 @@
 title: "Organic Crowdfunding and the September update"
 date: 2023-09-30T22:50:03+00:00
 slug: "organic-maps-crowdfunding-and-september-update"
+taxonomies:
+  news: ["Releases"]
 ---
 
 A short announcement before the details about the September Organic Maps release.

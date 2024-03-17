@@ -2,6 +2,8 @@
 title: "A new version 2021-05-08 is availiable for iOS and Android."
 date: 2021-05-09T08:00:03+00:00
 slug: "a-new-version-is-availiable-for-ios-and-android"
+taxonomies:
+  news: ["Releases"]
 ---
 
 A new version 2021-05-08 is availiable for iOS and Android.

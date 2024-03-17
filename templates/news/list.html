@@ -1,19 +1,12 @@
+{# Taxonomy template to render /news/ #}
 {% extends 'base.html' %}
-
-{% block meta %}
-{# TODO: For translated pages the following code generates: Function call 'get_section' failed, Section `` not found  #}
-{# set latestStr = resource.subsections | sort | last #}
-{# set latestSection = get_section(path=latestStr) #}
-{# set latestPage = latestSection.pages | first #}
-{% set latestPage = section.pages | first %}
-<!-- <meta property="article:published_time" content="{# latestPage.date #}"> -->
-{% endblock meta %}
 
 {% block content %}
 
 <h1>{{ resource.title }}</h1>
+
 {# Iterate and use en sections by default and use localized versions only if they are present #}
-{% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
+{% set enNewsSectionTranslation = resource.translations | filter(attribute='lang', value='en') | first %}
 {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
 {% for sectionStr in enNewsSection.subsections | sort | reverse %}
@@ -24,7 +17,7 @@
   {% set page = get_page(path=translatedPage.path) %}
 {% endif %}
 
-<section{% if page.translations | length <= 1 %} dir="auto"{% endif %}>
+<section{% if page.translations | length <= 1 %} dir="auto"{% endif %} class="{% for taxonomy, terms in page.taxonomies %}{% for term in terms%}{{ term }} {% endfor %}{% else %}News{% endfor %}">
 
 <div class="news_date">&nbsp;<a href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
 {# Display wide images below the text instead of to the right. #}
