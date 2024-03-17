@@ -4,6 +4,5 @@ extra:
   menu_title: Nuus
 page_template: news/page.html
 sort_by: date
-template: news/root_section.html
 title: "Organic Maps: Jongste nuus en bywerkings van ons span"
 ---

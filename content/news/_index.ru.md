@@ -1,7 +1,6 @@
 ---
 title: "Organic Maps: Свежие новости и обновления от нашей команды"
 description: Оставайтесь в курсе последних обновлений и новостей от нашей команды
-template: news/root_section.html
 page_template: news/page.html
 sort_by: date
 extra:

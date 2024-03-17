@@ -2,6 +2,8 @@
 title: "A new April update of Organic Maps is live in all stores"
 date: 2022-05-02T06:38:52+00:00
 slug: "a-new-april-update-of-organic-maps-is-live-in-all-stores"
+taxonomies:
+  news: ["Releases"]
 ---
 
 A new April update of Organic Maps is live in all stores!

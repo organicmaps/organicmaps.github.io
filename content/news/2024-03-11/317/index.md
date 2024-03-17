@@ -2,6 +2,8 @@
 title: "Now everyone can back up or share all bookmarks and imported tracks as one KMZ file with just one click"
 date: 2024-03-11T18:18:56+00:00
 slug: "now-everyone-can-back-up-or-share-all-bookmarks-and-imported-tracks-as-one-kmz-file-with-just-one-click"
+taxonomies:
+  news: ["Releases"]
 ---
 
 Now everyone can back up or share all bookmarks and imported tracks as one KMZ file with just one click! And then import everything back from the same file.

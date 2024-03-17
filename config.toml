@@ -17,6 +17,7 @@ ignored_content = [".DS_Store"]
 
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 
 [markdown]
@@ -52,6 +53,7 @@ token = "Token"
 [languages.af]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.af.translations]
 address = "Adres"
@@ -69,6 +71,7 @@ token = "Teken"
 [languages.ar]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.ar.translations]
 address = "العنوان"
@@ -86,6 +89,7 @@ token = "رمز"
 [languages.ca]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.ca.translations]
 address = "Adreça"
@@ -103,6 +107,7 @@ token = "Testimoni"
 [languages.cs]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.cs.translations]
 address = "Adresa"
@@ -120,6 +125,7 @@ token = "Token"
 [languages.de]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.de.translations]
 address = "Adresse"
@@ -137,6 +143,7 @@ token = "Token"
 [languages.es]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.es.translations]
 address = "Dirección"
@@ -157,6 +164,7 @@ token = "Ficha"
 [languages.eu]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.eu.translations]
 address = "Helbidea"
@@ -174,6 +182,7 @@ token = "token"
 [languages.fr]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.fr.translations]
 address = "Addresse"
@@ -191,6 +200,7 @@ token = "Jeton"
 [languages.hi]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.hi.translations]
 address = "पता"
@@ -208,6 +218,7 @@ token = "टोकन/Token"
 [languages.hu]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.hu.translations]
 address = "Cím"
@@ -225,6 +236,7 @@ token = "Token"
 [languages.id]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.id.translations]
 address = "Alamat"
@@ -242,6 +254,7 @@ token = "Token"
 [languages.it]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.it.translations]
 address = "Indirizzi"
@@ -262,6 +275,7 @@ token = "Token"
 [languages.mr]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.mr.translations]
 address = "पत्ता"
@@ -279,6 +293,7 @@ token = "Token"
 [languages.nl]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.nl.translations]
 address = "Adres"
@@ -296,6 +311,7 @@ token = "Token"
 [languages.oc]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.oc.translations]
 address = "Address"
@@ -313,6 +329,7 @@ token = "geton"
 [languages.pl]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.pl.translations]
 address = "Adres"
@@ -330,6 +347,7 @@ token = "Token"
 [languages.pt-BR]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.pt-BR.translations]
 address = "Endereço"
@@ -347,6 +365,7 @@ token = "Token"
 [languages.ru]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.ru.translations]
 address = "Адрес"
@@ -367,6 +386,7 @@ token = "Токен"
 [languages.sv]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.sv.translations]
 address = "Adress"
@@ -384,6 +404,7 @@ token = "Token"
 [languages.tr]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.tr.translations]
 address = "Adres"
@@ -401,6 +422,7 @@ token = "Token"
 [languages.uk]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.uk.translations]
 address = "Адреса"
@@ -418,6 +440,7 @@ token = "Токен"
 [languages.zh-CN]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.zh-CN.translations]
 address = "地址"
@@ -435,6 +458,7 @@ token = "令牌"
 [languages.zh-Hans]
 taxonomies = [
   {name = "faq", feed = false},
+  {name = "news", feed = true},
 ]
 [languages.zh-Hans.translations]
 address = "地址"
