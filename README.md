@@ -25,6 +25,16 @@ Every merge into the _master_ branch deploys changes into the production at http
 Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/OrganicMapsApp),
 then create a git commit and push it.
 
+An example of a news post that is related to app updates/releases:
+
+```yaml
+title: "OpenStreetMap login was fixed in Google Play"
+date: 2024-03-18T17:45:35+00:00
+slug: "openstreetmap-login-was-fixed-in-google-play"
+taxonomies:
+  news: ["Releases"]
+```
+
 ## Taxonomy and F.A.Q. architecture
 
 Each MD page in `/faq/` has one or more taxonomy defined in header. E.g.:
