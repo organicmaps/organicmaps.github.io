@@ -43,7 +43,7 @@ main {
 }
 
 img {
-  max-width: 90%;
+  max-width: 100%;
 }
 
 img[alt="logo"] {
@@ -234,8 +234,6 @@ footer {
 
 .news_image_landscape {
   max-height: 520px;
-  max-width: 500px;
-  margin-left: 0.5rem;
   display: inline-block;
   vertical-align: top;
   width: auto;
