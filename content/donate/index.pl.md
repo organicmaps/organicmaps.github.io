@@ -8,7 +8,7 @@ weight: 10
 ---
 
 Aplikacja Organic Maps jest _darmowa dla wszystkich_ dzięki Waszym
-**[donacjom][stripe]**:
+**[donacjom][stripe]**, **[🇵🇱 zł PLN][stripe_pln]**, **[🇪🇺 € Euro][stripe_eur]**, **[🇺🇸 $ USD][stripe_usd]**:
 
 - Brak reklam
 - Brak mechanizmów śledzących
@@ -81,3 +81,5 @@ znajdziesz na stronie [Wesprzyj nas](@/support-us/index.pl.md).
 
 [stripe]: https://donate.organicmaps.app/ "Wesprzyj przez Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "Problemy na GitHub"
+
+{{ references() }}

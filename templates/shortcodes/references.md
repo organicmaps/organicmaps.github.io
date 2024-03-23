@@ -31,11 +31,12 @@
 [reddit]: https://www.reddit.com/r/organicmaps/
 [repology]: https://repology.org/project/organicmaps/versions
 [stripe]: https://donate.organicmaps.app/ "Donate"
-[stripe_eur]: https://donate.organicmaps.app/?currency=eur "Donate in EUR"
-[stripe_usd]: https://donate.organicmaps.app/?currency=usd "Donate in USD"
 [stripe_chf]: https://donate.organicmaps.app/?currency=chf "Donate in CHF"
+[stripe_eur]: https://donate.organicmaps.app/?currency=eur "Donate in EUR"
 [stripe_gbp]: https://donate.organicmaps.app/?currency=gbp "Donate in GBP"
-[stripe_uah]: https://donate.organicmaps.app/?currency=uah "Donate in UAH"
+[stripe_pln]: https://donate.organicmaps.app/?currency=pln "Przekaż złotówki"
+[stripe_uah]: https://donate.organicmaps.app/?currency=uah "Пожертвуйте в гривнях"
+[stripe_usd]: https://donate.organicmaps.app/?currency=usd "Donate in USD"
 [telegram]: https://t.me/OrganicMapsApp
 [telegram_chat]: https://t.me/OrganicMaps
 [telegram_chat_ru]: https://t.me/OrganicMapsRu
