@@ -7,12 +7,13 @@
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
 [trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
 [facebook]: https://facebook.com/OrganicMaps
-[fdroid]: https://f-droid.org/{{ lang | truncate(length=2) }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
+[fdroid]: https://f-droid.org/{{ lang | truncate(length=2, end="") }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
 [firebase]: https://appdistribution.firebase.dev/i/2f0fee463107b137
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
 [FOSStodon]: https://fosstodon.org/@organicmaps "FOSStodon"
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
 [googleplay_review]: market://details?id=app.organicmaps
 [gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
@@ -29,6 +30,12 @@
 [public_transport_validator]: https://cdn.organicmaps.app/subway/
 [reddit]: https://www.reddit.com/r/organicmaps/
 [repology]: https://repology.org/project/organicmaps/versions
+[stripe]: https://donate.organicmaps.app/ "Donate"
+[stripe_eur]: https://donate.organicmaps.app/?currency=eur "Donate in EUR"
+[stripe_usd]: https://donate.organicmaps.app/?currency=usd "Donate in USD"
+[stripe_chf]: https://donate.organicmaps.app/?currency=chf "Donate in CHF"
+[stripe_gbp]: https://donate.organicmaps.app/?currency=gbp "Donate in GBP"
+[stripe_uah]: https://donate.organicmaps.app/?currency=uah "Donate in UAH"
 [telegram]: https://t.me/OrganicMapsApp
 [telegram_chat]: https://t.me/OrganicMaps
 [telegram_chat_ru]: https://t.me/OrganicMapsRu

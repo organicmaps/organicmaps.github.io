@@ -72,10 +72,4 @@ Please consider donating annually to reduce total fees.
 Yes! There are many ways to support Organic Maps. Please see
 [Support Us](@/support-us/index.md) page for more details.
 
-[stripe]: https://donate.organicmaps.app/ "Donate"
-[stripe_eur]: https://donate.organicmaps.app/?currency=eur "Donate in EUR"
-[stripe_usd]: https://donate.organicmaps.app/?currency=usd "Donate in USD"
-[stripe_chf]: https://donate.organicmaps.app/?currency=chf "Donate in CHF"
-[stripe_gbp]: https://donate.organicmaps.app/?currency=gbp "Donate in GBP"
-[stripe_uah]: https://donate.organicmaps.app/?currency=uah "Donate in UAH"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+{{ references() }}

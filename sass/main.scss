@@ -23,13 +23,28 @@ body {
 }
 
 code {
-  color: red;
+  font-family: monospace;
+  font-size: smaller;
 }
 
 code,
 a {
   // Prevents horizontal scrolling in Safari on narrow screen for long links and code lines.
   word-wrap: anywhere;
+}
+
+p > code, li > code, dd > code, td > code {
+  background: #dddddd;
+  word-wrap: break-word;
+  box-decoration-break: clone;
+  padding: .1rem .3rem .2rem;
+  border-radius: .2rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  p > code, li > code, dd > code, td > code {
+    background: #333330;
+  }
 }
 
 header {
@@ -114,6 +129,10 @@ h3 {
 
 p {
   margin: 0 0 16px;
+}
+
+ul {
+  padding-left: 20px;
 }
 
 footer {

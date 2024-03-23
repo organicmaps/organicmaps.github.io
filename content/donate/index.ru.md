@@ -1,5 +1,5 @@
 ---
-title: Пожертвовать и финансово поддержать проект
+title: Пожертвовать и поддержать Organic Maps деньгами
 description: Помогите проекту финансово
 weight: 10
 extra:
@@ -7,9 +7,7 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Желаем органического нового года!
-
-Благодаря вашим **[пожертвованиям][stripe]**, **Organic Maps**:
+Благодаря вашим **[пожертвованиям][stripe]** в **[EUR][stripe_eur]**, **[USD][stripe_usd]**, **[GBP][stripe_GBP]**, **[CHF][stripe_chf]**, **Organic Maps**:
 
 - Бесплатны для всех;
 - Без рекламы;
@@ -65,12 +63,10 @@ Organic Maps существует исключительно благодаря 
   - [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
 - Сообщайте о проблемах и предлагайте новые идеи [на GitHub][issues] или [по почте][email];
 - Нарисуйте свой дом и район вокруг в [OpenStreetMap](https://openstreetmap.org);
-- Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки.
+- Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки;
 - Поучаствуйте в [разработке][contributing] приложения под Android и iOS;
-- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram].
+- Помогите нам с маркетингом, поддержкой пользователей, дизайном;
+- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram];
 - Расскажите своим друзьям и знакомым.
-
-[stripe]: https://donate.organicmaps.app/ "Donate via Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
 
 {{ references() }}
