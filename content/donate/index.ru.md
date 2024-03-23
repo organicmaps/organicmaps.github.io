@@ -7,7 +7,7 @@ extra:
   preview_image: donate/donate.png
 ---
 
-Благодаря вашим **[пожертвованиям][stripe]** в **[EUR][stripe_eur]**, **[USD][stripe_usd]**, **[GBP][stripe_GBP]**, **[CHF][stripe_chf]**, **Organic Maps**:
+Благодаря вашим **[пожертвованиям][stripe]** в **[RUB][stripe_rub]**, **[EUR][stripe_eur]**, **[USD][stripe_usd]**, **[GBP][stripe_GBP]**, **[CHF][stripe_chf]**, **Organic Maps**:
 
 - Бесплатны для всех;
 - Без рекламы;
@@ -68,5 +68,7 @@ Organic Maps существует исключительно благодаря 
 - Помогите нам с маркетингом, поддержкой пользователей, дизайном;
 - Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram];
 - Расскажите своим друзьям и знакомым.
+
+[stripe_rub]: https://donate.organicmaps.app/?currency=rub "Поддержать проект рублями"
 
 {{ references() }}
