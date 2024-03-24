@@ -27,9 +27,6 @@ external_links_target_blank = true
 [slugify]
 paths = "safe"
 
-[extra]
-stripe = "https://donate.organicmaps.app/"
-
 # Default English translation
 [translations]
 address = "Address"
