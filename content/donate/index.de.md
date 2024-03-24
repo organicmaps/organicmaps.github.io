@@ -7,8 +7,6 @@ title: "Spende, um die Entwicklung von Organic Maps zu unterstützen"
 weight: 10
 ---
 
-Frohe Weihnachten 🎅 und ein Organic neues Jahr!
-
 Organic Maps ist _kostenlos für alle_ dank deiner **[Spende][stripe]**:
 
 - Keine Werbung
