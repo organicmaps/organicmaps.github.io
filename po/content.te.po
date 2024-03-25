@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-25 16:30+0000\nLast-Translator: pinky08 <felixeunoia@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-26 05:53+0000\nLast-Translator: sai <phanindragvs2002@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -130,7 +130,7 @@ msgstr "మీ కళ్ళలను సంరక్షించడానిక�
 #: content/_index.md
 #, markdown-text
 msgid "Countries and regions don't take a lot of space"
-msgstr ""
+msgstr "దేశాలు, ప్రాంతాలు పెద్దగా స్టోరేజ్ తీసుకోవు"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -244,7 +244,7 @@ msgstr "ఈ అప్లికేషన్ [ఎక్సోడస్ ప్ర�
 #: content/_index.md
 #, markdown-text
 msgid "{{ exodus_screenshot() }}"
-msgstr ""
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -256,7 +256,7 @@ msgstr "iOS అనువర్తనం [TrackerControl for iOS][trackercontrol]
 #: content/_index.md
 #, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -268,7 +268,7 @@ msgstr "ఆర్గానిక్ మప్స్ మీ మొయిద న�
 #: content/_index.md
 #, markdown-text
 msgid "{{ privacy_screenshots() }}"
-msgstr ""
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -304,7 +304,7 @@ msgstr "పరివీక్షణను తిరస్కరించండ�
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr ""
+msgstr "**[ఆర్గానిక్ మ్యాప్స్ ని ఒకసారి ప్రయత్నించండి!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
@@ -316,19 +316,19 @@ msgstr "మరి ఈ ఉచిత అనువర్తనానికి ఎ�
 #: content/_index.md
 #, markdown-text
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "ఈ అనువర్తనం ప్రతిఒక్కరికీ ఉచితంగా ఉంది. మమల్ని తోడ్పడేందుకు (@/donate/index.md) విరాళం ఇవ్వండి!"
+msgstr "ఈ అనువర్తనం అందరికీ ఉచితం. మాకు తోడ్పడేందుకు [విరాళం] (@/donate/index.md) ఇవ్వండి!"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr "సులభంగా విరాళం ఇచ్చేందుకు, మీ నచ్చిన చెల్లింపు విధానం యొక్క ఐకాన్ పై క్లిక్ చేయండి:"
+msgstr "సులభంగా విరాళం ఇచ్చేందుకు, మీకు నచ్చిన చెల్లింపు విధానం యొక్క ఐకాన్ పై నొక్కండి:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "{{ donate_buttons() }}"
-msgstr ""
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -340,7 +340,7 @@ msgstr "మా స్పాన్సర్లు:"
 #: content/_index.md
 #, markdown-text
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr ""
+msgstr "[మైతిక్ బీస్ట్స్](https://www.mythic-beasts.com/) ఇంటర్నెట్ సర్వీస్ ప్రొవైడర్స్ మా వినియోగదార్లకు మ్యాప్ డౌన్లోడ్లు, అప్డేట్లు కోసం రెండు సెర్వర్లలో నెలకి నాలుగు వందల టెరాబైట్ల వరకు బ్యాండ్విడ్త్ ఉచితంగా [ఇస్తున్నారు][mythic_beasts_donation]."
 
 #. type: Title ##
 #: content/_index.md
@@ -352,91 +352,91 @@ msgstr "సంఘం"
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్, అపాచీ లైసెన్స్ 2.0 గల ఒక [స్వేచ్ఛామూలాలు][github] సాఫ్ట్‌వేర్."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr ""
+msgstr "మా బీటా ప్రోగ్రామ్ లో చేరి, మీ సూచనలు, తప్పులను నివేదించండి:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
-msgstr ""
+msgstr "[ఐఓయస్ (టెస్ట్ ఫ్లైట్)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[Android Beta (Firebase)][firebase]"
-msgstr ""
+msgstr "[ఆండ్రాయిడ్ బీటా (ఫైర్బేస్)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
-msgstr ""
+msgstr "[లీనక్స్ డెస్కటాప్ బీటా (ఫ్లాట్పాక్)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
 msgid "[Linux Desktop Beta (packages)][repology]"
-msgstr ""
+msgstr "[లీనక్స్ డెస్కటాప్ బీటా (పాకేజీలు)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
+msgstr "బగ్ లు, లేదా సమస్యలను మాకు [ఇస్స్యూ ట్రాకర్][issues] లేదా [ఈ-మెయిల్][email] ద్వారా తెలియజెయ్యండి."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr ""
+msgstr "కొత్త అలోచనలు [చర్చించండి][ideas], ఫీచర్లు ప్రతిపాదించండి."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr ""
+msgstr "వార్తల కొరకు మా [టెలీగ్రామ్ చానెల్][telegram] లేదా [మ్యాట్రిక్స్ స్పేస్][matrix] కి సబ్ స్క్రైబ్ అవ్వండి."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr ""
+msgstr "ఇతర వినియోగదారులతో చర్చించడానికి మా [టెలీగ్రామ్ సమూహం][telegram_chat]లో చేరండి."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Visit our [GitHub page][github]."
-msgstr ""
+msgstr "మా [గిట్ హబ్ పేజీ][github]ని సందర్సించండి."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr ""
+msgstr "[ఫోస్టోడాన్][fosstodon], [మాస్టోడాన్][mastodon], [ఫేస్‌బుక్][facebook], [ట్విట్టర్][twitter], [ఇన్‌స్టాగ్రామ్][instagram], [రెడ్డిట్][reddit], [లింకిడిన్][LinkedIn] లో మమ్మల్ని ఫాలో అవ్వండి."
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr ""
+msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 #, markdown-text
 msgid "{{ references() }}"
-msgstr ""
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
-msgstr ""
+msgstr "మీ విరాళాలు ప్రాజెక్ట్ సంబంధిత అన్ని ఖర్చులకు ఉపయోగపడుతాయి. ఇంకా ఆర్గానిక్ మ్యాప్స్ ని మెరుగుపరచడానికి మమ్మల్ని ప్రొత్సహిస్తాయి."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
@@ -448,25 +448,25 @@ msgstr "దానం"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of Organic Maps"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్ అభివృద్ధికి తోడ్పడటానికి విరాళం ఇవ్వండి"
 
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
 msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్ యాప్ _అందరికీ ఉచితం_. ఇది కేవలం మీ **[విరాళాల][stripe]** వలనే సాధ్యం:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 #, markdown-text
 msgid "No trackers"
-msgstr ""
+msgstr "ట్రాకర్స్ లేవు"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 #, markdown-text
 msgid "No registration"
-msgstr ""
+msgstr "నమోదు చేసుకోనవసరంలేదు"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -478,13 +478,13 @@ msgstr "ఓపెన్ సోర్స్"
 #: content/donate/index.md
 #, markdown-text
 msgid "Click on your preferred payment method icon below:"
-msgstr ""
+msgstr "కింద మీకు నచ్చిన చెల్లింపు పద్ధతి చిహ్నంపై క్లిక్ చేయండి:"
 
 #. type: Title ##
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Why donate to Organic Maps?"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్ కి ఎందుకు విరాళం ఇవ్వాలి?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -508,7 +508,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "What will the money be used for?"
-msgstr ""
+msgstr "ఈ డబ్బును దేనికి ఉపయోగిస్తారు?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -544,7 +544,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "Android Auto"
-msgstr ""
+msgstr "ఆండ్రోయిడ్ ఆటో"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -592,7 +592,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "How to donate?"
-msgstr ""
+msgstr "విరాళం ఎలా ఇవ్వాలి?"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -610,13 +610,13 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "{{ bank_transfer() }}"
-msgstr ""
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Crypto"
-msgstr ""
+msgstr "క్రిప్టో"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -626,15 +626,15 @@ msgstr ""
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "{{ crypto_table() }}"
-msgstr ""
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md
 #, markdown-text, no-wrap
 msgid "Can you help us in any other way?"
-msgstr ""
+msgstr "మీరు మాకు ఇంకే విధంగా అయినా సాహాయం చేయగలరా?"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -644,11 +644,11 @@ msgstr ""
 
 #. type: Plain text
 #: content/donate/index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
+msgstr "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -684,7 +684,7 @@ msgstr "అంతరంగికత"
 #: content/privacy/index.md
 #, no-wrap
 msgid "Organic Maps: Privacy Policy"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్: ప్రైవసీ పాలసీ"
 
 #. type: Plain text
 #: content/privacy/index.md
