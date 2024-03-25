@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-25 16:30+0000\nLast-Translator: sai <phanindragvs2002@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-03-25 16:30+0000\nLast-Translator: pinky08 <felixeunoia@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,21 +26,21 @@ msgstr "ఆర్గానిక్ మ్యాప్స్: ఆఫ్‌లై
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**సేంద్రీయ మ్యాప్స్** అనేది ప్రయాణికులు, పర్యాటకులు, హైకర్లు మరియు సైక్లిస్ట్‌ల కోసం ఒక ఉచిత Android & iOS ఆఫ్‌లైన్ మ్యాప్‌ల యాప్, ఇది క్రౌడ్ సోర్స్డ్ **[OpenStreetMap][openstreetmap]** డేటా ఆధారంగా ఉంటుంది. ఇది **Maps.me** యాప్ (గతంలో [**MapsWithMe**][mapswithme]గా పిలువబడేది) యొక్క గోప్యత-కేంద్రీకృత, ఓపెన్-సోర్స్ [ఫోర్క్], ** సృష్టించిన వారిచే నిర్వహించబడుతుంది. 2011లో MapsWithMe**\n"
+msgstr "**ఓర్గానిక్ మ్యాప్స్ ** అనేది ప్రయాణికులు, పర్యాటకులు, హైకర్లు మరియు సైక్లిస్ట్‌ల కోసం ఒక ఉచిత Android & iOS ఆఫ్‌లైన్ మ్యాప్‌ల యాప్. ఇది క్రౌడ్ సోర్స్డ్ **[OpenStreetMap][openstreetmap]** డేటా ఆధారంగా ఉంటుంది. **Maps.me** యాప్ (గతంలో [**MapsWithMe**][mapswithme]గా పిలువబడేది) గోప్యత-కేంద్రీకృత, ఓపెన్-సోర్స్ గా [ఫోర్క్]ఉంటూ,   2011లో **MapsWithMe** సృష్టించిన వారిచే నిర్వహించబడుతుంది.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "ప్రయాణికులు, పర్యాటకులు, డ్రైవర్లు, హైకర్లు మరియు సైక్లిస్ట్‌ల కోసం వేగవంతమైన వివరణాత్మక ఆఫ్‌లైన్ మ్యాప్‌లు, MapsWithMe (Maps.Me) యాప్ వ్యవస్థాపకుల నుండి.\n"
+msgstr "ఈరోజుల్లో  ఇంటర్నెట్ కనెక్షన్ లేకుండా 100% లక్షణాలను మద్దతు చేసే ఏకైక  అప్లికేషన్ ఒక్క  ఓర్గానిక్ మ్యాప్స్  మాత్రమే. ఓర్గానిక్ మ్యాప్స్ ఇన్స్టాల్ చేసి, మ్యాప్లను డౌన్‌లోడ్ చేస్కోని మీ సిమ్ కార్డును విసిరేయండి  ( మీ ఆపరేటర్ నిరంతరం మిమ్మల్ని ఎలానో  ట్రాక్ చేస్తుంది అనుకోండి ).ఇప్పుడు ఒక్క బైట్ కూడా నెట్వర్క్ కి పంపకుండా సింగల్ బాటరీ ఛార్జింగ్ తో  వారంపాటు విహారయాత్రకు  నిచ్చతింగా వెళ్లి రండి.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr ""
+msgstr "[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] నుండి ఓర్గానిక్ మ్యాప్స్ ను డౌన్‌లోడ్ చేసి ఇన్‌స్టాల్ చేయండి. {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -58,61 +58,61 @@ msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='హైకిం
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr ""
+msgstr "ప్రేగ్ పట్నం"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr ""
+msgstr "ఆఫ్లైన్ సెర్చ్"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr ""
+msgstr "డార్క్ మోడ్లో నావిగేషన్"
 
 #. type: Title ##
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr "Features"
+msgstr "ఫీచర్స్"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "పర్యాటకులకు, హైకర్లు మరియు సైకిలిస్టులకు క్రింది ఫీచర్ల చే  ఈ  \"ఓర్గానిక్ మ్యాప్స్\" అత్యంత మైత్రిగల యాప్ గా  మారింది:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr ""
+msgstr "ఇతర మ్యాప్‌లలో లేని ప్రాంతాలను వివరసమృద్ధ ఆఫ్‌లైన్ మ్యాప్‌లుగా అందిస్తుంది, [ఓపెన్‌స్ట్రీట్‌మ్యాప్]కు ధన్యవాదాలు."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Cycling routes, hiking trails, and walking paths"
-msgstr ""
+msgstr "సైక్లింగ్ దారులను, హైకింగ్ మార్గాలు, మరియు  నడిచే  త్రోవలను"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr ""
+msgstr "కౌంటర్ లైన్లు, ఎలివేషన్ ప్రొఫైల్లు, పర్వతాలు, మరియు పర్వత చోటులను చూపిస్తుంది."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr ""
+msgstr "ధ్వని మార్గదర్శన తో (వాయిస్ గైడెన్స్ )వాకింగ్, సైకిలింగ్, మరియు కారు నావిగేషన్   చేయండి"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Fast offline search on the map"
-msgstr ""
+msgstr "వేగవంతమైన ఆఫ్ లైన్ సెర్చ్ ."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -124,7 +124,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Dark Mode to protect your eyes"
-msgstr ""
+msgstr "మీ కళ్ళలను సంరక్షించడానికి డార్క్ మోడ్ ఆప్షన్ ఉంది."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -136,61 +136,61 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Free and open-source"
-msgstr ""
+msgstr "ఈ యాప్ పూర్తిగా  ఉచితం మరియు ఓపెన్-సోర్స్ ."
 
 #. type: Title ##
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Why Organic?"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాపులే ఎందుకు ?"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is pure and organic, made with love:"
-msgstr ""
+msgstr "\"ఆర్గానిక్ మ్యాప్స్\"స్వచ్ఛమైనది .ఇది ప్రేమతో తయారు చేయపడినది."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Respects your privacy"
-msgstr ""
+msgstr "మీ గోప్యతను గౌరవిస్తాది"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Saves your battery"
-msgstr ""
+msgstr "మీ బ్యాటరీని సేవ్ చేస్తుంది."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No unexpected mobile data charges"
-msgstr ""
+msgstr "అనవసరమైన డేటా చార్జీలు ఉండవు."
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr ""
+msgstr "\"ఆర్గానిక్ మ్యాప్స్\" యాప్ ట్రాకర్‌లు మరియు ఇతర దుష్ట పద్ధతులు  నుండి స్వేచ్ఛగా ఉంటాది."
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "ప్రకటనలు ఉండవు"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No tracking"
-msgstr ""
+msgstr "మిమ్మల్ని ట్రాక్ చేయదు"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No data collection"
-msgstr ""
+msgstr "డేటా సేకరణలు  ఉండవు"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -202,43 +202,43 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "No annoying registration"
-msgstr ""
+msgstr "అసహజమైన నమోదులు ఉండవు"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "అనివార్యమైన ట్యుటోరియల్లు ఉండవు"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No noisy email spam"
-msgstr ""
+msgstr "ఇమెయిలు స్పామ్  ఉండవు"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "పుష్ నోటిఫికేషన్లు లేవు"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No crapware"
-msgstr ""
+msgstr "అనవశ్యకమైన సాఫ్ట్‌వేర్ ఉండదు"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "ఇది పూర్తిగా  స్వచ్ఛమైనది !!"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "ఈ అప్లికేషన్ [ఎక్సోడస్ ప్రైవసీ ప్రాజెక్ట్][exodus] ద్వారా ధృవీకరించబడింది."
 
 #. type: Plain text
 #: content/_index.md
@@ -250,7 +250,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "iOS అనువర్తనం [TrackerControl for iOS][trackercontrol] ద్వారా ధృవీకరించబడింది."
 
 #. type: Plain text
 #: content/_index.md
@@ -262,7 +262,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr ""
+msgstr "ఆర్గానిక్ మప్స్ మీ మొయిద నిఘా ఉంచాడనికి అనవసరమైన అనుమతులు అడగదు"
 
 #. type: Plain text
 #: content/_index.md
@@ -274,31 +274,31 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
+msgstr "ఈ ఆర్గానిక్ మప్స్ లో , మేము మీ గోప్యతను ప్రాధమిక హక్కుగా భావిస్తాము ."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
+msgstr "ఆర్గానిక్ మ్యాప్స్ ఒక ఇండి కమ్యూనిటీ-నియోజిత ఓపెన్-సోర్స్ ప్రాజెక్ట్."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr ""
+msgstr "పెద్ద టెక్ సంస్థల కళ్ళు నుండి మీ గోప్యతను మేము రక్షిస్తాము."
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Stay safe no matter wherever you are"
-msgstr ""
+msgstr "మీరు ఎక్కడ ఉన్న సురక్షితంగా ఉండండి."
 
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 #, markdown-text
 msgid "Reject surveillance - embrace your freedom."
-msgstr ""
+msgstr "పరివీక్షణను తిరస్కరించండి - మీ స్వాత్రంత్యాన్ని స్వాగతించండి"
 
 #. type: Plain text
 #: content/_index.md
@@ -310,19 +310,19 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Who is paying for the free app?"
-msgstr ""
+msgstr "మరి ఈ ఉచిత అనువర్తనానికి ఎవరు చెల్లిస్తున్నారు?"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr ""
+msgstr "ఈ అనువర్తనం ప్రతిఒక్కరికీ ఉచితంగా ఉంది. మమల్ని తోడ్పడేందుకు (@/donate/index.md) విరాళం ఇవ్వండి!"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
+msgstr "సులభంగా విరాళం ఇచ్చేందుకు, మీ నచ్చిన చెల్లింపు విధానం యొక్క ఐకాన్ పై క్లిక్ చేయండి:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -334,7 +334,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr "Our sponsors"
+msgstr "మా స్పాన్సర్లు:"
 
 #. type: Plain text
 #: content/_index.md
