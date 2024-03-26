@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-03-28 08:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.17-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Malayalam <https://hosted.weblate.org/projects/organicmaps/website/ml/>\nLanguage: ml\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -466,7 +466,7 @@ msgstr ""
 #: content/donate/index.md
 #, markdown-text
 msgid "No registration"
-msgstr ""
+msgstr "നികുതി രജിസ്ട്രേഷൻ"
 
 #. type: Bullet: '- '
 #: content/donate/index.md

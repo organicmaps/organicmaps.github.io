@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Hindi <https://hosted.weblate.org/projects/organicmaps/website/hi/>\n"
-"Language: hi\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-18 18:00+0000\nLast-Translator: Abhinav Gupta <Abhinav.gupta@outlook.de>\nLanguage-Team: Hindi <https://hosted.weblate.org/projects/organicmaps/website/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -221,7 +212,7 @@ msgstr "यह ऐप [Exodus Privacy Project][exodus] द्वारा सत
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot() }}"
-msgstr "{{ exodus_screenshot() }}"
+msgstr "{{एक्सोडस _ स्क्रीनशॉट}}"
 
 #. type: Plain text
 #: content/_index.md
@@ -241,7 +232,7 @@ msgstr "ऑर्गेनिक नक़्शे आपकी जासूस
 #. type: Plain text
 #: content/_index.md
 msgid "{{ privacy_screenshots() }}"
-msgstr "{{ privacy_screenshots() }}"
+msgstr "{{गोपनीयता _ स्क्रीनशॉट्स ()}}"
 
 #. type: Plain text
 #: content/_index.md
@@ -293,7 +284,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons() }}"
-msgstr "{{ donate_buttons() }}"
+msgstr "{{दान बटन ()}}"
 
 #. type: Title ###
 #: content/_index.md
@@ -792,19 +783,12 @@ msgstr "ऑर्गेनिक मैप्स ऐप के लिए कॉ�
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy, no-wrap
-#| msgid ""
-#| "[github]: https://github.com/organicmaps/organicmaps\n"
-#| "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-#| "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+#, no-wrap
 msgid ""
 "[github]: https://github.com/organicmaps/organicmaps\n"
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
-msgstr ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
