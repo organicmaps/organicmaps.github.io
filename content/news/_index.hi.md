@@ -2,6 +2,7 @@
 description: "हमारी टीम के आधुनिकतम ऑर्गेनिक मानचित्र रिलीज़, समाचार, एवम अपडेट के संपर्क में रहें"
 extra:
   menu_title: समाचार
+template: news/list.html
 page_template: news/page.html
 sort_by: date
 title: "ऑर्गेनिक मैप्स: हमारी टीम से नवीनतम समाचार और अपडेट"
