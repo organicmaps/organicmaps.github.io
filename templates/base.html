@@ -11,7 +11,11 @@
 {%- set resource_path = resource.path %}
 {%- set resource_title = resource.name %}
 {%- elif taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
-{% set resource = taxonomy.name ~ "/_index.md" %}
+{% if lang == 'en' %}
+  {% set resource = taxonomy.name ~ "/_index.md" %}
+{% else %}
+  {% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
+{% endif %}
 {% set resource = get_section(path=resource) %}
 {%- set resource_title = resource.title %}
 {%- set resource_path = resource.path %}

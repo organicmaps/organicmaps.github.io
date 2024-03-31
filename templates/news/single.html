@@ -2,9 +2,13 @@
 {% extends 'base.html' %}
 
 {% block content %}
-  {# TODO: Localize titles #}
   {# TODO: Show articles tagged for the en language if they are missing for the other language #}
-  {% set rootNewsSection = get_section(path="news/_index.md") %}
+  {% if lang == 'en' %}
+    {% set rootNewsSection = "news/_index.md" %}
+  {% else %}
+    {% set rootNewsSection = "news/_index." ~ lang ~ ".md" %}
+  {% endif %}
+  {% set rootNewsSection = get_section(path=rootNewsSection) %}
   <h1>{{ rootNewsSection.title }}</h1>
   <h2>{{ term.name }}</h2>
   {%- for page in term.pages -%}
