@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/organicmaps/website/nl/>\n"
-"Language: nl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: AT <owje@protonmail.com>\nLanguage-Team: Dutch <https://hosted.weblate.org/projects/organicmaps/website/nl/>\nLanguage: nl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -234,12 +225,13 @@ msgstr "{{ exodus_screenshot() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "De iOS applicatie is geverifieerd door [TrackerControl voor iOS][trackercontrol]:"
 
 #. type: Plain text
 #: content/_index.md
+#, fuzzy
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -296,7 +288,7 @@ msgstr "De app is voor iedereen gratis. [Doneer](@/donate/index.nl.md) alstublie
 #. type: Plain text
 #: content/_index.md
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Om gemakkelijk te doneren, klik op het icoon van uw voorkeurs-betalingsmethode hieronder:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -437,7 +429,7 @@ msgstr "Open source"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Klik hieronder op het icoon van uw voorkeurs-betalingsmethode:"
 
 #. type: Title ##
 #: content/donate/index.md
@@ -448,12 +440,12 @@ msgstr "Waarom doneren aan Organic Maps?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps."
-msgstr ""
+msgstr "Ons doel is om een privacy-gefocust, snel en makkelijk te gebruiken alternatief voor Google Maps en Apple Maps te bieden."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal."
-msgstr ""
+msgstr "Publieke kaartendata verbeteren voor de verschillende websites, apps en platforms die OpenStreetMap gebruiken, en meer mensen betrokken krijgen bij het bijdragen aan kaartendata is ons andere doel."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -463,18 +455,18 @@ msgstr "We zijn op jullie donaties aangewezen om onze missie te volbrengen om Or
 #. type: Bullet: '4. '
 #: content/donate/index.md
 msgid "We love what we do, and we love our users ❤️."
-msgstr ""
+msgstr "We houden van wat we doen, en we houden van onze gebruikers ❤️."
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Why a free project needs money?"
-msgstr ""
+msgstr "Waarom heeft een gratis project geld nodig?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "In 2023, Organic Maps got its first million users.  Our servers provide free, fast and frequent map updates all over the world."
-msgstr ""
+msgstr "In 2023 kreeg Organic Maps zijn eerste miljoen gebruikers.  Onze servers zorgen voor gratis, snelle en frequente kaartenupdates over de hele wereld."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
@@ -489,7 +481,7 @@ msgstr "Met genoeg geld kunnen nieuwe functies sneller worden ontwikkeld, zoals:
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Backup and sync bookmarks and tracks"
-msgstr ""
+msgstr "Backup en synchroniseer bladwijzers en routes"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -499,7 +491,7 @@ msgstr "GPS-pad-opnames met GPX ondersteuning"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Satellite imagery"
-msgstr ""
+msgstr "Satellietbeelden"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -509,12 +501,12 @@ msgstr "Openbaar vervoer"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Traffic and accident reporting"
-msgstr ""
+msgstr "Verkeers- en ongelukkencontrole"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Photos and Reviews"
-msgstr ""
+msgstr "Foto's en beoordelingen"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -817,9 +809,9 @@ msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
 
 #. type: Link reference
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
-msgstr ""
+msgstr "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -843,13 +835,13 @@ msgstr "Contacteer ons"
 #: translations.yaml
 #, no-wrap
 msgid "Supported TTS Engines"
-msgstr ""
+msgstr "Ondersteunde TTS-engines"
 
 #. type: Hash Value: faq-menu-title
 #: translations.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "F.A.Q."
-msgstr ""
+msgstr "F.A.Q."
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
