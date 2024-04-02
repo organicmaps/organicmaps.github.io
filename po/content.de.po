@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: mcliquid <info@mcliquid.de>\nLanguage-Team: German <https://hosted.weblate.org/projects/organicmaps/website/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -51,7 +42,7 @@ msgstr "**Organic Maps** ist heutzutage eine der wenigen Apps, die 100% ihrer Fu
 #: content/_index.md
 #, no-wrap
 msgid "> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!\n"
-msgstr ""
+msgstr "> Im Jahr 2023 erreichte Organic Maps [seine ersten Million](/@/news/2023-12-23/281/index.md) Nutzer. [Hilf uns](/@/donate/index.md), zu skalieren!\n"
 
 #. type: Title ###
 #: content/_index.md
@@ -383,7 +374,7 @@ msgstr "Verfolge unsere Neuigkeiten auf [FOSStodon][fosstodon], [Mastodon][masto
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join (or create and let us know) local communities: [Hungarian translators Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)"
-msgstr ""
+msgstr "Trete lokalen Gemeinschaften bei (oder erstelle eine und informiere uns): [Ungarische Übersetzer Matrix-Raum](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)"
 
 #. type: Link reference
 #: content/_index.md
@@ -448,12 +439,12 @@ msgstr "Warum für Organic Maps spenden?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps."
-msgstr ""
+msgstr "Unser Ziel ist es, eine datenschutzorientierte, schnelle und benutzerfreundliche Alternative zu Google Maps und Apple Maps zu bieten."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal."
-msgstr ""
+msgstr "Die Verbesserung öffentlicher Kartendaten für die zahlreichen Websites, Apps und Plattformen, die OpenStreetMap nutzen, und die Einbeziehung weiterer Personen in die Bereitstellung von Karteninformationen ist ein weiteres unserer Ziele."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -463,18 +454,18 @@ msgstr "Wir sind auf deine Spenden angewiesen, damit wir Organic Maps offen und 
 #. type: Bullet: '4. '
 #: content/donate/index.md
 msgid "We love what we do, and we love our users ❤️."
-msgstr ""
+msgstr "Wir lieben was wir tun, und wir lieben unsere Nutzer ❤️."
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Why a free project needs money?"
-msgstr ""
+msgstr "Warum ein kostenloses Projekt Geld braucht?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "In 2023, Organic Maps got its first million users.  Our servers provide free, fast and frequent map updates all over the world."
-msgstr ""
+msgstr "Im Jahr 2023 hat Organic Maps seine ersten Millionen Nutzer. Unsere Server bieten kostenlose, schnelle und häufige Kartenaktualisierungen auf der ganzen Welt."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
@@ -489,7 +480,7 @@ msgstr "Mit genügend Geld können neue Funktionen schneller entwickelt werden, 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Backup and sync bookmarks and tracks"
-msgstr ""
+msgstr "Sichere und synchronisiere Lesezeichen und Strecken"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -499,7 +490,7 @@ msgstr "GPS-Kursaufzeichnung mit GPX-Unterstützung"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Satellite imagery"
-msgstr ""
+msgstr "Satellitenbilder"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -509,12 +500,12 @@ msgstr "Öffentlicher Verkehr"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Traffic and accident reporting"
-msgstr ""
+msgstr "Verkehrs- und Unfallmeldung"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Photos and Reviews"
-msgstr ""
+msgstr "Fotos und Bewertungen"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -807,7 +798,7 @@ msgstr "In der Datei [data/copyright.html][copyright] findest du die vollständi
 #: content/terms/index.md
 #, no-wrap
 msgid "[github]: https://github.com/organicmaps/organicmaps"
-msgstr ""
+msgstr "[github]: https://github.com/organicmaps/organicmaps"
 
 #. type: Link reference
 #: content/terms/index.md
@@ -819,7 +810,7 @@ msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
 #: content/terms/index.md
 #, no-wrap
 msgid "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
-msgstr ""
+msgstr "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -843,13 +834,13 @@ msgstr "Kontakt"
 #: translations.yaml
 #, no-wrap
 msgid "Supported TTS Engines"
-msgstr ""
+msgstr "Unterstützte TTS-Modelle"
 
 #. type: Hash Value: faq-menu-title
 #: translations.yaml
 #, no-wrap
 msgid "F.A.Q."
-msgstr ""
+msgstr "FAQ"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
