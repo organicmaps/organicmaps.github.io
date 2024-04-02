@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: sai <phanindragvs2002@gmail.com>\nLanguage-Team: Telugu <https://hosted.weblate.org/projects/organicmaps/website/te/>\nLanguage: te\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -29,7 +29,7 @@ msgstr "ఆర్గానిక్ మ్యాప్స్: ఆఫ్‌లై
 msgid ""
 "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
 "It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**ఓర్గానిక్ మ్యాప్స్ ** అనేది ప్రయాణికులు, పర్యాటకులు, హైకర్లు మరియు సైక్లిస్ట్‌ల కోసం ఒక ఉచిత Android & iOS ఆఫ్‌లైన్ మ్యాప్‌ల యాప్. ఇది క్రౌడ్ సోర్స్డ్ **[OpenStreetMap][openstreetmap]** డేటా ఆధారంగా ఉంటుంది. **Maps.me** యాప్ (గతంలో [**MapsWithMe**][mapswithme]గా పిలువబడేది) గోప్యత-కేంద్రీకృత, ఓపెన్-సోర్స్ గా [ఫోర్క్]ఉంటూ,   2011లో **MapsWithMe** సృష్టించిన వారిచే నిర్వహించబడుతుంది.\n"
+msgstr "**ఓర్గానిక్ మ్యాప్స్** అనేది ప్రయాణికులు, పర్యాటకులు, హైకర్లు మరియు సైక్లిస్ట్‌ల కోసం ఒక ఉచిత Android & iOS ఆఫ్‌లైన్ మ్యాప్‌ల యాప్. ఇది క్రౌడ్ సోర్స్డ్ **[OpenStreetMap][openstreetmap]** డేటా ఆధారంగా ఉంటుంది. **Maps.me** యాప్ (గతంలో [**MapsWithMe**][mapswithme]గా పిలువబడేది) గోప్యత-కేంద్రీకృత, ఓపెన్-సోర్స్ గా [ఫోర్క్]ఉంటూ, 2011లో **MapsWithMe** సృష్టించిన వారిచే నిర్వహించబడుతుంది.\n"
 
 #. type: Plain text
 #: content/_index.md
