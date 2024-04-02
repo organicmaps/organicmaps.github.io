@@ -3,16 +3,7 @@
 # This file is distributed under the same license as the Organic Maps Website.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Pacha Tchernof <pashachernov@gmail.com>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/organicmaps/website/ru/>\n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/organicmaps/website/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -826,14 +817,13 @@ msgstr "См. также [data/copyright.html][copyright] файл для пол
 #: content/terms/index.md
 #, no-wrap
 msgid "[github]: https://github.com/organicmaps/organicmaps"
-msgstr ""
+msgstr "[github]: https://github.com/organicmaps/organicmaps"
 
 #. type: Link reference
 #: content/terms/index.md
-#, fuzzy, no-wrap
-#| msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
+#, no-wrap
 msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0"
-msgstr "Вы можете получить копию Лицензии по адресу [http://www.apache.org/licenses/LICENSE-2.0][license]"
+msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
 
 #. type: Link reference
 #: content/terms/index.md
@@ -912,7 +902,7 @@ msgstr "Русский"
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 #. type: Hash Value: name
 #: translations.yaml
