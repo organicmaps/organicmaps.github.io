@@ -1,28 +1,33 @@
+{% if lang == 'en' %}
+{% set stripe = 'https://donate.organicmaps.app' %}
+{% else %}
+{% set stripe = 'https://donate.organicmaps.app/?locale=' ~ lang %}
+{% endif %}
 <div class="donate_buttons">
   {%- if lang == 'ru' %}
   <a href="https://donate.organicmaps.app?currency=rub" title="По карте МИР в рублях"><img id="mir" src="/images/donates/mir.svg" alt="По карте МИР в рублях"></a>
   <a href="https://t.me/OrganicMapsRu/29441" title="Telegram по карте МИР в рублях"><img id="telegramRu" src="/images/donates/telegram.svg" alt="Telegram по карте МИР в рублях"></a>
   {% endif -%}
-  <a href="{{ config.extra.stripe | safe }}" title="Credit/Debit Card"><img src="/images/donates/visa_mc.svg" alt="Credit/Debit Card"></a>
-  <a href="{{ config.extra.stripe | safe }}" title="Apple Pay" id="applePay"><img src="/images/donates/apple.svg" alt="Apple Pay"></a>
-  <a href="{{ config.extra.stripe | safe }}" title="Google Pay" id="googlePay"><img src="/images/donates/google.svg" alt="Google Pay"></a>
+  <a href="{{ stripe }}" title="Credit/Debit Card"><img src="/images/donates/visa_mc.svg" alt="Credit/Debit Card"></a>
+  <a href="{{ stripe }}" title="Apple Pay" id="applePay"><img src="/images/donates/apple.svg" alt="Apple Pay"></a>
+  <a href="{{ stripe }}" title="Google Pay" id="googlePay"><img src="/images/donates/google.svg" alt="Google Pay"></a>
   <form action="https://www.paypal.com/donate" method="post" target="_blank"  title="PayPal">
     <input type="hidden" name="hosted_button_id" value="JYM34AADM87V8" />
     <input type="image" src="/images/donates/paypal.svg" name="submit" title="Donate to Organic Maps using PayPal" alt="Donate with PayPal button" />
   </form>
-  <a href="{{ config.extra.stripe | safe }}" title="giropay"><img src="/images/donates/giropay.svg" alt="giropay"></a>
+  <a href="{{ stripe }}" title="giropay"><img src="/images/donates/giropay.svg" alt="giropay"></a>
   {%- if lang != 'ru' %}
-  <a href="{{ config.extra.stripe | safe }}" title="iDeal"><img src="/images/donates/ideal.svg" alt="iDeal"></a>
-  <a href="{{ config.extra.stripe | safe }}" title="Sofort"><img id="sofort" src="/images/donates/sofort.svg" alt="Sofort"></a>
+  <a href="{{ stripe }}" title="iDeal"><img src="/images/donates/ideal.svg" alt="iDeal"></a>
+  <a href="{{ stripe }}" title="Sofort"><img id="sofort" src="/images/donates/sofort.svg" alt="Sofort"></a>
   {% endif -%}
-  <a href="{{ config.extra.stripe | safe }}" title="SEPA"><img src="/images/donates/sepa.svg" alt="SEPA"></a>
+  <a href="{{ stripe }}" title="SEPA"><img src="/images/donates/sepa.svg" alt="SEPA"></a>
   <a href="/donate#bank-transfer" title="Bank Transfer"><img src="/images/donates/bank.svg" alt="Bank Transfer"></a>
   <a href="https://liberapay.com/OrganicMaps" title="LiberaPay"><img src="/images/donates/liberapay.svg" alt="LiberaPay"></a>
   <a href="https://github.com/sponsors/organicmaps/" title="GitHub Sponsors"><img src="/images/donates/github.svg" alt="GitHub Sponsors"></a>
   <a href="https://www.patreon.com/OrganicMaps" title="Patreon"><img src="/images/donates/patreon.svg" alt="Patreon"></a>
   <a href="https://opencollective.com/organicmaps" title="OpenCollective"><img src="/images/donates/opencollective.svg" alt="OpenCollective"></a>
-  <a href="{{ config.extra.stripe | safe }}" title="BanContact"><img src="/images/donates/bancontact.svg" alt="BanContact"></a>
-  <a href="{{ config.extra.stripe | safe }}" title="EPS"><img id="eps" src="/images/donates/eps.svg" alt="EPS"></a>
+  <a href="{{ stripe }}" title="BanContact"><img src="/images/donates/bancontact.svg" alt="BanContact"></a>
+  <a href="{{ stripe }}" title="EPS"><img id="eps" src="/images/donates/eps.svg" alt="EPS"></a>
   <a href="/donate#crypto" title="Bitcoin, Ethereum, Monero, Tron, ZCash and other crypto"><img src="/images/donates/bitcoin.svg" alt="Bitcoin, Ethereum, Monero, Tron, ZCash and other crypto"></a>
 </div>
 <script>
