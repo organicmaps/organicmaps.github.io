@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/website/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 22:07+0000\nLast-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/website/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -460,7 +460,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Why a free project needs money?"
-msgstr ""
+msgstr "Per què un projecte gratuït necessita diners?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
@@ -490,7 +490,7 @@ msgstr "Gravadora GPS amb compatibilitat per a GPX"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Satellite imagery"
-msgstr ""
+msgstr "Imatges satel·litals"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -834,13 +834,13 @@ msgstr "Contacteu amb nosaltres"
 #: translations.yaml
 #, no-wrap
 msgid "Supported TTS Engines"
-msgstr ""
+msgstr "Motors TTS admesos"
 
 #. type: Hash Value: faq-menu-title
 #: translations.yaml
 #, no-wrap
 msgid "F.A.Q."
-msgstr ""
+msgstr "Preguntes freqüents"
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -876,7 +876,7 @@ msgstr "Català"
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr "Idioma"
+msgstr "Llengua"
 
 #. type: Hash Value: name
 #: translations.yaml
