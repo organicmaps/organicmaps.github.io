@@ -462,25 +462,6 @@ language = "Українська"
 language-word = "Language"
 name = "Назва"
 token = "Токен"
-[languages.zh-CN]
-taxonomies = [
-  {name = "faq", feed = false},
-  {name = "news", feed = true},
-]
-[languages.zh-CN.translations]
-address = "地址"
-back = "返回新闻"
-contact = "联系我们"
-engines = "Supported TTS Engines"
-faq-menu-title = "F.A.Q."
-install-appgallery = "从华为应用市场安装有机地图"
-install-appstore = "从 AppStore 安装 Organic Maps"
-install-googleplay = "从 Google Play 安装有机地图"
-install-fdroid = "从 F-Droid 安装有机地图"
-language = "英语"
-language-word = "Language"
-name = "姓名"
-token = "令牌"
 [languages.zh-Hans]
 taxonomies = [
   {name = "faq", feed = false},
