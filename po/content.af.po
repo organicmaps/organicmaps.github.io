@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Afrikaans <https://hosted.weblate.org/projects/organicmaps/website/af/>\nLanguage: af\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Language-Team: Afrikaans <https://hosted.weblate.org/projects/organicmaps/website/af/>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -27,14 +36,22 @@ msgstr "Organic Maps: Vanlyn voetslaan, fietsry, roetes en navigasie"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgid ""
+"**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
+"It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "**Organic Maps** is ’n gratis Android & iOS vanlyn kaarttoep vir reisigers, toeristen, voetslaners en fietsers gebaseer op skareverkreë **[OpenStreetMap][openstreetmap]**-data. Dit is ’n privaatheidgefokusde, oopbron [vurk][fork] van die toep **Maps.me** (voorheen bekend as [**MapsWithMe**][mapswithme]), en word onderhou deur dieselfde mense wat **MapsWithMe** in 2011 geskep het.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** is een van die min toeps deesdae wat 100% van die funksionaliteit het sonder ’n aktiewe internetverbinding. Installeer Organic Maps, laai kaarte af, gooi u SIM-kaart weg (trouens, u verskaffer spoor u altyd na), en gaan ’n week op pad sonder om u battery te moet laai en sonder dat daar een greep na die netwerk verstuur word.\n"
+
+#. type: Plain text
+#: content/_index.md
+#, no-wrap
+msgid "> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!\n"
+msgstr ""
 
 #. type: Title ###
 #: content/_index.md
@@ -95,8 +112,8 @@ msgstr "Kontoerlyne, hoogteprofiele, pieke en hellings"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "Roetebegeleiding vir voetslaan en fietsry en motornavigasie met stembegeleiding"
+msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto"
+msgstr "Roetebegeleiding vir voetslaan en fietsry en motornavigasie met stembegeleiding, Android Auto"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -105,8 +122,8 @@ msgstr "Soek vinnig vanlyn op die kaart"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Stuur boekmerke uit en voer dit in in KML/KMZ-formate (GPX is [beplan][gpx_issue])"
+msgid "Export/import bookmarks in KML/KMZ, import GPX"
+msgstr "Stuur boekmerke uit en voer dit in in KML/KMZ-formate, voer GPX in"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -363,14 +380,19 @@ msgstr "Besoek ons [GitHub-blad][github]."
 msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 msgstr "Volg ons opdaterings op [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 
-#. type: Plain text
+#. type: Bullet: '- '
+#: content/_index.md
+msgid "Join (or create and let us know) local communities: [Hungarian translators Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)"
+msgstr ""
+
+#. type: Link reference
 #: content/_index.md
 #, no-wrap
-msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
+msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
+msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
 
 #. type: Plain text
-#: content/_index.md content/support-us/index.md
+#: content/_index.md content/donate/index.md content/support-us/index.md
 msgid "{{ references() }}"
 msgstr "{{ references() }}"
 
@@ -394,7 +416,7 @@ msgstr "Skenk om Organic Maps se ontwikkelinge te steun"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]** in **[EUR][stripe_eur], [USD][stripe_usd], [GBP][stripe_GBP], [CHF][stripe_chf], [UAH][stripe_uah], [PLN][stripe_pln]**:"
 msgstr "Organic Maps is _gratis vir almal_ danksy u **[skenkings][stripe]**:"
 
 #. type: Bullet: '- '
@@ -425,63 +447,78 @@ msgstr "Waarom skenk aan Organic Maps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "Ons maak op u skenkings staat om ons missie te volbring om Organic Maps oop en gratis te hou.  En vry van advertensies."
+msgid "Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps."
+msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Ons is ’n paar entoesiaste wat in ons vrye tyd ’n bydrae lewer, en ons gesinne se geld aan die projek bestee.  Ons is lief vir wat ons doen, en ons is lief vir al ons gebruikers ❤️."
+msgid "Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal."
+msgstr ""
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr "Met u steun wil ons ’n beter, privaatheidgefokusde weergawe van Google Maps word."
+msgid "We rely on your donations to keep Organic Maps open and free for everyone.  And free from ads."
+msgstr "Ons maak op u skenkings staat om ons missie te volbring om Organic Maps oop en gratis te hou.  En vry van advertensies."
+
+#. type: Bullet: '4. '
+#: content/donate/index.md
+msgid "We love what we do, and we love our users ❤️."
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
-msgid "What will the money be used for?"
-msgstr "Waarvoor word die geld gebruik?"
+msgid "Why a free project needs money?"
+msgstr ""
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Ons betaal vir vinnige bedieners, sodat elkeen in die wêreld sonder vertraging gratis kaartbywerkings kan aflaai.  Dit is honderde teragrepe per maand, en die hoeveelheid neem toe."
+msgid "In 2023, Organic Maps got its first million users.  Our servers provide free, fast and frequent map updates all over the world."
+msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Gebruikersondersteuning, foute herstel, en verbetering van die toepstabiliteit is ons hoofprioriteite.  Daar is [1800+ probleme op GitHub][github issues], en die aantal neem daagliks toe.  Die AppStore, Google Play, en ondersteuningse-posadresse word oorstroom met kommentaar en foute. Ons wil ’n produk van hoë kwaliteit lewer."
+msgid "User support, bugfixing and publishing quality app updates are at the top of our priorities.  There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "Gebruikersondersteuning, foute herstel, en verbetering van die toepstabiliteit is ons hoofprioriteite.  Daar is [2000+ probleme op GitHub][github issues], en die aantal neem daagliks toe.  Die AppStore, Google Play, en ondersteuningse-posadresse word oorstroom met kommentaar en foute. Ons wil ’n produk van hoë kwaliteit lewer."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With enough money, new features can be developed faster, for example:"
+msgid "With enough money, new features can be developed. To name a few:"
 msgstr "Met genoeg geld kan nuwe funksies vinniger ontwikkel word, soos:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Weekly and automated map data updates"
-msgstr "Weeklikse en geoutomatiseerde kaartdatabywerkings"
+msgid "Backup and sync bookmarks and tracks"
+msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Bookmarks backup and sync"
-msgstr "Boekmerkrugsteun en -sinchronisering"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Android Auto"
-msgstr "Android Auto"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "GPS track recorder with GPX support"
+msgid "GPS track recorder with GPX export"
 msgstr "GPS-padopnemer met GPX ondersteuning"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Better map styles for different activities"
+msgid "Satellite imagery"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Public Transport"
+msgstr "Openbare vervoer"
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Traffic and accident reporting"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Photos and Reviews"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Map styles for different activities"
 msgstr "Beter kaartenstyle vir verskillende aktiwiteite"
 
 #. type: Bullet: '   - '
@@ -491,18 +528,13 @@ msgstr "Reliëfskaduwees en 3D-terreine"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Improve the OpenStreetMap editor"
+msgid "More advanced OpenStreetMap editor"
 msgstr "Verbetering van die OpenStreetMap-wysiger"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better offline address search, routing, and navigation"
 msgstr "Beter vanlyn adressoekfunksie, roetes, en navigasie"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Public Transport"
-msgstr "Openbare vervoer"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -517,7 +549,7 @@ msgstr "Hoe om te skenk?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. One-time donations are appreciated too."
 msgstr "Herhalende skenkings is die beste manier om ’n relatief stabiele inkomste vir die projek te verseker en motiveer ons vir langtermyn take en doele. Maar u kan ook eenmalig skenk."
 
 #. type: Title ###
@@ -557,16 +589,6 @@ msgstr "Kan u ons op ’n ander manier help?"
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr "Ja! Daar is baie maniere om Organic Maps te ondersteun. Kyk asseblief by [Steun ons](@/support-us/index.nl.md) vir meer details."
-
-#. type: Plain text
-#: content/donate/index.md
-#, no-wrap
-msgid ""
-"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
-"[stripe]: https://donate.organicmaps.app/ \"Skenk d.m.v. Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub-probleme\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -781,14 +803,23 @@ msgstr "Sien asseblief die LISENSIE-, KOPIËRING- of KENNISGEWINGLÊERS vir die 
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
 msgstr "Sien ook die lêer [data/copyright.html][copyright] vir ’n volledige lys van kopieregkennisgewings vir die Organic Maps-toepassing."
 
-#. type: Plain text
+#. type: Link reference
 #: content/terms/index.md
 #, no-wrap
-msgid ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgid "[github]: https://github.com/organicmaps/organicmaps"
+msgstr ""
+
+#. type: Link reference
+#: content/terms/index.md
+#, no-wrap
+msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0"
+msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
+
+#. type: Link reference
+#: content/terms/index.md
+#, no-wrap
+msgid "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
+msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -807,6 +838,18 @@ msgstr "Terug na nuus"
 #, no-wrap
 msgid "Contact Us"
 msgstr "Kontak ons"
+
+#. type: Hash Value: engines
+#: translations.yaml
+#, no-wrap
+msgid "Supported TTS Engines"
+msgstr ""
+
+#. type: Hash Value: faq-menu-title
+#: translations.yaml
+#, no-wrap
+msgid "F.A.Q."
+msgstr ""
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -837,6 +880,12 @@ msgstr "Installeer Organic Maps vanaf Google Play"
 #, no-wrap
 msgid "English"
 msgstr "Afrikaans"
+
+#. type: Hash Value: language-word
+#: translations.yaml
+#, no-wrap
+msgid "Language"
+msgstr ""
 
 #. type: Hash Value: name
 #: translations.yaml

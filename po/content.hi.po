@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-01-18 18:00+0000\nLast-Translator: Abhinav Gupta <Abhinav.gupta@outlook.de>\nLanguage-Team: Hindi <https://hosted.weblate.org/projects/organicmaps/website/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Abhinav Gupta <Abhinav.gupta@outlook.de>\n"
+"Language-Team: Hindi <https://hosted.weblate.org/projects/organicmaps/website/hi/>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -27,14 +36,22 @@ msgstr "ऑर्गेनिक नक़्शे: ऑफ़लाइन स�
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgid ""
+"**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
+"It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "**ऑर्गेनिक मैप्स**[OpenStreetMap][openstreetmap]** डेटा के शीर्ष पर आधारित यात्रियों, पर्यटकों, हाइकर्स और साइकिल चालकों के लिए एक मुफ़्त Android और iOS ऑफ़लाइन मैप्स ऐप है। यह **Maps.me** ऐप (जिसे पहले [**MapsWithMe**][mapswithme] के नाम से जाना जाता था) का एक गोपनीयता-केंद्रित, खुला-स्रोत [fork][fork] है, जिसकी देखरेख वही लोग करते हैं जिन्होंने **MapsWithMe बनाया था ** 2011 में।\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**ऑर्गेनिक मैप्स** आजकल के कुछ एप्लिकेशन में से एक है जो सक्रिय इंटरनेट कनेक्शन के बिना 100% सुविधाओं का समर्थन करता है। ऑर्गेनिक मैप्स इंस्टॉल करें, मैप्स डाउनलोड करें, अपना सिम कार्ड फेंक दें (वैसे, आपका ऑपरेटर आपको लगातार ट्रैक करता है), और नेटवर्क पर कुछ भी भेजे बिना सिर्फ एक बैटरी चार्ज पर साप्ताहिक यात्रा के लिए जाएं।\n"
+
+#. type: Plain text
+#: content/_index.md
+#, no-wrap
+msgid "> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!\n"
+msgstr ""
 
 #. type: Title ###
 #: content/_index.md
@@ -95,8 +112,8 @@ msgstr "समोच्च रेखाएँ, उन्नयन प्रो�
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "आवाज निर्देशन के साथ बारी-बारी से चलना, साइक्लिंग करना और कार नेविगेशन"
+msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto"
+msgstr "आवाज मार्गदर्शन और एंड्रॉइड ऑटो के साथ बारी-बारी पैदल चलना, साइकिल चलाना और कार नेविगेशन"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -105,8 +122,8 @@ msgstr "तेज़ ऑफ़लाइन खोज नक़्शे पर"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "KML/KMZ प्रारूप में एक्सपोर्ट एवं इंपोर्ट करें(GPX [आयोजित][gpx_issue] है)"
+msgid "Export/import bookmarks in KML/KMZ, import GPX"
+msgstr "KML, KMZ, GPX प्रारूपों में बुकमार्क और ट्रैक"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -212,7 +229,7 @@ msgstr "यह ऐप [Exodus Privacy Project][exodus] द्वारा सत
 #. type: Plain text
 #: content/_index.md
 msgid "{{ exodus_screenshot() }}"
-msgstr "{{एक्सोडस _ स्क्रीनशॉट}}"
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -232,7 +249,7 @@ msgstr "ऑर्गेनिक नक़्शे आपकी जासूस
 #. type: Plain text
 #: content/_index.md
 msgid "{{ privacy_screenshots() }}"
-msgstr "{{गोपनीयता _ स्क्रीनशॉट्स ()}}"
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -284,7 +301,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons() }}"
-msgstr "{{दान बटन ()}}"
+msgstr "{{ donate_buttons() }}"
 
 #. type: Title ###
 #: content/_index.md
@@ -363,14 +380,19 @@ msgstr "हमारे [गिटहब पेज][github] पर जाएं�
 msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 msgstr "[FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn] पर हमारे अपडेट का पालन करें।"
 
-#. type: Plain text
+#. type: Bullet: '- '
+#: content/_index.md
+msgid "Join (or create and let us know) local communities: [Hungarian translators Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)"
+msgstr ""
+
+#. type: Link reference
 #: content/_index.md
 #, no-wrap
-msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
+msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
+msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
 
 #. type: Plain text
-#: content/_index.md content/support-us/index.md
+#: content/_index.md content/donate/index.md content/support-us/index.md
 msgid "{{ references() }}"
 msgstr "{{ references() }}"
 
@@ -394,7 +416,7 @@ msgstr "ऑर्गनिक मैप्स के विकास का स�
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]** in **[EUR][stripe_eur], [USD][stripe_usd], [GBP][stripe_GBP], [CHF][stripe_chf], [UAH][stripe_uah], [PLN][stripe_pln]**:"
 msgstr "आपके **[दान][stripe]** की बदौलत ऑर्गेनिक मैप्स ऐप सभी के लिए _मुफ्त_ है:"
 
 #. type: Bullet: '- '
@@ -425,63 +447,78 @@ msgstr "ऑर्गेनिक मैप्स को दान क्यो�
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "हम जैविक मानचित्रों को खुला और मुक्त रखने के अपने मिशन को पूरा करने के लिए आपके दान पर भरोसा करते हैं। और विज्ञापनों से मुक्त।"
+msgid "Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps."
+msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "हम कुछ उत्साही हैं जो अपने खाली समय में योगदान करते हैं, और परियोजना पर अपने परिवारों का पैसा खर्च करते हैं। हम जो करते हैं उससे प्यार करते हैं, और हम अपने उपयोगकर्ताओं से प्यार करते हैं ❤️।"
+msgid "Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal."
+msgstr ""
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr "आपके समर्थन से, हम गूगल मानचित्र का एक बेहतर, गोपनीयता-केंद्रित संस्करण बनना चाहते हैं।"
+msgid "We rely on your donations to keep Organic Maps open and free for everyone.  And free from ads."
+msgstr "हम जैविक मानचित्रों को खुला और मुक्त रखने के अपने मिशन को पूरा करने के लिए आपके दान पर भरोसा करते हैं। और विज्ञापनों से मुक्त।"
+
+#. type: Bullet: '4. '
+#: content/donate/index.md
+msgid "We love what we do, and we love our users ❤️."
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
-msgid "What will the money be used for?"
-msgstr "पैसे का उपयोग किस लिए किया जाएगा?"
+msgid "Why a free project needs money?"
+msgstr ""
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "हम तेज सर्वर के लिए भुगतान करते हैं, इसलिए दुनिया में कोई भी बिना देरी के मुफ्त मानचित्र डेटा अपडेट डाउनलोड कर सकता है। यह सैकड़ों टेराबाइट्स मासिक है, और राशि बढ़ रही है।"
+msgid "In 2023, Organic Maps got its first million users.  Our servers provide free, fast and frequent map updates all over the world."
+msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgid "User support, bugfixing and publishing quality app updates are at the top of our priorities.  There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgstr "उपयोगकर्ता समर्थन, बग फिक्सिंग और ऐप की स्थिरता में सुधार करना हमारी प्राथमिकताओं में सबसे ऊपर है। [GitHub पर 1800+ मुद्दे][GitHub issues] हैं, और यह संख्या हर दिन बढ़ रही है। ऐप स्टोर,गूगल प्ले, और समर्थन ईमेल टिप्पणियों और बगों से भर गए हैं। हम एक उच्च गुणवत्ता वाला उत्पाद देना चाहते हैं।"
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With enough money, new features can be developed faster, for example:"
+msgid "With enough money, new features can be developed. To name a few:"
 msgstr "पर्याप्त धन के साथ, नई सुविधाओं को तेज़ी से विकसित किया जा सकता है, उदाहरण के लिए:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Weekly and automated map data updates"
-msgstr "साप्ताहिक और स्वचालित नक्शो का डेटा अपडेट"
+msgid "Backup and sync bookmarks and tracks"
+msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Bookmarks backup and sync"
-msgstr "बुकमार्क बैकअप और सिंक"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Android Auto"
-msgstr "एंड्रॉइड ऑटो"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "GPS track recorder with GPX support"
+msgid "GPS track recorder with GPX export"
 msgstr "GPX समर्थन के साथ GPS ट्रैक रिकॉर्डर"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Better map styles for different activities"
+msgid "Satellite imagery"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Public Transport"
+msgstr "सार्वजनिक परिवाहन"
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Traffic and accident reporting"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Photos and Reviews"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Map styles for different activities"
 msgstr "विभिन्न गतिविधियों के लिए बेहतर मानचित्र शैलियाँ"
 
 #. type: Bullet: '   - '
@@ -491,18 +528,13 @@ msgstr "हिल शेडिंग और 3 डी इलाके"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Improve the OpenStreetMap editor"
+msgid "More advanced OpenStreetMap editor"
 msgstr "OpenStreetMap एडीटर में सुधार करें"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better offline address search, routing, and navigation"
 msgstr "बेहतर ऑफ़लाइन पता खोज, रूटिंग और नेविगेशन"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Public Transport"
-msgstr "सार्वजनिक परिवाहन"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -517,7 +549,7 @@ msgstr "कैसे दान करें?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. One-time donations are appreciated too."
 msgstr "आवर्ती दान परियोजना के लिए अपेक्षाकृत स्थिर आय सुनिश्चित करने और दीर्घकालिक कार्यों और लक्ष्यों के लिए हमें प्रेरित करने का सबसे अच्छा तरीका है। लेकिन आप एक बार भी दान कर सकते हैं।"
 
 #. type: Title ###
@@ -557,16 +589,6 @@ msgstr "क्या आप किसी और तरीके से हमा
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr "जी हाँ! ऑर्गेनिक मानचित्रों का समर्थन करने के कई तरीके हैं. अधिक विवरण के लिए कृपया [समर्थन](@/support-us/index.hi.md) पृष्ठ देखें।"
-
-#. type: Plain text
-#: content/donate/index.md
-#, no-wrap
-msgid ""
-"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
-"[stripe]: https://donate.organicmaps.app/ \"स्ट्राइप के माध्यम से दान करें\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub के मामले\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -781,14 +803,23 @@ msgstr "उपयोग की शर्तों के लिए कृपय�
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
 msgstr "ऑर्गेनिक मैप्स ऐप के लिए कॉपीराइट नोटिस की पूरी सूची जानने के लिए [data/copyright.html][copyright] फ़ाइल देखें।"
 
-#. type: Plain text
+#. type: Link reference
 #: content/terms/index.md
 #, no-wrap
-msgid ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgid "[github]: https://github.com/organicmaps/organicmaps"
+msgstr ""
+
+#. type: Link reference
+#: content/terms/index.md
+#, no-wrap
+msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0"
+msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
+
+#. type: Link reference
+#: content/terms/index.md
+#, no-wrap
+msgid "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
+msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -807,6 +838,18 @@ msgstr "ख़बरों पर वापस जाएं"
 #, no-wrap
 msgid "Contact Us"
 msgstr "संपर्क करें"
+
+#. type: Hash Value: engines
+#: translations.yaml
+#, no-wrap
+msgid "Supported TTS Engines"
+msgstr ""
+
+#. type: Hash Value: faq-menu-title
+#: translations.yaml
+#, no-wrap
+msgid "F.A.Q."
+msgstr ""
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -838,6 +881,12 @@ msgstr "गूगल प्ले से ऑर्गेनिक मैप इ�
 msgid "English"
 msgstr "हिंदी"
 
+#. type: Hash Value: language-word
+#: translations.yaml
+#, no-wrap
+msgid "Language"
+msgstr ""
+
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
@@ -849,6 +898,39 @@ msgstr "नाम"
 #, no-wrap
 msgid "Token"
 msgstr "टोकन/Token"
+
+#~ msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+#~ msgstr "आपके **[दान][stripe]** की बदौलत ऑर्गेनिक मैप्स ऐप सभी के लिए _मुफ्त_ है:"
+
+#~ msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+#~ msgstr "हम कुछ उत्साही हैं जो अपने खाली समय में योगदान करते हैं, और परियोजना पर अपने परिवारों का पैसा खर्च करते हैं। हम जो करते हैं उससे प्यार करते हैं, और हम अपने उपयोगकर्ताओं से प्यार करते हैं ❤️।"
+
+#~ msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
+#~ msgstr "आपके समर्थन से, हम गूगल मानचित्र का एक बेहतर, गोपनीयता-केंद्रित संस्करण बनना चाहते हैं।"
+
+#, no-wrap
+#~ msgid "What will the money be used for?"
+#~ msgstr "पैसे का उपयोग किस लिए किया जाएगा?"
+
+#~ msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+#~ msgstr "हम तेज सर्वर के लिए भुगतान करते हैं, इसलिए दुनिया में कोई भी बिना देरी के मुफ्त मानचित्र डेटा अपडेट डाउनलोड कर सकता है। यह सैकड़ों टेराबाइट्स मासिक है, और राशि बढ़ रही है।"
+
+#~ msgid "Weekly and automated map data updates"
+#~ msgstr "साप्ताहिक और स्वचालित नक्शो का डेटा अपडेट"
+
+#~ msgid "Bookmarks backup and sync"
+#~ msgstr "बुकमार्क बैकअप और सिंक"
+
+#~ msgid "Android Auto"
+#~ msgstr "एंड्रॉइड ऑटो"
+
+#, no-wrap
+#~ msgid ""
+#~ "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
+#~ "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
+#~ msgstr ""
+#~ "[stripe]: https://donate.organicmaps.app/ \"स्ट्राइप के माध्यम से दान करें\"\n"
+#~ "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub के मामले\"\n"
 
 #, no-wrap
 #~ msgid "There are different ways to donate:"

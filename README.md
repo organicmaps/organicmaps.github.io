@@ -58,8 +58,8 @@ Zola collects all such taxonomies:
 
 After that Zola gets all values for `faq` taxonomy: `[General, Android, iOS, Map, ...]`. And generates pages:
 
-* For key `/faq/` with the list of values (see `templates/faq/list.html`)
-* For each value `/faq/general`, `/faq/android`, etc. with the list of questions (see `templates/faq/single.html`)
+- For key `/faq/` with the list of values (see `templates/faq/list.html`)
+- For each value `/faq/general`, `/faq/android`, etc. with the list of questions (see `templates/faq/single.html`)
 
 If you want to add new question then create .md file with header:
 
@@ -91,7 +91,6 @@ faq-menu-title = "{Translation of 'F.A.Q.' to a new language}"
 **Limitation**: Questions at any F.A.Q. sub-page are sorted by file name. An `extra.order` variable in .md content files is used for sorting articles.
 
 **Limitation**: Each F.A.Q. sub-page has only a name. No description, no icon. Only name 'Android', or 'iOS', or 'Routing', etc.
-
 
 ## Contribution
 

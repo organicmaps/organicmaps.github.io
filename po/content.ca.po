@@ -4,7 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-12-25 12:06+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/website/ca/>\nLanguage: ca\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr ""
+"Project-Id-Version: Organic Maps Website 1.0\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/organicmaps/website/ca/>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -27,14 +36,22 @@ msgstr "Organic Maps: passejos, bici, rutes i GPS sense connexió"
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgid ""
+"**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
+"It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr "L’**Organic Maps** és una aplicació gratuïta de mapes sense connexió per a l’Android i l’iOS per a viatgers, turistes, excursionistes i ciclistes, basada en dades d’origen col·lectiu de l’**[OpenStreetMap][openstreetmap]**. És una [bifurcació][fork] centrada en la privadesa del **Maps.me** (anteriorment conegut com a [**MapsWithMe**][mapswithme]), mantinguda per les mateixes persones que van crear el **MapsWithMe** el 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
-msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "L’**Organic Maps** és una de les poques aplicacions actuals que admet fer servir totes les seves funcions sense una connexió a Internet activa. Instal·leu l’Organic Maps, baixeu mapes, llenceu la vostra targeta SIM (per cert, el vostre operador us rastreja constantment) i feu un viatge setmanal amb una sola càrrega de bateria sense que cap byte s’enviï a la xarxa.\n"
+
+#. type: Plain text
+#: content/_index.md
+#, no-wrap
+msgid "> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!\n"
+msgstr ""
 
 #. type: Title ###
 #: content/_index.md
@@ -95,8 +112,8 @@ msgstr "Línies de contorn, perfils d'elevació, pics i pendents"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu"
+msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto"
+msgstr "Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu, Android Auto"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -105,7 +122,7 @@ msgstr "Cerques ràpides al mapa, sense connexió"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
+msgid "Export/import bookmarks in KML/KMZ, import GPX"
 msgstr "Marcadors i rutes en format KML, KMZ i GPX"
 
 #. type: Bullet: '- '
@@ -363,14 +380,19 @@ msgstr "Visiteu el nostre [GitHub][github]."
 msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 msgstr "Seguiu les nostres novetats al [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] i [LinkedIn][LinkedIn]."
 
-#. type: Plain text
+#. type: Bullet: '- '
+#: content/_index.md
+msgid "Join (or create and let us know) local communities: [Hungarian translators Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)"
+msgstr ""
+
+#. type: Link reference
 #: content/_index.md
 #, no-wrap
-msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://ca.wikipedia.org/wiki/Fork\n"
+msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
+msgstr "[fork]: https://ca.wikipedia.org/wiki/Fork"
 
 #. type: Plain text
-#: content/_index.md content/support-us/index.md
+#: content/_index.md content/donate/index.md content/support-us/index.md
 msgid "{{ references() }}"
 msgstr "{{ references() }}"
 
@@ -394,7 +416,7 @@ msgstr "Doneu per a ajudar al desenvolupament de l'Organic Maps"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]** in **[EUR][stripe_eur], [USD][stripe_usd], [GBP][stripe_GBP], [CHF][stripe_chf], [UAH][stripe_uah], [PLN][stripe_pln]**:"
 msgstr "L'Organic Maps és _gratis per a tothom_ gràcies a les seves **[donacions][stripe]**:"
 
 #. type: Bullet: '- '
@@ -425,63 +447,78 @@ msgstr "Per què fer donatius a l’Organic Maps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "Depenem dels vostres donatius per a continuar amb la nostra missió de mantenir l'Organic Maps obert i gratuït. I lliure d'anuncis."
+msgid "Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps."
+msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Som un grup d'entusiastes contribuint en el nostre temps lliure, i gastant els diners de les nostres famílies en el projecte. Ens encanta el que fem, i estimem als nostres usuaris ❤️."
+msgid "Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal."
+msgstr ""
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr "Amb el vostre suport, volem convertir-nos en una millor versió de Google Maps, centrada en la privadesa."
+msgid "We rely on your donations to keep Organic Maps open and free for everyone.  And free from ads."
+msgstr "Depenem dels vostres donatius per a continuar amb la nostra missió de mantenir l'Organic Maps obert i gratuït. I lliure d'anuncis."
+
+#. type: Bullet: '4. '
+#: content/donate/index.md
+msgid "We love what we do, and we love our users ❤️."
+msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
-msgid "What will the money be used for?"
-msgstr "Per a què es faran servir els diners?"
+msgid "Why a free project needs money?"
+msgstr ""
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Paguem per servidors ràpids, perquè qualsevol persona pugui accedir a les actualitzacions de característiques dels mapes de forma ràpida i sense esperes. Són centenars de terabytes al mes, i la quantitat està creixent."
+msgid "In 2023, Organic Maps got its first million users.  Our servers provide free, fast and frequent map updates all over the world."
+msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "L'assistència als usuaris, l'arranjament d'errors i la millora de l'estabilitat de l'aplicació són les nostres principals prioritats. Hi ha més de [1800 informes en GitHub][github issues], i aquest número creix cada dia. AppStore, Google Play i els correus d'atenció estan inundats amb comentaris i informes. Volem lliurar un producte de qualitat."
+msgid "User support, bugfixing and publishing quality app updates are at the top of our priorities.  There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+msgstr "L'assistència als usuaris, correcció d'errors i millora d'estabilitat de l'aplicació són les nostres prioritats principals. Hi ha més de [2000 informes al GitHub][github issues] i, aquest número creix cada dia. L'AppStore, el PlayStore i els correus d'atenció estan inundats amb comentaris i informes. Volem lliurar un producte de qualitat."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
-msgid "With enough money, new features can be developed faster, for example:"
+msgid "With enough money, new features can be developed. To name a few:"
 msgstr "Amb suficients diners, poden desenvolupar-se més ràpidament prestacions noves, com ara:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Weekly and automated map data updates"
-msgstr "Actualitzacions setmanals i automatitzades dels mapes"
+msgid "Backup and sync bookmarks and tracks"
+msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Bookmarks backup and sync"
-msgstr "Còpia de seguretat i sincronització dels llocs d’interès"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Android Auto"
-msgstr "Android Auto"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "GPS track recorder with GPX support"
+msgid "GPS track recorder with GPX export"
 msgstr "Gravadora GPS amb compatibilitat per a GPX"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Better map styles for different activities"
+msgid "Satellite imagery"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Public Transport"
+msgstr "Transport públic"
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Traffic and accident reporting"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Photos and Reviews"
+msgstr ""
+
+#. type: Bullet: '   - '
+#: content/donate/index.md
+msgid "Map styles for different activities"
 msgstr "Millors estils cartogràfics per a diferents activitats"
 
 #. type: Bullet: '   - '
@@ -491,18 +528,13 @@ msgstr "Ombreig de pujols i terreny 3D"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Improve the OpenStreetMap editor"
+msgid "More advanced OpenStreetMap editor"
 msgstr "Millorar l'editor de OpenStreetMap"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better offline address search, routing, and navigation"
 msgstr "Millor cerca de direccions sense connexió, encaminament i navegació"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Public Transport"
-msgstr "Transport públic"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -517,7 +549,7 @@ msgstr "Com donar?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
+msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. One-time donations are appreciated too."
 msgstr "Les donacions recurrents són la millor manera d'assegurar un ingrés periòdic per al projecte i ens motiva per a tasques i objectius a llarg termini. Però també pots fer donació una vegada."
 
 #. type: Title ###
@@ -557,16 +589,6 @@ msgstr "Voleu ajudar-nos de cap altra forma?"
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr "Perfecte! Hi ha diverses maneres d'ajudar a l'Organic Maps. Consulteu la pàgina [Suport](@/support-us/index.ca.md) per a més informació."
-
-#. type: Plain text
-#: content/donate/index.md
-#, no-wrap
-msgid ""
-"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
-"[stripe]: https://donate.organicmaps.app/ «Donació amb Stripe»\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues «Informes al GitHub»\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -781,14 +803,23 @@ msgstr "Consulteu les seves LLICÈNCIES, CÒPIES o AVISOS per a conèixer les co
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
 msgstr "Consulteu també el fitxer [data/copyright.html][copyright] per a una llista completa d’avisos de drets d’autor per a l’aplicació Organic Maps."
 
-#. type: Plain text
+#. type: Link reference
 #: content/terms/index.md
 #, no-wrap
-msgid ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html\n"
-msgstr "[github]: https://github.com/organicmaps/organicmaps\n[license]: http://www.apache.org/licenses/LICENSE-2.0\n[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
+msgid "[github]: https://github.com/organicmaps/organicmaps"
+msgstr ""
+
+#. type: Link reference
+#: content/terms/index.md
+#, no-wrap
+msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0"
+msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
+
+#. type: Link reference
+#: content/terms/index.md
+#, no-wrap
+msgid "[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html"
+msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -807,6 +838,18 @@ msgstr "Torna a Notícies"
 #, no-wrap
 msgid "Contact Us"
 msgstr "Contacteu amb nosaltres"
+
+#. type: Hash Value: engines
+#: translations.yaml
+#, no-wrap
+msgid "Supported TTS Engines"
+msgstr ""
+
+#. type: Hash Value: faq-menu-title
+#: translations.yaml
+#, no-wrap
+msgid "F.A.Q."
+msgstr ""
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -838,6 +881,12 @@ msgstr "Instal·leu l’Organic Maps des del Google Play"
 msgid "English"
 msgstr "Català"
 
+#. type: Hash Value: language-word
+#: translations.yaml
+#, no-wrap
+msgid "Language"
+msgstr ""
+
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
@@ -851,17 +900,50 @@ msgid "Token"
 msgstr "Testimoni"
 
 #, no-wrap
-#~ msgid "**Organic Maps** is one of a few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+#~ msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 #~ msgstr "L’**Organic Maps** és una de les poques aplicacions actuals que admet fer servir totes les seves funcions sense una connexió a Internet activa. Instal·leu l’Organic Maps, baixeu mapes, llenceu la vostra targeta SIM (per cert, el vostre operador us rastreja constantment) i feu un viatge setmanal amb una sola càrrega de bateria sense que cap byte s’enviï a la xarxa.\n"
+
+#~ msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+#~ msgstr "L'Organic Maps és _gratis per a tothom_ gràcies a les seves **[donacions][stripe]**:"
+
+#~ msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+#~ msgstr "Som un grup d'entusiastes contribuint en el nostre temps lliure, i gastant els diners de les nostres famílies en el projecte. Ens encanta el que fem, i estimem als nostres usuaris ❤️."
+
+#~ msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
+#~ msgstr "Amb el vostre suport, volem convertir-nos en una millor versió de Google Maps, centrada en la privadesa."
+
+#, no-wrap
+#~ msgid "What will the money be used for?"
+#~ msgstr "Per a què es faran servir els diners?"
+
+#~ msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
+#~ msgstr "Paguem per servidors ràpids, perquè qualsevol persona pugui accedir a les actualitzacions de característiques dels mapes de forma ràpida i sense esperes. Són centenars de terabytes al mes, i la quantitat està creixent."
+
+#~ msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
+#~ msgstr "L'assistència als usuaris, l'arranjament d'errors i la millora de l'estabilitat de l'aplicació són les nostres principals prioritats. Hi ha més de [1800 informes en GitHub][github issues], i aquest número creix cada dia. AppStore, Google Play i els correus d'atenció estan inundats amb comentaris i informes. Volem lliurar un producte de qualitat."
+
+#~ msgid "Weekly and automated map data updates"
+#~ msgstr "Actualitzacions setmanals i automatitzades dels mapes"
+
+#~ msgid "Bookmarks backup and sync"
+#~ msgstr "Còpia de seguretat i sincronització dels llocs d’interès"
+
+#~ msgid "Android Auto"
+#~ msgstr "Android Auto"
+
+#, no-wrap
+#~ msgid ""
+#~ "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
+#~ "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
+#~ msgstr ""
+#~ "[stripe]: https://donate.organicmaps.app/ «Donació amb Stripe»\n"
+#~ "[github issues]: https://github.com/organicmaps/organicmaps/issues «Informes al GitHub»\n"
 
 #~ msgid "To donate immediately, click a preferred payment method icon below:"
 #~ msgstr "Per a fer un donatiu immediatament, feu clic a la icona del mètode de pagament preferit:"
 
 #~ msgid "Click a preferred payment method icon below:"
 #~ msgstr "Feu clic a la icona de pagament preferit:"
-
-#~ msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1200+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-#~ msgstr "L'assistència als usuaris, correcció d'errors i millora d'estabilitat de l'aplicació són les nostres prioritats principals. Hi ha més de [1200 informes al GitHub][github issues] i, aquest número creix cada dia. L'AppStore, el PlayStore i els correus d'atenció estan inundats amb comentaris i informes. Volem lliurar un producte de qualitat."
 
 #, no-wrap
 #~ msgid "There are different ways to donate:"

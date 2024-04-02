@@ -12,9 +12,9 @@
 {%- set resource_title = resource.name %}
 {%- elif taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
 {% if lang == 'en' %}
-  {% set resource = taxonomy.name ~ "/_index.md" %}
+{% set resource = taxonomy.name ~ "/_index.md" %}
 {% else %}
-  {% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
+{% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
 {% endif %}
 {% set resource = get_section(path=resource) %}
 {%- set resource_title = resource.title %}
@@ -92,9 +92,9 @@
   </header>
 
   <main>
-  {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
+    {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
     {% include 'faq/faq-breadcrumbs.html' %}
-  {% endif %}
+    {% endif %}
     {% block content %}{% endblock %}
   </main>
 
