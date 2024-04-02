@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: Gonzalo Pesquero <gpesquero@yahoo.es>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 20:04+0000\nLast-Translator: Gonzalo Pesquero <gpesquero@yahoo.es>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/organicmaps/website/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -834,7 +834,7 @@ msgstr "Contacte con nosotros"
 #: translations.yaml
 #, no-wrap
 msgid "Supported TTS Engines"
-msgstr "Soporta sistemas o motores TTS"
+msgstr "Motores TTS soportados"
 
 #. type: Hash Value: faq-menu-title
 #: translations.yaml
