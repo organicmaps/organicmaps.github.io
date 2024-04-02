@@ -11,6 +11,8 @@ title: 'De Mapas Organicas : escorregudas ciclistas, caminadas, itineraris e per
 
 N’i a gaire a l’ora d’ara d’aplicacions coma **Mapas Organicas** que foncionan entierament sensa la connexion a Internet activa. Installatz Mapas Organicas, teledescargatz de mapas, escampatz vòstra carteta SIM (que, o sabètz, vòstre operator vos es a l’après de lònga) e partètz per una setmana de viatge amb un solet plen de batariá sensa un bit mandat au malhum.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Telecargatz e installatz Mapas Organicas de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -37,7 +39,7 @@ lei ciclistas :
 - Navigacion pas a pas d’a pès, amb la bicicleta, l’automobila e guida de
   votz, Android Auto
 - Recèrcas rapidas sus la mapa e fòra de linha
-- Lei marcadors s'expòrtan e impòrtan en formats KML/KMZ, impòrtan GPX
+- Marcas de libre e traças en formats KML, KMZ, GPX
 - Mòde fosc per protegir vòstreis uelhs
 - Lei país e lei regions utilizan gaire d'espaci
 - De còde liure e dobèrt
@@ -125,6 +127,8 @@ Licéncia Apatxe 2.0.
 - Seguissètz lei noveutats sus [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit] e [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

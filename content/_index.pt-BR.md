@@ -11,6 +11,8 @@ title: 'Organic Maps: Caminhada, Ciclismo, Trilhas e Navegação Offline'
 
 **Organic Maps** é atualmente um dos poucos apps que suporta 100% das suas funcionalidades sem uma conexão ativa com a internet. Instale Organic Maps, baixe mapas, jogue fora seu chip (a propósito, sua operadora o rastreia constantemente), e faça uma viagem no fim de semana com uma única carga de bateria sem nenhum byte enviado para a rede.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Baixe e instale Organic Maps a partir da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -33,7 +35,8 @@ e ciclistas:
   graças ao [OpenStreetMap][openstreetmap]
 - Rotas de ciclismo, trilhas para caminhadas e caminhos para pedestres
 - Curvas de nível, perfis de elevação, picos e encostas
-- Navegação passo a passo a pé, bicicleta e carro, com orientação por voz, Android Auto
+- Navegação passo a passo a pé, bicicleta e carro, com orientação por voz e
+  Android Auto
 - Busca rápida offline no mapa
 - Exportação e importação de marcadores nos formatos KML/KMZ, importação GPX
 - Modo escuro para proteger seus olhos
@@ -65,7 +68,7 @@ O app é verificado pelo [Projeto Exodus Privacy][exodus]:
 
 {{ exodus_screenshot() }}
 
-A versão iOS é verificada por [TrackerControl for iOS][trackercontrol]:
+A versão iOS é verificada por [TrackerControl para iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -122,6 +125,8 @@ Licença Apache 2.0.
 - Siga nossas atualizações no [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit] e [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://pt.wikipedia.org/wiki/Bifurcação_(desenvolvimento_de_software)
 

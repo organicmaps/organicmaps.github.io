@@ -11,6 +11,8 @@ title: 'Organic Maps: Offline Vandring, Cykling, Leder och Navigering'
 
 **Organic Maps** är ett av få program som numera stöder 100 % av funktionerna utan en aktiv internetanslutning. Installera Organic Maps, ladda ner kartor, släng ditt SIM-kort (din operatör spårar dig förresten hela tiden) och gör en veckolång resa med en enda batteriladdning utan att någon byte skickas till nätet.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Ladda ner och installera Organic Maps från [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -37,7 +39,7 @@ cyklister:
 - Tur-för-tur-navigering för promenader, cykling och bilnavigering med
   röststyrning, Android Auto
 - Snabb offline-sökning på kartan
-- Export och import av bokmärken i KML/KMZ-format, import GPX
+- Export och import av bokmärken i KML/KMZ-format, importera GPX
 - Mörkt läge för att skydda dina ögon
 - Länder och regioner tar inte mycket plats
 - Gratis och öppen källkod
@@ -125,6 +127,8 @@ Apache License 2.0.
 - Följ våra uppdateringar på [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit], [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://sv.wikipedia.org/wiki/Fork
 

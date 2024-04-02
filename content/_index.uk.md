@@ -11,6 +11,8 @@ title: 'Organic Maps: Офлайн карти та GPS навігація'
 
 **Organic Maps** - один з небагатьох застосунків, який підтримує 100% функціональність без активного інтернет-з’єднання. Встановіть Organic Maps, завантажте мапи, викиньте SIM-карту (до речі, ваш оператор постійно відстежує вас) та вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Завантажте та встановіть Organic Maps з [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -127,6 +129,8 @@ Organic Maps - це [ПЗ з відкритим початковим кодом]
 - Слідкуйте за нами у [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit], [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA
 

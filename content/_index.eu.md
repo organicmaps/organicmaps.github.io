@@ -11,6 +11,8 @@ title: 'Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabig
 
 **Organic Maps** da konexiorik gabe %100-ean funtzionatzen duen aplikazio gutxietako bat. Instalatu Organic Maps, deskargatu mapak eta bota zaborretara zure SIM txartela (bide batez, zure telefono konpainiak uneoro jarraipena egiten dizu), eta joan asteroko ibilaldira bateria karga batekin eta sarera byte bakarra ere bidali gabe.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Deskargatu eta instalatu Organic Maps hemendik: [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -37,7 +39,8 @@ egokiena:
 - Pausoz-pausoko nabigazioa oinez, bizikletan edo autoz ibiltzeko, ahotsaren
   aukerarekin, Android Auto
 - Mapan offline bilaketa azkarra
-- Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ formatuetan, inportatzeko GPX
+- Tokien laster-markak esportatu eta inportatzeko aukera KML/KMZ
+  formatuetan, inportatzeko GPX
 - Modu iluna zure begiak babesteko
 - Nazio eta herrialdeek ez dute toki askorik hartzen
 - Librea eta kode irekikoa
@@ -67,7 +70,7 @@ Aplikazio hau [Exodus Privacy Project][exodus]-ek egiaztatzen du:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+iOS aplikazioa [TrackerControl iOS-erako][trackercontrol]-ek egiaztatzen du:
 
 {{ trackercontrol_screenshot() }}
 
@@ -91,7 +94,8 @@ Errefusatu jarraipena - besarkatu zure askatasuna.
 App-a denontzat doakoa da. Mesedez [donate](@/donate/index.eu.md) guri
 laguntzeko!
 
-To donate conveniently, click on your preferred payment method icon below:
+Dohaintza egokia emateko, egin klik behean nahi duzun ordainketa-metodoaren
+ikonoan:
 
 {{ donate_buttons() }}
 
@@ -124,6 +128,8 @@ lizentziapean.
 - Jarrai itzazu gure eguneraketak [FOSStodon][fosstodon],
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit]-en eta [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://eu.wikipedia.org/wiki/Fork
 

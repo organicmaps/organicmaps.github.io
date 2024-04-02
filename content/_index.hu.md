@@ -11,6 +11,8 @@ Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás uta
 
 **Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az Organic Maps-et, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -34,9 +36,10 @@ társa:
   léteznek, az [OpenStreetMap][openstreetmap] jóvoltából
 - Kerékpárutak, túraútvonalak és sétaútvonalak
 - Szintvonalak, magassági profilok, csúcsok és lejtők
-- Részletes gyalogos, kerékpáros és autós navigáció hangutasítással, Android Auto
+- Részletes gyalogos, kerékpáros és autós navigáció hangutasítással, Android
+  Auto
 - Gyors offline keresés a térképen
-- Könyvjelzők exportálása és importálása KML/KMZ formátumba/ból, importálása GPX
+- Könyvjelzők és számok KML, KMZ, GPX formátumban
 - Sötét mód a szem védelme érdekében
 - Az országok és régiók adatai nem foglalnak el sok helyet
 - Ingyenes és nyílt forráskódú
@@ -124,7 +127,8 @@ License 2.0-t használja.
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit] és [LinkedIn][LinkedIn]
   szolgáltatásokon.
-- Csatlakozz fordítói közösségekhez: [Magyar fordítók Matrix szobája](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://hu.wikipedia.org/wiki/Fork_%28szoftverfejleszt%C3%A9s%29
 

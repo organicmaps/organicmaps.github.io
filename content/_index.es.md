@@ -11,6 +11,8 @@ title: 'Organic Maps: senderismo, ciclismo y GPS sin conexión'
 
 **Organic Maps** es una de las pocas aplicaciones que hoy en día permiten usar todas las funcionalidades sin una conexión a Internet activa. Instale Organic Maps, descargue mapas, deseche su tarjeta SIM (por cierto, su operadora le rastrea constantemente) y emprenda un viaje semanal con una única carga sin ningún byte enviado a la red.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Descargue e instale Organic Maps desde el [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -34,9 +36,11 @@ senderistas y ciclistas:
   gracias a [OpenStreetMap][openstreetmap]
 - Rutas ciclistas, pistas de senderismo y caminos
 - Líneas de contorno, perfiles de elevación, picos y pendientes
-- Navegación paso a paso con guía por voz a pie, en bici y en coche, Android Auto
+- Navegación paso a paso con guía por voz a pie, en bici y en coche, Android
+  Auto
 - Búsqueda rápida en el mapa y sin conexión
-- Los marcadores se exportan e importan en los formatos KML/KMZ, importan GPX
+- Los marcadores se exportan e importan en los formatos KML/KMZ, importan
+  GPX
 - Modo oscuro para proteger sus ojos
 - Los países y regiones no ocupan demasiado espacio
 - Libre y de código abierto
@@ -124,6 +128,8 @@ Licencia Apache 2.0.
 - Siga nuestras novedades en [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit] y [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)
 

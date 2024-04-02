@@ -11,6 +11,8 @@ title: 'Organic Maps: Offline Wandelen, Fietsen, Routes en Navigatie'
 
 **Organic Maps** is één van de weinige apps heden ten dage die 100% van de functionaliteit heeft zonder actieve internetverbinding. Installeer Organic Maps, download kaarten, gooi je SIM kaart weg (trouwens, je provider trackt je altijd), en ga een week op pad zonder je batterij op te laden en zonder dat er één byte naar het netwerk verzonden wordt.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Download en installeer Organic Maps in de [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -34,7 +36,7 @@ wandelaars en fietsers:
 - Fietsroutes, wandelroutes en -paden
 - Contourlijnen, hoogteprofielen, pieken en hellingen
 - Routebegeleiding voor wandelen en fietsen en autonavigatie met
-  stembegeleiding, Android Auto
+  stembegeleiding en Android Auto
 - Snel offline zoeken op de kaart
 - Bladwijzers exporteren en importeren in KML/KMZ formats, importeren GPX
 - Donkere stand om je ogen te beschermen
@@ -122,6 +124,8 @@ Apache License 2.0.
 - Volg onze update op [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit], [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://nl.wikipedia.org/wiki/Fork_(ontwikkeling)
 

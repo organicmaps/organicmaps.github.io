@@ -11,6 +11,8 @@ title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال
 
 **Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### نزّل و ثبت Organic Maps من [AppStore][appstore]، [Google Play][googleplay]، [FDroid][fdroid]، [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -35,9 +37,10 @@ title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال
   [OpenStreetMap][openstreetmap]
 - مسارات الدراجات، مسارات للتنزه، ومسارات للمشي
 - الخطوط الكنتورية، المرتفعات، القمم والمنحدرات
-- المشي خطوة بخطوة، ركوب الدراجة، قيادة السيارة بالتوجيه الصوتي, Android Auto
+- المشي خطوة بخطوة وركوب الدراجة وقيادة السيارة مع التوجيه الصوتي وAndroid
+  Auto
 - بحث سريع في الخريطة بدون الحاجة لإنترنت
-- تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ, GPX
+- الإشارات المرجعية والمسارات بتنسيقات KML، KMZ، GPX
 - الوضع الداكن لحماية العينين
 - الدول والمناطق لا تحتاج للكثير من المساحة
 - مجاني ومفتوح المصدر
@@ -89,7 +92,7 @@ Organic Maps لا يطلب أذونات مفرطة للتجسس عليك:
 
 التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.md) لدعمنا!
 
-To donate conveniently, click on your preferred payment method icon below:
+للتبرع بسهولة، انقر على أيقونة طريقة الدفع المفضلة لديك أدناه:
 
 {{ donate_buttons() }}
 
@@ -118,6 +121,8 @@ Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تح
 - تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]،
   [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]،
   [FOSStodon][fosstodon]، [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

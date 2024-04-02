@@ -1,7 +1,7 @@
 ---
 description: "Gure doako aplikazioaren garapenean laguntzeko hainbat modu daude"
 extra:
-  menu_title: "Lagundu garapena"
+  menu_title: "Lagundu garapenean"
   preview_image: support-us/support-us.jpg
 title: "Lagundu Organic Maps-en garapenean"
 weight: 20

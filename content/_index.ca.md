@@ -11,6 +11,8 @@ L’**Organic Maps** és una aplicació gratuïta de mapes sense connexió per a
 
 L’**Organic Maps** és una de les poques aplicacions actuals que admet fer servir totes les seves funcions sense una connexió a Internet activa. Instal·leu l’Organic Maps, baixeu mapes, llenceu la vostra targeta SIM (per cert, el vostre operador us rastreja constantment) i feu un viatge setmanal amb una sola càrrega de bateria sense que cap byte s’enviï a la xarxa.
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
@@ -34,7 +36,8 @@ excursionistes i ciclistes:
   gràcies a l'[OpenStreetMap][openstreetmap]
 - Rutes ciclistes, pistes de senderisme i camins
 - Línies de contorn, perfils d'elevació, pics i pendents
-- Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu, Android Auto
+- Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu,
+  Android Auto
 - Cerques ràpides al mapa, sense connexió
 - Marcadors i rutes en format KML, KMZ i GPX
 - Mode fosc per a protegir els vostres ulls
@@ -125,6 +128,8 @@ Llicència Apache 2.0.
 - Seguiu les nostres novetats al [FOSStodon][fosstodon],
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit] i [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://ca.wikipedia.org/wiki/Fork
 

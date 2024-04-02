@@ -1,7 +1,7 @@
 ---
 description: "Organic Maps aplikazioaren erabilera baldintzak"
 extra:
-  menu_title: Baldintzak
+  menu_title: "Erabilera baldintzak"
 title: "Organic Maps: baldintzak"
 weight: 1000
 ---

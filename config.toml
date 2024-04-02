@@ -72,15 +72,16 @@ taxonomies = [
 address = "Adres"
 back = "Terug na nuus"
 contact = "Kontak ons"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Installeer Organic Maps vanaf Huawei Appgallery"
 install-appstore = "Installeer Organic Maps vanaf die AppStore"
 install-googleplay = "Installeer Organic Maps vanaf Google Play"
 install-fdroid = "Installeer Organic Maps vanaf F-Droid"
 language = "Afrikaans"
+language-word = "Language"
 name = "Naam"
 token = "Teken"
-
-# Language: ar (Arabic / العربية)
 [languages.ar]
 taxonomies = [
   {name = "faq", feed = false},
@@ -90,15 +91,16 @@ taxonomies = [
 address = "العنوان"
 back = "العودة إلى الأخبار"
 contact = "اتصل بنا"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "تثبيت Organic Maps من Huawei AppGallery"
 install-appstore = "تثبيت Organic Maps من AppStore"
 install-googleplay = "تثبيت Organic Maps من سوق Google Play"
 install-fdroid = "تثبيت Organic Maps من F-Droid"
 language = "العربية"
+language-word = "Language"
 name = "الاسم"
 token = "رمز"
-
-# Language: ca (Catalonian / Català)
 [languages.ca]
 taxonomies = [
   {name = "faq", feed = false},
@@ -108,15 +110,16 @@ taxonomies = [
 address = "Adreça"
 back = "Torna a Notícies"
 contact = "Contacteu amb nosaltres"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Instal·leu l’Organic Maps des de l’AppGallery de Huawei"
 install-appstore = "Instal·leu l’Organic Maps des de l’AppStore"
 install-googleplay = "Instal·leu l’Organic Maps des del Google Play"
 install-fdroid = "Instal·leu l’Organic Maps des del F-Droid"
 language = "Català"
+language-word = "Language"
 name = "Nom"
 token = "Testimoni"
-
-# Language: cs (Czech / Čeština)
 [languages.cs]
 taxonomies = [
   {name = "faq", feed = false},
@@ -126,15 +129,16 @@ taxonomies = [
 address = "Adresa"
 back = "Zpět na novinky"
 contact = "Kontaktujte nás"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Instalace aplikace Organic Maps z galerie aplikací Huawei"
 install-appstore = "Instalace aplikace Organic Maps z AppStore"
 install-googleplay = "Instalace Organic Maps z Google Play"
 install-fdroid = "Instalace Organic Maps z F-Droid"
 language = "Čeština"
+language-word = "Language"
 name = "Název"
 token = "Token"
-
-# Language: de (German / Deutsch)
 [languages.de]
 taxonomies = [
   {name = "faq", feed = false},
@@ -144,15 +148,16 @@ taxonomies = [
 address = "Adresse"
 back = "Zurück zu den Neuigkeiten"
 contact = "Kontakt"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Installiere Organic Maps aus der Huawei AppGallery"
 install-appstore = "Installiere Organic Maps aus dem AppStore"
 install-googleplay = "Installiere Organic Maps von Google Play"
 install-fdroid = "Installiere Organic Maps aus F-Droid"
 language = "Deutsch"
+language-word = "Language"
 name = "Name"
 token = "Token"
-
-# Language: es (Spanish / Español)
 [languages.es]
 taxonomies = [
   {name = "faq", feed = false},
@@ -172,8 +177,6 @@ language = "Español"
 language-word = "Idioma"
 name = "Nombre"
 token = "Ficha"
-
-# Language: eu (Basque / Euskara)
 [languages.eu]
 taxonomies = [
   {name = "faq", feed = false},
@@ -181,35 +184,37 @@ taxonomies = [
 ]
 [languages.eu.translations]
 address = "Helbidea"
-back = "Back to News"
-contact = "Harremanetan jarri"
-install-appgallery = "Install Organic Maps from Huawei AppGallery"
-install-appstore = "Install Organic Maps from the AppStore"
-install-googleplay = "Install Organic Maps from Google Play"
-install-fdroid = "Install Organic Maps from F-Droid"
+back = "Itzuli Berriak-era"
+contact = "Gurekin harremanetan jarri"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Instalatu Organic Maps Huawei AppGallery-tik"
+install-appstore = "Instalatu Organic Maps AppStoretik"
+install-googleplay = "Instalatu Organic Maps Google Play-tik"
+install-fdroid = "Instalatu Organic Maps F-Droid-etik"
 language = "Euskara"
+language-word = "Language"
 name = "Izena"
 token = "token"
-
-# Language: fr (French / Français)
 [languages.fr]
 taxonomies = [
   {name = "faq", feed = false},
   {name = "news", feed = true},
 ]
 [languages.fr.translations]
-address = "Addresse"
+address = "Adresse"
 back = "Retour aux actualités"
 contact = "Nous contacter"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Installer Organic Maps depuis l'AppGallery de Huawei"
 install-appstore = "Installer Organic Maps depuis l'AppStore"
 install-googleplay = "Installer Organic Maps depuis Google Play"
 install-fdroid = "Installer Organic Maps depuis F-Droid"
 language = "Français"
+language-word = "Language"
 name = "Nom"
 token = "Jeton"
-
-# Language: hi (Hindi / हिंदी)
 [languages.hi]
 taxonomies = [
   {name = "faq", feed = false},
@@ -219,15 +224,16 @@ taxonomies = [
 address = "पता"
 back = "ख़बरों पर वापस जाएं"
 contact = "संपर्क करें"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Huawei AppGallery से ऑर्गेनिक मैप इंस्टॉल करें"
 install-appstore = "AppStore से ऑर्गेनिक मैप इंस्टॉल करें"
 install-googleplay = "गूगल प्ले से ऑर्गेनिक मैप इंस्टॉल करें"
 install-fdroid = "F-Droid से ऑर्गेनिक मैप्स इंस्टॉल करें"
 language = "हिंदी"
+language-word = "Language"
 name = "नाम"
 token = "टोकन/Token"
-
-# Language: hu (Hungarian / Magyar)
 [languages.hu]
 taxonomies = [
   {name = "faq", feed = false},
@@ -237,15 +243,16 @@ taxonomies = [
 address = "Cím"
 back = "Vissza a Hírekhez"
 contact = "Kapcsolat"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Telepítse az Organic Maps-et a Huawei AppGalériából"
 install-appstore = "Telepítse az Organic Maps-et az AppStore-ból"
 install-googleplay = "Telepítse az Organic Maps-et a Google Play-ről"
 install-fdroid = "Telepítse az Organic Maps-et az F-Droidról"
 language = "Magyar"
+language-word = "Language"
 name = "Név"
 token = "Token"
-
-# Language: id (Indonesian / Bahasa Indonesia)
 [languages.id]
 taxonomies = [
   {name = "faq", feed = false},
@@ -255,15 +262,16 @@ taxonomies = [
 address = "Alamat"
 back = "Kembali ke Berita"
 contact = "Hubungi Kami"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Instal Organic Maps dari Huawei AppGallery"
 install-appstore = "Instal Organic Maps dari AppStore"
 install-googleplay = "Instal Organic Maps dari Google Play"
 install-fdroid = "Instal Peta Organik dari F-Droid"
 language = "Bahasa Indonesia"
+language-word = "Language"
 name = "Nama"
 token = "Token"
-
-# Language: it (Italian / Italiano)
 [languages.it]
 taxonomies = [
   {name = "faq", feed = false},
@@ -283,8 +291,6 @@ language = "Italiano"
 language-word = "Lingua"
 name = "Nome"
 token = "Token"
-
-# Language: mr (Marathi / मराठी)
 [languages.mr]
 taxonomies = [
   {name = "faq", feed = false},
@@ -294,15 +300,16 @@ taxonomies = [
 address = "पत्ता"
 back = "बातम्यांवर परता"
 contact = "आमच्याशी संपर्क साधा"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Huawei AppGallery द्वारे Organic Maps स्थापित करा"
 install-appstore = "App Store द्वारे Organic Maps स्थापित करा"
 install-googleplay = "गूगल प्ले द्वारे Organic Maps स्थापित करा"
 install-fdroid = "F-Droid द्वारे Organic Maps स्थापित करा"
 language = "मराठी"
+language-word = "Language"
 name = "नाव"
 token = "Token"
-
-# Language: nl (Dutch / Nederlands)
 [languages.nl]
 taxonomies = [
   {name = "faq", feed = false},
@@ -312,15 +319,16 @@ taxonomies = [
 address = "Adres"
 back = "Terug naar Nieuws"
 contact = "Contacteer ons"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Installeer Organic Maps in de Huawei AppGallery"
 install-appstore = "Installeer Organic Maps in de AppStore"
 install-googleplay = "Installeer Organic Maps op Google Play"
 install-fdroid = "Installeer Organic Maps op F-Droid"
 language = "Dutch"
+language-word = "Language"
 name = "Naam"
 token = "Token"
-
-# Language: oc (Occitan / Occitan)
 [languages.oc]
 taxonomies = [
   {name = "faq", feed = false},
@@ -330,15 +338,16 @@ taxonomies = [
 address = "Address"
 back = "Back to News"
 contact = "Nos contactar"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Installar Mapas Organicas de l’AppGallery de Huawei"
 install-appstore = "Installar Mapas Organicas de l’AppStore"
 install-googleplay = "Installar Mapas Organicas de Google Play"
 install-fdroid = "Installar Mapas Organicas de F-Droid"
 language = "Occitan"
+language-word = "Language"
 name = "Nom"
 token = "geton"
-
-# Language: pl (Polish / Polski)
 [languages.pl]
 taxonomies = [
   {name = "faq", feed = false},
@@ -348,15 +357,16 @@ taxonomies = [
 address = "Adres"
 back = "Powrót do Nowości"
 contact = "Kontakt z nami"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Zainstaluj Organic Maps z Huawei AppGallery"
 install-appstore = "Zainstaluj Organic Maps z AppStore"
 install-googleplay = "Zainstaluj Organic Maps z Google Play"
 install-fdroid = "Zainstaluj Organic Maps z F-Droid"
 language = "Polski"
+language-word = "Language"
 name = "Nazwa"
 token = "Token"
-
-# Language: pt-BR (Portuguese (Brazil) / Português (Brazil))
 [languages.pt-BR]
 taxonomies = [
   {name = "faq", feed = false},
@@ -366,15 +376,16 @@ taxonomies = [
 address = "Endereço"
 back = "Voltar às Notícias"
 contact = "Contate-nos"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Instale Organic Maps a partir da Huawei AppGallery"
 install-appstore = "Instale Organic Maps a partir da AppStore"
 install-googleplay = "Instale Organic Maps a partir da Google Play"
 install-fdroid = "Instale Organic Maps a partir do F-Droid"
-language = "Português (Brazil)"
+language = "Português (Brasil)"
+language-word = "Language"
 name = "Nome"
 token = "Token"
-
-# Language: ru (Russian / Русский)
 [languages.ru]
 taxonomies = [
   {name = "faq", feed = false},
@@ -394,8 +405,6 @@ language = "Русский"
 language-word = "Язык"
 name = "Название"
 token = "Токен"
-
-# Language: sv (Swedish / Svenska)
 [languages.sv]
 taxonomies = [
   {name = "faq", feed = false},
@@ -405,15 +414,16 @@ taxonomies = [
 address = "Adress"
 back = "Tillbaka till nyheter"
 contact = "Kontakta oss"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Installera Organic Maps från Huawei AppGallery"
 install-appstore = "Installera Organic Maps från AppStore"
 install-googleplay = "Installera Organic Maps från Google Play"
 install-fdroid = "Installera Organic Maps från F-Droid"
 language = "Svenska"
+language-word = "Language"
 name = "Namn"
 token = "Token"
-
-# Language: tr (Turkish / Türkçe)
 [languages.tr]
 taxonomies = [
   {name = "faq", feed = false},
@@ -422,16 +432,17 @@ taxonomies = [
 [languages.tr.translations]
 address = "Adres"
 back = "Haberlere geri dön"
-contact = "Bize ulaşın"
+contact = "İletişim"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Organic Maps'i Huawei AppGallery'den İndir"
 install-appstore = "Organic Maps'i AppStore'dan İndir"
 install-googleplay = "Organic Maps'i Google Play'den İndir"
 install-fdroid = "Organic Maps'i F-Droid'den İndir"
 language = "Türkçe"
-name = "İsim"
-token = "Token"
-
-# Language: uk (Ukranian / Українська)
+language-word = "Language"
+name = "Ad"
+token = "Belirteç"
 [languages.uk]
 taxonomies = [
   {name = "faq", feed = false},
@@ -441,15 +452,16 @@ taxonomies = [
 address = "Адреса"
 back = "Назад до Новин"
 contact = "Контакти"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "Встановіть Organic Maps з Huawei AppGallery"
 install-appstore = "Встановіть Organic Maps з AppStore"
 install-googleplay = "Встановіть Organic Maps з Google Play"
 install-fdroid = "Встановіть Organic Maps з F-Droid"
 language = "Українська"
+language-word = "Language"
 name = "Назва"
 token = "Токен"
-
-# Language: zh-CN (Chinese / 英语)
 [languages.zh-CN]
 taxonomies = [
   {name = "faq", feed = false},
@@ -459,15 +471,16 @@ taxonomies = [
 address = "地址"
 back = "返回新闻"
 contact = "联系我们"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "从华为应用市场安装有机地图"
 install-appstore = "从 AppStore 安装 Organic Maps"
 install-googleplay = "从 Google Play 安装有机地图"
 install-fdroid = "从 F-Droid 安装有机地图"
 language = "英语"
+language-word = "Language"
 name = "姓名"
 token = "令牌"
-
-# Language: zh-Hans (Simplified Chinese / मराठी)
 [languages.zh-Hans]
 taxonomies = [
   {name = "faq", feed = false},
@@ -477,10 +490,111 @@ taxonomies = [
 address = "地址"
 back = "返回到新闻"
 contact = "联系我们"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
 install-appgallery = "从华为应用商店安装Organic Maps"
 install-appstore = "从Apple AppStore安装Organic Maps"
 install-googleplay = "从Google Play安装Organic Maps"
 install-fdroid = "从F-Droid安装Organic Maps"
 language = "简体中文"
+language-word = "Language"
 name = "名称"
 token = "令牌"
+[languages.et.translations]
+address = "Aadress"
+back = "Tagasi uudiste loendisse"
+contact = "Võta meiega ühendust"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Paigalda Organic Maps Huawei AppGallery'st"
+install-appstore = "Paigalda Organic Maps AppStore'st"
+install-googleplay = "Paigalda Organic Maps Google Play'st"
+install-fdroid = "Paigalda Organic Maps F-Droid'ist"
+language = "Eesti"
+language-word = "Language"
+name = "Nimi"
+token = "Tunnusluba"
+[languages.gl.translations]
+address = "Direccións"
+back = "Volver a Noticias"
+contact = "Contacta connosco"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Instalar mapas orgánicos desde Huawei AppGallery"
+install-appstore = "Instala Organic Maps desde a AppStore"
+install-googleplay = "Instala Organic Maps desde Google Play"
+install-fdroid = "Instala Organic Maps desde F-Droid"
+language = "Gallego"
+language-word = "Language"
+name = "Nome"
+token = "Token"
+[languages.pt.translations]
+address = "Endereço"
+back = "Voltar às notícias"
+contact = "Contacte-nos"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Instalar o Organic Maps a partir da Huawei AppGallery"
+install-appstore = "Instalar o Organic Maps a partir da AppStore"
+install-googleplay = "Instalar o Organic Maps a partir do Google Play"
+install-fdroid = "Instalar o Organic Maps a partir do F-Droid"
+language = "Português"
+language-word = "Language"
+name = "Nome"
+token = "Token"
+[languages.lt.translations]
+address = "Adresas"
+back = "Back to News"
+contact = "Susisiekite su mumis"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Install Organic Maps from Huawei AppGallery"
+install-appstore = "Install Organic Maps from the AppStore"
+install-googleplay = "Install Organic Maps from Google Play"
+install-fdroid = "Install Organic Maps from F-Droid"
+language = "Lietuvių"
+language-word = "Language"
+name = "Vardas"
+token = "Žetonas"
+[languages.ml.translations]
+address = "വിലാസം"
+back = "വാർത്തയിലേക്ക് മടങ്ങുക"
+contact = "ഞങ്ങളെ സമീപിക്കുക"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Install Organic Maps from Huawei AppGallery"
+install-appstore = "Install Organic Maps from the AppStore"
+install-googleplay = "Install Organic Maps from Google Play"
+install-fdroid = "Install Organic Maps from F-Droid"
+language = "മലയാളം"
+language-word = "Language"
+name = "പേര്"
+token = "ടോക്കൺ"
+[languages.te.translations]
+address = "Address"
+back = "Back to News"
+contact = "Contact us"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Install Organic Maps from Huawei AppGallery"
+install-appstore = "Install Organic Maps from the AppStore"
+install-googleplay = "Install Organic Maps from Google Play"
+install-fdroid = "Install Organic Maps from F-Droid"
+language = "తెలుగు"
+language-word = "Language"
+name = "Name"
+token = "Token"
+[languages.cy.translations]
+address = "Cyfeiriad"
+back = "Yn ôl i Newyddion"
+contact = "Cysylltwch â ni"
+engines = "Supported TTS Engines"
+faq-menu-title = "F.A.Q."
+install-appgallery = "Lawr lwythwch Organic Maps o Huawei AppGallery"
+install-appstore = "Lawr lwythwch Organic Maps o AppStore"
+install-googleplay = "Lawr lwythwch Organic Maps o Google Play"
+install-fdroid = "Lawr lwythwch Organic Maps o F-Droid"
+language = "Cymraeg"
+language-word = "Language"
+name = "Enw"
+token = "Tocyn"

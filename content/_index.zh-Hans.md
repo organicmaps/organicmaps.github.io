@@ -11,6 +11,8 @@ title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
 
 **Organic Maps** 是目前少数几个不需要持续互联网连接就能支持100%功能的应用程序之一。安装Organic Maps，下载地图，扔掉你的SIM卡（顺便说一下，你的运营商会不断地跟踪你），充一次电池就可以出去旅行一周而不需要通过网络发送哪怕一个字节。
 
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
 ### 从 [AppStore][appstore]、[Google Play][googleplay]、[FDroid][fdroid]、[华为 AppGallery][appgallery] 下载并安装Organic Maps {#install}
 
 {{ badges() }}
@@ -105,8 +107,10 @@ Organic Maps是一个以Apache许可证2.0授权的[开源软件][github]。
 - [Discuss][ideas]创意点子、功能需求。
 - 订阅我们的[Telegram频道][telegram]或[matrix空间][matrix]以获取最新信息。
 - 加入我们的[Telegram组][telegram_chat]，与其他用户讨论。
-- Visit our [GitHub page][github].
+- 访问我们的[GitHub页面][github]。
 - 在[FOSStodon][fosstodon]、[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[Reddit][reddit]、[LinkedIn][LinkedIn]关注我们的更新。
+- Join (or create and let us know) local communities: [Hungarian translators
+  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://zh.wikipedia.org/wiki/%E5%88%86%E5%8F%89_(%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)
 
