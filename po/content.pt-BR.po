@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 23:46+0000\nLast-Translator: Matheus Gomes Correia <matheus.gomes03@hotmail.com>\nLanguage-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/organicmaps/website/pt_BR/>\nLanguage: pt-BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-03 04:09+0000\nLast-Translator: Matheus Gomes Correia <matheus.gomes03@hotmail.com>\nLanguage-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/organicmaps/website/pt_BR/>\nLanguage: pt-BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -30,7 +30,7 @@ msgstr "Organic Maps: Caminhada, Ciclismo, Trilhas e Navegação Offline"
 msgid ""
 "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
 "It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** é um aplicativo gratuito para Android e iOS de mapas offline para viajantes, turistas, caminhantes e ciclistas baseado nos dados do **[OpenStreetMap][openstreetmap]**. É um aplicativo com foco na privacidade, sendo uma [bifurcação][fork] aberta do app **Maps.me** (anteriormente conhecido como [**MapsWithMe**][mapswithme]), mantido pelas mesmas pessoas que criaram o **MapsWithMe** em 2011.\n"
+msgstr "**Organic Maps** é um aplicativo gratuito para Android e iOS de mapas offline para viajantes, turistas, caminhantes e ciclistas baseado nos dados do **[OpenStreetMap][openstreetmap]**.\nÉ um aplicativo com foco na privacidade, sendo uma [bifurcação][fork] aberta do app **Maps.me** (anteriormente conhecido como [**MapsWithMe**][mapswithme]), mantido pelas mesmas pessoas que criaram o **MapsWithMe** em 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
