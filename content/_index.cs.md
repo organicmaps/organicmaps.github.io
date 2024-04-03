@@ -7,13 +7,14 @@ sort_by: weight
 title: 'Organic Maps: Offline pěší turistika, cykloturistika, stezky a navigace'
 ---
 
-**Organic Maps** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.
+**Organic Maps** je bezplatná offline mapová aplikace pro systémy Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**.
+Jedná se o open-source [odnož][fork] aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]) zaměřenou na ochranu soukromí, kterou spravují stejní lidé, kteří **MapsWithMe** v roce 2011 vytvořili.
 
 **Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> V roce 2023 získaly Organic Maps [první milion](@/news/2023-12-23/281/index.md) uživatelů. [Pomozte nám](@/donate/index.md) dále růst!
 
-### Stáhněte si a nainstalujte Organic Maps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Stáhněte a nainstalujte si Organic Maps z obchodů [App Store][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
 {{ badges() }}
 
@@ -61,7 +62,7 @@ Organic Maps neobsahuje sledovací zařízení a další špatné věci:
 - Žádná obtěžující registrace
 - Žádné povinné výukové programy
 - Žádný hlučný e-mailový spam
-- Žádná oznámení push
+- Žádná vyskakovací oznámení
 - Žádný crapware
 - ~~Žádné pesticidy~~ Čistě organické!
 
@@ -127,8 +128,9 @@ License 2.0.
 - Sledujte naše aktualizace na [FOSStodon][fosstodon],
   [Mastodonu][mastodon], [Facebooku][facebook], [Twitteru][twitter],
   [Instagramu][instagram], [Redditu][reddit], [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Připojte se (nebo vytvořte vlastní a dejte nám vědět) k lokálním
+  komunitám: [místnost Matrix maďarských
+  překladatelů](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

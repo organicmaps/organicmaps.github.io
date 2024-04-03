@@ -11,7 +11,7 @@ title: 'Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation'
 
 **Organic Maps** ist heutzutage eine der wenigen Apps, die 100% ihrer Funktionen ohne aktive Internetverbindung unterstützt. Installiere Organic Maps, lade Karten herunter, wirf deine SIM-Karte weg (dein Betreiber verfolgt dich übrigens ständig) und mache einen Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> Im Jahr 2023 erreichte Organic Maps [seine ersten Million](/@/news/2023-12-23/281/index.md) Nutzer. [Hilf uns](/@/donate/index.md), zu skalieren!
 
 ### Organic Maps von [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] herunterladen und installieren {#install}
 
@@ -129,8 +129,9 @@ License 2.0 lizenziert ist.
 - Verfolge unsere Neuigkeiten auf [FOSStodon][fosstodon],
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Trete lokalen Gemeinschaften bei (oder erstelle eine und informiere uns):
+  [Ungarische Übersetzer
+  Matrix-Raum](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://de.wikipedia.org/wiki/Abspaltung_(Softwareentwicklung)
 

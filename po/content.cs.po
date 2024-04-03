@@ -804,7 +804,7 @@ msgstr "[github]: https://github.com/organicmaps/organicmaps"
 #: content/terms/index.md
 #, no-wrap
 msgid "[license]: http://www.apache.org/licenses/LICENSE-2.0"
-msgstr "[licence]: http://www.apache.org/licenses/LICENSE-2.0"
+msgstr "[license]: http://www.apache.org/licenses/LICENSE-2.0"
 
 #. type: Link reference
 #: content/terms/index.md

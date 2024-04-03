@@ -68,7 +68,8 @@ De applicatie is geverifieerd door [Exodus Privacy Project][exodus]:
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+De iOS applicatie is geverifieerd door [TrackerControl voor
+iOS][trackercontrol]:
 
 {{ trackercontrol_screenshot() }}
 
@@ -91,7 +92,8 @@ Weiger toezicht – omarm je vrijheid.
 De app is voor iedereen gratis. [Doneer](@/donate/index.nl.md) alstublieft
 om ons te ondersteunen!
 
-To donate conveniently, click on your preferred payment method icon below:
+Om gemakkelijk te doneren, klik op het icoon van uw
+voorkeurs-betalingsmethode hieronder:
 
 {{ donate_buttons() }}
 

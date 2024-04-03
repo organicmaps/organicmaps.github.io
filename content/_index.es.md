@@ -11,7 +11,7 @@ title: 'Organic Maps: senderismo, ciclismo y GPS sin conexión'
 
 **Organic Maps** es una de las pocas aplicaciones que hoy en día permiten usar todas las funcionalidades sin una conexión a Internet activa. Instale Organic Maps, descargue mapas, deseche su tarjeta SIM (por cierto, su operadora le rastrea constantemente) y emprenda un viaje semanal con una única carga sin ningún byte enviado a la red.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> En 2023 Organic Maps [alcanzó su primer millón de usuarios](@/news/2023-12-23/281/index.md). ¡[Ayúdenos](@/donate/index.md) a crecer!
 
 ### Descargue e instale Organic Maps desde el [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
@@ -128,8 +128,9 @@ Licencia Apache 2.0.
 - Siga nuestras novedades en [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit] y [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Únase (o cree y háganoslo saber) a las comunidades locales: [Sala Matrix
+  de traductores de
+  húngaro](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)
 

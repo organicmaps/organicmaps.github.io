@@ -798,7 +798,7 @@ msgstr "Vea también el archivo [data/copyright.html][copyright] para una lista 
 #: content/terms/index.md
 #, no-wrap
 msgid "[github]: https://github.com/organicmaps/organicmaps"
-msgstr "[github]: https://github.com/organicmaos/organicmaos"
+msgstr "[github]: https://github.com/organicmaps/organicmaps"
 
 #. type: Link reference
 #: content/terms/index.md

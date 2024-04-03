@@ -7,11 +7,12 @@ sort_by: weight
 title: 'Organic Maps: Caminhada, Ciclismo, Trilhas e Navegação Offline'
 ---
 
-**Organic Maps** é um aplicativo gratuito para Android e iOS de mapas offline para viajantes, turistas, caminhantes e ciclistas baseado nos dados do **[OpenStreetMap][openstreetmap]**. É um aplicativo com foco na privacidade, sendo uma [bifurcação][fork] aberta do app **Maps.me** (anteriormente conhecido como [**MapsWithMe**][mapswithme]), mantido pelas mesmas pessoas que criaram o **MapsWithMe** em 2011.
+**Organic Maps** é um aplicativo gratuito para Android e iOS de mapas offline para viajantes, turistas, caminhantes e ciclistas baseado nos dados do **[OpenStreetMap][openstreetmap]**.
+É um aplicativo com foco na privacidade, sendo uma [bifurcação][fork] aberta do app **Maps.me** (anteriormente conhecido como [**MapsWithMe**][mapswithme]), mantido pelas mesmas pessoas que criaram o **MapsWithMe** em 2011.
 
 **Organic Maps** é atualmente um dos poucos apps que suporta 100% das suas funcionalidades sem uma conexão ativa com a internet. Instale Organic Maps, baixe mapas, jogue fora seu chip (a propósito, sua operadora o rastreia constantemente), e faça uma viagem no fim de semana com uma única carga de bateria sem nenhum byte enviado para a rede.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> Em 2023, Organic Maps [alcançou seu primeiro milhão de usuários](@/news/2023-12-23/281/index.md). [Ajude-nos](@/donate/index.md) a crescer!
 
 ### Baixe e instale Organic Maps a partir da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
@@ -125,8 +126,9 @@ Licença Apache 2.0.
 - Siga nossas atualizações no [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit] e [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Junte-se (ou crie e nos diga) às comunidades locais: [Sala Matrix de
+  tradutores de
+  húngaro](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
 
 [fork]: https://pt.wikipedia.org/wiki/Bifurcação_(desenvolvimento_de_software)
 
