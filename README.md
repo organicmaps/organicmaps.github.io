@@ -35,6 +35,12 @@ taxonomies:
   news: ["Releases"]
 ```
 
+For external links and press releases use this taxonomy:
+```yaml
+taxonomies:
+  news: ["Press"]
+```
+
 ## Taxonomy and F.A.Q. architecture
 
 Each MD page in `/faq/` has one or more taxonomy defined in header. E.g.:
