@@ -4,13 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-02 19:54+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Welsh <https://hosted.weblate.org/projects/organicmaps/website/cy/>\nLanguage: cy\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-04 07:03+0000\nLast-Translator: Rhys Wynne <rhysw1@gmail.com>\nLanguage-Team: Welsh <https://hosted.weblate.org/projects/organicmaps/website/cy/>\nLanguage: cy\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "Mapiau manwl cyflym all-lein ar gyfer teithwyr, twristiaid, gyrwyr, heicwyr a seiclwyr wedi'i chreu gan sylfaenwyr MapsWithMe (Maps.Me)."
+msgstr "Mapiau manwl cyflym all-lein ar gyfer teithwyr, twristiaid, gyrwyr, heicwyr a seiclwyr wedi'u creu gan sylfaenwyr MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
@@ -20,23 +20,23 @@ msgstr "Hafan"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "Organic Maps: Crwydro, Seiclo, Llwybrau a Hwylio All-lein"
+msgstr "Organic Maps: Crwydro, Seiclo, Llwybrau a Llywio All-lein"
 
 #. type: Plain text
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
 "It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "Mae **Organic Maps** yn ap am ddim ar gyfer Android ac iOS gyda mapiau all-lein ar gyfer teithwyr, twristiaid, heicwyr a seiclwyr ar sail data cyfraniad torfol **[OpenStreetMap][openstreetmap]**. Mae'n [fforc][fork] cod agored a phreifat o'r ap **Maps.me** ([**MapsWithMe**][mapswithme] cyn hynny), a chynhelir gan yr union bobl sydd wedi creu **MapsWithMe** yn 2011.\n"
+msgstr "Mae **Organic Maps** yn ap am ddim ar gyfer Android ac iOS gyda mapiau all-lein ar gyfer teithwyr, twristiaid, heicwyr a seiclwyr ar sail data cyfraniad torfol **[OpenStreetMap][openstreetmap]**. Mae'n [fforch][fork] cod agored a phreifat o'r ap **Maps.me** ([**MapsWithMe**][mapswithme] cyn hynny), a chynhelir gan yr union bobl sydd wedi creu **MapsWithMe** yn 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** yw un o'r unig apiau y dyddiau hyn sy'n cefnogi 100% o nodweddion heb angen cysylltiad rhyngrwyd. Gosodwch Organic Maps, lawrlwythwch mapiau, a chael gwared ar eich cerdyn SIM (gyda llaw, mae eich gweithredwr yn eich tracio chi'n gyson), a chewch mynd ar drip am yr wythnos heb angen gwefru eich ffôn, a heb ddanfon beit i'r rhwydwaith.\n"
+msgstr "**Organic Maps** yw un o'r ychydig apiau y dyddiau hyn sy'n cefnogi 100% o nodweddion heb angen cysylltiad rhyngrwyd. Gosodwch Organic Maps, lawrlwythwch mapiau, a chael gwared ar eich cerdyn SIM (gyda llaw, mae eich gweithredwr yn eich tracio chi'n gyson), a chewch fynd ar drip am wythnos heb angen gwefru eich ffôn, a heb ddanfon beit i'r rhwydwaith.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -48,7 +48,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "Lawrlwytho a gosod Organic Maps o [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+msgstr "Lawrlwythwch a gosod Organic Maps o [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -62,8 +62,9 @@ msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Heicio') }}"
 
 #. type: Plain text
 #: content/_index.md
+#, fuzzy
 msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
+msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -98,8 +99,9 @@ msgstr "Llwybrau seiclo, heicio, a cherdded"
 
 #. type: Bullet: '- '
 #: content/_index.md
+#, fuzzy
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr "Cyfuchlinau, proffeiliau dyrchafiad, brigau, a llethrau"
+msgstr "Cyfuchlinau, proffeiliau dyrchafiad, copaon, a llethrau"
 
 #. type: Bullet: '- '
 #: content/_index.md
