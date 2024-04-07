@@ -6,7 +6,7 @@ taxonomies:
   news: ["Releases"]
 ---
 
-Let us announce the **March/April release** and welcome new contributors:
+Let us announce the **March/April release** ([install here](https://omaps.app/get)) and welcome new contributors:
 
 * Isira-Seneviratne made their first contribution in [#7494](https://github.com/organicmaps/organicmaps/issues/7494)
 * Mannivu made their first contribution in [#7547](https://github.com/organicmaps/organicmaps/issues/7547)
