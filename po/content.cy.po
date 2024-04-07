@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-06 12:49+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Welsh <https://hosted.weblate.org/projects/organicmaps/website/cy/>\nLanguage: cy\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-08 09:01+0000\nLast-Translator: Rhys Wynne <rhysw1@gmail.com>\nLanguage-Team: Welsh <https://hosted.weblate.org/projects/organicmaps/website/cy/>\nLanguage: cy\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -22,7 +22,7 @@ msgstr "Hafan"
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "Organic Maps: Crwydro, Seiclo, Llwybrau a Hwylio All-lein"
+msgstr "Organic Maps: Crwydro, Seiclo, Llwyio a Hwylio All-lein"
 
 #. type: Plain text
 #: content/_index.md
@@ -36,7 +36,7 @@ msgstr "Mae **Organic Maps** yn ap am ddim ar gyfer Android ac iOS gyda mapiau a
 #: content/_index.md
 #, no-wrap
 msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Organic Maps** yw un o'r unig apiau y dyddiau hyn sy'n cefnogi 100% o nodweddion heb angen cysylltiad rhyngrwyd. Gosodwch Organic Maps, lawrlwythwch mapiau, a chael gwared ar eich cerdyn SIM (gyda llaw, mae eich gweithredwr yn eich tracio chi'n gyson), a chewch mynd ar drip am yr wythnos heb angen gwefru eich ffôn, a heb ddanfon beit i'r rhwydwaith.\n"
+msgstr "**Organic Maps** yw un o'r ychydig apiau y dyddiau hyn sy'n cefnogi 100% o nodweddion heb angen cysylltiad rhyngrwyd. Gosodwch Organic Maps, lawrlwythwch mapiau, a chael gwared ar eich cerdyn SIM (gyda llaw, mae eich gweithredwr yn eich tracio chi'n gyson), a chewch fynd ar drip am wythnos heb angen gwefru eich ffôn, a heb ddanfon beit i'r rhwydwaith.\n"
 
 #. type: Plain text
 #: content/_index.md
@@ -99,7 +99,7 @@ msgstr "Llwybrau seiclo, heicio, a cherdded"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr "Cyfuchlinau, proffeiliau dyrchafiad, brigau, a llethrau"
+msgstr "Cyfuchlinau, proffeiliau dyrchafiad, copaon, a llethrau"
 
 #. type: Bullet: '- '
 #: content/_index.md
