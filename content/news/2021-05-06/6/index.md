@@ -11,3 +11,4 @@ Install Organic Maps from:
 - [App Store](https://apps.apple.com/app/organic-maps/id1567437057)
 - [FDroid](https://f-droid.org/en/packages/app.organicmaps/)
 - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C104325611)
+- [Gentoo Linux Guru overlay](https://gpo.zugaina.org/Overlays/guru/gui-apps/organicmaps)

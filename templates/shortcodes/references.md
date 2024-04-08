@@ -1,4 +1,5 @@
 [appgallery]: https://appgallery.huawei.com/#/app/C104325611?local={{ lang }} "{{ trans(key='install-appgallery', lang=lang) }}"
+[gentoo]: https://gpo.zugaina.org/Overlays/guru/gui-apps/organicmaps
 [appgallery_review]: appmarket://details?id=app.organicmaps
 [appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "{{ trans(key='install-appstore', lang=lang) }}"
 [appstore_review]: https://itunes.apple.com/app/id1567437057?action=write-review
