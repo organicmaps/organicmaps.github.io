@@ -15,43 +15,33 @@ As all map data used in Organic Maps comes from [OpenStreetMap.org (OSM)](https:
 
 ## OpenStreetMap Editors
 
-For editing OSM, there are several options. If you have a desktop PC at hand, it is recommended that you use the ID Editor. The editor is easy to use for beginners, and a bigger screen, mouse, and keyboard make editing easier. The editor runs in your browser, so no installation is required.
+For editing OSM, there are several options. If you have a laptop or desktop computer at hand, it's better to use the [ID Editor](https://www.openstreetmap.org/edit) that runs in your browser. The ID Editor is easy for beginners, and a bigger screen, mouse, and keyboard make map editing easier.
 
-If you don't have a desktop PC at hand, you can use the mobile editors Go Map for ios or Vespucci for Android. Go Map is easy to use for beginners, while Vespucci targets more advanced users.
+For advanced map editing from a mobile device, use [Go Map](https://apps.apple.com/us/app/go-map/id592990211) for iOS or [Vespucci](https://play.google.com/store/apps/details?id=de.blau.android) for Android. Go Map is easy for beginners, while Vespucci targets more advanced users. LearnOSM provides tutorials for [Go Map](https://learnosm.org/en/mobile-mapping/gomap/) and [Vespucci](https://learnosm.org/en/mobile-mapping/vespucci/).
 
-Please pick one of the three editors to proceede.
+For simpler edits with more fun, you may also try [Every Door app](https://every-door.app/) for iOS and Android and [StreetComplete app](https://streetcomplete.app/) for Android.
 
 #### ID Editor
+
 For editing OpenStreetMap with ID follow these steps:
 
 1. Create a new account or log in at [OpenStreetMap.org](https://www.openstreetmap.org)
-2. Browse to the location you want to edit on OpenStreetMap.org and click *Edit*
+2. Browse to the location you want to edit on OpenStreetMap.org and click *Edit* at the top
 3. *Start the Walkthrough* and follow the short tutorial that explains the ID Editor
 4. Edit the map
 5. Upload your changes
 
-That's it, you are now part of the OSM community. Wait for the next Organic Maps update to see the changes in your favorite map app.
-
-#### Go Map
-For editing OpenStreetMap with Go Map follow these steps:
-
-1. Download the app from the [App Store](https://apps.apple.com/de/app/go-map/id592990211)
-2. Follow the detailed [LearnOSM tutorial](https://learnosm.org/en/mobile-mapping/gomap/)
-
-#### Vespucci
-For editing OpenStreetMap with Vespucci follow these steps:
-
-1. Download the app from the [Play Store](https://play.google.com/store/apps/details?id=de.blau.android) or from [F-Droid](https://f-droid.org/en/packages/de.blau.android/).
-2. Follow the detailed [LearnOSM tutorial](https://learnosm.org/en/mobile-mapping/vespucci/)
+That's it, you are now part of the OSM community.
 
 ## What happens with my edits?
-Once you press *Upload* your changes are instantly added to the public OSM database. So be considerate when editing. Your e-mail is not published, but other people will be able to see your OSM user name. 
 
-As OSM offers the possibility to discuss changes, you might get questions about your edits from other OSM contributors. You will be notified about this via the e-mail address you used for registering your OSM account. As OSM is a community project that builds on collaboration you should always answer such questions.
+Once you press *Upload* your changes are instantly added to the public OSM database. So be considerate when editing. In Organic Maps, your changes will be visible after the next monthly map update. 
+
+Your e-mail is not published, but other people will be able to see your OSM user name. As OSM offers the possibility to discuss changes, you might get questions about your edits from other OSM contributors. You will be notified about this via the e-mail address you used for registering your OSM account. As OSM is a community project that builds on collaboration you should always answer such questions.
 
 ## Community and Wiki
 
-OpenStreetMap is a community. If you need help you can ask in the [OSM Forum](https://community.openstreetmap.org/) or take a look at the [OSM Wiki](https://wiki.openstreetmap.org/) documentation.
+OpenStreetMap is a community. If you need help or have any questions you can ask in the [OSM Forum](https://community.openstreetmap.org/c/help-and-support) or take a look at the [OSM Wiki](https://wiki.openstreetmap.org/) documentation.
 
 ## Tags - How the OSM datamodel works
 
@@ -65,14 +55,18 @@ Note that the ID editor hides the internal data structure from the users to be m
 In the ID Editor, you can see the Tags that ID is hiding from you by expanding the *Tags* section in the *Edit feature* side panel.
 
 ## OSM Notes
+
 If you don't have time or the problem is too complicated for editing the OSM data yourself OSM Notes ([Wiki](https://wiki.openstreetmap.org/wiki/Notes)) are the way to go. You can place such a note in the location of the map error and describe the problem in detail. Other OSM volunteers can then help and solve the issue. You will get e-mail notifications via your OSM account in case they have further questions or the OSM Note is solved.
 
 1. Create a new account or log in at [OpenStreetMap.org](https://www.openstreetmap.org)
     > You can also open anonymous Notes, but this is not recomended as you won't get notified when the issue is solved or there are further questions.
 
+    &nbsp;
 
 2. Zoom to the map location on [OpenStreetMap.org](https://www.openstreetmap.org) and press *Add a note to the map* (second icon from the bottom on the right menue). Then drag the blue map marker to the exact location.
-    > Try to be as precice as you can 
+    > Try to be as precice as you can
+
+    &nbsp;
 
 
 3. Provide a detailed description of the map problem and press *Add Note* 
