@@ -23,6 +23,4 @@ extra:
   marketing_section_list_item_6: Benchmark competitors to understand how social marketing is evolving and provide actionable insights and recommendations.
   marketing_section_list_item_7: Evaluate end-to-end customer experience across multiple channels and customer touch points. Identify the latest trends and tools in social marketing to increase brand visibility"." Create timely, and relevant content topics based on keyword research.
   marketing_section_list_item_8: Manage the reporting for all social media channels
-  
-
 ---
