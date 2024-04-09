@@ -1,5 +1,5 @@
 ---
-description: 
+description: Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app
 template: download.html
 weight: 10
 extra:

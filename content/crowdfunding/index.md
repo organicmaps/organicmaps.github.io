@@ -1,5 +1,5 @@
 ---
-description: 
+description: Be a part of the movement towards privacy and community in navigation. Support Organic Maps and help us create a better future for travelers worldwide.
 template: crowdfunding.html
 weight: 10
 extra:

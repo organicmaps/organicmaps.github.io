@@ -1,5 +1,5 @@
 ---
-description: 
+description: Discover the world of open and private navigation. Built by the community, it's the top choice for drivers, hikers, and cyclists seeking privacy and freedom.
 template: about-us.html
 weight: 10
 extra:
