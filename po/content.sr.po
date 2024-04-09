@@ -4,25 +4,25 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-06 12:49+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Serbian <https://hosted.weblate.org/projects/organicmaps/website/sr/>\nLanguage: sr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.5-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-04-10 01:09+0000\nLast-Translator: ZeljkoBG <zeljko.velickovic@gmail.com>\nLanguage-Team: Serbian <https://hosted.weblate.org/projects/organicmaps/website/sr/>\nLanguage: sr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr ""
+msgstr "Brze detaljne mape bez interneta za putnike, turiste, vozače, planinare i bicikliste koje su izradili osnivači aplikacije MapsWithMe (Maps.Me)."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr "Почетна"
+msgstr "Početna"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "Organic Maps: planinarenje, biciklizam i navigacija bez interneta"
 
 #. type: Plain text
 #: content/_index.md
@@ -54,7 +54,7 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "{{ badges() }}"
-msgstr ""
+msgstr "{{ badges() }}"
 
 #. type: Plain text
 #: content/_index.md
@@ -84,13 +84,13 @@ msgstr ""
 #: content/_index.md
 #, markdown-text, no-wrap
 msgid "Features"
-msgstr "Карактеристике"
+msgstr "Funkcije"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr ""
+msgstr "Organic Maps vrhunska aplikacija za putnike, turiste, planinare i bicikliste:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -186,109 +186,109 @@ msgstr ""
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No ads"
-msgstr ""
+msgstr "Bez reklama"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No tracking"
-msgstr ""
+msgstr "Bez praćenja"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No data collection"
-msgstr ""
+msgstr "Ne skupljamo podatke"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No phoning home"
-msgstr ""
+msgstr "Nema telefoniranja kući"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No annoying registration"
-msgstr ""
+msgstr "Nema dosadne registracije"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No mandatory tutorials"
-msgstr ""
+msgstr "Nema obaveznih vodiča"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No noisy email spam"
-msgstr ""
+msgstr "Bez spama"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
 #, markdown-text
 msgid "No push notifications"
-msgstr ""
+msgstr "Bez dosadnih notifikacija"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "No crapware"
-msgstr ""
+msgstr "Nema smeća"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "~~No pesticides~~ Purely organic!"
-msgstr ""
+msgstr "~~Bez pesticida~~ Čista organska!"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr ""
+msgstr "Program je testiran [Exodus Privacy Project][exodus]:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ exodus_screenshot() }}"
-msgstr ""
+msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "iOS aplikaciju proverava [TrackerControl for iOS][trackercontrol]:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr ""
+msgstr "Organic Maps ne zahteva dozvole, da te špijunira:"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "{{ privacy_screenshots() }}"
-msgstr ""
+msgstr "{{ privacy_screenshots() }}"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
 msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr ""
+msgstr "Organic Maps, mi verujemo da je privatnost je temeljno ljudsko pravo:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
 msgid "Organic Maps is an indie community-driven open-source project"
-msgstr ""
+msgstr "Organic Maps je nezavisni projekt otvorenog koda koji pokreće zajednica"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -852,7 +852,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr "Изрази"
+msgstr "Odredbe"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -894,7 +894,7 @@ msgstr ""
 #: content/terms/index.md
 #, markdown-text
 msgid "tools"
-msgstr "Алатке"
+msgstr "Alati"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -930,7 +930,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Address"
-msgstr "Address"
+msgstr "Adrese"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -942,7 +942,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contact Us"
-msgstr "Обратите нам се"
+msgstr "Kontaktiraj nas"
 
 #. type: Hash Value: engines
 #: translations.yaml
@@ -954,7 +954,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "F.A.Q."
-msgstr ""
+msgstr "F.A.Q."
 
 #. type: Hash Value: install-appgallery
 #: translations.yaml
@@ -978,7 +978,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Install Organic Maps from Google Play"
-msgstr ""
+msgstr "Instaliraj Organic Maps preko Google Play"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -990,13 +990,13 @@ msgstr "Srpski"
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr "Језик"
+msgstr "Jezik"
 
 #. type: Hash Value: name
 #: translations.yaml
 #, no-wrap
 msgid "Name"
-msgstr "First Name"
+msgstr "Ime"
 
 #. type: Hash Value: token
 #: translations.yaml
