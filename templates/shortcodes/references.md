@@ -1,3 +1,5 @@
+[FOSStodon]: https://fosstodon.org/@organicmaps "FOSStodon"
+[LinkedIn]:  https://www.linkedin.com/company/organic-maps/
 [appgallery]: https://appgallery.huawei.com/#/app/C104325611?local={{ lang }} "{{ trans(key='install-appgallery', lang=lang) }}"
 [appgallery_review]: appmarket://details?id=app.organicmaps
 [appstore]: https://apps.apple.com/app/organic-maps/id1567437057 "{{ trans(key='install-appstore', lang=lang) }}"
@@ -5,21 +7,18 @@
 [contributing]: https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md
 [email]: mailto:support@organicmaps.app
 [exodus]: https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/
-[trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
 [facebook]: https://facebook.com/OrganicMaps
 [fdroid]: https://f-droid.org/{{ lang | truncate(length=2, end="") }}/packages/app.organicmaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
 [firebase]: https://appdistribution.firebase.dev/i/2f0fee463107b137
 [flatpak]: https://flathub.org/apps/details/app.organicmaps.desktop
-[FOSStodon]: https://fosstodon.org/@organicmaps "FOSStodon"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
 [github]: https://github.com/organicmaps/organicmaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.organicmaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
 [googleplay_review]: market://details?id=app.organicmaps
 [gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
 [ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/organicmaps.app/
 [issues]: https://github.com/organicmaps/organicmaps/issues
-[LinkedIn]:  https://www.linkedin.com/company/organic-maps/
 [mapswithme]: https://en.wikipedia.org/wiki/Maps.me "Maps.Me"
 [mastodon]: https://mastodon.social/@organicmaps "Mastodon"
 [matrix]: https://matrix.to/#/#organicmaps:matrix.org "Organic Maps on the Matrix"
@@ -41,6 +40,7 @@
 [telegram_chat]: https://t.me/OrganicMaps
 [telegram_chat_ru]: https://t.me/OrganicMapsRu
 [testflight]: https://testflight.apple.com/join/lrKCl08I
+[trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
 [translations]: https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md
 [translations_appstore]: https://hosted.weblate.org/projects/organicmaps/apple-appstore-metadata/
 [translations_googleplay]: https://hosted.weblate.org/projects/organicmaps/fdroid-metadata/
