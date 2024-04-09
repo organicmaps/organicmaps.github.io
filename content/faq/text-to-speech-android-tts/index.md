@@ -17,9 +17,12 @@ The official recommendation from Organic Maps is [RHVoice](https://rhvoice.org/)
 
 ## Instructions
 
-- Open the Settings app on your Android device.
-- Select Additional Settings and then select Accessibility.
-- Choose your preferred engine, speech rate and pitch.
+- Open the Settings app on your Android device
+- Select Additional Settings and then select Accessibility
+- Choose your preferred engine, speech rate and pitch
+- **Restart Organic Maps app**
+- Open Settings => Voice Instructions in Organic Maps and set it up
+- Restart Organic Maps app again (or reboot the device) if the voice is not working
 
 If you cannot find the relevant setting, open the settings app and search for Text-to-speech.
 

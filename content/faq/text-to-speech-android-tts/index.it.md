@@ -18,9 +18,12 @@ La raccomandazione ufficiale di Organic Maps è [RHVoice](https://rhvoice.org/),
 
 ## Istruzioni
 
-- Aprire l'applicazione Impostazioni sul dispositivo Android.
-- Selezionare Impostazioni aggiuntive, quindi selezionare Accessibilità.
-- Scegliere il motore di sintesi vocale, la velocità ed il tono di voce preferiti.
+- Aprire l'applicazione Impostazioni sul dispositivo Android
+- Selezionare Impostazioni aggiuntive, quindi selezionare Accessibilità
+- Scegliere il motore di sintesi vocale, la velocità ed il tono di voce preferiti
+- **Riavviare l'applicazione Organic Maps**
+- Aprire Impostazioni => Istruzioni vocali in Organic Maps e impostarle
+- Riavviare di nuovo l'app Organic Maps (o riavviare il dispositivo) se la voce non funziona
 
 Se non si riesce a trovare l'impostazione pertinente, aprire l'app Impostazioni e cercare Assistenza vocale.
 
