@@ -29,20 +29,20 @@
 [public_transport_validator]: https://cdn.organicmaps.app/subway/
 [reddit]: https://www.reddit.com/r/organicmaps/
 [repology]: https://repology.org/project/organicmaps/versions
+[stripe]: https://donate.organicmaps.app/ "Donate"
 [stripe_chf]: https://donate.organicmaps.app/?currency=chf "Donate in CHF"
 [stripe_eur]: https://donate.organicmaps.app/?currency=eur "Donate in EUR"
 [stripe_gbp]: https://donate.organicmaps.app/?currency=gbp "Donate in GBP"
-[stripe]: https://donate.organicmaps.app/ "Donate"
 [stripe_pln]: https://donate.organicmaps.app/?currency=pln "Przekaż złotówki"
 [stripe_uah]: https://donate.organicmaps.app/?currency=uah "Пожертвуйте в гривнях"
 [stripe_usd]: https://donate.organicmaps.app/?currency=usd "Donate in USD"
+[telegram]: https://t.me/OrganicMapsApp
 [telegram_chat]: https://t.me/OrganicMaps
 [telegram_chat_ru]: https://t.me/OrganicMapsRu
-[telegram]: https://t.me/OrganicMapsApp
 [testflight]: https://testflight.apple.com/join/lrKCl08I
 [trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
+[translations]: https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md
 [translations_appstore]: https://hosted.weblate.org/projects/organicmaps/apple-appstore-metadata/
 [translations_googleplay]: https://hosted.weblate.org/projects/organicmaps/fdroid-metadata/
-[translations]: https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md
 [translations_website]: https://hosted.weblate.org/projects/organicmaps/website/
 [twitter]: https://twitter.com/OrganicMapsApp
