@@ -267,12 +267,13 @@ footer {
 }
 
 blockquote {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   border-radius: 3px;
   border-left: 2px solid rgb(109 115 74);
-  margin: 0;
+  margin: 0.5rem 0 0.5rem 0;
   background-color: #ececec;
-  padding: 0.5rem;
+  padding: 0.3rem;
   font-size: smaller;
 
   p {
