@@ -114,7 +114,7 @@ Organic Maps est un [logiciel libre][github] sous licence Apache 2.0.
 - Signalez les bogues ou les problèmes à [l'outil de suivi des problèmes][issues] ou [envoyez-nous un courriel][email].
 - [Discutez][ideas] des idées ou proposez des demandes de fonctionnalités.
 - Abonnez-vous à notre [Canal Telegram][telegram] ou à l'espace [matrix][matrix] pour les mises à jour.
-- Rejoignez notre [Groupe Telegram][telegram_chat] pour discuter avec d'autres utilisateurs.
+- Rejoignez notre [Chat Telegram en anglais][telegram_chat] ou [en français][telegram_chat_fr] pour discuter avec d'autres utilisateurs.
 - Visitez notre [page GitHub][github].
 - Suivez nos mises à jour sur [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [Linkedin][linkedin].
 

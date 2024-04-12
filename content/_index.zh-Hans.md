@@ -106,7 +106,7 @@ Organic Maps是一个以Apache许可证2.0授权的[开源软件][github]。
 - 报告bug、跟踪问题 [the issue tracker][issues]或联系我们[email us][email]。
 - [Discuss][ideas]创意点子、功能需求。
 - 订阅我们的[Telegram频道][telegram]或[matrix空间][matrix]以获取最新信息。
-- 加入我们的[Telegram组][telegram_chat]，与其他用户讨论。
+- 加入我们的[Telegram英语聊天][telegram_chat]或[Telegram聊天室][telegram_chat_zh]，与其他用户讨论。
 - 访问我们的[GitHub页面][github]。
 - 在[FOSStodon][fosstodon]、[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[Reddit][reddit]、[LinkedIn][LinkedIn]关注我们的更新。
 - Join (or create and let us know) local communities: [Hungarian translators

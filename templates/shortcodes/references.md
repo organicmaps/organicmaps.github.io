@@ -36,9 +36,12 @@
 [stripe_pln]: https://donate.organicmaps.app/?currency=pln "Przekaż złotówki"
 [stripe_uah]: https://donate.organicmaps.app/?currency=uah "Пожертвуйте в гривнях"
 [stripe_usd]: https://donate.organicmaps.app/?currency=usd "Donate in USD"
-[telegram]: https://t.me/OrganicMapsApp
-[telegram_chat]: https://t.me/OrganicMaps
-[telegram_chat_ru]: https://t.me/OrganicMapsRu
+[telegram]: https://t.me/OrganicMapsApp "Organic Maps news"
+[telegram_chat]: https://t.me/OrganicMaps "Organic Maps chat"
+[telegram_chat_fr]: https://t.me/OrganicMapsFr "Discussion sur les Organic Maps"
+[telegram_chat_ru]: https://t.me/OrganicMapsRu "Organic Maps чат"
+[telegram_chat_tr]: https://t.me/OrganicMapsTr "Organic Maps'la sohbet et"
+[telegram_chat_zh]: https://t.me/OrganicMapsZh "有机地图聊天"
 [testflight]: https://testflight.apple.com/join/lrKCl08I
 [trackercontrol]: https://ios.trackercontrol.org/analysis/app.organicmaps
 [translations]: https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md
