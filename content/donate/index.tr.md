@@ -1,70 +1,30 @@
 ---
-title: Organic Maps'in gelişimini desteklemek için bağış yapın
-description: Paranız, projeyle ilgili tüm masrafları karşılamamızı sağlıyor ve Organic Maps'i iyileştirmemiz için bizi motive ediyor.
+title: Donate
+description: Make a difference with your Donation! Organic Maps is developed by a passionate team of volunteers who rely on your support Join us in creating better maps together!
+template: new-donate.html
 weight: 10
 extra:
-  menu_title: Bağış Yapın
-  preview_image: donate/bağış.png
+  hero_title: Donate
+  hero_image: /donate/donate-bg.png
+  menu_title_pre: Home
+  service_title: Created with love by enthusiast volunteers
+  service_text: Donate to keep the project running
+  hero_description: Donate and create better maps together!
+  info_section_card_description_1: We rely on your donations to keep Organic Maps open, free, and without ads
+  info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users
+  info_section_card_description_3: With your support, we are working toward a privacy-focused offering that is the preferred choice on the market
+  funding_section_title: How will funding be used?
+  funding_section_card_title_1: Developers
+  funding_section_card_title_2: Infrastructure
+  funding_section_card_title_3: Support
+  funding_section_card_description_1: Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed.
+  funding_section_card_description_2: We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing.
+  funding_section_card_description_3: User support, bug fixing, and improving the stability of the app are at the top of our priorities. There are 1200+ issues on GitHub that is growing every day, and a large number of items to address on AppStore, Google Play, and support emails.
+  users_way_section_title: People say
+  users_way_donation_description_1: I donate to Organic Maps for the unique offering they bring, and to support positive change
+  users_way_donation_description_2: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
+  users_way_donation_description_3: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
+  users_way_donation_name_1: Emily Johnson
+  users_way_donation_name_2: Emanuel Matis
+  users_way_donation_name_3: Rosa
 ---
-
-Organic Maps, **[bağışlarınız][stripe]** sayesinde _herkes için ücretsizdir_:
-
-- Reklam yok
-- Takipçi yok
-- Kayıt yok
-- Push bildirimleri yok
-- Açık kaynak
-
-{{ donate_buttons() }}
-
-## Neden Organic Maps'e bağış yapmalıyım?
-
-1. Organic Maps'i aktif ve ücretsiz tutma misyonumuzu yerine getirmek için bağışlarınıza güveniyoruz.
-   Ve tek bir reklam dahi yok.
-2. Boş zamanlarımızda katkıda bulunan ve ailelerimizin parasını bu projeye harcayan birkaç teknoloji tutkunuyuz.
-   Yaptığımız işi ve kullanıcılarımızı seviyoruz ❤️.
-3. Desteğinizle, Google Haritalar'ın daha iyi, gizlilik odaklı bir sürümü olmak istiyoruz.
-
-## Paralar ne için kullanılacak?
-
-1. Daha hızlı sunucular için ödeme yapıyoruz, böylece dünyadaki herkes ücretsiz harita güncellemelerini gecikme olmadan indirebiliyor.
-   Aylık yüzlerce terabayt harita indiriliyor ve bu rakam her geçen gün artıyor.
-2. Kullanıcı desteği, hata düzeltme ve uygulamanın kararlılığını iyileştirme, önceliklerimizin başında geliyor.
-   [GitHub sayfamızda 1800'den fazla sorun][github issues] var ve bu sayı her geçen gün artıyor.
-   App Store, Google Play ve destek e-postamız; yorum ve hatalarla dolu. Yüksek kaliteli bir ürün sunmak istiyoruz.
-3. Yeterli para ile yeni özellikler daha hızlı geliştirilebilir, örneğin:
-   - Haftalık ve otomatik harita güncellemeleri
-   - Yer imleri yedekleme ve senkronizasyon
-   - GPX desteği sunan bir GPS kaydedici
-   - Farklı etkinlikler için daha iyi harita stilleri
-   - Tepe gölgeleri ve 3B arazi görünümü
-   - Geliştirilmil OpenStreetMap editörü
-   - Daha iyi çevrimdışı adres arama, rota ve navigasyon
-   - Toplu taşıma
-   - … ve isteyeceğiniz ve seveceğiniz [diğer birçok][github issues] özellik
-
-## Nasıl bağış yapabilirim?
-
-{{ donate_buttons() }}
-
-Yinelenen bağışlar, nispeten istikrarlı bir gelir sağlamak için
-en iyi yoldur ve bizi uzun vadeli görevler ve hedefler için motive
-eder. Ancak tek seferlik bağış da yapabilirsiniz.
-
-### Banka Havalesi
-
-{{ bank_transfer() }}
-
-### Kripto
-
-Lütfen toplam ücretleri azaltmak için yıllık bağış yapmayı düşünün.
-
-{{ crypto_table() }}
-
-## Size başka bir şekilde yardımcı olabilir miyim?
-
-Evet! Organic Maps'i desteklemenin birçok yolu var. Daha fazla
-detay için lütfen [Bizi Destekleyin](@/support-us/index.tr.md) sayfasına bakın.
-
-[stripe]: https://donate.organicmaps.app/ "Stripe ile Bağış Yapın"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub'daki Öneri ve Hatalar Listesi"

@@ -1,5 +1,6 @@
+<p id="tts-table" />
 
-{{ trans(key='language-word', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
+{{ trans(key='const_lang', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
 :------------------|:----------------------------------------------------------
 Afrikaans          | &emsp; eSpeak
 Albanian           | &emsp; RHVoice, eSpeak
@@ -88,14 +89,3 @@ Ukrainian          | &emsp; Vocalizer, Nuance, RHVoice
 Valencian          | &emsp; Vocalizer
 Vietnamese         | &emsp; Vocalizer, Nuance, eSpeak
 Welsh              | &emsp; eSpeak
-
----
-
-- [Acapela Voices TTS](https://play.google.com/store/apps/details?id=com.acapelagroup.android.tts)
-- [Amazon Ivona TTS](https://apkpure.com/ivona-text-to-speech-hq/com.ivona.tts/download)
-- [eSpeak TTS](https://f-droid.org/en/packages/com.reecedunn.espeak/)
-- [Google Speech Services](https://play.google.com/store/apps/details?id=com.google.android.tts)
-- [RHVoice TTS)](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android)
-- [Vocalizer (Code Factory)](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)
-- [Vocalizer 2 (Nuance)](https://nvda.ru/sintezatory-rechi-vocalizer-expressive2-dlja-nvda#)
-- [Yandex SpeechKit TTS](https://4pda.to/forum/index.php?showtopic=200728&st=4200#download)

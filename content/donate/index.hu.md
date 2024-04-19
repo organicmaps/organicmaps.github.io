@@ -1,83 +1,30 @@
 ---
-description: "Az Ön pénze fedezi a projekttel kapcsolatos összes kiadást, és motivál minket az Organic Maps jobbá tételéhez."
-extra:
-  menu_title: Adományozás
-  preview_image: donate/donate.png
-title: "Adományozzon az Organic Maps fejlesztésének támogatására"
+title: Donate
+description: Make a difference with your Donation! Organic Maps is developed by a passionate team of volunteers who rely on your support Join us in creating better maps together!
+template: new-donate.html
 weight: 10
+extra:
+  hero_title: Donate
+  hero_image: /donate/donate-bg.png
+  menu_title_pre: Home
+  service_title: Created with love by enthusiast volunteers
+  service_text: Donate to keep the project running
+  hero_description: Donate and create better maps together!
+  info_section_card_description_1: We rely on your donations to keep Organic Maps open, free, and without ads
+  info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users
+  info_section_card_description_3: With your support, we are working toward a privacy-focused offering that is the preferred choice on the market
+  funding_section_title: How will funding be used?
+  funding_section_card_title_1: Developers
+  funding_section_card_title_2: Infrastructure
+  funding_section_card_title_3: Support
+  funding_section_card_description_1: Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed.
+  funding_section_card_description_2: We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing.
+  funding_section_card_description_3: User support, bug fixing, and improving the stability of the app are at the top of our priorities. There are 1200+ issues on GitHub that is growing every day, and a large number of items to address on AppStore, Google Play, and support emails.
+  users_way_section_title: People say
+  users_way_donation_description_1: I donate to Organic Maps for the unique offering they bring, and to support positive change
+  users_way_donation_description_2: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
+  users_way_donation_description_3: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
+  users_way_donation_name_1: Emily Johnson
+  users_way_donation_name_2: Emanuel Matis
+  users_way_donation_name_3: Rosa
 ---
-
-Az Organic Maps alkalmazás _mindenki számára ingyenes_ az
-**[adományoknak][stripe]** köszönhetően :
-
-- Nincsenek hirdetések
-- Nincs nyomkövető
-- Nincs regisztráció
-- Nincsenek leküldéses értesítések
-- Nyílt forráskód
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-## Miért adományozzon az Organic Maps-nek?
-
-1. Az Ön adományaira támaszkodunk, hogy teljesíteni tudjuk küldetésünket,
-   hogy az Organic Maps nyitott és szabad maradjon. MIndezt hirdetések
-   nélkül.
-2. Maroknyian vagyunk, akik a szabadidőnkben hozzájárulunk a projekthez és a
-   családunk pénzét költjük rá. Szeretjük, amit csinálunk, és szeretjük a
-   felhasználóinkat ❤️.
-3. Az Ön támogatásával szeretnénk a Google Maps jobb, az adatvédelemre
-   összpontosító változatává válni.
-
-## Mire lesz felhasználva a pénz?
-
-1. Gyors szerverekért fizetünk, így a világon bárki késedelem nélkül
-   letöltheti az ingyenes térképadat-frissítéseket. Ez havonta több száz
-   terabájt, és a mennyiség folyamatosan növekszik.
-2. A felhasználói segítség, a hibajavítás és az alkalmazás stabilitásának
-   javítása a prioritások között az első helyen áll. GitHubon [1800+
-   hibanapló van megnyitva][github issues], és ez a szám napról napra nő.
-   Az AppStore, a Google Play és a támogatási e-maileket elárasztják a
-   megjegyzések és a hibák. Minőségi terméket akarunk előállítani.
-3. Elegendő pénzzel például gyorsabban tudunk új funkciókat fejleszteni,
-   mint például:
-   - Heti és automatikus térképadat-frissítések
-   - Könyvjelzők mentése és szinkronizálása
-   - GPS nyomvonal felvevő GPX támogatással
-   - Jobb térképrétegek a különböző tevékenységekhez
-   - Magassági árnyékolás és 3D terep
-   - Az OpenStreetMap szerkesztő javítása
-   - Jobb offline címkeresés, útvonaltervezés és navigáció
-   - Tömegközlekedés
-   - ... és [sok más][github issues] funkciót, amit szeretnél és imádsz
-
-## Hogyan adományozhatok?
-
-Click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil
-bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú
-feladatok és célok megvalósításában. De egyszeri adományozásra is van
-lehetőség.
-
-### Banki átutalás
-
-{{ bank_transfer() }}
-
-### Kriptovaluta
-
-Kérjük, fontolja meg az éves adományozást, hogy csökkentse a teljes díjat.
-
-{{ crypto_table() }}
-
-## Tud más módon is segíteni nekünk?
-
-Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért
-lásd a [Support Us](@/support-us/index.hu.md) oldalt.
-
-[stripe]: https://donate.organicmaps.app/ "Adományozás Stripe-on keresztül"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Hibanaplók"
