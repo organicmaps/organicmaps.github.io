@@ -36,6 +36,7 @@ taxonomies:
 ```
 
 For external links and press releases use this taxonomy:
+
 ```yaml
 taxonomies:
   news: ["Press"]
