@@ -30,15 +30,17 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
 
-  {% block meta_description %}
+  {% block meta_description -%}
   {%- if resource.description -%}
   <meta name="description" content="{{ resource.description }}">
-  {% endif %}
-  {% endblock %}
+  {% elif resource.content -%}
+  <meta name="description" content="{{ resource.content | trim | striptags | linebreaksbr | safe | replace(from="<br>", to=" ") | replace(from="  ", to=" ") | replace(from="  ", to=" ") | replace(from="  ", to=" ") | truncate(length=160) }}">
+  {% endif -%}
+  {%- endblock -%}
 
-  {% block rss %}
+  {% block rss -%}
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
-  {% endblock %}
+  {% endblock -%}
 
   <link rel="canonical" href="{{ config.base_url | safe }}{{ resource_path | safe }}">
 
@@ -101,8 +103,8 @@
   <footer>
     {% include 'bottom_menu.html' %}
     <p>
-      <span>© 2024 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
-      <span>Harju maakond, Tallinn, Kesklinna linnaosa, Rävala pst 8-810, 10143, Estonia</span>
+      <span data-nosnippet>© 2024 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
+      <span data-nosnippet>Harju maakond, Tallinn, Kesklinna linnaosa, Rävala pst 8-810, 10143, Estonia</span>
     </p>
   </footer>
 
