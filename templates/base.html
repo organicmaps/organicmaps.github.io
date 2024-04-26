@@ -32,10 +32,14 @@
 
   {% block meta_description -%}
   {%- if resource.description -%}
-  <meta name="description" content="{{ resource.description }}">
+  {% set description = resource.description %}
   {% elif resource.content -%}
-  <meta name="description" content="{{ resource.content | trim | striptags | linebreaksbr | safe | replace(from="<br>", to=" ") | replace(from="  ", to=" ") | replace(from="  ", to=" ") | replace(from="  ", to=" ") | truncate(length=160) }}">
+  {% set description = resource.content | trim | striptags | linebreaksbr | safe | replace(from="<br>", to=" ") | replace(from="  ", to=" ") | replace(from="  ", to=" ") | replace(from="  ", to=" ") | truncate(length=160) %}
   {% endif -%}
+  {%- if description -%}
+  <meta name="description" content="{{ description }}">
+  {% endif -%}
+
   {%- endblock -%}
 
   {% block rss -%}
@@ -58,14 +62,14 @@
   <meta property="og:url" content="{{ current_url | safe }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ resource_title }}">
-  {%- if resource.description -%}
-  <meta property="og:description" content="{{ resource.description }}">
+  {%- if description %}
+  <meta property="og:description" content="{{ description }}">
   {%- endif -%}
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ resource_title }}">
-  {%- if resource.description -%}
-  <meta name="twitter:description" content="{{ resource.description }}">
+  {%- if description %}
+  <meta name="twitter:description" content="{{ description }}">
   {%- endif -%}
 
   <meta name="apple-itunes-app" content="app-id=1567437057">
