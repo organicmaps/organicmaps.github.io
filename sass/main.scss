@@ -33,6 +33,11 @@ a {
   word-wrap: anywhere;
 }
 
+pre {
+  white-space: pre-wrap;
+  font-size: smaller;
+}
+
 p > code, li > code, dd > code, td > code {
   background: #ddd;
   word-wrap: break-word;
@@ -288,4 +293,3 @@ blockquote {
     color: $darkFontColor;
   }
 }
-
