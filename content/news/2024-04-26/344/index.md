@@ -6,6 +6,8 @@ slug: "travel-with-organic-maps-song"
 
 One of [our users](https://t.me/OrganicMapsZH/95) has generated a song about Organic Maps. How does it sound to you? 😄
 
+Update: there is also [another song in a different style](@/news/2024-04-27/347/index.md), hope you enjoy it too! 🎵🎵🎵
+
 ### Travel with Organic Maps song
 
 {{ audio(title="Travel with Organic Maps", url="/news/2024-04-26/travel-with-organic-maps-song/Travel with Organic Maps.mp3") }}
