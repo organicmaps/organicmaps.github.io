@@ -2,6 +2,7 @@
 title: "Please enjoy and share another song about Organic Maps 🎶"
 date: 2024-04-27T08:24:02+00:00
 slug: "organic-maps-privacy-and-freedom-anthem-driven-by-community"
+description: "No tracking! No crapware! No pesticides! Organic Maps, where freedom resides! Navigate with privacy, feel the vibe, community-driven, let's take the ride."
 ---
 
 Please enjoy and share another song created by [one of our users](https://t.me/organicmaps/39839) about Organic Maps, now in a different style 🎶

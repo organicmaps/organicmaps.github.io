@@ -2,6 +2,7 @@
 title: "Travel with Organic Maps song"
 date: 2024-04-26T09:23:52+00:00
 slug: "travel-with-organic-maps-song"
+description: "So let's dance along, in this magical flight, with Organic Maps, our hearts take flight. In every corner of this earth we roam, with Organic Maps, we'll always find home."
 ---
 
 One of [our users](https://t.me/OrganicMapsZH/95) has generated a song about Organic Maps. How does it sound to you? 😄
