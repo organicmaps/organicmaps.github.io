@@ -39,7 +39,9 @@
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
 
     {% block meta_description %}
-        <meta name="description" content="{{ resource.description }}">
+        {% if resource.description %}
+            <meta name="description" content="{{ resource.description }}">
+        {% endif %}
     {% endblock %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -218,7 +220,7 @@
     <ol class="pages">
         <li><a href="/community/">community</a></li>
         <li><a href="/news/">news</a></li>
-        <li><a href="/news/2023-09-21/please-vote-for-us-again-on-hackernews/">post</a></li>
+        <li><a href="/news/2024-09-21/please-vote-for-us-again-on-hackernews/">post</a></li>
         <li><a href="/support-us/">support</a></li>
         <li><a href="/faq/">faq</a></li>
         <li><a href="/faq/what-android-version-can-run-organic-maps/">faq post</a></li>
