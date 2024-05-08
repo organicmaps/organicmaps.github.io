@@ -1,24 +1,24 @@
 {%- if page %}
-{%- set resource = page %}
-{%- set resource_title = resource.title %}
-{%- set resource_path = resource.path %}
-{%- elif section %}
-{%- set resource = section %}
-{%- set resource_title = resource.title %}
-{%- set resource_path = resource.path %}
-{%- elif term %}
-{%- set resource = term %}{# taxonomy term has only 'name', 'slug' and 'path' properties #}
-{%- set resource_path = resource.path %}
-{%- set resource_title = resource.name %}
-{%- elif taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
-{% if lang == 'en' %}
-{% set resource = taxonomy.name ~ "/_index.md" %}
-{% else %}
-{% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
-{% endif %}
-{% set resource = get_section(path=resource) %}
-{%- set resource_title = resource.title %}
-{%- set resource_path = resource.path %}
+    {%- set resource = page %}
+      {%- set resource_title = resource.title %}
+      {%- set resource_path = resource.path %}
+    {%- elif section %}
+      {%- set resource = section %}
+      {%- set resource_title = resource.title %}
+      {%- set resource_path = resource.path %}
+    {%- elif term %}
+      {%- set resource = term %}{# taxonomy term has only 'name', 'slug' and 'path' properties #}
+      {%- set resource_path = resource.path %}
+      {%- set resource_title = resource.name %}
+    {%- elif taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
+      {% if lang == 'en' %}
+        {% set resource = taxonomy.name ~ "/_index.md" %}
+      {% else %}
+      {% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
+    {% endif %}
+      {% set resource = get_section(path=resource) %}
+      {%- set resource_title = resource.title %}
+      {%- set resource_path = resource.path %}
 {%- endif %}
 
 <!DOCTYPE html>

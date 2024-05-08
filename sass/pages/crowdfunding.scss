@@ -1,0 +1,289 @@
+@import "../variables/media";
+
+.crowdfunding {
+  color: var(--common-black);
+
+  .hero-sub__title, .hero-sub__description, .nav-bred {
+    color: var(--common-black);
+  }
+
+  &:before {
+    background: linear-gradient(90deg, rgba(242, 250, 246, 0.81) 0%, rgba(204, 225, 215, 0.00) 100%);
+
+  }
+}
+
+.crowdfunding-loc {
+  padding: var(--container-mob-section) 0;
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 70rem;
+    position: relative;
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+      gap: 20rem;
+    }
+  }
+
+  &__content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 20rem;
+
+    svg {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--point-color);
+    }
+  }
+
+  &__img {
+    width: 100%;
+    border-radius: 20rem;
+    position: absolute;
+    right: -114%;
+    top: 0;
+    @media (max-width: $media-sm) {
+      position: static;
+    }
+  }
+
+  &__text {
+    margin-bottom: 89rem;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+
+    @media (max-width: $media-sm) {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.crowdfunding-card {
+  .services-support {
+    &__title-row {
+      display: flex;
+      gap: 10rem;
+      align-items: center;
+      margin-bottom: 10rem;
+    }
+
+    &__icon {
+      margin-left: -33rem;
+      @media (max-width: $media-sm) {
+        margin-left: -10rem;
+      }
+    }
+  }
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60rem;
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+      gap: 20rem;
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    border-radius: 20rem;
+    margin-bottom: 10rem;
+  }
+
+  &__item {
+    .donate {
+      padding: 70rem 20rem;
+      margin: 0;
+      @media (max-width: $media-sm) {
+        padding: 20rem 0rem;
+      }
+
+      &__container {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+
+      }
+
+      &__img {
+        @media (max-width: $media-sm) {
+          margin: 0 auto;
+        }
+      }
+    }
+  }
+}
+
+.crowdfunding-support {
+
+  padding: var(--container-mob-section) 0;
+  @media (max-width: $media-sm) {
+    margin: 0 15rem;
+  }
+
+  &__container {
+    background-color: var(--bg-green);
+    padding: 50rem;
+    border-radius: 20rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 62rem;
+    align-items: center;
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+      gap: 20rem;
+      padding: 30rem 15rem;
+
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    border-radius: 20rem;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 20rem;
+  }
+}
+
+.crowdfunding-card-v2 {
+  &__content {
+    background-color: var(--bg-green);
+    padding: 35rem;
+    border-radius: 20rem;
+    @media (max-width: $media-sm) {
+      margin-top: -20rem;
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    border-radius: 20rem;
+
+  }
+
+  &__item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30rem;
+
+    &:nth-child(2n) {
+      img {
+        order: 2;
+      }
+    }
+
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+      &:nth-child(2n) {
+        img {
+          order: 0;
+        }
+      }
+    }
+  }
+
+  &__row {
+    padding: 40rem 0;
+    display: grid;
+    gap: 40rem;
+  }
+
+  &__num {
+    width: 81rem;
+    height: 81rem;
+    border-radius: 81rem;
+    background-color: var(--common-green);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: var(--common-white);
+    margin: -60rem 0 10rem;
+  }
+
+  &__title {
+    margin-bottom: 10rem;
+  }
+
+  &__button {
+    margin: 0 auto;
+  }
+
+}
+
+.crowdfunding-journey {
+  margin: var(--container-mob-section) 0;
+
+  &__img {
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    max-width: 400rem;
+    @media (max-width: $media-sm) {
+       margin-bottom: 10rem;
+         position: static;
+     }
+  }
+
+  &__container {
+    display: grid;
+    grid-template-columns: minmax(430rem, 1fr) 2fr;
+    gap: 40rem;
+    position: relative;
+    @media (max-width: $media-sm) {
+      grid-template-columns: 1fr;
+    }
+     @media (max-width: $media-sm) {
+       text-align: center;
+     }
+  }
+
+  &__title {
+    margin-bottom: 20rem;
+  }
+
+  &__card {
+    margin: 20rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1rem dashed var(--common-green);
+    border-radius: 20rem;
+    padding: 14rem 60rem;
+    gap: 20rem;
+    @media (max-width: $media-md) {
+      padding: 0;
+
+    }
+    @media (max-width: $media-sm) {
+  flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 24rem;
+
+    }
+
+    svg {
+      color: var(--common-green);;
+      flex-shrink: 0;
+    }
+  }
+}
+

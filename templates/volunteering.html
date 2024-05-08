@@ -1,0 +1,240 @@
+{% extends "base-new.html" %}
+
+{%- block content %}
+
+    <section class="hero-sub" style="background-image: url({{ page.extra.hero_image | safe }})">
+        <div class="container hero-sub__container">
+            <nav class="bred-crum">
+                <ul class="bred-crum__row">
+                    <li class="bred-crum__item">
+                        <a class="nav-bred bred-crum__link" href="/">{{ page.extra.menu_title_pre }}</a>
+                    </li>
+                    <li class="bred-crum__item">
+                    <span class="nav-bred">
+                        >
+                    </span>
+                    </li>
+                    <li class="bred-crum__item">
+                        <a class="nav-bred bred-crum__link bred-crum--active"
+                           href="/{{ page.extra.hero_title | lower }}">{{ page.extra.hero_title }}</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="hero-sub__content">
+                <h1 class="h1 hero-sub__title">
+                    {{ page.extra.hero_title | safe }}
+                </h1>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section class="section-volunteering">
+        <div class="container section-volunteering__container">
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Design
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Product Designer
+                        </h3>
+                        <p>
+                            Senior Product Designer, you will be a design lead responsible for not only supporting ongoing enhancement of existing experiences, but also for pursuing big bets and setting the path forward for the team and community. You will partner with product and engineering leads to shape team priorities, deliver high-quality execution, and up-level team process and culture.
+                        </p>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Engineering
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Software Developer - Android
+                        </h3>
+                        <p>
+                            As a Software Developer, you will contribute to building a world-class navigation app, while leading in privacy and offline navigation.  Build innovative experiences on Android. Own the features from inception throughout the lifecycle including technical debt and testing. Set high standards for quality and maintainability and mentor others to do the same. Handle complex features that will cross system boundaries on the Mobile applications. Communicate and collaborate with other engineers, product managers and designers to deliver incremental wins.
+                        </p>
+                        <!--                        <button class="button button&#45;&#45;main">-->
+                        <!--                            {{ trans(key='volunteer-button', lang=lang) }}-->
+                        <!--                        </button>-->
+                    </div>
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Software Developer - iOS
+                        </h3>
+                        <p>
+                            As a Software Developer, you will contribute to building a world-class navigation app, while leading in privacy and offline navigation.  Build innovative experiences on Android. Own the features from inception throughout the lifecycle including technical debt and testing. Set high standards for quality and maintainability and mentor others to do the same. Handle complex features that will cross system boundaries on the Mobile applications. Communicate and collaborate with other engineers, product managers and designers to deliver incremental wins.
+
+                        </p>
+
+                    </div>
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Software Developer - C++ - Core
+                        </h3>
+                        <p>
+                            As a Software Developer, you will contribute to building a world-class navigation app, while leading in privacy and offline navigation.  Build innovative functionality on the Core of the application. Own the features from inception throughout the lifecycle including technical debt and testing. Set high standards for quality and maintainability and mentor others to do the same. Handle complex features that will cross system boundaries on the Mobile applications. Communicate and collaborate with other engineers, product managers and designers to deliver incremental wins.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Marketing
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+                <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Social Media Manager
+                        </h3>
+                        <p>
+                            Senior Product Designer, you will be a design lead responsible for not only supporting ongoing enhancement of existing experiences, but also for pursuing big bets and setting the path forward for the team and community. You will partner with product and engineering leads to shape team priorities, deliver high-quality execution, and up-level team process and culture.
+
+                        </p>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Engineering
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+               <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Software Developer - Android
+                        </h3>
+                        <p>
+                            As a Software Developer, you will contribute to building a world-class navigation app, while leading in privacy and offline navigation.  Build innovative experiences on Android. Own the features from inception throughout the lifecycle including technical debt and testing. Set high standards for quality and maintainability and mentor others to do the same. Handle complex features that will cross system boundaries on the Mobile applications. Communicate and collaborate with other engineers, product managers and designers to deliver incremental wins.
+                        </p>
+<!--                        <button class="button button&#45;&#45;main">-->
+<!--                            {{ trans(key='volunteer-button', lang=lang) }}-->
+<!--                        </button>-->
+                    </div>
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Marketing Manager
+                        </h3>
+                        <p>
+                            As a Marketing Manager, you will coordinate and lead projects including branding, positioning, messaging, product marketing and market research.  Plan and deliver online campaigns from concept to execution and awareness to conversion.  Execute tests, collect and analyze data and results, identify trends and insights in order to achieve maximum ROI in paid search campaigns. Create content in support of campaigns that aligns with strategy on Google, app stores, and social media.  Optimize copy and website pages for search engine marketing.  Perform ongoing keyword research including discovery and expansion of keyword opportunities for natural search.
+                        </p>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Product
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+               <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Product Manager
+                        </h3>
+                        <p>
+                            As a Software Developer, you will contribute to building a world-class navigation app, while leading in privacy and offline navigation.  Build innovative experiences on Android. Own the features from inception throughout the lifecycle including technical debt and testing. Set high standards for quality and maintainability and mentor others to do the same. Handle complex features that will cross system boundaries on the Mobile applications. Communicate and collaborate with other engineers, product managers and designers to deliver incremental wins.
+
+                        </p>
+<!--                        <button class="button button&#45;&#45;main">-->
+<!--                            {{ trans(key='volunteer-button', lang=lang) }}-->
+<!--                        </button>-->
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Support
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+               <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Community Support Engineer
+                        </h3>
+                        <p>
+                            As a Community Support Engineer you will be working directly with people in the community who use Organic Maps, to provide technical support and assistance with the application and website.  The community ranges from tech savvy engineers, to novice technology users. Support involves maintaining high satisfaction, resolving technical challenges, and enhancing the support experience, to ensure people have a better overall navigation experience.
+                        </p>
+<!--                        <button class="button button&#45;&#45;main">-->
+<!--                            {{ trans(key='volunteer-button', lang=lang) }}-->
+<!--                        </button>-->
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="section-volunteering__item">
+                <div class="section-volunteering__select">
+                    <h2 class="h5-boold  section-volunteering__title">
+                        Content Management
+                    </h2>
+                    <div class="section-volunteering__button">
+
+                    </div>
+                </div>
+               <div class="section-volunteering__content">
+                    <div class="section-volunteering__block">
+                        <h3>
+                            Localization Specialist - Translator - All Languages
+                        </h3>
+                        <p>
+                            As a Community Support Engineer you will be working directly with people in the community who use Organic Maps, to provide technical support and assistance with the application and website.  The community ranges from tech savvy engineers, to novice technology users. Support involves maintaining high satisfaction, resolving technical challenges, and enhancing the support experience, to ensure people have a better overall navigation experience.
+
+                        </p>
+<!--                        <button class="button button&#45;&#45;main">-->
+<!--                            {{ trans(key='volunteer-button', lang=lang) }}-->
+<!--                        </button>-->
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+     {% include 'section/donate.html' %}
+
+
+{%- endblock content %}
