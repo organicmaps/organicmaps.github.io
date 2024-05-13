@@ -1,16 +1,11 @@
 {# Taxonomy and section template to render /news/ #}
 {% extends 'base.html' %}
-{% if resource.translations %}
+
 {% block content %}
 
-<h1>
-  {% if resource.title %}
-    {{ resource.title }}
-  {% endif %}
-</h1>
+<h1>{{ resource.title }}</h1>
 
 {# Iterate and use en sections by default and use localized versions only if they are present #}
-
 {% set enNewsSectionTranslation = resource.translations | filter(attribute='lang', value='en') | first %}
 {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
@@ -30,6 +25,7 @@
 {% for photo in page.assets %}
   {% if photo is not matching("\.mp[34]$") %}
     {% set meta = get_image_metadata(path=photo) %}
+    {# TODO: How to get dimensions of video? #}
     {% if meta.width > meta.height %}
       {% set_global noflex = '_noflex' %}
       {% break %}
@@ -42,10 +38,15 @@
 {% endif %}
 
 <span class="news_images">
-{% for photo in page.assets | sort %}
-  {% if photo is not matching("\.mp[34]$") %}
-    {% set meta = get_image_metadata(path=photo) %}
-<img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}" />
+{% for media in page.assets | sort %}
+  {% if media is matching("\.mp3$") %}
+  {% elif media is matching("\.mp4$") %}
+    <video class="news_video" controls>
+      <source src="{{ page.permalink }}/{{ media | split(pat='/') | last }}" type="video/mp4">
+    </video>
+  {% else %} {# It's images #}
+    {% set meta = get_image_metadata(path=media) %}
+    <img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}" />
   {% endif %}
 {% endfor %}
 </span>
@@ -57,4 +58,3 @@
 {% endfor %}
 
 {% endblock content %}
-{% endif %}

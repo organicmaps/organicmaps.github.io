@@ -1,30 +1,81 @@
 ---
-title: Donate
-description: Make a difference with your Donation! Organic Maps is developed by a passionate team of volunteers who rely on your support Join us in creating better maps together!
-template: new-donate.html
-weight: 10
+description: "Uang Anda membayar semua pengeluaran yang terkait dengan proyek dan memotivasi kami untuk meningkatkan Organic Maps."
 extra:
-  hero_title: Donate
-  hero_image: /donate/donate-bg.png
-  menu_title_pre: Home
-  service_title: Created with love by enthusiast volunteers
-  service_text: Donate to keep the project running
-  hero_description: Donate and create better maps together!
-  info_section_card_description_1: We rely on your donations to keep Organic Maps open, free, and without ads
-  info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users
-  info_section_card_description_3: With your support, we are working toward a privacy-focused offering that is the preferred choice on the market
-  funding_section_title: How will funding be used?
-  funding_section_card_title_1: Developers
-  funding_section_card_title_2: Infrastructure
-  funding_section_card_title_3: Support
-  funding_section_card_description_1: Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed.
-  funding_section_card_description_2: We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing.
-  funding_section_card_description_3: User support, bug fixing, and improving the stability of the app are at the top of our priorities. There are 1200+ issues on GitHub that is growing every day, and a large number of items to address on AppStore, Google Play, and support emails.
-  users_way_section_title: People say
-  users_way_donation_description_1: I donate to Organic Maps for the unique offering they bring, and to support positive change
-  users_way_donation_description_2: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
-  users_way_donation_description_3: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
-  users_way_donation_name_1: Emily Johnson
-  users_way_donation_name_2: Emanuel Matis
-  users_way_donation_name_3: Rosa
+  menu_title: Donasi
+  preview_image: donate/donate.png
+title: "Berdonasi untuk mendukung pengembangan Organic Maps"
+weight: 10
 ---
+
+Aplikasi Organic Maps _gratis untuk semua orang_ berkat
+**[donasi][stripe]**:
+
+- Tanpa iklan
+- Tanpa pelacak
+- Tanpa pendaftaran
+- Tanpa pemberitahuan dorong
+- Sumber terbuka
+
+Klik ikon metode pembayaran yang diinginkan di bawah ini:
+
+{{ donate_buttons() }}
+
+## Mengapa berdonasi ke Organic Maps?
+
+1. Kami mengandalkan donasi Anda untuk menjalankan misi kami agar Organic
+   Maps tetap terbuka dan bebas. Dan bebas dari iklan.
+2. Kami adalah beberapa penggemar yang berkontribusi di waktu luang kami,
+   dan menghabiskan uang keluarga kami untuk proyek ini. Kami mencintai apa
+   yang kami lakukan, dan kami mencintai pengguna kami ❤️.
+3. Dengan dukungan Anda, kami ingin menjadi versi Google Maps yang lebih
+   baik dan berfokus pada privasi.
+
+## Untuk apa uang itu akan digunakan?
+
+1. Kami membayar untuk server yang cepat, sehingga siapa pun di Dunia dapat
+   mengunduh pembaruan data peta gratis tanpa penundaan. Ratusan terabyte
+   setiap bulan, dan jumlahnya terus bertambah.
+2. Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi
+   adalah prioritas utama kami. Ada [1800+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari. App Store, Google
+   Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin
+   memberikan produk berkualitas tinggi.
+3. Dengan uang yang cukup, fitur baru bisa dikembangkan lebih cepat,
+   misalnya:
+   - Pembaruan data peta mingguan dan otomatis
+   - Pencadangan dan sinkronisasi penanda
+   - Perekam trek GPS dengan dukungan GPX
+   - Gaya peta yang lebih baik untuk aktivitas yang berbeda
+   - Bayangan bukit dan medan 3D
+   - Memperbaiki penyunting OpenStreetMap
+   - Pencarian alamat, perutean, dan navigasi luring yang lebih baik
+   - Transportasi umum
+   - … dan [banyak fitur lain][github issues] yang Anda inginkan dan sukai
+
+## Bagaimana cara berdonasi?
+
+Klik ikon metode pembayaran yang diinginkan di bawah ini:
+
+{{ donate_buttons() }}
+
+Donasi berulang adalah cara terbaik untuk memastikan pendapatan yang relatif
+stabil untuk proyek dan memotivasi kami untuk tugas dan tujuan jangka
+panjang. Tetapi Anda juga dapat menyumbang satu kali.
+
+### Transfer Bank
+
+{{ bank_transfer() }}
+
+### Kripto
+
+Silakan pertimbangkan untuk menyumbang setiap tahun untuk mengurangi total
+biaya.
+
+{{ crypto_table() }}
+
+## Dapatkah Anda membantu kami dengan cara lain?
+
+Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman
+[Dukung Kami](@/support-us/index.id.md) untuk lebih jelasnya.
+
+[stripe]: https://donate.organicmaps.app/ "Donasi melalui Stripe"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

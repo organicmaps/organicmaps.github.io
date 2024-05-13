@@ -1,30 +1,82 @@
 ---
-title: Donate
-description: Make a difference with your Donation! Organic Maps is developed by a passionate team of volunteers who rely on your support Join us in creating better maps together!
-template: new-donate.html
-weight: 10
+description: "आपका पैसा परियोजना से संबंधित सभी खर्चों का भुगतान करता है और हमें जैविक मानचित्रों को बेहतर बनाने के लिए प्रेरित करता है।"
 extra:
-  hero_title: Donate
-  hero_image: /donate/donate-bg.png
-  menu_title_pre: Home
-  service_title: Created with love by enthusiast volunteers
-  service_text: Donate to keep the project running
-  hero_description: Donate and create better maps together!
-  info_section_card_description_1: We rely on your donations to keep Organic Maps open, free, and without ads
-  info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users
-  info_section_card_description_3: With your support, we are working toward a privacy-focused offering that is the preferred choice on the market
-  funding_section_title: How will funding be used?
-  funding_section_card_title_1: Developers
-  funding_section_card_title_2: Infrastructure
-  funding_section_card_title_3: Support
-  funding_section_card_description_1: Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed.
-  funding_section_card_description_2: We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing.
-  funding_section_card_description_3: User support, bug fixing, and improving the stability of the app are at the top of our priorities. There are 1200+ issues on GitHub that is growing every day, and a large number of items to address on AppStore, Google Play, and support emails.
-  users_way_section_title: People say
-  users_way_donation_description_1: I donate to Organic Maps for the unique offering they bring, and to support positive change
-  users_way_donation_description_2: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
-  users_way_donation_description_3: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
-  users_way_donation_name_1: Emily Johnson
-  users_way_donation_name_2: Emanuel Matis
-  users_way_donation_name_3: Rosa
+  menu_title: "दान करें"
+  preview_image: donate/donate.png
+title: "ऑर्गनिक मैप्स के विकास का समर्थन करने के लिए दान करें"
+weight: 10
 ---
+
+आपके **[दान][stripe]** की बदौलत ऑर्गेनिक मैप्स ऐप सभी के लिए _मुफ्त_ है:
+
+- बिना विज्ञापन
+- कोई ट्रैकर्स नहीं
+- कोई रजिस्ट्रेशन नहीं
+- कोई पुश सूचनाएँ नहीं
+- ओपन सोर्स
+
+Click on your preferred payment method icon below:
+
+{{ donate_buttons() }}
+
+## ऑर्गेनिक मैप्स को दान क्यों करें?
+
+1. हम जैविक मानचित्रों को खुला और मुक्त रखने के अपने मिशन को पूरा करने के
+   लिए आपके दान पर भरोसा करते हैं। और विज्ञापनों से मुक्त।
+2. हम कुछ उत्साही हैं जो अपने खाली समय में योगदान करते हैं, और परियोजना पर
+   अपने परिवारों का पैसा खर्च करते हैं। हम जो करते हैं उससे प्यार करते हैं,
+   और हम अपने उपयोगकर्ताओं से प्यार करते हैं ❤️।
+3. आपके समर्थन से, हम गूगल मानचित्र का एक बेहतर, गोपनीयता-केंद्रित संस्करण
+   बनना चाहते हैं।
+
+## पैसे का उपयोग किस लिए किया जाएगा?
+
+1. हम तेज सर्वर के लिए भुगतान करते हैं, इसलिए दुनिया में कोई भी बिना देरी के
+   मुफ्त मानचित्र डेटा अपडेट डाउनलोड कर सकता है। यह सैकड़ों टेराबाइट्स मासिक
+   है, और राशि बढ़ रही है।
+2. उपयोगकर्ता समर्थन, बग फिक्सिंग और ऐप की स्थिरता में सुधार करना हमारी
+   प्राथमिकताओं में सबसे ऊपर है। [GitHub पर 1800+ मुद्दे][GitHub issues]
+   हैं, और यह संख्या हर दिन बढ़ रही है। ऐप स्टोर,गूगल प्ले, और समर्थन ईमेल
+   टिप्पणियों और बगों से भर गए हैं। हम एक उच्च गुणवत्ता वाला उत्पाद देना
+   चाहते हैं।
+3. पर्याप्त धन के साथ, नई सुविधाओं को तेज़ी से विकसित किया जा सकता है,
+   उदाहरण के लिए:
+   - साप्ताहिक और स्वचालित नक्शो का डेटा अपडेट
+   - बुकमार्क बैकअप और सिंक
+   - एंड्रॉइड ऑटो
+   - GPX समर्थन के साथ GPS ट्रैक रिकॉर्डर
+   - विभिन्न गतिविधियों के लिए बेहतर मानचित्र शैलियाँ
+   - हिल शेडिंग और 3 डी इलाके
+   - OpenStreetMap एडीटर में सुधार करें
+   - बेहतर ऑफ़लाइन पता खोज, रूटिंग और नेविगेशन
+   - सार्वजनिक परिवाहन
+   - ... और [कई अन्य][github issues] सुविधाएँ जो आप चाहते हैं और प्यार करते
+     हैं
+
+## कैसे दान करें?
+
+Click on your preferred payment method icon below:
+
+{{ donate_buttons() }}
+
+आवर्ती दान परियोजना के लिए अपेक्षाकृत स्थिर आय सुनिश्चित करने और दीर्घकालिक
+कार्यों और लक्ष्यों के लिए हमें प्रेरित करने का सबसे अच्छा तरीका है। लेकिन
+आप एक बार भी दान कर सकते हैं।
+
+### बैंक ट्रांसफर
+
+{{ bank_transfer() }}
+
+### क्रिप्टो
+
+कृपया शुल्क कम करने के लिए सालाना दान करें ।
+
+{{ crypto_table() }}
+
+## क्या आप किसी और तरीके से हमारी मदद कर सकते हैं?
+
+जी हाँ! ऑर्गेनिक मानचित्रों का समर्थन करने के कई तरीके हैं. अधिक विवरण के
+लिए कृपया [समर्थन](@/support-us/index.hi.md) पृष्ठ देखें।
+
+[stripe]: https://donate.organicmaps.app/ "स्ट्राइप के माध्यम से दान करें"
+[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub के मामले"
