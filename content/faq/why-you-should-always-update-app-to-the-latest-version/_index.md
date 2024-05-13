@@ -1,10 +1,9 @@
 ---
 title: Why you should always update app to the latest version?
 description: "Frequently asked questions for Organic Maps application"
-
 taxonomies:
   faq: ["General"]
-
+template: single.html
 extra:
   order: 40
 ---
