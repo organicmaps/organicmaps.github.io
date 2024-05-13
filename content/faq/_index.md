@@ -1,12 +1,12 @@
 ---
-title: "F.A.Q."
-description: "Frequently asked questions for Organic Maps application"
-weight: 1000
+  title: "F.A.Q."
+  description: "Frequently asked questions for Organic Maps application"
+  weight: 1000
 
-extra:
-  menu_title: F.A.Q.
+  extra:
+    menu_title: F.A.Q.
 
-sort_by: weight
+  sort_by: weight
 ---
 
 ### This page is replaced with taxonomy "faq" from templates/faq/list.html template
