@@ -1,7 +1,7 @@
-/docs/screenshots/1.jpg /images/screenshots/hiking.jpg 301
-/en / 302
-/en/* /:splat 302
 /terms.html /terms/ 301
 /privacy.html /privacy/ 301
 /policy/ /privacy/ 301
+/docs/screenshots/1.jpg /images/screenshots/hiking.jpg 301
+/en / 302
+/en/* /:splat 302
 /:lang/policy/ /:lang/privacy/ 301
