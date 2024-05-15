@@ -1,60 +1,140 @@
-{# Taxonomy and section template to render /news/ #}
 {% extends 'base.html' %}
 
+{% block meta %}
+{% set latestPage = resource.pages | first %}
+<!-- <meta property="article:published_time" content="{# latestPage.date #}"> -->
+{% endblock meta %}
+
 {% block content %}
-
-<h1>{{ resource.title }}</h1>
-
-{# Iterate and use en sections by default and use localized versions only if they are present #}
-{% set enNewsSectionTranslation = resource.translations | filter(attribute='lang', value='en') | first %}
-{% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
-
-{% for sectionStr in enNewsSection.subsections | sort | reverse %}
-{% set section = get_section(path=sectionStr) %}
-{% for page in section.pages %}
-{% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
-{% if translatedPage %}
-  {% set page = get_page(path=translatedPage.path) %}
-{% endif %}
-
-<section{% if page.translations | length <= 1 %} dir="auto"{% endif %} class="{% for taxonomy, terms in page.taxonomies %}{% for term in terms%}{{ term }} {% endfor %}{% else %}News{% endfor %}">
-
-<div class="news_date">&nbsp;<a href="{{ page.path | safe }}">{{ page.date | date(format='%B %e, %Y') }}</a>&nbsp;</div>
-{# Display wide images below the text instead of to the right. #}
-{% set_global noflex = '' %}
-{% for photo in page.assets %}
-  {% if photo is not matching("\.mp[34]$") %}
-    {% set meta = get_image_metadata(path=photo) %}
-    {# TODO: How to get dimensions of video? #}
-    {% if meta.width > meta.height %}
-      {% set_global noflex = '_noflex' %}
-      {% break %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-<div class="news_content_image{{ noflex }}">
-{% if page.content %}
-  <div class="news_content">{{ page.content | safe }}</div>
-{% endif %}
-
-<span class="news_images">
-{% for media in page.assets | sort %}
-  {% if media is matching("\.mp3$") %}
-  {% elif media is matching("\.mp4$") %}
-    <video class="news_video" controls>
-      <source src="{{ page.permalink }}/{{ media | split(pat='/') | last }}" type="video/mp4">
-    </video>
-  {% else %} {# It's images #}
-    {% set meta = get_image_metadata(path=media) %}
-    <img class="news_image{% if meta.width > meta.height %}_landscape{% endif %}" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}" />
-  {% endif %}
-{% endfor %}
-</span>
-
+<section class="hero-sub" style="background-image: url(/images/news/hero-img.png);">
+    <div class="container hero-sub__container">
+        <nav class="bred-crum">
+            <ul class="bred-crum__row">
+                <li class="bred-crum__item">
+                    <a class="nav-bred bred-crum__link" href="/">{{ trans(key='home_title', lang=lang) }}</a>
+                </li>
+                <li class="bred-crum__item">
+                <span class="nav-bred">
+                    >
+                </span>
+                </li>
+                <li class="bred-crum__item">
+                    <a class="nav-bred bred-crum__link bred-crum--active"
+                       href="/news">{{ trans(key='news_title', lang=lang) }}</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="hero-sub__content">
+            <h1 class="h1 hero-sub__title">
+                {{ resource.title }}
+            </h1>
+        </div>
+    </div>
 </section>
-
+<div class="container  main-news__nav">
+    <div class="main-news__nav-row">
+        <button class="button button--main">{{ trans(key='all_title', lang=lang) }}</button>
+        <button class="button button--line">{{ trans(key='news_title', lang=lang) }}</button>
+        <button class="button button--line">{{ trans(key='releases_title', lang=lang) }}</button>
+    </div>
 </div>
-{% endfor %}
-{% endfor %}
+<div class="container main-news__row">
+    {% for sectionStr in resource.subsections | sort | reverse %}
+        {% set section = get_section(path=sectionStr) %}
+        {% for page in section.pages %}
+            {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
+            {% if translatedPage %}
+                {% set page = get_page(path=translatedPage.path) %}
+            {% endif %}
 
+            <section class="post-min" {% if page.translations | length <= 1 %} dir="auto"{% endif %}>
+
+                {# Display wide images below the text instead of to the right. #}
+                {% set_global noflex = '' %}
+                {% for photo in page.assets %}
+                    {% set meta = get_image_metadata(path=photo) %}
+                    {% if meta.width > meta.height %}
+                        {% set_global noflex = '_noflex' %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+                {% if page.assets %}
+                    {% for photo in page.assets | sort %}
+                        <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+                    {% endfor %}
+                {% else %}
+                    <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
+                {% endif %}
+                {% if page.title %}
+                    <h2 class="h2-sub_v2 post-min__title">{{ page.title | safe }}</h2>
+                {% endif %}
+                <div class="line post-min__line"></div>
+                <div class="post-min__dates">
+                    <div class="post-min__date">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                            <!-- SVG content -->
+                        </svg>
+                        <span class="p-sm post-min__date-title">{{ page.date | date(format='%B %e, %Y') }}</span>
+                    </div>
+                    <div class="post-min__date">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                            <!-- SVG content -->
+                        </svg>
+                        <span class="p-sm post-min__date-title">{{ trans(key='news_title', lang=lang) }}</span>
+                    </div>
+                </div>
+                {% if page.description %}
+                    <p class="p-card post-min__text">{{ page.description | safe }}</p>
+                {% endif %}
+                <a class="p-sm post-min__link" href="{{ page.path | safe }}">{{ trans(key='more_title', lang=lang) }}</a>
+            </section>
+        {% endfor %}
+    {% endfor %}
+    <nav class="pagination">
+        {% if paginator.previous %}
+            <a class="previous" href="{{ paginator.previous }}">‹ Previous</a>
+        {% endif %}
+        {% if paginator.next %}
+            <a class="next" href="{{ paginator.next }}">Next ›</a>
+        {% endif %}
+    </nav>
+</div>
+{% include 'shortcodes/acordeon.html' %}
+{% include 'shortcodes/switch-theme.html' %}
+{% include 'shortcodes/header-switch.html' %}
+{% include 'shortcodes/animation-section-js.html' %}
+{% include 'shortcodes/paralax.html' %}
+<style>
+    .pages a {
+        color: black;
+        font-size: 12px;
+        line-height: 14px;
+        padding: 0;
+        margin: 0;
+        display: block;
+    }
+    .pages li {
+        list-style: none;
+
+    }
+    .pages {
+        position: fixed;
+        bottom: 5px;
+        left: 5px;
+        background: rgba(255, 255, 255, .8);
+        padding: 5px 5px 5px 15px;
+        width: 100px;
+        height: 180px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    @media (max-width: 767px) {
+        .pages {
+            display: none;
+        }
+    }
+
+</style>
 {% endblock content %}
