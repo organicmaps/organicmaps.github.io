@@ -1,40 +1,30 @@
 ---
-description: "طرق مختلفة لدعم تطوير تطبيقنا المجاني"
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: "ساهم في التطوير"
-  preview_image: support-us/support-us.jpg
-title: "دعم تطوير Organic Maps"
-weight: 20
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Organic Maps هو تطبيق مجاني مفتوح المصدر. إنه خالٍ من الإعلانات، ولا يجمع
-معلوماتك الشخصية، ويتم تطويره بواسطة عدد قليل من المتحمسين بمساعدة المجتمع.
-
-هناك طرق مختلفة لدعم التطوير:
-
-- [تبرع](@/donate/index.md)! كل دولار أو يورو مهم ويساعدنا على الدفع مقابل
-  الخوادم والنطاق.
-- أبلغ عن الأخطاء وشارك الأفكار على [GitHub][github] أو عبر [البريد
-  الإلكتروني][email].
-- ساعدنا في [إصلاح الخلل][contributing] وإجراء مراجعات للكود إذا كنت
-  مطورًا. كل مشكلة صغيرة يتم إصلاحها تجعل شخص ما أكثر سعادة.
-- [ترجم][translations] سلاسل مفقودة في واجهة التطبيق.
-- ترجم أوصاف [App Store][translations_appstore] و
-  [Android][translations_googleplay] بلغتك.
-- [ترجم][translations_website] موقعنا على الويب بلغتك.
-- انضم إلى مجتمع [OpenStreetMap][openstreetmap] و ساهم في بيانات الخرائط.
-- أصلح المدن الحمراء التي عُثر عليها بواسطة [أداة التحقق من وسائل النقل
-  العام] [public_transport_validator]، لمترو الأنفاق والسكك الحديدية للعمل
-  في التطبيق.
-- دعم المستخدمين الآخرين على [GitHub][issues], [Telegram][telegram_chat],
-  [ماتركس][matrix], [تويتر][twitter], [فيسبوك][facebook],
-  [إنستغرام][instagram].
-- أخبر الجميع عن Organic Maps. المجتمع الأكبر هو المجتمع الأقوى.
-- قيمنا في [Google Play][googleplay_review], [Apple Store][appstore_review],
-  [Huawei Appgallery][appgallery_review].
-- نرحب بأي مساعدة!
-
-فريقنا الصغير ممتن جدًا لتعليقاتك ودعمك. لن يكون Organic Maps ممكن بدون
-مستخدمينا ❤️.
-
-{{ references() }}

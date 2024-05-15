@@ -1,42 +1,30 @@
 ---
-description: "Різні способи підтримки розробки нашого безплатного застосунку"
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: "Підтримати нас"
-  preview_image: support-us/support-us.jpg
-title: "Підтримайте розвиток Organic Maps"
-weight: 20
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Organic Maps - це безкоштовний застосунок з відкритим початковим кодом. Він
-не містить реклами, не збирає вашу особисту інформацію і розробляється
-кількома ентузіастами за допомогою спільноти.
-
-Існують різні способи підтримати розвиток:
-
-- [Пожертвуйте](@/donate/index.uk.md)! Кожен долар чи євро має значення і
-  допомагає нам платити за сервери та масштабування.
-- Повідомляйте про помилки та діліться ідеями на нашому [GitHub][github] або
-  через [email][email].
-- Допомагайте нам [виправляти помилки][contributing] та перевіряти код, якщо
-  ви розробник. Кожна виправлена помилка зробить когось щасливішим.
-- [Перекладайте][translations] пропущені строки в інтерфейсі застосунка.
-- Перекладайте [App Store][translations_appstore] та
-  [Android][translations_googleplay] опис на свою мову.
-- [Перекладайте][translations_website] наш веб-сайт на свою мову.
-- Приєднуйтесь до [OpenStreetMap][openstreetmap] спільноти та робіть внесок
-  у створення мапи.
-- Виправте червоні місця, знайдені нашим [валідатором громадського
-  транспорту][public_transport_validator], щоб метро і швидкісний трамвай
-  працювали в застосунку.
-- Підтримуйте інших користувачів на [GitHub][issues],
-  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
-  [Facebook][facebook], [Instagram][instagram].
-- Розкажіть усім про Organic Maps. Більша спільнота – сильніша спільнота.
-- Оцініть нас у [Google Play][googleplay_review], [Apple
-  Store][appstore_review], [Huawei Appgallery][appgallery_review].
-- Будь-яка допомога вітається!
-
-Наша невелика команда дуже вдячна за ваші відгуки та підтримку. Ми не змогли
-б розвивати Organic Maps без наших користувачів ❤️.
-
-{{ references() }}
