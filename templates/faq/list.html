@@ -32,15 +32,28 @@
     </div>
   </div>
 </section>
-
-
-
 <section class="search">
   <div class="container search__container">
     <label class="search__label" for="inpSearch">
       {% include 'ui/search.html' %}
       <input class="search__input" id="inpSearch" type="text" placeholder="Search">
     </label>
+  </div>
+</section>
+<section class="support-buttons">
+  <div class="container support-buttons__row">
+      <button class="button button--line">{{ trans(key='support-button-1', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-2', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-3', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-4', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-5', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-6', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-7', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-8', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-9', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-10', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-11', lang=lang) }}</button>
+      <button class="button button--line">{{ trans(key='support-button-12', lang=lang) }}</button>
   </div>
 </section>
 <section class="faq-page-list">
@@ -138,7 +151,6 @@
 
   </div>
 </section>
-
 <section class="faq-page-footer">
   <div class="container faq-page-footer__row">
     <h2 class="h2-inter faq-page-footer__title">{{ trans(key='help_request', lang=lang) }}</h2>
