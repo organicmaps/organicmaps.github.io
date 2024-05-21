@@ -39,7 +39,10 @@
     </div>
 </div>
 <div class="container main-news__row">
-    {% for sectionStr in resource.subsections | sort | reverse %}
+    {% set enNewsSectionTranslation = resource.translations | filter(attribute='lang', value='en') | first %}
+    {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
+
+    {% for sectionStr in enNewsSection.subsections | sort | reverse %}
         {% set section = get_section(path=sectionStr) %}
         {% for page in section.pages %}
             {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
@@ -52,15 +55,23 @@
                 {# Display wide images below the text instead of to the right. #}
                 {% set_global noflex = '' %}
                 {% for photo in page.assets %}
-                    {% set meta = get_image_metadata(path=photo) %}
-                    {% if meta.width > meta.height %}
-                        {% set_global noflex = '_noflex' %}
-                        {% break %}
+                    {% if photo is not matching("\.mp[34]$") %}
+                        {% set meta = get_image_metadata(path=photo) %}
+                        {% if meta.width > meta.height %}
+                            {% set_global noflex = '_noflex' %}
+                            {% break %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
                 {% if page.assets %}
-                    {% for photo in page.assets | sort %}
-                        <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+                    {% for media in page.assets | sort %}
+                        {% if media is matching("\.mp3$") %}
+                            <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}">
+                        {% elif media is matching("\.mp4$") %}
+                            <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}">
+                        {% else %}
+                            <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}"/>
+                        {% endif %}
                     {% endfor %}
                 {% else %}
                     <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
@@ -107,7 +118,6 @@
     }
     .pages li {
         list-style: none;
-
     }
     .pages {
         position: fixed;
@@ -128,5 +138,15 @@
         }
     }
 
+    .media-container {
+        position: relative;
+        display: inline-block;
+    }
+    .media-placeholder {
+        width: 100%;
+        height: auto;
+        display: block;
+        position: relative;
+    }
 </style>
 {% endblock content %}
