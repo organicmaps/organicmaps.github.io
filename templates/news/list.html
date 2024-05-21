@@ -66,9 +66,9 @@
                 {% if page.assets %}
                     {% for media in page.assets | sort %}
                         {% if media is matching("\.mp3$") %}
-                            <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}">
+                            <img class="post-min__img post-min__img--one" src="/images/post/img2.png">
                         {% elif media is matching("\.mp4$") %}
-                            <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}">
+                            <img class="post-min__img post-min__img--one" src="/images/post/img2.png">
                         {% else %}
                             <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ media | split(pat='/') | last }}"/>
                         {% endif %}
