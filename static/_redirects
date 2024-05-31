@@ -5,3 +5,4 @@
 /en / 302
 /en/* /:splat 302
 /:lang/policy/ /:lang/privacy/ 301
+/payment/ /donate/
