@@ -1,135 +1,37 @@
 ---
-description: 'Snabba detaljerade offline-kartor för resenärer, turister, förare, vandrare och cyklister skapade av grundarna av appen MapsWithMe (Maps.Me).'
-extra:
-  menu_title: Hem
-page_template: index.html
+title: "Navigate with Privacy. Drive, Hike, Bike Offline"
+description: 'The ultimate companion app for travelers,
+built by the community.'
+template: home.html
 sort_by: weight
-title: 'Organic Maps: Offline Vandring, Cykling, Leder och Navigering'
+extra:
+  menu_title: Home
+  organic_section_title: Organic
+  organic_section_description: Community + Open Maps
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code
+  single_section_title: Freedom Is Here
+  single_section_description: Discover your journey, navigate the world with privacy and community at the forefront.
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features,  and contributing code
+  services_section_card_button_info_1: No internet needed
+  services_section_card_button_info_2: No additional permissions required
+  services_section_card_button_info_3: less power usage
+  services_section_card_button_info_4: Free for everyone, Made with love
+  single_section_title: Offline Search and Route
+  single_section_description: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
 ---
 
-**Organic Maps** är en gratis Android- och iOS-app för resenärer, turister, vandrare och cyklister som bygger på data från publiken **[OpenStreetMap][openstreetmap]**. Det är en [fork][fork] med öppen källkod av appen **Maps.me** (tidigare känd som [**MapsWithMe**][mapswithme]), som underhålls av samma personer som skapade **MapsWithMe** 2011.
 
-**Organic Maps** är ett av få program som numera stöder 100 % av funktionerna utan en aktiv internetanslutning. Installera Organic Maps, ladda ner kartor, släng ditt SIM-kort (din operatör spårar dig förresten hela tiden) och gör en veckolång resa med en enda batteriladdning utan att någon byte skickas till nätet.
-
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
-
-### Ladda ner och installera Organic Maps från [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
-
-{{ badges() }}
-
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Vandring') }}
-
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
-
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Sökning')
-}}
-
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation i mörkt
-läge') }}
-
-## Funktioner
-
-Organic Maps är den ultimata appen för resenärer, turister, vandrare och
-cyklister:
-
-- Detaljerade offline-kartor med platser som inte finns på andra kartor,
-  tack vare [OpenStreetMap][openstreetmap]
-- Cykelvägar, vandringsleder och promenadvägar
-- Konturlinjer, höjdprofiler, toppar och sluttningar
-- Tur-för-tur-navigering för promenader, cykling och bilnavigering med
-  röststyrning, Android Auto
-- Snabb offline-sökning på kartan
-- Export och import av bokmärken i KML/KMZ-format, importera GPX
-- Mörkt läge för att skydda dina ögon
-- Länder och regioner tar inte mycket plats
-- Gratis och öppen källkod
-
-## Varför Organisk?
-
-Organic Maps är ren och organisk, gjord med kärlek:
-
-- Respekterar din integritet
-- Sparar ditt batteri
-- Inga oväntade avgifter för mobildata
-
-Organic Maps app är fri från spårare och andra dåliga saker:
-
-- Inga annonser
-- Ingen spårning
-- Ingen data samling
-- Ingen uppringning hem
-- Ingen irriterande registrering
-- Inga obligatoriska handledningar
-- Ingen brusig email spam
-- Inga push-notifikationer
-- Ingen skitvara
-- ~~Icke-besprutat~~ Rent organiskt!
-
-Ansökan verifieras av [Exodus Privacy Project][exodus]:
-
-{{ exodus_screenshot() }}
-
-iOS-applikationen har verifierats av [TrackerControl för
-iOS][trackercontrol]:
-
-{{ trackercontrol_screenshot() }}
-
-Organic Maps begär inte överdrivna behörigheter för att spionera på dig:
-
-{{ privacy_screenshots() }}
-
-På Organic Maps anser vi att integritet är en grundläggande mänsklig
-rättighet:
-
-- Organic Maps är ett indiegemenskapsdrivet projekt med öppen källkod
-- Vi skyddar din integritet från Big Techs nyfikna ögon
-- Håll dig säker oavsett var du befinner dig
-
-Vägra övervakning. Välkomna friheten.
-
-**[Testa Organic Maps!](#install)**
-
-## Vem betalar för den kostnadsfria appen?
-
-Appen är gratis för alla. Vänligen [donera](@/donate/index.sv.md) för att
-stödja oss!
-
-För att donera omedelbart, klicka på en ikon för önskad betalningsmetod
-nedan:
-
-{{ donate_buttons() }}
-
-### Våra sponsorer:
-
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [ger
-oss][mythic_beasts_donation] två virtuella servrar med 400 TB/månad gratis
-bandbredd för att hjälpa våra användare med nedladdningar och uppdateringar
-av kartor.
-
-## Gemenskap
-
-Organic Maps är en [programvara med öppen källkod][github] licensierad under
-Apache License 2.0.
-
-- Gå med i vårt betaprogram, föreslå funktioner och rapportera fel:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (paket)][repology]
-- Rapportera fel eller problem till [problemspåraren][issues] eller [mejla
-  oss][email].
-- [Diskutera][ideas] idéer eller föreslå önskemål om funktioner.
-- Prenumerera på vår [Telegram Channel][telegram] eller på [matrix
-  space][matrix] för uppdateringar.
-- Gå med i vår [Telegramgrupp][telegram_chat] för att diskutera med andra
-  användare.
-- Besök vår [GitHub-sida][github].
-- Följ våra uppdateringar på [FOSStodon][fosstodon], [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
-  [Reddit][reddit], [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
-
-[fork]: https://sv.wikipedia.org/wiki/Fork
-
-{{ references() }}

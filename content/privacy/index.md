@@ -2,8 +2,11 @@
 title: "Organic Maps: Privacy Policy"
 description: "No tracking, no ads, no data collection, no statistics collection, no spyware"
 weight: 900
+template: privacy.html
 extra:
-  menu_title: Privacy
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 Organic Maps respects your privacy and DOES NOT TRACK YOU.

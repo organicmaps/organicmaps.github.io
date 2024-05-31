@@ -1,7 +1,10 @@
 ---
 description: "Ingen spårning, inga annonser, ingen datainsamling, ingen statistikinsamling, ingen spionprogramvara"
+template: privacy.html
 extra:
-  menu_title: Integritetspolicy
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Integritetspolicy"
 weight: 900
 ---

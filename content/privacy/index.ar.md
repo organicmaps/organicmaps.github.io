@@ -1,7 +1,10 @@
 ---
 description: "لا تتبع ولا إعلانات ولا جمع بيانات ولا جمع إحصائيات ولا برامج تجسس"
+template: privacy.html
 extra:
-  menu_title: الخصوصية
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: سياسة الخصوصية"
 weight: 900
 ---

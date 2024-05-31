@@ -1,7 +1,10 @@
 ---
 description: "Bez śledzenia, bez reklam, bez zbierania danych, bez zbierania statystyk, bez spyware"
+template: privacy.html
 extra:
-  menu_title: Prywatność
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Polityka prywatności"
 weight: 900
 ---

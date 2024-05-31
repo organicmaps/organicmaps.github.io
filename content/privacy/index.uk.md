@@ -1,7 +1,10 @@
 ---
 description: "Без відстеження, без реклами, без збору даних, без збору статистики, без шпигунських програм"
+template: privacy.html
 extra:
-  menu_title: Конфіденційність
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Політика конфіденційності"
 weight: 900
 ---

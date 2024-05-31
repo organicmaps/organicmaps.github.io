@@ -1,0 +1,25 @@
+.privacy__content {
+    margin-bottom: var(--container-mob-section);
+    margin-top: var(--container-mob-section);
+    & p {
+        margin-bottom: 1em;
+        line-height: 1.6;
+        font-size: 1em;
+    }
+    
+    & a {
+        text-decoration: underline; 
+    }
+
+    & ul {
+        margin-bottom: 1em;
+        padding-left: 30px; 
+        list-style-type: disc;
+    }
+
+    &-title {
+        padding-bottom: 30px;
+        border-bottom: 1px solid #BFDACC;
+        margin-bottom: var(--container-mob-section);
+    }
+}

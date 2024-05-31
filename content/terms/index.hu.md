@@ -1,7 +1,10 @@
 ---
 description: "Az Organic Maps alkalmazás használati feltételei"
+template: terms.html
 extra:
-  menu_title: Feltételek
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: feltételek"
 weight: 1000
 ---

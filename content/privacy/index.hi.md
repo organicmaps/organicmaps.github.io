@@ -1,7 +1,10 @@
 ---
 description: "ना कोई विज्ञापन, ना कोई ट्रैकिंग, ना कोई डेटा संग्रह, ना कोई संख्या संग्रह, ना कोई स्पाईवेयर"
+template: privacy.html
 extra:
-  menu_title: निजता
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "ऑर्गेनिक मैप्स: गोपनीयता नीति"
 weight: 900
 ---

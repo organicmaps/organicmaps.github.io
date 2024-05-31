@@ -1,7 +1,10 @@
 ---
 description: "Telerau Defnyddio ap Organic Maps"
+template: terms.html
 extra:
-  menu_title: Telerau
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: telerau"
 weight: 1000
 ---

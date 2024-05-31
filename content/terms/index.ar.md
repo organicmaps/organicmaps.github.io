@@ -1,7 +1,10 @@
 ---
 description: "شروط استخدام تطبيق Organic Maps"
+template: terms.html
 extra:
-  menu_title: شروط
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: الشروط"
 weight: 1000
 ---

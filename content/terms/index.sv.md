@@ -1,7 +1,10 @@
 ---
 description: "Användarvillkor för Organic Maps-appen"
+template: terms.html
 extra:
-  menu_title: Användarvillkor
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Användarvillkor"
 weight: 1000
 ---

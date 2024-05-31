@@ -1,7 +1,10 @@
 ---
 description: "Kein Tracking, keine Werbung, keine Datensammlung, keine Statistiksammlung, keine Spyware"
+template: privacy.html
 extra:
-  menu_title: Datenschutz
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Datenschutz"
 weight: 900
 ---

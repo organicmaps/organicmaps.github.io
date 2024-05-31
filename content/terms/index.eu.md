@@ -1,7 +1,10 @@
 ---
 description: "Organic Maps aplikazioaren erabilera baldintzak"
+template: terms.html
 extra:
-  menu_title: "Erabilera baldintzak"
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: baldintzak"
 weight: 1000
 ---

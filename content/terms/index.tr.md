@@ -2,8 +2,11 @@
 title: "Organic Maps: koşullar"
 description: "Organic Maps uygulaması için kullanım koşulları"
 weight: 1000
+template: terms.html
 extra:
-  menu_title: Terms
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 Bu uygulama Apache Lisansı, Sürüm 2.0 ("Lisans") altında lisanslanmıştır;

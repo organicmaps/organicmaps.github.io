@@ -1,7 +1,10 @@
 ---
 description: "Nutzungsbedingungen für die Organic Maps Anwendung"
+template: terms.html
 extra:
-  menu_title: Nutzungsbedingungen
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Nutzungsbedingungen"
 weight: 1000
 ---

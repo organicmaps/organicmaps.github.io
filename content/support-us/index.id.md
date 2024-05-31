@@ -1,44 +1,30 @@
 ---
-description: "Berbagai cara untuk mendukung pengembangan aplikasi gratis kami"
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: "Dukung Kami"
-  preview_image: support-us/support-us.jpg
-title: "Dukung pengembangan Organic Maps"
-weight: 20
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Organic Maps adalah aplikasi sumber terbuka bebas. Aplikasi ini bebas dari
-iklan, tidak mengumpulkan informasi pribadi Anda, dan dikembangkan oleh
-beberapa penggemar dengan bantuan komunitas.
-
-Ada berbagai cara untuk mendukung pengembangan:
-
-- [Donasi](@/donate/index.id.md)! Setiap dolar atau euro sangat berarti dan
-  membantu kami membayar peladen dan skala.
-- Laporkan kutu dan bagikan ide di [GitHub][github][github] atau melalui
-  [surel][email].
-- Bantu kami untuk [memperbaiki kutu][contributing] dan melakukan tinjauan
-  kode jika Anda seorang pengembang. Setiap masalah kecil yang diperbaiki
-  membuat seseorang lebih bahagia.
-- [Terjemahkan][translations] string yang belum ada di antarmuka aplikasi.
-- Terjemahkan deskripsi [App Store][translations_appstore] dan
-  [Android][translations_googleplay] ke dalam bahasa Anda.
-- [Terjemahkan][translations_website] situs web kami ke bahasa Anda.
-- Bergabunglah dengan komunitas [OpenStreetMap][openstreetmap] dan
-  berkontribusi pada data peta.
-- Perbaiki kota merah yang ditemukan oleh [validator transportasi
-  umum][public_transport_validator] kami, agar kereta bawah tanah dan kereta
-  ringan dapat berfungsi di aplikasi.
-- Dukung pengguna lain di [GitHub][issues], [Telegram][telegram_chat],
-  [Matrix][matrix], [Twitter][twitter], [Facebook][facebook],
-  [Instagram][instagram].
-- Beri tahu semua orang tentang Organic Maps. Komunitas yang lebih besar
-  adalah komunitas yang lebih kuat.
-- Beri ulasan di [Google Play][googleplay_review], [Apple
-  Store][appstore_review], [Huawei Appgallery][appgallery_review].
-- Bantuan apa pun diterima!
-
-Tim kecil kami sangat berterima kasih atas masukan dan dukungan
-Anda. Organic Maps tidak akan mungkin terjadi tanpa pengguna kami ❤️.
-
-{{ references() }}

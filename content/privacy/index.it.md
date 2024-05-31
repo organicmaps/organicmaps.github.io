@@ -2,8 +2,11 @@
 title: "Organic Maps: Informativa sulla Privacy"
 description: "Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessuno spyware"
 weight: 900
+template: privacy.html
 extra:
-  menu_title: Privacy
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 Organic Maps rispetta la vostra privacy e NON VI TRACCIA.

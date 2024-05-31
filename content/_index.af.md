@@ -1,133 +1,37 @@
 ---
-description: 'Vinnige, gedetailleerde, vanlyn kaarte vir reisigers, toeriste, motorbestuurders, wandelaars en fietsers geskep deur die oprigters van MapsWithMe (Maps.Me).'
-extra:
-  menu_title: Tuis
-page_template: index.html
+title: "Navigate with Privacy. Drive, Hike, Bike Offline"
+description: 'The ultimate companion app for travelers,
+built by the community.'
+template: home.html
 sort_by: weight
-title: 'Organic Maps: Vanlyn voetslaan, fietsry, roetes en navigasie'
+extra:
+  menu_title: Home
+  organic_section_title: Organic
+  organic_section_description: Community + Open Maps
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code
+  single_section_title: Freedom Is Here
+  single_section_description: Discover your journey, navigate the world with privacy and community at the forefront.
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features,  and contributing code
+  services_section_card_button_info_1: No internet needed
+  services_section_card_button_info_2: No additional permissions required
+  services_section_card_button_info_3: less power usage
+  services_section_card_button_info_4: Free for everyone, Made with love
+  single_section_title: Offline Search and Route
+  single_section_description: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
 ---
 
-**Organic Maps** is ’n gratis Android & iOS vanlyn kaarttoep vir reisigers, toeristen, voetslaners en fietsers gebaseer op skareverkreë **[OpenStreetMap][openstreetmap]**-data. Dit is ’n privaatheidgefokusde, oopbron [vurk][fork] van die toep **Maps.me** (voorheen bekend as [**MapsWithMe**][mapswithme]), en word onderhou deur dieselfde mense wat **MapsWithMe** in 2011 geskep het.
 
-**Organic Maps** is een van die min toeps deesdae wat 100% van die funksionaliteit het sonder ’n aktiewe internetverbinding. Installeer Organic Maps, laai kaarte af, gooi u SIM-kaart weg (trouens, u verskaffer spoor u altyd na), en gaan ’n week op pad sonder om u battery te moet laai en sonder dat daar een greep na die netwerk verstuur word.
-
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
-
-### Laai af en installeer Organic Maps in die [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
-
-{{ badges() }}
-
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Voetslaan') }}
-
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praag') }}
-
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Vanlyn Soek') }}
-
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigasie in
-donkermodus') }}
-
-## Funksies
-
-Organic Maps is die topkameraadtoep vir reisigers, toeriste, voetslaners en
-fietsers:
-
-- Gedetailleerde vanlyn kaarte met plekke wat nie op ander kaarte bestaan
-  nie, danksy [OpenStreetMap][openstreetmap]
-- Fietsroetes, voetslaanroetes en -paaie
-- Kontoerlyne, hoogteprofiele, pieke en hellings
-- Roetebegeleiding vir voetslaan en fietsry en motornavigasie met
-  stembegeleiding, Android Auto
-- Soek vinnig vanlyn op die kaart
-- Stuur boekmerke uit en voer dit in in KML/KMZ-formate, voer GPX in
-- Donkermodus om u oë te beskerm
-- Lande en streke neem nie baie spasie op nie
-- Gratis en oopbron
-
-## Waarom ‘Organic’?
-
-Organic Maps is suiwer en organies, met liefde gemaak:
-
-- Eerbiedig u privaatheid
-- Bespaar u battery
-- Geen onverwagte mobieledatarekeninge
-
-Organic Maps is vry van naspoorders en ander slegte dinge:
-
-- Geen advertensies
-- Geen nasporing
-- Geen dataversameling
-- Geen ‘huis toe bel’ nie
-- Geen irriterende registrasie
-- Geen verpligte tutoriale
-- Geen opdringerige gemorspos
-- Geen stootkennisgewings
-- Geen kafware
-- ~~Geen insekdoders~~ Heeltemal organies!
-
-Die toepassing is geverifieer deur [Exodus Privacy Project][exodus]:
-
-{{ exodus_screenshot() }}
-
-Die iOS-toepassing is geverifieer deur [TrackerControl for
-iOS][trackercontrol]:
-
-{{ trackercontrol_screenshot() }}
-
-Organic Maps vra nie om oordrewe magtigings om op u te spioeneer nie:
-
-{{ privacy_screenshots() }}
-
-By Organic Maps glo ons dat privaatheid ’n fundamentele mensereg is:
-
-- Organic Maps is ’n onafhanklike gemeenskapsgedrewe oopbronprojek
-- Ons beskerm u privaatheid van tegnoreuse se nuuskierige oë
-- Bly veilig, waar u ook al is
-
-Weier waarneming – omarm u vryheid.
-
-**[Probeer Organic Maps gerus!](#install)**
-
-## Wie betaal vir die gratis toep?
-
-Die toep is gratis vir almal. [Skenk](@/donate/index.nl.md) asseblief om ons
-te ondersteun!
-
-Om onmiddellik te skenk kan u op ’n voorkeurbetaalmetode hier onder klik:
-
-{{ donate_buttons() }}
-
-### Ons borge:
-
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [voorsien
-ons][mythic_beasts_donation] van twee virtuele bedieners met 400 TB/maand
-aan gratis bandbreedte om ons gebruikers te help om kaarte af te laai en by
-te werk.
-
-## Gemeenskap
-
-Organic Maps is [oopbronprogrammatuur][github], wat gelisenseer is onder die
-Apache Lisensie 2.0.
-
-- Sluit asseblief aan by ons beta-program, stel funksies voor en rapporteer
-  foute:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (packages)][repology]
-- Rapporteer foute of probleme d.m.v. [die probleemspoorder][issues] of
-  [stuur ’n e-pos][email].
-- [Bespreek][ideas] ideë of stel funksieversoeke voor.
-- Teken in op ons [Telegram-kanaal][telegram] of op die
-  [matrix-ruimte][matrix] vir opdaterings.
-- Sluit aan by ons [Telegram-groep][telegram_chat] om met ander gebruikers
-  te bespreek.
-- Besoek ons [GitHub-blad][github].
-- Volg ons opdaterings op [FOSStodon][fosstodon], [Mastodon][mastodon],
-  [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
-  [Reddit][reddit], [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
-
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
-
-{{ references() }}

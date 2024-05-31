@@ -1,44 +1,30 @@
 ---
-description: "Diferentei manieras d’ajudar lo desvelopament de nòstra aplicacion liura"
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: "Ajudatz lo desvelopament"
-  preview_image: support-us/support-us.jpg
-title: "Ajudatz lo desvelopament de Mapas Organicas"
-weight: 20
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Mapas Organicas es una aplicacion dubèrta e a gratis. Es liura d’anóncias,
-recampa pas d’informacions personalas e es desvelopada per un rodolet
-d’afogats e l’ajuda de la comunautat.
-
-I a diferéntei manieras d’ajudar au desvelopament:
-
-- [Donar](@/donate/index.ca.md)! Cada dòlar o euro còmpta e nos ajuda a
-  pagar lei servidors e ganhar d’escala.
-- Senhalar d'errors e partejar d’idèas dins nòstre [GitHub][github] ò per
-  [email][email].
-- Ajudatz-nos a [fix bugs][contributing] e repassar lo còde se siatz
-  desvelopaire. Cada dificultat reglada fa plaser en quauqu’un.
-- [Translate][translations] cadenas mancan dins l’interfàcia de
-  l’aplicacion.
-- Tradurre lei descripcions de [App Store][translations_appstore] e
-  [Android][translations_googleplay] dins vòstra lenga.
-- [Traduir][translations_website] nòstre site internet dins vòstra lenga.
-- Jonhètz-vos a la comunautat [OpenStreetMap][openstreetmap] e collaboratz a
-  la mapa.
-- Fix red cities found by our [public transport
-  validator][public_transport_validator], for subways and light rails to
-  work in the app.
-- Ajudatz leis autreis utilizators dins [GitHub][issues],
-  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
-  [Facebook][facebook], [Instagram][instagram].
-- Tell everyone about Organic Maps. A bigger community is a stronger
-  community.
-- Avalora-nos dins [Google Play][googleplay_review], [Apple
-  Store][appstore_review], [Huawei Appgallery][appgallery_review].
-- Un pauc d’ajuda fa grand ben !
-
-Vòstrei comentaris e ajuda fan un gròs plaser a nòstra chormeta. Mapas
-Organicas seriá pas possible sensa nòstreis utilisators ❤️.
-
-{{ references() }}

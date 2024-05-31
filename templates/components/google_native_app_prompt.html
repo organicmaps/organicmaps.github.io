@@ -1,0 +1,13 @@
+<!-- BEGIN OF GOOGLE NATIVE APP PROMPT -->
+<!-- https://developers.google.com/web/fundamentals/app-install-banners/native -->
+<button id='addPWA' class='installPWAButton'>{{ trans(key='install-googleplay', lang=lang) }}</button>
+<script>
+  window.addEventListener('beforeinstallprompt', (e) => {
+    // Prevent Chrome 67 and earlier from automatically showing the prompt.
+    e.preventDefault();
+    const add = document.getElementById('addPWA');
+    add.style.display = 'block';
+    add.onclick = () => { e.prompt(); }
+  });
+</script>
+<!-- END OF GOOGLE NATIVE APP PROMPT -->

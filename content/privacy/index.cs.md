@@ -1,7 +1,10 @@
 ---
 description: "Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware"
+template: privacy.html
 extra:
-  menu_title: Soukromí
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Zásady ochrany osobních údajů"
 weight: 900
 ---

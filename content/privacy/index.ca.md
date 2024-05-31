@@ -1,7 +1,10 @@
 ---
 description: "Sense rastrejament, anuncis, recopilació de dades i estadístiques o programari espia"
+template: privacy.html
 extra:
-  menu_title: Privadesa
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Política de Privadesa"
 weight: 900
 ---

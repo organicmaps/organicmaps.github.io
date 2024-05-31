@@ -1,39 +1,30 @@
 ---
-title: Organic Maps'in Gelişimini Destekleyin
-description: Ücretsiz uygulamamızın gelişimini desteklemenin farklı yolları
-weight: 20
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: Bizi Destekle
-  preview_image: support-us/Destekle.png
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Organic Maps ücretsiz, açık kaynaklı bir uygulamadır. Reklam içermez, kişisel bilgilerinizi toplamaz
-ve topluluğun yardımıyla teknoloji tutkunları tarafından geliştirilir.
-
-Bizi desteklemenin farklı yolları var:
-
-- [Bağış yapın](@/donate/index.tr.md)! Her bir dolar veya avro önemlidir. Bağışlar, sunucular için ödeme yapmamıza yardımcı oluyor.
-- [GitHub][issues] veya [e-posta][email] üzerinden hataları bildirin ve fikirlerinizi paylaşın.
-- Eğer bir geliştiriciyseniz [hataları düzeltmemize][contributing] yardım edin
-  ve kodları gözden geçirin. Düzeltilen her küçük hata birilerini daha mutlu eder.
-- Uygulama arayüzündeki eksik dizeleri [çevirin][translations].
-- [App Store][translations_appstore]
-  ve [Android][translations_googleplay]
-  açıklamalarını kendi dilinize çevirin.
-- Web sitemizi kendi dilinize [çevirin][translations_website].
-- [OpenStreetMap][openstreetmap] topluluğuna katılın ve harita verilerine katkıda bulunun.
-- Metroların ve hafif raylı sistemlerin uygulamada çalışması için [toplu taşıma doğrulayıcımız][public_transport_validator] tarafından bulunan kırmızı şehirleri düzeltin.
-- [GitHub][issues],
-  [Telegram](https://t.me/OrganicMapsTR) ve
-  [matrix (İngilizce)][matrix] üzerinden diğer kullanıcılara yardımcı olun.
-- Bizi [Twitter (İngilizce)][twitter], [Facebook (İngilizce)][facebook] ve
-  [Instagram](https://instagram.com/OrganicMapsTR) üzerinden takip edin.
-- Herkese Organic Maps'ten bahsedin. Daha büyük bir topluluk daha güçlü bir topluluktur.
-- Bizi [Google Play][googleplay_review],
-  [Apple Store][appstore_review] ve
-  [Huawei Appgallery][appgallery_review]'de değerlendirin.
-- Her türlü yardıma açığız!
-
-Küçük ekibimiz, geri bildirimleriniz ve desteğiniz için çok minnettar. Organic Maps, kullanıcılarımız olmadan mümkün olamazdı❤️.
-
-{{ references() }}

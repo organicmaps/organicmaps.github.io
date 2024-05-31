@@ -1,7 +1,10 @@
 ---
 description: "Condicions d’ús de l’aplicació Organic Maps"
+template: terms.html
 extra:
-  menu_title: Condicions
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: condicions"
 weight: 1000
 ---

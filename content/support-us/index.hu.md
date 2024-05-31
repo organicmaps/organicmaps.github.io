@@ -1,44 +1,30 @@
 ---
-description: "Különböző módok az ingyenes alkalmazásunk fejlesztésének támogatására"
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: "Támogasson minket"
-  preview_image: support-us/support-us.jpg
-title: "Támogassa az Organic Maps fejlesztését"
-weight: 20
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Az Organic Maps egy ingyenes, nyílt forráskódú alkalmazás. Nem tartalmaz
-hirdetéseket, nem gyűjti az Ön személyes adatait, és néhány lelkes rajongó
-fejlesztette a közösség segítségével.
-
-A fejlesztést különböző módokon lehet támogatni:
-
-- [Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és
-  segít nekünk a szerverek kifizetésében és a kapacitásuk növelésében.
-- Jelentsd a hibákat és oszd meg ötleteidet [GitHub][github]-on vagy
-  [email][email]-en keresztül.
-- Segíts nekünk [hibák kijavításában][contributing]-ben és kódellenőrzésben,
-  ha fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz.
-- [Fordítás][translations] hiányzó karakterláncok az alkalmazás felületén.
-- Fordítsa le az [App Store][translations_appstore] és
-  [Android][translations_googleplay] leírásokat az Ön nyelvére.
-- [Fordítsa le][translations_website] weboldalunkat az Ön nyelvére.
-- Csatlakozzon az [OpenStreetMap][openstreetmap] közösséghez, és járuljon
-  hozzá a térkép adataihoz.
-- A [tömegközlekedési validátor][public_transport_validator] által talált
-  piros városok javítása, hogy a metrók és a kisvasutak működjenek az
-  alkalmazásban.
-- Támogasd a többi felhasználót a [GitHub]-[issues],
-  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
-  [Facebook][facebook], [Instagram][instagram] szolgáltatásokon.
-- Meséljen mindenkinek az Organic Maps-ről. Egy nagyobb közösség, az egy
-  erősebb közösség.
-- Értékeljen minket a [Google Play][googleplay_review], [App
-  Store][appstore_review], [Huawei Appgallery][appgallery_review]
-  felületeken.
-- Bármilyen segítséget szívesen fogadunk!
-
-Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az Organic
-Maps nem lenne lehetséges a felhasználóink nélkül ❤️.
-
-{{ references() }}

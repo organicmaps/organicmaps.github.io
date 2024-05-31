@@ -1,7 +1,10 @@
 ---
 description: "Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik"
+template: privacy.html
 extra:
-  menu_title: Pribatutasuna
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Pribatutasun politika"
 weight: 900
 ---

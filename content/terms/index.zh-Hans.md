@@ -1,7 +1,10 @@
 ---
 description: "Organic Maps使用条款"
+template: terms.html
 extra:
-  menu_title: 条款
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps：条款"
 weight: 1000
 ---

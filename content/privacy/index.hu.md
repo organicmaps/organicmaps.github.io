@@ -1,7 +1,10 @@
 ---
 description: "Nincs nyomkövetés, nincsenek hirdetések, nincs adatgyűjtés, nincs statisztikai adatgyűjtés, nincs kémprogram."
+template: privacy.html
 extra:
-  menu_title: Adatvédelem
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Adatvédelmi irányelvek"
 weight: 900
 ---

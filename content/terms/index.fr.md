@@ -2,8 +2,11 @@
 title: "Organic Maps : termes"
 description: "Conditions d'utilisation de l'application Organic Maps"
 weight: 1000
+template: terms.html
 extra:
-  menu_title: Termes
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 La présente application est régie par la licence Apache, version 2.0 (la "licence") ;

@@ -1,129 +1,37 @@
 ---
-description: 'خرائط مفصلة بدون إنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات، انشأت من قبل مؤسسي تطبيق MapsWithMe (Maps.Me).'
-extra:
-  menu_title: الرئيسية
-page_template: index.html
+title: "Navigate with Privacy. Drive, Hike, Bike Offline"
+description: 'The ultimate companion app for travelers,
+built by the community.'
+template: home.html
 sort_by: weight
-title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال حيثما أردت بدون الإنترنت'
+extra:
+  menu_title: Home
+  organic_section_title: Organic
+  organic_section_description: Community + Open Maps
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code
+  single_section_title: Freedom Is Here
+  single_section_description: Discover your journey, navigate the world with privacy and community at the forefront.
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features,  and contributing code
+  services_section_card_button_info_1: No internet needed
+  services_section_card_button_info_2: No additional permissions required
+  services_section_card_button_info_3: less power usage
+  services_section_card_button_info_4: Free for everyone, Made with love
+  single_section_title: Offline Search and Route
+  single_section_description: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
 ---
 
-**Organic Maps** هو تطبيق أندرويد و آيفون مجاني ولا يحتاج الإتصال بالإنترنت لأجل المسافرين، السياح، السائقين، المتنزهين و راكبي الدراجات مبني على بيانات المصدر العام **[OpenStreetMap][openstreetmap]**. مهتم بخصوصية المستخدمين، مفتوح المصدر، متفرع من تطبيق **Maps.Me** (المعروف سابقا بـ [**MapsWithMe**][mapswithme])، يقوم بصيانته نفس الأشخاص الذين أسسو **MapsWithMe** سنة 2011.
 
-**Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.
-
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
-
-### نزّل و ثبت Organic Maps من [AppStore][appstore]، [Google Play][googleplay]، [FDroid][fdroid]، [Huawei AppGallery][appgallery] {#install}
-
-{{ badges() }}
-
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
-
-{{ لقطة شاشة(src='/images/screenshots/hiking.jpg', alt='محبي المشي لمسافات
-طويلة') }}
-
-{{ screenshot(src='/images/screenshots/search.jpg', alt='البحث دون اتصال')
-}}
-
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='التنقل في الوضع
-الداكن') }}
-
-## المميزات
-
-تطبيق Organic Maps هو الرفيق الأفضل للمسافرين، السياح، المتنزهين و راكبي
-الدراجات:
-
-- خرائط تفصيلية بدون إنترنت مع أماكن غير متواجدة في تطبيقات أخرى، بفضل
-  [OpenStreetMap][openstreetmap]
-- مسارات الدراجات، مسارات للتنزه، ومسارات للمشي
-- الخطوط الكنتورية، المرتفعات، القمم والمنحدرات
-- المشي خطوة بخطوة وركوب الدراجة وقيادة السيارة مع التوجيه الصوتي وAndroid
-  Auto
-- بحث سريع في الخريطة بدون الحاجة لإنترنت
-- الإشارات المرجعية والمسارات بتنسيقات KML، KMZ، GPX
-- الوضع الداكن لحماية العينين
-- الدول والمناطق لا تحتاج للكثير من المساحة
-- مجاني ومفتوح المصدر
-
-## لماذا Organic؟
-
-Organic Maps خالصٌ وعضوي! صنع بحبٍ:
-
-- يحترم خصوصيتك
-- يُحافظ على بطاريتك
-- لا يستخدم بيانات الموبايل بشكل غير متوقع
-
-تطبيق Organic Maps لا يحتوي على البرامج التجسسية والأشياء الأخرى السيئة:
-
-- بدون إعلانات
-- لا تتبع أو تجسس
-- لا يجمع بيانات المستخدمين
-- لا يتصل سرً بأي خادم
-- لاحاجة للتسجيل
-- لا تعليمات اجبارية
-- لا بريد إلكتروني مزعج
-- لا إشعارات مزعجة
-- لا اشياء غير مفيدة
-- ~~لا مبيدات~~ عضوية بالكامل!
-
-تم التحقق من التطبيق بواسطة [مشروع Exodus Privacy][exodus]:
-
-{{ exodus_screenshot() }}
-
-تم التحقق من تطبيق iOS بواسطة [TrackerControl لـ iOS][trackercontrol]:
-
-{{ trackercontrol_screenshot() }}
-
-Organic Maps لا يطلب أذونات مفرطة للتجسس عليك:
-
-{{ privacy_screenshots() }}
-
-في Organic Maps نعتقد أن الخصوصية هي حق أساسي من حقوق الإنسان:
-
-- Organic Maps هو مشروع مفتوح المصدر مُدار من طرف مُجتمع مستقل
-- نحن نحمي خصوصيتك من أعين المتطفلين لدى شركات التقنيات الكبيرة
-- ابق آمنًا بغض النظر عن مكان وجودك
-
-ارفض المراقبة - احتضن حريتك.
-
-**[أعطي Organic Maps تجربة!](#install)**
-
-## من الذي يدفع مقابل التطبيق المجاني؟
-
-التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.md) لدعمنا!
-
-للتبرع بسهولة، انقر على أيقونة طريقة الدفع المفضلة لديك أدناه:
-
-{{ donate_buttons() }}
-
-### الرعاة
-
-[Mythic Beasts](https://www.mythic-beasts.com/) مزود خدمة الإنترنت [يقدم
-لنا][mythic_beasts_donation] اثنين من الخوادم الافتراضية مع 400 تيرابايت/شهر
-من النطاق الترددي المجاني لمساعدة مستخدمينا في تنزيلات الخرائط والتحديثات.
-
-## المجتمع
-
-Organic Maps هو [برنامج مفتوح المصدر][github] مرخّص تحت ترخيص Apache 2.0.
-
-- يرجى الانضمام إلى برنامجنا التجريبي، واقتراح ميزاتك، والإبلاغ عن الأخطاء:
-  * [iOS تجريبي (TestFlight)][testflight]
-  * [أندرويد تجريبي (Firebase)][firebase]
-  * [سطح مكتب Linux تجريبي (Flatpak)][flatpak]
-  * [سطح مكتب Linux تجريبي (حزم)][repology]
-- أبلغ عن الأخطاء أو المشكلات إلى [متعقب المشكلات][issues] أو [مراسلتنا عبر
-  البريد الإلكتروني][email].
-- [مناقشة][ideas] الأفكار أو اقتراح طلبات الميزات.
-- اشترك في [قناة Telegram][telegram] أو في [فضاء ماتركس][matrix] للحصول على
-  التحديثات.
-- انضم إلى [مجموعة Telegram][telegram_chat] للمناقشة مع المستخدمين الآخرين.
-- زُر [صفحة Github][github].
-- تابع تحديثاتنا في [ماستودون ][mastodon]، [فيسبوك][facebook]،
-  [تويتر][twitter]، [Instagram][instagram]، [Reddit][reddit]،
-  [FOSStodon][fosstodon]، [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
-
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
-
-{{ references() }}

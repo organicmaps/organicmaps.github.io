@@ -1,7 +1,10 @@
 ---
 description: 无跟踪、无广告、无数据收集、无统计收集、无间谍软件
+template: privacy.html
 extra:
-  menu_title: 隐私
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps：隐私政策"
 weight: 900
 ---

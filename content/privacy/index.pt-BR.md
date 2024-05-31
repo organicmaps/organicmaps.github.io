@@ -1,7 +1,10 @@
 ---
 description: "Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de estatísticas, sem spyware"
+template: privacy.html
 extra:
-  menu_title: "Política de Privacidade"
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Política de Privacidade"
 weight: 900
 ---

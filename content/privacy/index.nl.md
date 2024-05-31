@@ -1,7 +1,10 @@
 ---
 description: "Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware"
+template: privacy.html
 extra:
-  menu_title: Privacy
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: pricavyovereenkomst"
 weight: 900
 ---

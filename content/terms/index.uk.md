@@ -1,7 +1,10 @@
 ---
 description: "Умови використання застосунку Organic Maps"
+template: terms.html
 extra:
-  menu_title: Терміни
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: терміни"
 weight: 1000
 ---

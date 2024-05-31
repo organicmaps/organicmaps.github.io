@@ -1,12 +1,15 @@
 ---
-title: "Organic Maps: terms"
-description: "Terms of use for Organic Maps application"
-weight: 1000
+description: Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app
+template: terms.html
+weight: 10
 extra:
-  menu_title: Terms
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 This app is licensed under the Apache License, Version 2.0 (the "License"); you may not use this application except in compliance with the License.
+
 
 You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]
 

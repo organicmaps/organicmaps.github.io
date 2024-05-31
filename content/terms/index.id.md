@@ -1,7 +1,10 @@
 ---
 description: "Ketentuan penggunaan untuk aplikasi Organic Maps"
+template: terms.html
 extra:
-  menu_title: Persyaratan
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: persyaratan"
 weight: 1000
 ---

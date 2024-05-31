@@ -1,7 +1,10 @@
 ---
 description: "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan statistik, tanpa perangkat lunak pengintai"
+template: privacy.html
 extra:
-  menu_title: Privasi
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Kebijakan Privasi"
 weight: 900
 ---

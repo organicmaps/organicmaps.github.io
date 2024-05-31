@@ -1,132 +1,37 @@
 ---
-description: 'MapsWithMe (Maps.Me) च्या संस्थापकांनी प्रवाशी, पर्यटक, चालक, गिर्यारोहक व सायकल चालकांसाठी तयार केलेले जलद, संविस्तर ऑफलाईन नकाशे.'
-extra:
-  menu_title: घर
-page_template: index.html
+title: "Navigate with Privacy. Drive, Hike, Bike Offline"
+description: 'The ultimate companion app for travelers,
+built by the community.'
+template: home.html
 sort_by: weight
-title: 'Organic Maps : ऑफलाईन भटकंती, सायकल व मार्गनिर्देशन'
+extra:
+  menu_title: Home
+  organic_section_title: Organic
+  organic_section_description: Community + Open Maps
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code
+  single_section_title: Freedom Is Here
+  single_section_description: Discover your journey, navigate the world with privacy and community at the forefront.
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features,  and contributing code
+  services_section_card_button_info_1: No internet needed
+  services_section_card_button_info_2: No additional permissions required
+  services_section_card_button_info_3: less power usage
+  services_section_card_button_info_4: Free for everyone, Made with love
+  single_section_title: Offline Search and Route
+  single_section_description: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
 ---
 
-**Organic Maps** (ऑर्गनिक मॅप्स) हे एक अँड्रॉईड व iOS वर चालणारे ऑफलाईन नकाशांचे निःशुल्क अॅप आहे जे जनयोगदानातून तयार केलेल्या **[OpenStreetMap(ओपन स्ट्रीट मॅप)][openstreetmap]** च्या डेटा वर आधारीत आहे.
 
-**Organic Maps** हे आजकाल विनाइंटरनेटचे सर्व वैशिष्ट्यांसकट चालणाऱ्या मोजक्या अॅप पैकी एक अॅप आहे.
-
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
-
-### Organic Maps इथून डाऊनलोड व स्थापीत करा : [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
-
-{{ badges() }}
-
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='भटकंती') }}
-
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='प्राग') }}
-
-{{ screenshot(src='/images/screenshots/search.jpg', alt='ऑफलाईन शोध') }}
-
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='गडद मोड मध्ये
-मार्गनिर्देशन') }}
-
-## वैशिष्ट्ये
-
-प्रवाशी, पर्यटक, गिर्यारोहक व सायकल चालकांसाठी Organic Maps हे अत्यंत
-ऊपयुक्त ऍप आहे:
-
-- [OpenStreetMap][openstreetmap] च्या आभारे, इतर नकाशांवर अस्तित्वात
-  नसलेल्या ठिकाणांसोबत सखोल ऑफलाईन नकाशे
-- सायकलिंग मार्ग, भटकंती व चालण्याचे मार्ग
-- समोच्च रेषा, उंची प्रोफाइल, शिखरे व चढ-उतार
-- व्हॉइस मार्गदर्शन आणि Android Auto सह कार, सायकली आणि चालण्यासाठी
-  टर्न-बाय-टर्न दिशानिर्देश
-- नकाशावर वेगवान ऑफलाईन शोध
-- KML, KMZ, GPX फॉरमॅटमध्ये बुकमार्क आणि ट्रॅक
-- तुमच्या डोळ्यांच्या संरक्षणासाठी, गडद मोड
-- देश आणि प्रदेश जास्त जागा घेत नाहीत
-- विनामूल्य व मुक्त स्रोत
-
-## ऑर्गेनिक (सेंद्रिय) कशाला?
-
-Organic Maps हे शुद्ध व सेंद्रिय आहे, व प्रेमाने निर्मित आहे:
-
-- तुमच्या गोपनीयतेचा आदर करते
-- तुमची बॅटरी वाचवते
-- कोणतेही अनपेक्षित मोबाइल डेटा शुल्क नाही
-
-Organic Maps अॅप माहिती चोरांपासून आणि इतर वाईट गोष्टींपासून मुक्त आहे:
-
-- विना जाहिराती
-- महितीचा मागोवा नाही
-- डेटा संग्रह नाही
-- घरी फोन येणार नाही
-- त्रासदायक नोंदणी नाही
-- कोणतीही अनिवार्य शिकवणी नाही
-- त्रासदायक ईमेल नाही
-- अधिसूचना नाही
-- कचरासॉफ्टवेयर नाही
-- ~~कीटकनाशक नाही~~~ शुद्ध व सेंद्रिय!
-
-[Exodus Privacy Project][exodus] कडून तपासलेले ऍप:
-
-{{ exodus_screenshot() }}
-
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
-
-{{ trackercontrol_screenshot() }}
-
-तुमच्यावर गुप्तहेरी करायला Organic Maps अनावश्यक परवानग्या मागत नाही:
-
-{{ privacy_screenshots() }}
-
-Organic Maps मध्ये आम्ही ह्या विचारांचे आहोत की गोपनीयता हा प्रत्येकाचा
-मानवी हक्क आहे:
-
-- Organic Maps हे एक समुदाय चलित मुक्त स्रोत प्रकल्प आहे
-- बिग टेकच्या गुप्तहेरी नजरेपासून आम्ही तुमचे रक्षण करतो
-- तुम्ही जिथे कुठे असाल तिथे सुरक्षित रहा
-
-Reject surveillance - embrace your freedom.
-
-**[Organic Maps वापरुन बघा!](#install)**
-
-## ह्या निःशुल्क ऍपचा खर्च कोण काढत आहे?
-
-हे ऍप सर्वांसाठी विमानुल्य आहे. आम्हाला पाठिंबा द्यायला कृपया [देणगी
-द्या](@/donate/index.md)!
-
-To donate conveniently, click on your preferred payment method icon below:
-
-{{ donate_buttons() }}
-
-### आमचे प्रायोजक:
-
-तुमच्यापर्यंत नकाशा अद्यतने व डाऊनलोड पोचवण्यासाठी [Mythic
-Beasts](https://www.mythic-beasts.com/) ISP [provides
-us][mythic_beasts_donation] आम्हाला 400 TB/महिना विनामूल्य वापराचे २
-व्हर्चुअल सर्व्हर प्रदान करत आहे.
-
-## समुदाय
-
-Apache License 2.0 परवान्य अंतर्गत Organic Maps हे एक [मुक्त स्रोत
-सॉफ्टवेअर][github] आहे.
-
-- आमच्या बीटा कार्यक्रमात सहभागी होऊन, ऍप वैशिष्ट्ये सुचवा, व आम्हाला
-  बग(त्रुटी) कळवा:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (packages)][repology]
-- बग किंवा त्रुटी आम्हाला [इशू ट्रॅकर][issues] or [ईमेल द्वारे][email] कळवा.
-- नवीन कल्पना किंवा वैशिष्ट्ये सुचवण्यासाठी [चर्चा करा][ideas].
-- नविनतम माहितीसाठी आमच्या [टेलिग्राम चॅनल][telegram] किंवा [मैट्रिक्स
-  स्पेस][matrix] चे सदस्य व्हा.
-- इतर वापरकर्त्यांसोबत चर्चा करायला आमच्या [टेलिग्राम गटात][telegram_chat]
-  सहभागी व्हा.
-- आमच्या [GitHub पृष्ठावर][github] भेट द्या.
-- [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook],
-  [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
-  [LinkedIn][LinkedIn] वरुन आमची माहिती मिळवा.
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
-
-[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
-
-{{ references() }}

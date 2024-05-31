@@ -1,7 +1,10 @@
 ---
 description: "Geen nasporing, geen advertensies, geen dataversameling, geen statistiekversameling, geen spioenware"
+template: privacy.html
 extra:
-  menu_title: Privaatheid
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "Organic Maps: Privaatheidsbeleid"
 weight: 900
 ---

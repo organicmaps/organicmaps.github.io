@@ -1,136 +1,37 @@
 ---
-description: 'Mapes detallats, ràpids i sense connexió per a viatgers, turistes, conductors, excursionistes i ciclistes creats pels fundadors de l’aplicació MapsWithMe (Maps.Me).'
-extra:
-  menu_title: Inici
-page_template: index.html
+title: "Navigate with Privacy. Drive, Hike, Bike Offline"
+description: 'The ultimate companion app for travelers,
+built by the community.'
+template: home.html
 sort_by: weight
-title: 'Organic Maps: passejos, bici, rutes i GPS sense connexió'
+extra:
+  menu_title: Home
+  organic_section_title: Organic
+  organic_section_description: Community + Open Maps
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features, and contributing code
+  single_section_title: Freedom Is Here
+  single_section_description: Discover your journey, navigate the world with privacy and community at the forefront.
+  services_section_card_title_1: Offline Search and Route
+  services_section_card_title_2: No Tracking or Data Collection
+  services_section_card_title_3: Save Your Battery
+  services_section_card_title_4: Free and Built by the Community
+  services_section_card_description_1: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
+  services_section_card_description_2: The app is designed with privacy as a priority and does not identify users, or track information about them.
+  services_section_card_description_3: Save Your Battery Efficiently uses your battery, doesn’t drain your battery like other navigation apps Learn more
+  services_section_card_description_4: People like you helped build the app by adding locations to the OpenStreetMap, giving feedback on features,  and contributing code
+  services_section_card_button_info_1: No internet needed
+  services_section_card_button_info_2: No additional permissions required
+  services_section_card_button_info_3: less power usage
+  services_section_card_button_info_4: Free for everyone, Made with love
+  single_section_title: Offline Search and Route
+  single_section_description: See the place you want to go while in an underground parking garage, and navigate while on a distant hike.
 ---
 
-L’**Organic Maps** és una aplicació gratuïta de mapes sense connexió per a l’Android i l’iOS per a viatgers, turistes, excursionistes i ciclistes, basada en dades d’origen col·lectiu de l’**[OpenStreetMap][openstreetmap]**. És una [bifurcació][fork] centrada en la privadesa del **Maps.me** (anteriorment conegut com a [**MapsWithMe**][mapswithme]), mantinguda per les mateixes persones que van crear el **MapsWithMe** el 2011.
 
-L’**Organic Maps** és una de les poques aplicacions actuals que admet fer servir totes les seves funcions sense una connexió a Internet activa. Instal·leu l’Organic Maps, baixeu mapes, llenceu la vostra targeta SIM (per cert, el vostre operador us rastreja constantment) i feu un viatge setmanal amb una sola càrrega de bateria sense que cap byte s’enviï a la xarxa.
-
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
-
-### Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
-
-{{ badges() }}
-
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Senderisme') }}
-
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praga') }}
-
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Cerca fora de
-línia') }}
-
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navegació en mode
-fosc') }}
-
-## Funcionalitats
-
-L’Organic Maps és l’aplicació definitiva per a viatgers, turistes,
-excursionistes i ciclistes:
-
-- Mapes detallats fora de línia amb llocs que no existeixen en altres mapes,
-  gràcies a l'[OpenStreetMap][openstreetmap]
-- Rutes ciclistes, pistes de senderisme i camins
-- Línies de contorn, perfils d'elevació, pics i pendents
-- Navegació pas a pas a peu, amb bicicleta i amb cotxe amb guia de veu,
-  Android Auto
-- Cerques ràpides al mapa, sense connexió
-- Marcadors i rutes en format KML, KMZ i GPX
-- Mode fosc per a protegir els vostres ulls
-- Els països i les regions usen poc espai
-- De codi lliure i obert
-
-## Per què triar l’Organic?
-
-L’Organic Maps és pur i orgànic i el fem amb amor:
-
-- Respecta la vostra privadesa
-- Estalvia la bateria
-- Sense càrrecs d'ús de dades inesperades
-
-L'aplicació Organic Maps està lliure de rastrejadors i altres coses
-dolentes:
-
-- Sense anuncis
-- No inclou rastrejadors
-- Sense recol·lecció de dades
-- No es connecta en secret a cap servidor
-- Sense registres incòmodes
-- No hi ha tutorials obligatoris
-- No us enviem correu brossa per correu electrònic
-- Notificacions emergents
-- Sense components brossa
-- ~~Sense pesticides~~ Completament orgànic!
-
-L'aplicació està verificada pel [Projecte Exodus Privacy][exodus]:
-
-{{ exodus_screenshot() }}
-
-L'aplicació iOS està verificada per[ TrackerControl per a
-iOS][trackercontrol]:
-
-{{ trackercontrol_screenshot() }}
-
-L'Organic Maps no us espia ni demana permisos excessius:
-
-{{ privacy_screenshots() }}
-
-En Organic Maps, creiem que la privadesa és un dret humà fonamental:
-
-- Organic Maps és un projecte independent, comunitari i obert
-- Protegim la vostra privadesa de la mirada espia de les grans tecnològiques
-- Utilització segura sense importar on sou
-
-Rebutgeu la vigilància. Assumiu la vostra llibertat.
-
-**[Proveu l'Organic Maps!](#install)**
-
-## Qui paga per l'aplicació gratuïta?
-
-L'aplicació és gratuïta per a tothom. Si us plau,
-[doneu](@/donate/index.ca.md) per a ajudar-nos!
-
-Per a fer un donatiu immediatament, feu clic a la icona del mètode de
-pagament preferit:
-
-{{ donate_buttons() }}
-
-### Els nostres socis:
-
-El proveïdor [Mythic Beasts](https://www.mythic-beasts.com/) [ens
-aporta][mythic_beasts_donation] dos servidors virtuals amb 400 TB/mes
-d'amplada de banda gratis per a ajudar als nostres usuaris amb
-actualitzacions i descàrregues dels mapes.
-
-## Comunitat
-
-Organic Maps és un [programa lliure][github] disponible en virtut de la
-Llicència Apache 2.0.
-
-- Uniu-vos al nostre programa beta i suggeriu funcionalitats o informeu
-  d'errors:
-  * [Beta d'iOS (TestFlight)][testflight]
-  * [Beta d'Android (Firebase)][firebase]
-  * [Beta de PC Linux (Flatpak)][flatpak]
-  * [Beta de PC Linux (paquets)][repology]
-- Informeu d'errors o problemes mitjançant el [rastrejador d'errors][issues]
-  o [enviant-nos un correu electrònic][email].
-- [Debateu][ideas] idees o proposeu característiques.
-- Uniu-vos al nostre [canal del Telegram][telegram] o al [Matrix][matrix]
-  per a estar al dia.
-- Uniu-vos al nostre [grup del Telegram][telegram_chat] i converseu amb
-  altres usuaris.
-- Visiteu el nostre [GitHub][github].
-- Seguiu les nostres novetats al [FOSStodon][fosstodon],
-  [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
-  [Instagram][instagram], [Reddit][reddit] i [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
-
-[fork]: https://ca.wikipedia.org/wiki/Fork
-
-{{ references() }}

@@ -1,7 +1,10 @@
 ---
 description: "ऑर्गेनिक मैप्स एप्लिकेशन के उपयोग की शर्तें"
+template: terms.html
 extra:
-  menu_title: शर्तें
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 title: "ऑर्गेनिक मैप्स: शर्तें"
 weight: 1000
 ---

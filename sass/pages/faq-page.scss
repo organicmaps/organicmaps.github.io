@@ -1,0 +1,94 @@
+@import "../variables/media";
+
+.faq-page {
+padding-top: 0;
+
+}
+
+.faq-page-list {
+  margin-top: var(--container-mob-section);
+  &__title {
+    color: var(--black-white);
+    margin-bottom: 20rem;
+    @media (max-width: $media-md) {
+      margin-bottom: 0;
+
+    }
+  }
+  &__table-title {
+    color: var(--black-white);
+    text-decoration: none;
+  }
+&__row {
+  display: flex;
+  gap: 10rem;
+  flex-direction: column;
+  margin-bottom: 60rem;
+  @media (max-width: $media-md) {
+    margin-bottom: 30rem;
+    gap: 20rem;
+  }
+}
+  &__buttons {
+    display: flex;
+    gap: 10rem;
+    margin-bottom: 10rem;
+  }
+  &__item {
+    display: flex;
+    gap: 10rem;
+    @media (max-width: $media-md) {
+     flex-direction: column;
+
+    }
+  }
+  &__img {
+    width: 100%;
+    max-width: 300rem;
+    @media (max-width: $media-md) {
+      max-width: 100%;
+      img {
+        width: 100%;
+      }
+    }
+  }
+  &__text {
+    position: sticky;
+    top: 20rem;
+  }
+  &__table {
+    border: 1rem solid var(--bg-green);
+    border-radius: 10rem;
+    margin-bottom: 20rem;
+  }
+  &__table-item {
+    padding: 30rem 20rem;
+    border-bottom: 1rem solid var(--bg-green);
+    &:last-child {
+      border-bottom: 1rem solid transparent;
+    }
+    @media (max-width: $media-md) {
+      padding: 20rem;
+    }
+  }
+  &__table-link {
+    color: var(--green-button);
+  }
+}
+
+.faq-page-footer {
+  padding-top: 40rem;
+  margin-bottom: 60rem;
+  &__title{
+    margin-bottom: 30rem;
+    text-align: center;
+  }
+  @media (max-width: $media-md) {
+    margin-bottom: 40rem;
+  }
+}
+
+.faq-post {
+
+}
+

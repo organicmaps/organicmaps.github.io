@@ -1,0 +1,94 @@
+{% set langPathPrefix = '' %}
+{% if lang != config.default_language %}
+{% set langPathPrefix = '/' ~ lang %}
+{% endif %}
+<div class="container header__container" id="menu" role="navigation">
+      <a class="header__logo logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
+      <div class="header__row">
+<!--          get_section(path="community/index.md"),-->
+<!--          get_section(path="donate/index.md"),-->
+<!--          get_section(path="support-us/index.md"),-->
+<!--          get_section(path="about-us/index.md"),-->
+<!--          get_section(path="api/index.md"),-->
+          <ul class="header__ul">
+
+
+              <li class="header__nav header__link">
+                  <a href="/community/">
+                      Community
+                  </a>
+              </li>
+
+              <li class="header__nav header__link">
+                  <a href="/donate/">
+                      Donate
+                  </a>
+              </li>
+              <li class="header__nav header__link">
+                  <a href="/support-us/">
+                    Help
+                  </a>
+              </li>
+              <li class="header__nav header__link">
+                  <a href="/about-us/">
+                      About us
+                  </a>
+              </li>
+          </ul>
+          <div class="header__mobile">
+
+            <div class="header__item">
+                <h3 class="h3-bold header__h3">Get Involved</h3>
+                <div class="header__card">
+                    {% include 'ui/icons/header/donate.html' %}
+                    <h5 class="h4 header__icon-title">
+                        Donate
+                    </h5>
+                    <p class="p-sm-light header__icon-text">
+                        The app runs on your donations, help improve it
+                    </p>
+                  <div class="header__line"></div>
+                </div>
+                <div class="header__card">
+                    {% include 'ui/icons/header/code.html' %}
+                    <h5 class="h4 header__icon-title">
+                        Contribute Code
+                    </h5>
+                    <p class="p-sm-light header__icon-text">
+                        Build the app used by people around the world
+                    </p>
+                    <div class="header__line"></div>
+                </div>
+                <div class="header__card">
+                    {% include 'ui/icons/header/location.html' %}
+                    <h5 class="h4 header__icon-title">
+                        Contribute Location Info
+                    </h5>
+                    <p class="p-sm-light header__icon-text">
+                        Add info around you, and make the product
+                        better for everyone
+                    </p>
+                    <div class="header__line"></div>
+                </div>
+                <h3 class="h3-bold header__h3">Freedom Awaits</h3>
+                <p class="p-sm-light header__icon-text">
+                    Download now
+                </p>
+                <div class="header__app-link">
+                    {% include 'ui/icons/apps/google-play.html' %}
+                    {% include 'ui/icons/apps/app-store.html' %}
+                    {% include 'ui/icons/apps/f-droid.html' %}
+                    {% include 'ui/icons/apps/app-galery.html' %}
+                </div>
+            </div>
+          </div>
+        </div>
+        <div class="header__btn">
+            {% include 'components/download-button.html' %}
+        </div>
+         <div class="header__menu-btn">
+             <div class="header__close-line"></div>
+             <div class="header__close-line"></div>
+             <div class="header__close-line"></div>
+         </div>
+</div>

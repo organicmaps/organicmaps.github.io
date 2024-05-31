@@ -2,8 +2,11 @@
 title: "Organic Maps: Политика приватности"
 description: "Без отслеживания, без рекламы, без сбора данных, без сбора статистики, без шпионских программ"
 weight: 900
+template: privacy.html
 extra:
-  menu_title: Политика приватности
+  hero_title: Privacy
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 Мы и наши карты Organic Maps уважаем вашу приватность и конфиденциальность, и НЕ ОТСЛЕЖИВАЕМ ВАС.

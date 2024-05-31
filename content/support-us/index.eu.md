@@ -1,45 +1,30 @@
 ---
-description: "Gure doako aplikazioaren garapenean laguntzeko hainbat modu daude"
+title: Support Search - Find Answer and Discover Community Support
+description: Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help.
+template: support.html
+weight: 10
 extra:
-  menu_title: "Lagundu garapenean"
-  preview_image: support-us/support-us.jpg
-title: "Lagundu Organic Maps-en garapenean"
-weight: 20
+  hero_title: Support
+  hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+  support_card_title_1: How can we help?
+  menu_title_pre: Home
+  hero_image: support-us/suport-kv.png
+  support_card_title_2: Email Contact
+  support_card_title_3: Support Channel
+  support_card_description_1: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
+  hero_buttons:
+    hero_button_1: About Organic Maps
+    hero_button_2: App
+    hero_button_3: Operating the Map
+    hero_button_4: Search
+    hero_button_5: Route Planning & Routing
+    hero_button_6: Bookmarks, Points, & Tracks
+    hero_button_7: Map Data
+    hero_button_8: GPS & Compass
+    hero_button_9: Features
+    hero_button_10: Text-To-Speech (TTS)
+    hero_button_11: Troubleshooting
+    hero_button_12: Community Collaboration
 ---
-
-Organic Maps doako, kode-irekiko app bat da. Publizitaterik ez du, ez du
-zure informazio pertsonala biltzen eta zaletu batzuek komunitatearen
-laguntzaz garatzen dugu.
-
-Garapenean laguntzeko hainbat modu daude:
-
-- [Dohaintzak](@/donate/index.eu.md)! Dolar edo Euro guztiak behar ditugu
-  eta zerbitzariak ordaindu eta handitzen laguntzen digute.
-- Bidali akatsak edo zure ideiak elkarbanatu [GitHub-en][github] edo
-  [epostaz][email].
-- Lagundu egiguzu [akatsak konpontzen][contributing] eta kodea gainbegiratu
-  garatzailea bazara. Konpontzen dugun arazo txiki bakoitzak zoriontsuago
-  egiten du norbait.
-- [Itzuli][translations] aplikazioaren interfazean falta diren testuak.
-- Itzuli [App Store][translations_appstore] eta
-  [Android][translations_googleplay] deskribapenak zure hizkuntzara.
-- [Itzuli][translations_website] gure webgunea zure hizkuntzara.
-- Parte hartu [OpenStreetMap][openstreetmap] komunitatean eta hobetu mapako
-  datuak.
-- Konpondu gure [garraio publikoaren
-  balidatzaileak][public_transport_validator] aurkitutako hiri gorriak,
-  metro eta tranbiak ondo funtzionatu dezan app-ean.
-- Lagundu beste erabiltzaileei hemen: [GitHub][issues],
-  [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
-  [Facebook][facebook], [Instagram][instagram].
-- Jende guztiari kontatu guri buruz. Komunitate handiago bat indartsuagoa
-  izango da.
-- Baloratu gaitzazu [Google Play][googleplay_review], [Apple
-  Store][appstore_review], eta [Huawei Appgallery][appgallery_review]-n.
-- Edozein laguntza da ongi-etorria!
-
-Gure talde txikia oso eskertuta dago zure iradokizun eta
-laguntzagatik. Organic Maps ez litzateke posible izango gure erabiltzaileen
-gabe ❤️.
-
-{{ references() }}

@@ -2,8 +2,11 @@
 title: "Organic Maps: Условия использования"
 description: "Условия использования приложения Organic Maps"
 weight: 1000
+template: terms.html
 extra:
-  menu_title: Условия использования
+  hero_title: Terms
+  hero_description: Organic Maps 
+  menu_title_pre: Home
 ---
 
 Приложение Organic Maps лицензировано в соответствии с лицензией Apache License, версия 2.0 ("Лицензия");
