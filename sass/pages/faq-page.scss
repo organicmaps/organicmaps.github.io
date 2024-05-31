@@ -6,7 +6,7 @@ padding-top: 0;
 }
 
 .faq-page-list {
-
+  margin-top: var(--container-mob-section);
   &__title {
     color: var(--black-white);
     margin-bottom: 20rem;

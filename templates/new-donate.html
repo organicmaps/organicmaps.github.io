@@ -22,7 +22,7 @@
         </nav>
         <h1 class="h1 hero-sub__title">{{ page.extra.hero_title | safe }}</h1>
         <p class="h2-sub_v2 hero-sub__description">{{ page.extra.hero_description | safe }}</p>
-        <button class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</button>
+        <button class="button button--main" id="scroll-to-donate"> {{ trans(key='donate-title', lang=lang) }}</button>
     </div>
 </section>
 
@@ -114,7 +114,7 @@
     </div>
 </section>
 
-<section class="donate-services">
+<section id="donate-services" class="donate-services">
     <h2 class="reviews__title">{{ page.extra.hero_title }}</h2>
     <div class="line reviews__line"></div>
     <div class="container donate-services__row">
@@ -1232,6 +1232,13 @@
                 slidesPerView: 2,
             }
         }
+    });
+
+    document.getElementById('scroll-to-donate').addEventListener('click', function(event) {
+            event.preventDefault();
+            document.getElementById('donate-services').scrollIntoView({
+                behavior: 'smooth'
+            });
     });
 </script>
 {%- endblock content %}

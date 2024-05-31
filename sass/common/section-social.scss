@@ -2,6 +2,7 @@
 
 .section-social {
   margin-bottom: var(--container-mob-section);
+  margin-top: var(--container-mob-section);
   @media (max-width: $media-md) {
   margin-bottom: 40rem;
   }
