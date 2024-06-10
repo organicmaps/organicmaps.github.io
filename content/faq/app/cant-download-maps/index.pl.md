@@ -1,0 +1,16 @@
+---
+title: Nie mogę pobrać (zaktualizować) map
+description: ""
+
+taxonomies:
+  faq: ["Map"]
+
+extra:
+  order: 30
+---
+
+Pobieranie może się nie powieść z powodu tymczasowego błędu sieci lub określonej sieci ustawienia dostawcy / routera. Spróbuj ponownie później lub użyj innego punktu dostępu Wi-Fi. Ponadto upewnij się, że masz wystarczającą ilość wolnego miejsca do pobrania map.
+
+W systemie Android upewnij się, że przyznałeś dostęp do sieci dla organicznych map i Download Manager.
+
+Ponadto, jeśli masz bardzo nieaktualne mapy i aplikacja nie może ich zaktualizować, może pomóc usunięcie nieaktualnych map i ponowne ich pobranie.
