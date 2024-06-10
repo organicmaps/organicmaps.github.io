@@ -3,7 +3,7 @@ title: La aplicación no puede establecer mi posición
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30

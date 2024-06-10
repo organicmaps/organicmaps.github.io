@@ -3,7 +3,7 @@ title: Aplikacja nie może określić mojej lokalizacji
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30

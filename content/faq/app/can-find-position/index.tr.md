@@ -3,7 +3,7 @@ title: Uygulama konumumu haritada bulamıyor
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30

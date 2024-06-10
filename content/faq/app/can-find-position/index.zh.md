@@ -3,7 +3,7 @@ title: 应用无法定位到我的位置
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30

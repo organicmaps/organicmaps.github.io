@@ -3,7 +3,7 @@ title: The app can't find my position on the map
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30

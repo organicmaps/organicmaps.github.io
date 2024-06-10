@@ -3,7 +3,7 @@ title: Приложение не может определить мое мест
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30

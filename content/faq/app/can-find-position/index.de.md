@@ -3,7 +3,7 @@ title: Mein Standort kann von der App nicht bestimmt werden
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Map"]
 
 extra:
   order: 30
