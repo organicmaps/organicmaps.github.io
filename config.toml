@@ -509,6 +509,11 @@ language = "Gallego"
 language-word = "Idioma"
 name = "Nome"
 token = "Token"
+[languages.pt]
+taxonomies = [
+  {name = "faq", feed = false},
+  {name = "news", feed = true},
+]
 [languages.pt.translations]
 address = "Endereço"
 back = "Voltar às notícias"
