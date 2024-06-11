@@ -15,10 +15,6 @@
   {% set resource = taxonomy.name ~ "/_index.md" %}
 {% else %}
   {% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
-  {%- set translation_exists = load_data(path=resource, required=false) -%}
-  {%- if not translation_exists -%}
-    {% set resource = taxonomy.name ~ "/_index.md" %} {# Fallback to English if no translation available #}
-  {% endif %}
 {% endif %}
 {% set resource = get_section(path=resource) %}
 {%- set resource_title = resource.title %}
