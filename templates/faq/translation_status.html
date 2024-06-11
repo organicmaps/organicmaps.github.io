@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <style>
+    table.status {
+        border-collapse: collapse;
+    }
+    table.status tr.header {
+        text-align: center;
+        font-weight: bold;
+    }
+    table.status tr.header td {
+        background: #ddd;
+    }
+    table.status tr.faq_category td {
+        background: #eaecef;
+    }
+    table.status tr td {
+        border: 1px solid gray;
+    }
+    </style>
+    <title>F.A.Q. translation status</title>
+</head>
+<body>
+
+{% set all_categories = get_taxonomy(kind='faq', lang = 'en') %} {# Use English as list of all FAQ categories and questions #}
+{% set faq_languages = ["ru", "de", "fr", "it", "pl", "pt", "pt-BR", "tr", "uk", "zh-Hans"] %} {# Predefined list of translation languages #}
+
+    <table class="status">
+        <tr class="header">
+            <td>Category / page</td>
+            {% for lang in faq_languages %}
+                <td>{{ lang }}</td>
+            {%- endfor -%}
+        </tr>
+        {% for faq_category in all_categories | get(key="items") %}
+            <tr class="faq_category">
+                <td colspan="100%">{{ faq_category.name }}</td>
+            </tr>
+            {%- for faq_page in faq_category.pages | sort(attribute="extra.order") -%}
+            <tr class="faq_page">
+                <td><a href="{{ faq_page.permalink }}">{{ faq_page.title }}</a></td>
+                {% for lang in faq_languages %}
+                    {% set page_trans = faq_page.translations | filter(attribute="lang", value=lang) %}
+                    {% if page_trans | length == 0 %}
+                        <td>&#x274C;</td> <!-- Translation not found -->
+                    {% else %}
+                        {# __tera_context #}
+                        <td><a href="{{ page_trans | first | get(key="permalink") }}">{{ page_trans | first | get(key="title") }}</a></td>
+                    {%  endif %}
+                {% endfor %}
+            </tr>
+            {%- endfor -%}
+        {% endfor %}
+    </table>
+</body>
+</html>
