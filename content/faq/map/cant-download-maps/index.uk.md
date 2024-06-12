@@ -3,7 +3,7 @@ title: Я не можу завантажити (оновити) карти
 description: ""
 
 taxonomies:
-  faq: ["Map"]
+  faq: ["Мапа"]
 
 extra:
   order: 30

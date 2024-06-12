@@ -3,7 +3,7 @@ title: Додаток не може визначити моє місцезнах
 description: ""
 
 taxonomies:
-  faq: ["Map"]
+  faq: ["Мапа"]
 
 extra:
   order: 10

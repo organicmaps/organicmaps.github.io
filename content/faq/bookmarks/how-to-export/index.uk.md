@@ -3,7 +3,7 @@ title: Як поділитися (експортувати) мітками?
 description: ""
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["Мітка та Маршрути"]
 
 extra:
   order: 10

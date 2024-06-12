@@ -3,7 +3,7 @@ title: Пошук не може знайти місце на карті
 description: ""
 
 taxonomies:
-  faq: ["Map"]
+  faq: ["Мапа"]
 
 extra:
   order: 20

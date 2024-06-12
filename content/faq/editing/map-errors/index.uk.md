@@ -3,7 +3,7 @@ title: Деякі місця відсутні на карті або мають 
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Редагування"]
 
 extra:
   order: 30
