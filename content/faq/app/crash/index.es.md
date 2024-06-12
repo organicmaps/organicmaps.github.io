@@ -3,7 +3,7 @@ title: Qué hago si la aplicación se detiene o se bloquea?
 description: ""
 
 taxonomies:
-  faq: ["App"]
+  faq: ["Aplicación"]
 
 extra:
   order: 30

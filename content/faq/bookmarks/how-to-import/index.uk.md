@@ -3,7 +3,7 @@ title: Як імпортувати мітки?
 description: ""
 
 taxonomies:
-  faq: ["Мітка та Маршрути"]
+  faq: ["Мітки та Маршрути"]
 
 extra:
   order: 20
