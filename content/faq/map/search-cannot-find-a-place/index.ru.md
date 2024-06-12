@@ -3,7 +3,7 @@ title: Поиск не находит то, что я ищу
 description: ""
 
 taxonomies:
-  faq: ["Map"]
+  faq: ["Карта"]
 
 extra:
   order: 20

@@ -3,7 +3,7 @@ title: На карте отсутствуют или неправильно на
 description: ""
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Редактирование"]
 
 extra:
   order: 30

@@ -3,7 +3,7 @@ title: Как экспортировать метки?
 description: ""
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["Метки и Треки"]
 
 extra:
   order: 10
