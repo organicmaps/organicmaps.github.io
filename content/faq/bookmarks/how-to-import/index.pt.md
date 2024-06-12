@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Pode importar favoritos enviados do Organic Maps ou de outras aplicações, se estas exportarem favoritos no formato KML:

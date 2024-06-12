@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Vous pouvez importer des signets envoyés depuis Organic Maps ou des applications tierces exportés au format KML:

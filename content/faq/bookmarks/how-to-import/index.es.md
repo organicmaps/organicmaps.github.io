@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Puede importar marcadores enviados desde Organic Maps o aplicaciones de terceros si exportan marcadores en formato KML, KMZ, GPX:

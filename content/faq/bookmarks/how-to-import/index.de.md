@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Sie können Lesezeichen importieren, die von Organic Maps oder Apps von

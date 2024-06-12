@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Możesz importować zakładki wysyłane z aplikacji Organic Maps lub innych firm, jeśli eksportują zakładki w formacie KML:

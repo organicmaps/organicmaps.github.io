@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Organic Maps'ten veya yer imlerini KML, KMZ, GPX biçiminde dışa aktarıyorsa üçüncü taraf uygulamalardan gönderilen yer imlerini içe aktarabilirsiniz:

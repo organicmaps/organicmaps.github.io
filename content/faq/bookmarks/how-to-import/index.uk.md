@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 Ви можете імпортувати мітки, надіслані з Organic Maps або зі сторонніх додатків, які підтримують експорт у формати KML, KMZ або GPX:

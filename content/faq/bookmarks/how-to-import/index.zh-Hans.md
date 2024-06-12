@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 您可以导入从 Organic Maps 或第三方应用发送的以 KML、KMZ、GPX 格式导出的书签：

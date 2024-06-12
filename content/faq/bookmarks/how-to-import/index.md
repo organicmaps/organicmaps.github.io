@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Bookmarks"]
 
 extra:
-  order: 10
+  order: 20
 ---
 
 You can import bookmarks sent from Organic Maps or third party apps if they export bookmarks in KML, KMZ, GPX formats:
