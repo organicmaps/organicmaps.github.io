@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 20
 ---
 
 Remember that to search for a place in a specific area, you will need to download a relevant map and zoom in the map to that area, or your location should be near that area before you begin search. For example, if you want to find a place in Vietnam and your location is somewhere else, you should download and open the map of Vietnam first.

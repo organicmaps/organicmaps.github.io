@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 20
 ---
 
 Denken Sie daran, dass Sie zur Suche nach einem Ort in einem bestimmten Gebiet eine relevante Karte herunterladen und die Karte in dieses Gebiet zoomen müssen. Andernfalls sollte sich Ihr Standort in der Nähe dieses Gebiets befinden, bevor Sie mit der Suche beginnen. Wenn Sie beispielsweise einen Ort in Vietnam suchen möchten und sich an einem anderen Ort befinden, sollten Sie zuerst die Karte von Vietnam herunterladen und öffnen.

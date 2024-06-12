@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 10
 ---
 
 Lütfen cihazınızın GPS'i olduğundan ve konum ayarlarının açık olduğundan emin olun.

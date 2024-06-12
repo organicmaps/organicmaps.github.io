@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 20
 ---
 
 N'oubliez pas que pour rechercher un lieu dans une zone spécifique, vous devrez télécharger une carte pertinente et zoomer sur la carte vers cette zone, ou votre emplacement doit être proche de cette zone avant de commencer la recherche. Par exemple, si vous voulez trouver un endroit au Vietnam et que votre emplacement est ailleurs, vous devez d'abord télécharger et ouvrir la carte du Vietnam.

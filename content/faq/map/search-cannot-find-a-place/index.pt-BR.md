@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 20
 ---
 
 Lembre-se de que para pesquisar um lugar em uma área específica, você precisará baixar um mapa desse local e ampliar o mapa para essa área, ou sua localização deve estar perto dessa área antes de iniciar a pesquisa. Por exemplo, se você deseja encontrar um lugar no Vietnã e sua localização é em outro lugar, você deve fazer o download e abrir o mapa do Vietnã primeiro.

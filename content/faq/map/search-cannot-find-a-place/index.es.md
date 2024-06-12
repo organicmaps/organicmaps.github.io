@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 20
 ---
 
 Recuerde que para buscar un lugar en un área específica, deberá descargar un mapa relevante y acercar el mapa a esa área, o su ubicación debe estar cerca de esa área antes de comenzar la búsqueda. Por ejemplo, si desea encontrar un lugar en Vietnam y su ubicación está en otro lugar, primero debe descargar y abrir el mapa de Vietnam.

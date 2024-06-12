@@ -6,7 +6,7 @@ taxonomies:
   faq: ["Map"]
 
 extra:
-  order: 30
+  order: 10
 ---
 
 Upewnij się, że Twoje urządzenie ma GPS i ustawienia lokalizacji są włączone.
