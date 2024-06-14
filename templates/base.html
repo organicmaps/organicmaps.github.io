@@ -105,6 +105,10 @@
   </main>
 
   <footer>
+    {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ editing link #}
+      {% include 'faq/github_edit_link.html' %}
+    {% endif %}
+
     {% include 'bottom_menu.html' %}
     <p>
       <span data-nosnippet>© 2024 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>

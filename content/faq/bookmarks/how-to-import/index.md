@@ -1,6 +1,7 @@
 ---
 title: How to import bookmarks?
 description: ""
+updated: 2024-06-14
 
 taxonomies:
   faq: ["Bookmarks"]
