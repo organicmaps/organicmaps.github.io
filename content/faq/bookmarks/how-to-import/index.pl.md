@@ -1,6 +1,7 @@
 ---
 title: Jak importować zakładki?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

@@ -1,6 +1,7 @@
 ---
 title: Haritaları indiremiyorum/güncelleyemiyorum
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

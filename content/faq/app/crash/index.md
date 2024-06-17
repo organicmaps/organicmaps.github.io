@@ -1,6 +1,7 @@
 ---
 title: What can I do if the app has stopped/crashed?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["App"]

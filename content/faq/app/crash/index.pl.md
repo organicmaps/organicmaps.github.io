@@ -1,6 +1,7 @@
 ---
 title: Co mogę zrobić, jeśli aplikacja nie odpowiada/uległa awarii?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["App"]

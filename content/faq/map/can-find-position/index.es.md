@@ -1,6 +1,7 @@
 ---
 title: La aplicación no puede establecer mi posición
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

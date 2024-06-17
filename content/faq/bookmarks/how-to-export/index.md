@@ -1,6 +1,7 @@
 ---
 title: How to share (export) bookmarks?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

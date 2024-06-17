@@ -1,6 +1,7 @@
 ---
 title: Quelques lieux sont absents de la carte ou mal orthographiés
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map Editing"]

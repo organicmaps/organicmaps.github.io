@@ -1,6 +1,7 @@
 ---
 title: Jak udostępniać (eksportować) zakładki?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

@@ -1,6 +1,7 @@
 ---
 title: Не получается загрузить (обновить) карты
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Карта"]

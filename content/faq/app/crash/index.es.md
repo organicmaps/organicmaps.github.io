@@ -1,6 +1,7 @@
 ---
 title: Qué hago si la aplicación se detiene o se bloquea?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Aplicación"]

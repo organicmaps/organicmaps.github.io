@@ -1,6 +1,7 @@
 ---
 title: A pesquisa não encontrou um lugar no mapa
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

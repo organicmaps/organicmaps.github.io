@@ -1,6 +1,7 @@
 ---
 title: 搜索功能无法在地图上找到地点
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

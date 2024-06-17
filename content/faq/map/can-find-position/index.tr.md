@@ -1,6 +1,7 @@
 ---
 title: Uygulama konumumu haritada bulamıyor
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

@@ -1,6 +1,7 @@
 ---
 title: Mein Standort kann von der App nicht bestimmt werden
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

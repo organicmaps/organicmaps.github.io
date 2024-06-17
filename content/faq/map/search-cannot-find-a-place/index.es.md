@@ -1,6 +1,7 @@
 ---
 title: La función de búsqueda no encuentra un lugar en el mapa
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

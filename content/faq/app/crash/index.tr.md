@@ -1,6 +1,7 @@
 ---
 title: Uygulama durdurulursa/çökerse ne yapabilirim?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["App"]

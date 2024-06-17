@@ -1,6 +1,7 @@
 ---
 title: Arama, haritada bir yer bulamıyor
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

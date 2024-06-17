@@ -1,6 +1,7 @@
 ---
 title: 如果应用停止运行（或崩溃），我该怎么办
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["App"]

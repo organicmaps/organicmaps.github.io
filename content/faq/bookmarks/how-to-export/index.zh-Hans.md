@@ -1,6 +1,7 @@
 ---
 title: 如何分享（或导出）书签
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

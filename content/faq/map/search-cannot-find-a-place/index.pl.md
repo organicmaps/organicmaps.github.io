@@ -1,6 +1,7 @@
 ---
 title: Wyszukiwanie nie może znaleźć miejsca na mapie
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

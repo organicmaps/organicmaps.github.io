@@ -1,6 +1,7 @@
 ---
 title: The app can't find my position on the map
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

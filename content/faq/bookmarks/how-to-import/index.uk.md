@@ -1,6 +1,7 @@
 ---
 title: Як імпортувати мітки?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Мітки та Маршрути"]

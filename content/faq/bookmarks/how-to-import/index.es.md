@@ -1,6 +1,7 @@
 ---
 title: Cómo puedo importar los marcadores?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

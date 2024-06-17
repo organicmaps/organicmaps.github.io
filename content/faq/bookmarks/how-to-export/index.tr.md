@@ -1,6 +1,7 @@
 ---
 title: Yer imleri nasıl paylaşılır/dışa aktarılır?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

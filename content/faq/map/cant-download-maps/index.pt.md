@@ -1,6 +1,7 @@
 ---
 title: Não consigo descarregar (atualizar) mapas
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

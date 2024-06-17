@@ -1,6 +1,7 @@
 ---
 title: 我无法下载（或更新）地图
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

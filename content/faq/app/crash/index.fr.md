@@ -1,6 +1,7 @@
 ---
 title: Pourquoi l'application s'arrête ou crash?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["App"]

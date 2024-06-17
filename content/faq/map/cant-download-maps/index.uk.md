@@ -1,6 +1,7 @@
 ---
 title: Я не можу завантажити (оновити) карти
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Мапа"]

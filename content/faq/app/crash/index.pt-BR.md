@@ -1,6 +1,7 @@
 ---
 title: O que posso fazer se o aplicativo parar (travar)?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["App"]

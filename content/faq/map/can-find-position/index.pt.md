@@ -1,6 +1,7 @@
 ---
 title: A aplicação não consegue determinar a minha localização
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map"]

@@ -1,6 +1,7 @@
 ---
 title: Algunos lugares no aparecen en el mapa o tienen un nombre incorrecto
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map Editing"]

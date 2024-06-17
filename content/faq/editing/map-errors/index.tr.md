@@ -1,6 +1,7 @@
 ---
 title: Haritada bazı yerler eksik veya yanlış adlara sahip
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map Editing"]

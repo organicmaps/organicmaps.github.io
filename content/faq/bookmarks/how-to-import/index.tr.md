@@ -1,6 +1,7 @@
 ---
 title: Yer imleri nasıl içe aktarılır?
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Bookmarks"]

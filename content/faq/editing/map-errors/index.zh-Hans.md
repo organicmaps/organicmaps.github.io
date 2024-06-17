@@ -1,6 +1,7 @@
 ---
 title: 地图上有些地方缺失或名称有误
 description: ""
+updated: "2024-06-12"
 
 taxonomies:
   faq: ["Map Editing"]
