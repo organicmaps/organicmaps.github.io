@@ -1,10 +1,10 @@
 ---
-title: How to import bookmarks?
+title: How to import bookmarks and tracks in KML, KMZ, or GPX format?
 description: ""
-updated: "2024-06-12"
+updated: "2024-06-17"
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["Bookmarks and tracks"]
 
 extra:
   order: 20
