@@ -1,6 +1,6 @@
 ---
 title: Perguntas frequentes
-description: This FAQ has answers to many questions about Organic Maps app, our contributors, and our project {translate me}
+description: Esta FAQ contém respostas a muitas perguntas sobre a aplicação Organic Maps, os nossos colaboradores e o nosso projeto
 extra:
   menu_title: Perguntas frequentes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sıkça Sorulan Sorular
-description: This FAQ has answers to many questions about Organic Maps app, our contributors, and our project {translate me}
+description: Bu SSS, Organic Maps uygulaması, katkıda bulunanlarımız ve projemiz hakkında birçok sorunun yanıtını içermektedir
 extra:
   menu_title: SSS
 ---
