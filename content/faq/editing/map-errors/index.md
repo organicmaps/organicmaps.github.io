@@ -1,7 +1,7 @@
 ---
 title: Some places are missing on the map or have wrong names
-description: ""
-updated: "2024-06-17"
+description: Tips for correcting errors in maps, making changes and updates to objects directly in Organic Maps or through OpenStreetMap.org
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["Map Editing"]

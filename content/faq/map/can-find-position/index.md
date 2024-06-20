@@ -1,7 +1,7 @@
 ---
 title: The app can't find my position on the map
-description: ""
-updated: "2024-06-17"
+description: Troubleshooting guide for solving problems with location determination for iOS and Android devices
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["Map"]

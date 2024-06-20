@@ -1,7 +1,7 @@
 ---
 title: How to share (export) bookmarks and tracks?
-description: ""
-updated: "2024-06-17"
+description: Step-by-step guide for exporting bookmarks and tracks from Organic Maps to other applications and sharing with  contacts
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["Bookmarks and tracks"]

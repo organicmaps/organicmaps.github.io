@@ -1,7 +1,7 @@
 ---
 title: Search cannot find a place on the map
-description: ""
-updated: "2024-06-17"
+description: Guide for improving search results and solving problems with finding objects on the map
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["Map"]

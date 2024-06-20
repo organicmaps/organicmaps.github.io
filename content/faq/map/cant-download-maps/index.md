@@ -1,7 +1,7 @@
 ---
 title: I can't download (update) maps
-description: ""
-updated: "2024-06-17"
+description: What to do if Organic Maps fails to download or update maps from Internet?
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["Map"]

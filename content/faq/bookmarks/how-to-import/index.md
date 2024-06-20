@@ -1,7 +1,7 @@
 ---
 title: How to import bookmarks and tracks in KML, KMZ, or GPX format?
-description: ""
-updated: "2024-06-19"
+description: Step-by-step instructions for importing bookmarks and tracks shared with you in formats KML, KMZ, or GPX
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["Bookmarks and tracks"]

@@ -1,7 +1,7 @@
 ---
 title: What can I do if the app has stopped/crashed?
-description: ""
-updated: "2024-06-17"
+description: What actions to take if the application crashes. How to report critical bugs to developers
+updated: "2024-06-20"
 
 taxonomies:
   faq: ["App"]
