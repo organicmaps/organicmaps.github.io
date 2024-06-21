@@ -4,7 +4,7 @@ description: Step-by-step instructions for importing bookmarks and tracks shared
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["Bookmarks and tracks"]
+  faq: ["bookmarks"]
 
 extra:
   order: 20

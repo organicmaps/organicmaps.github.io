@@ -4,7 +4,7 @@ description: What actions to take if the application crashes. How to report crit
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["App"]
+  faq: ["app"]
 
 extra:
   order: 30

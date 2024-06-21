@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["Редагування"]
+  faq: ["editing"]
 
 extra:
   order: 30
