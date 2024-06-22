@@ -7,8 +7,8 @@ compile_sass = true
 title = "Organic Maps"
 description = "Free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on OpenStreetMap data. It is a privacy-focused, open-source fork of Maps.me app (previously known as MapsWithMe), maintained by the same people who created MapsWithMe in 2011."
 author = "hello@organicmaps.app"
-generate_feed = true
-feed_filename = "rss.xml"
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
