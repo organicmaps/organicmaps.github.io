@@ -34,9 +34,9 @@ Estas opciones pueden que no estén disponibles si no tiene la funcionalidad TTS
 
 ## Capturas de pantalla
 
-|             |             |             |
-| ----------- | ----------- | ----------- |
-![Ajustes](tts_config_1.jpg "Ajustes") | ![Ajustes adicionales](tts_config_2.jpg "Ajustes adicionales")|![Accesibilidad](tts_config_3.jpg "Accesibilidad")
+|             |             |
+| ----------- | ----------- |
+![Ajustes](tts_config_1.png "Ajustes") | ![Accesibilidad](tts_config_2.png "Accesibilidad")
 
 ## Motores de síntesis de voz
 

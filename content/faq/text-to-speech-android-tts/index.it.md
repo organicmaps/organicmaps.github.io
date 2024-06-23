@@ -33,9 +33,9 @@ Le suddette opzioni potrebbero non essere presenti se sul dispositivo non è gi�
 
 ## Schermate
 
-|             |             |             |
-| ----------- | ----------- | ----------- |
-![Impostazioni](tts_config_1.jpg "Impostazioni") | ![Impostazioni aggiuntive](tts_config_2.jpg "Impostazioni aggiuntive")| ![Accessibilità](tts_config_3.jpg "Accessibilità")
+|             |             |
+| ----------- | ----------- |
+![Impostazioni](tts_config_1.png "Impostazioni") | ![Accessibilità](tts_config_2.png "Accessibilità")
 
 ## Motori di sintesi vocale TTS {#engines}
 

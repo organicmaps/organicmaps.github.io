@@ -32,9 +32,9 @@ Said options may not appear if you don't have a TTS already installed on your de
 
 ## Screenshots
 
-|             |             |             |
-| ----------- | ----------- | ----------- |
-![Settings](tts_config_1.jpg "Settings") | ![Additional Settings](tts_config_2.jpg "Additional Settings")|![Accessibility](tts_config_3.jpg "Accessibility")
+|             |             |
+| ----------- | ----------- |
+![Settings](tts_config_1.png "Settings") | ![Accessibility](tts_config_2.png "Accessibility")
 
 ## Engines {#engines}
 
