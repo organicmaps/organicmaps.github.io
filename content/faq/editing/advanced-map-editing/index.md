@@ -1,9 +1,10 @@
 ---
 title: How can I do more advanced map editing?
-description: "Tutorial for editing OpenStreetMap with more advanced tools like ID, Go Map and Vespucci"
+description: Tutorial for editing OpenStreetMap with more advanced tools like ID, Go Map and Vespucci
+updated: "2024-06-20"
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["editing"]
 
 extra:
   order: 40

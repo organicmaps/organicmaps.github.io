@@ -1,6 +1,6 @@
 ---
 title: Preguntas frecuentes de la aplicación Organic Maps
-description: Preguntas frecuentes de la aplicación Organic Maps
+description: Estas FAQ responden a muchas preguntas sobre la aplicación Organic Maps, nuestros colaboradores y nuestro proyecto
 extra:
   menu_title: Preguntas Frecuentes
 ---

@@ -1,3 +1,4 @@
+<div class="tts-table">
 
 {{ trans(key='language-word', lang=lang) }} | &emsp; {{ trans(key='engines', lang=lang) }}
 :------------------|:----------------------------------------------------------
@@ -88,6 +89,8 @@ Ukrainian          | &emsp; Vocalizer, Nuance, RHVoice
 Valencian          | &emsp; Vocalizer
 Vietnamese         | &emsp; Vocalizer, Nuance, eSpeak
 Welsh              | &emsp; eSpeak
+
+</div>
 
 ---
 

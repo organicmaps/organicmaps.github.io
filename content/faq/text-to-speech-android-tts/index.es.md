@@ -4,7 +4,7 @@ description: Guía sobre cómo hacer que TTS funcione en Android
 slug: instrucciones-de-voz-tts-en-android
 
 taxonomies:
-  faq: ["Instrucciones de voz"]
+  faq: ["tts"]
 
 extra:
   order: 10

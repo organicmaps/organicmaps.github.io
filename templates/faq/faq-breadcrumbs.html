@@ -10,9 +10,9 @@ available with selected FAQ term.
     {% for item in categories %}
         •
         {% if term and term.name == item.name %} {# Do not show link for current FAQ term #}
-            <span class="faq-taxonomy">{{ item.name }}</span>
+            <span class="faq-taxonomy">{{ trans(key= "faq_section_" ~ item.name, lang=lang) }}</span>
         {% else %}
-            <a href="{{ item.permalink }}" class="faq-taxonomy">{{ item.name }}</a>
+            <a href="{{ item.permalink }}" class="faq-taxonomy">{{ trans(key= "faq_section_" ~ item.name, lang=lang) }}</a>
         {% endif %}
     {% endfor %}
 </p>
