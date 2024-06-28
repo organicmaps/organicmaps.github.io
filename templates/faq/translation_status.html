@@ -36,26 +36,6 @@
     </style>
     <title>F.A.Q. translation status</title>
 
-    <script language="JavaScript">
-    function highlightCells() {
-        for (row of document.querySelectorAll("table.status tr.faq_page")) {
-            var englishUpdateDate = null;
-            for(cell of row.querySelectorAll("td")) {
-                var cellUpdatedDate = cell.querySelector("span.updated-date")?.innerText;
-                if (englishUpdateDate === null) {
-                    englishUpdateDate = cellUpdatedDate;
-                }
-                else if (cellUpdatedDate !== null && englishUpdateDate > cellUpdatedDate) {
-                    cell.classList.add("faq-outdated");
-                }
-                else if (cellUpdatedDate === "[Unknown]") {
-                    cell.classList.add("faq-no-date");
-                }
-            }
-        }
-    }
-    </script>
-
 </head>
 <body>
 
@@ -75,13 +55,15 @@
             </tr>
             {%- for faq_page in faq_category.pages | sort(attribute="extra.order") -%}
             {% set eng_page_updated = faq_page | get(key="updated", defaut="") %}
+            {% if eng_page_updated %}
+                {% set eng_page_updated_int = eng_page_updated | date(format="%s") | int %}
+            {% endif %}
             <tr class="faq_page">
                 <td>
-                    <a href="{{ faq_page.permalink }}">{{ faq_page.title }}</a>
+                    <a href="{{ faq_page.permalink }}" target="_blank">{{ faq_page.title }}</a>
                     <span class="updated-label" title="Updated date">Update: <span class="updated-date">{{ faq_page.updated | default(value="[Unknown]") }}</span></span>
                 </td>
                 {% for lang in faq_languages %}
-                    {# set translated_page_0 = get_taxonomy_term(kind="faq", term="Map", lang=lang) | default (value="") #}
                     {% set page_trans = faq_page.translations | filter(attribute="lang", value=lang) %}
                     {% if page_trans | length == 0 %}
                         <td>&#x274C;</td> <!-- Translation not found -->
@@ -89,9 +71,19 @@
                         {% set translated_page = page_trans | first %}
                         {% set translated_page = get_page(path = translated_page.path) %}
                         {% set page_updated = translated_page | get(key = "updated") %}
-                        {# __tera_context #}
-                        <td>
-                            <a href="{{ translated_page.permalink }}">{{ translated_page.title }}</a>
+                        {# Compare translated page date with English page date #}
+                        {% set cell_class = "" %}
+                        {% if page_updated and eng_page_updated %}
+                            {% set page_updated_int = page_updated | date(format="%s") | int %}
+                            {% if page_updated_int < eng_page_updated_int %}
+                                {% set cell_class = "faq-outdated" %}
+                            {% endif %}
+                        {% elif eng_page_updated %}
+                            {% set cell_class = "faq-no-date" %}
+                        {% endif %}
+
+                        <td class="{{ cell_class }}">
+                            <a href="{{ translated_page.permalink }}" target="_blank">{{ translated_page.title }}</a>
                             <span class="updated-label" title="Updated date">Update: <span class="updated-date">{% if page_updated %}{{page_updated}}{% else %}[Unknown]{% endif %}</span></span>
                         </td>
                     {%  endif %}
@@ -100,9 +92,5 @@
             {%- endfor -%}
         {% endfor %}
     </table>
-
-<script language="JavaScript">
-    highlightCells();
-</script>
 </body>
 </html>
