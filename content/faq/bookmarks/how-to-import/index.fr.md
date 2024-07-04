@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["Signets et parcours"]
 
 extra:
   order: 20

@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["Marcadores y rutas"]
 
 extra:
   order: 20

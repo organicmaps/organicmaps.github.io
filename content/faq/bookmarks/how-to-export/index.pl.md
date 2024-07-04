@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["Zakładki i trasy"]
 
 extra:
   order: 10

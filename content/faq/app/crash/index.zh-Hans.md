@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["App"]
+  faq: ["应用"]
 
 extra:
   order: 30

@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["Map Editing"]
+  faq: ["Edição de mapas"]
 
 extra:
   order: 30

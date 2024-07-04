@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["Bookmarks"]
+  faq: ["书签和轨迹"]
 
 extra:
   order: 10
