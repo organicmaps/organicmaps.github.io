@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["bookmarks"]
+  faq: ["Метки и Треки"]
 
 extra:
   order: 10

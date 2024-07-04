@@ -4,7 +4,7 @@ description: "Domande frequenti sull'applicazione Organic Maps"
 slug: quali-versioni-di-ios-e-android-sono-supportate
 
 taxonomies:
-  faq: ["app"]
+  faq: ["App"]
 
 extra:
   order: 10

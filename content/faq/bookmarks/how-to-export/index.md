@@ -4,7 +4,7 @@ description: Step-by-step guide for exporting bookmarks and tracks from Organic 
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["bookmarks"]
+  faq: ["Bookmarks and tracks"]
 
 extra:
   order: 10

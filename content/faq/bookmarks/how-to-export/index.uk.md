@@ -4,7 +4,7 @@ description: ""
 updated: "2024-06-12"
 
 taxonomies:
-  faq: ["bookmarks"]
+  faq: ["Мітки та Маршрути"]
 
 extra:
   order: 10

@@ -4,7 +4,7 @@ description: Minimum requirements to run Organic Maps on Android and iOS devices
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["app"]
+  faq: ["App"]
 
 extra:
   order: 10

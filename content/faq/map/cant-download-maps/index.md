@@ -4,7 +4,7 @@ description: What to do if Organic Maps fails to download or update maps from In
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["map"]
+  faq: ["Map"]
 
 extra:
   order: 30

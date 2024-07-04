@@ -4,7 +4,7 @@ description: Guide for improving search results and solving problems with findin
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["map"]
+  faq: ["Map"]
 
 extra:
   order: 20

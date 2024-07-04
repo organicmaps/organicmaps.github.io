@@ -4,7 +4,7 @@ description: Guida su come far funzionare la sintesi vocale su Android
 slug: sintesi-vocale-tts-su-android
 
 taxonomies:
-  faq: ["tts"]
+  faq: ["Indicazioni vocali"]
 
 extra:
   order: 10

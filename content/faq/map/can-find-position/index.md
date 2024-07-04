@@ -4,7 +4,7 @@ description: Troubleshooting guide for solving problems with location determinat
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["map"]
+  faq: ["Map"]
 
 extra:
   order: 10

@@ -4,7 +4,7 @@ description: Tips for correcting errors in maps, making changes and updates to o
 updated: "2024-06-20"
 
 taxonomies:
-  faq: ["editing"]
+  faq: ["Map Editing"]
 
 extra:
   order: 30
