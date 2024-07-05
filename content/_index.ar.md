@@ -11,7 +11,7 @@ title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال
 
 **Organic Maps** من التطبيقات القليلة في يومنا هذا التي توفر 100% من المزايا بدون اتصال مباشر بشبكة الإنترنت. ثبّت Organic Maps، نزل الخرائط، ارمي بطاقة الشبكة خاصتك (بالمناسبة، مزود الخدمة يتتبعك باستمرار)، واذهب في رحلة اسبوعية بشحن البطارية مرة واحدة ودون أي بايت مرسل من خلال الشبكة.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.ar.md) to scale!
 
 ### نزّل و ثبت Organic Maps من [AppStore][appstore]، [Google Play][googleplay]، [FDroid][fdroid]، [Huawei AppGallery][appgallery] {#install}
 
@@ -90,7 +90,7 @@ Organic Maps لا يطلب أذونات مفرطة للتجسس عليك:
 
 ## من الذي يدفع مقابل التطبيق المجاني؟
 
-التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.md) لدعمنا!
+التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.ar.md) لدعمنا!
 
 للتبرع بسهولة، انقر على أيقونة طريقة الدفع المفضلة لديك أدناه:
 

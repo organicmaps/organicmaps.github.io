@@ -12,7 +12,7 @@ Jedná se o open-source [odnož][fork] aplikace **Maps.me** (dříve známé jak
 
 **Organic Maps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si Organic Maps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.
 
-> V roce 2023 získaly Organic Maps [první milion](@/news/2023-12-23/281/index.md) uživatelů. [Pomozte nám](@/donate/index.md) dále růst!
+> V roce 2023 získaly Organic Maps [první milion](@/news/2023-12-23/281/index.md) uživatelů. [Pomozte nám](@/donate/index.cs.md) dále růst!
 
 ### Stáhněte a nainstalujte si Organic Maps z obchodů [App Store][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
 

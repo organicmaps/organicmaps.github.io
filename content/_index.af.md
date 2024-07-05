@@ -11,7 +11,7 @@ title: 'Organic Maps: Vanlyn voetslaan, fietsry, roetes en navigasie'
 
 **Organic Maps** is een van die min toeps deesdae wat 100% van die funksionaliteit het sonder ’n aktiewe internetverbinding. Installeer Organic Maps, laai kaarte af, gooi u SIM-kaart weg (trouens, u verskaffer spoor u altyd na), en gaan ’n week op pad sonder om u battery te moet laai en sonder dat daar een greep na die netwerk verstuur word.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.af.md) to scale!
 
 ### Laai af en installeer Organic Maps in die [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
@@ -89,7 +89,7 @@ Weier waarneming – omarm u vryheid.
 
 ## Wie betaal vir die gratis toep?
 
-Die toep is gratis vir almal. [Skenk](@/donate/index.nl.md) asseblief om ons
+Die toep is gratis vir almal. [Skenk](@/donate/index.af.md) asseblief om ons
 te ondersteun!
 
 Om onmiddellik te skenk kan u op ’n voorkeurbetaalmetode hier onder klik:

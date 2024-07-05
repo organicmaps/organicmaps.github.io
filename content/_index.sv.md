@@ -11,7 +11,7 @@ title: 'Organic Maps: Offline Vandring, Cykling, Leder och Navigering'
 
 **Organic Maps** är ett av få program som numera stöder 100 % av funktionerna utan en aktiv internetanslutning. Installera Organic Maps, ladda ner kartor, släng ditt SIM-kort (din operatör spårar dig förresten hela tiden) och gör en veckolång resa med en enda batteriladdning utan att någon byte skickas till nätet.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.sv.md) to scale!
 
 ### Ladda ner och installera Organic Maps från [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 

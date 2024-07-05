@@ -42,7 +42,7 @@ msgstr "**Organic Maps** ist heutzutage eine der wenigen Apps, die 100% ihrer Fu
 #: content/_index.md
 #, no-wrap
 msgid "> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!\n"
-msgstr "> Im Jahr 2023 erreichte Organic Maps [seine ersten Million](/@/news/2023-12-23/281/index.md) Nutzer. [Hilf uns](/@/donate/index.md), zu skalieren!\n"
+msgstr "> Im Jahr 2023 erreichte Organic Maps [seine ersten Million](@/news/2023-12-23/281/index.md) Nutzer. [Hilf uns](@/donate/index.md), zu skalieren!\n"
 
 #. type: Title ###
 #: content/_index.md

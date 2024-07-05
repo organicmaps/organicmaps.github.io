@@ -11,7 +11,7 @@ title: 'Organic Maps: Офлайн карти та GPS навігація'
 
 **Organic Maps** - один з небагатьох застосунків, який підтримує 100% функціональність без активного інтернет-з’єднання. Встановіть Organic Maps, завантажте мапи, викиньте SIM-карту (до речі, ваш оператор постійно відстежує вас) та вирушайте в тижневу подорож на одному заряді батареї без жодного байта, відправленого в мережу.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.uk.md) to scale!
 
 ### Завантажте та встановіть Organic Maps з [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
 

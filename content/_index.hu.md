@@ -11,7 +11,7 @@ Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás uta
 
 **Az Organic Maps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az Organic Maps-et, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.hu.md) to scale!
 
 ### Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 

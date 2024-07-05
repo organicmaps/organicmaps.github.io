@@ -11,7 +11,7 @@ L’**Organic Maps** és una aplicació gratuïta de mapes sense connexió per a
 
 L’**Organic Maps** és una de les poques aplicacions actuals que admet fer servir totes les seves funcions sense una connexió a Internet activa. Instal·leu l’Organic Maps, baixeu mapes, llenceu la vostra targeta SIM (per cert, el vostre operador us rastreja constantment) i feu un viatge setmanal amb una sola càrrega de bateria sense que cap byte s’enviï a la xarxa.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.ca.md) to scale!
 
 ### Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 

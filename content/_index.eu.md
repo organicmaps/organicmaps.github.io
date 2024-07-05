@@ -11,7 +11,7 @@ title: 'Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabig
 
 **Organic Maps** da konexiorik gabe %100-ean funtzionatzen duen aplikazio gutxietako bat. Instalatu Organic Maps, deskargatu mapak eta bota zaborretara zure SIM txartela (bide batez, zure telefono konpainiak uneoro jarraipena egiten dizu), eta joan asteroko ibilaldira bateria karga batekin eta sarera byte bakarra ere bidali gabe.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.eu.md) to scale!
 
 ### Deskargatu eta instalatu Organic Maps hemendik: [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
