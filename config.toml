@@ -48,6 +48,7 @@ zec = "t1djHnDg8yGfn6vLPrYgejUFf2ZCF4WMmkp"
 address = "Address"
 back = "Back to News"
 contact = "Contact Us"
+edit-on-github = "Edit on GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Install Organic Maps from Huawei AppGallery"
@@ -72,6 +73,7 @@ taxonomies = [
 address = "Adres"
 back = "Terug na nuus"
 contact = "Kontak ons"
+edit-on-github = "Wysig op GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Installeer Organic Maps vanaf Huawei Appgallery"
@@ -91,6 +93,7 @@ taxonomies = [
 address = "العنوان"
 back = "العودة إلى الأخبار"
 contact = "اتصل بنا"
+edit-on-github = "تحرير على GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "تثبيت Organic Maps من Huawei AppGallery"
@@ -110,6 +113,7 @@ taxonomies = [
 address = "Adreça"
 back = "Torna a Notícies"
 contact = "Contacteu amb nosaltres"
+edit-on-github = "Edita a GitHub"
 engines = "Motors TTS admesos"
 faq-menu-title = "Preguntes freqüents"
 install-appgallery = "Instal·leu l’Organic Maps des de l’AppGallery de Huawei"
@@ -129,6 +133,7 @@ taxonomies = [
 address = "Adresa"
 back = "Zpět na novinky"
 contact = "Kontaktujte nás"
+edit-on-github = "Upravit na GitHubu"
 engines = "Podporované služby TTS"
 faq-menu-title = "Často kladené dotazy"
 install-appgallery = "Instalace aplikace Organic Maps z galerie aplikací Huawei"
@@ -148,6 +153,7 @@ taxonomies = [
 address = "Adresse"
 back = "Zurück zu den Neuigkeiten"
 contact = "Kontakt"
+edit-on-github = "Auf GitHub bearbeiten"
 engines = "Unterstützte TTS-Modelle"
 faq-menu-title = "FAQ"
 install-appgallery = "Installiere Organic Maps aus der Huawei AppGallery"
@@ -167,6 +173,7 @@ taxonomies = [
 address = "Dirección"
 back = "Volver a Noticias"
 contact = "Contacte con nosotros"
+edit-on-github = "Editar en GitHub"
 engines = "Compatibilidad con motores TTS"
 faq-menu-title = "Preguntas frecuentes"
 install-appgallery = "Instalar Organic Maps desde la AppGallery de Huawei"
@@ -186,6 +193,7 @@ taxonomies = [
 address = "Helbidea"
 back = "Itzuli Berriak-era"
 contact = "Gurekin harremanetan jarri"
+edit-on-github = "Editatu GitHub-en"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Instalatu Organic Maps Huawei AppGallery-tik"
@@ -205,6 +213,7 @@ taxonomies = [
 address = "Adresse"
 back = "Retour aux actualités"
 contact = "Nous contacter"
+edit-on-github = "Modifier sur GitHub"
 engines = "Moteurs TTS pris en charge"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Installer Organic Maps depuis l'AppGallery de Huawei"
@@ -224,6 +233,7 @@ taxonomies = [
 address = "पता"
 back = "ख़बरों पर वापस जाएं"
 contact = "संपर्क करें"
+edit-on-github = "GitHub पर संपादित करें"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Huawei AppGallery से ऑर्गेनिक मैप इंस्टॉल करें"
@@ -243,6 +253,7 @@ taxonomies = [
 address = "Cím"
 back = "Vissza a Hírekhez"
 contact = "Kapcsolat"
+edit-on-github = "Szerkesztés a GitHubon"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Telepítse az Organic Maps-et a Huawei AppGalériából"
@@ -262,6 +273,7 @@ taxonomies = [
 address = "Alamat"
 back = "Kembali ke Berita"
 contact = "Hubungi Kami"
+edit-on-github = "Edit di GitHub"
 engines = "Mesin TTS yang Didukung"
 faq-menu-title = "Soal Sering Ditanya (SSD)"
 install-appgallery = "Instal Organic Maps dari Huawei AppGallery"
@@ -281,6 +293,7 @@ taxonomies = [
 address = "Indirizzi"
 back = "Indietro"
 contact = "Contattaci"
+edit-on-github = "Modifica su GitHub"
 engines = "Motori TTS supportati"
 faq-menu-title = "Domande frequenti"
 install-appgallery = "Installa Organic Maps da Huawei AppGallery"
@@ -300,6 +313,7 @@ taxonomies = [
 address = "पत्ता"
 back = "बातम्यांवर परता"
 contact = "आमच्याशी संपर्क साधा"
+edit-on-github = "GitHub वर संपादित करा"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Huawei AppGallery द्वारे Organic Maps स्थापित करा"
@@ -310,6 +324,7 @@ language = "मराठी"
 language-word = "भाषा"
 name = "नाव"
 token = "Token"
+
 [languages.nl]
 taxonomies = [
   {name = "faq", feed = false},
@@ -319,6 +334,7 @@ taxonomies = [
 address = "Adres"
 back = "Terug naar Nieuws"
 contact = "Contacteer ons"
+edit-on-github = "Bewerken op GitHub"
 engines = "Ondersteunde TTS-engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Installeer Organic Maps in de Huawei AppGallery"
@@ -338,6 +354,7 @@ taxonomies = [
 address = "Address"
 back = "Back to News"
 contact = "Nos contactar"
+edit-on-github = "Modificar sus GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Installar Mapas Organicas de l’AppGallery de Huawei"
@@ -348,6 +365,7 @@ language = "Occitan"
 language-word = "Lenga"
 name = "Nom"
 token = "geton"
+
 [languages.pl]
 taxonomies = [
   {name = "faq", feed = false},
@@ -357,6 +375,7 @@ taxonomies = [
 address = "Adres"
 back = "Powrót do Nowości"
 contact = "Kontakt z nami"
+edit-on-github = "Edytuj na GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Zainstaluj Organic Maps z Huawei AppGallery"
@@ -367,6 +386,7 @@ language = "Polski"
 language-word = "Języki"
 name = "Nazwa"
 token = "Token"
+
 [languages.pt-BR]
 taxonomies = [
   {name = "faq", feed = false},
@@ -376,6 +396,7 @@ taxonomies = [
 address = "Endereço"
 back = "Voltar às Notícias"
 contact = "Contate-nos"
+edit-on-github = "Editar no GitHub"
 engines = "Compatibilidade com TTS"
 faq-menu-title = "Perguntas frequentes"
 install-appgallery = "Instale Organic Maps a partir da Huawei AppGallery"
@@ -386,6 +407,7 @@ language = "Português (Brasil)"
 language-word = "Idioma"
 name = "Nome"
 token = "Token"
+
 [languages.ru]
 taxonomies = [
   {name = "faq", feed = false},
@@ -395,6 +417,7 @@ taxonomies = [
 address = "Адрес"
 back = "Назад к новостям"
 contact = "Связаться с нами"
+edit-on-github = "Редактировать на GitHub"
 engines = "Поддерживаемые TTS движки"
 faq-menu-title = "Справка"
 install-appgallery = "Установите Organic Maps из Huawei AppGallery"
@@ -405,6 +428,7 @@ language = "Русский"
 language-word = "Язык"
 name = "Название"
 token = "Токен"
+
 [languages.sv]
 taxonomies = [
   {name = "faq", feed = false},
@@ -414,6 +438,7 @@ taxonomies = [
 address = "Adress"
 back = "Tillbaka till nyheter"
 contact = "Kontakta oss"
+edit-on-github = "Redigera på GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Installera Organic Maps från Huawei AppGallery"
@@ -424,6 +449,7 @@ language = "Svenska"
 language-word = "Språk"
 name = "Namn"
 token = "Token"
+
 [languages.tr]
 taxonomies = [
   {name = "faq", feed = false},
@@ -433,6 +459,7 @@ taxonomies = [
 address = "Adres"
 back = "Haberlere geri dön"
 contact = "İletişim"
+edit-on-github = "GitHub'da Düzenle"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Organic Maps'i Huawei AppGallery'den İndir"
@@ -443,6 +470,7 @@ language = "Türkçe"
 language-word = "Dil"
 name = "Ad"
 token = "Belirteç"
+
 [languages.uk]
 taxonomies = [
   {name = "faq", feed = false},
@@ -452,6 +480,7 @@ taxonomies = [
 address = "Адреса"
 back = "Назад до Новин"
 contact = "Контакти"
+edit-on-github = "Редагувати на GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Встановіть Organic Maps з Huawei AppGallery"
@@ -462,6 +491,7 @@ language = "Українська"
 language-word = "Мова"
 name = "Назва"
 token = "Токен"
+
 [languages.zh-Hans]
 taxonomies = [
   {name = "faq", feed = false},
@@ -471,6 +501,7 @@ taxonomies = [
 address = "地址"
 back = "返回到新闻"
 contact = "联系我们"
+edit-on-github = "在 GitHub 上编辑"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "从华为应用商店安装Organic Maps"
@@ -481,10 +512,12 @@ language = "简体中文"
 language-word = "语言"
 name = "名称"
 token = "令牌"
+
 [languages.et.translations]
 address = "Aadress"
 back = "Tagasi uudiste loendisse"
 contact = "Võta meiega ühendust"
+edit-on-github = "GitHubi redigeerimine"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Paigalda Organic Maps Huawei AppGallery'st"
@@ -495,10 +528,12 @@ language = "Eesti"
 language-word = "Keel"
 name = "Nimi"
 token = "Tunnusluba"
+
 [languages.gl.translations]
 address = "Direccións"
 back = "Volver a Noticias"
 contact = "Contacta connosco"
+edit-on-github = "Editar en GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Instalar mapas orgánicos desde Huawei AppGallery"
@@ -509,10 +544,17 @@ language = "Gallego"
 language-word = "Idioma"
 name = "Nome"
 token = "Token"
+
+[languages.pt]
+taxonomies = [
+  {name = "faq", feed = false},
+  {name = "news", feed = true},
+]
 [languages.pt.translations]
 address = "Endereço"
 back = "Voltar às notícias"
 contact = "Contacte-nos"
+edit-on-github = "Edita no GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Instalar o Organic Maps a partir da Huawei AppGallery"
@@ -523,10 +565,12 @@ language = "Português"
 language-word = "Idioma"
 name = "Nome"
 token = "Token"
+
 [languages.lt.translations]
 address = "Adresas"
 back = "Back to News"
 contact = "Susisiekite su mumis"
+edit-on-github = "Redaguoti GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Install Organic Maps from Huawei AppGallery"
@@ -537,10 +581,12 @@ language = "Lietuvių"
 language-word = "Kalba"
 name = "Vardas"
 token = "Žetonas"
+
 [languages.ml.translations]
 address = "വിലാസം"
 back = "വാർത്തയിലേക്ക് മടങ്ങുക"
 contact = "ഞങ്ങളെ സമീപിക്കുക"
+edit-on-github = "GitHub- ൽ എഡിറ്റുചെയ്യുക"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Install Organic Maps from Huawei AppGallery"
@@ -551,10 +597,12 @@ language = "മലയാളം"
 language-word = "ഭാഷ"
 name = "പേര്"
 token = "ടോക്കൺ"
+
 [languages.te.translations]
 address = "Address"
 back = "Back to News"
 contact = "Contact us"
+edit-on-github = "గితుబ్‌లో సవరించండి"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Install Organic Maps from Huawei AppGallery"
@@ -565,10 +613,12 @@ language = "తెలుగు"
 language-word = "భాష"
 name = "Name"
 token = "Token"
+
 [languages.cy.translations]
 address = "Cyfeiriad"
 back = "Yn ôl i Newyddion"
 contact = "Cysylltwch â ni"
+edit-on-github = "Golygu ar GitHub"
 engines = "Supported TTS Engines"
 faq-menu-title = "F.A.Q."
 install-appgallery = "Lawr lwythwch Organic Maps o Huawei AppGallery"

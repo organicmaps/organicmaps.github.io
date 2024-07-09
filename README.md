@@ -48,34 +48,33 @@ Each MD page in `/faq/` has one or more taxonomy defined in header. E.g.:
 
 ```yaml
 taxonomies:
-  faq: ["Android"]
+  faq: ["app"]
 ```
 
 Zola collects all such taxonomies:
 
-| File                 | Taxonomy key | Taxonomy value |
-| -------------------- | ------------ | -------------- |
-| android-lags.md      | `faq`        | `Android`      |
-| android-logs.md      | `faq`        | `Android`      |
-| general-team.md      | `faq`        | `General`      |
-| general-bugreport.md | `faq`        | `General`      |
-| ios-versions.md      | `faq`        | `iOS`          |
-| map-longtap.md       | `faq`        | `Map`          |
-| ...                  | ...          | ...            |
+| File                                    | Taxonomy key | Taxonomy value     |
+|-----------------------------------------| ------------ |--------------------|
+| map/can-find-position/index.md          | `faq`        | `Map`              |
+| map/search-cannot-find-a-place/index.md | `faq`        | `Map`              |
+| editing/map-errors/index.md             | `faq`        | `Map Editing`      |
+| app/crash/index.md                      | `faq`        | `App`              |
+| text-to-speech-android-tts/index.md     | `faq`        | `Voice Directions` |
+| ...                                     | ...          | ...                |
 
-After that Zola gets all values for `faq` taxonomy: `[General, Android, iOS, Map, ...]`. And generates pages:
+After that Zola gets all values for `faq` taxonomy: `[app, map, editing, tts, ...]`. And generates pages:
 
 - For key `/faq/` with the list of values (see `templates/faq/list.html`)
-- For each value `/faq/general`, `/faq/android`, etc. with the list of questions (see `templates/faq/single.html`)
+- For each value `/faq/app`, `/faq/map`, etc. (including translated `/es/faq/aplicacion`, `/de/faq/karte/`) with the list of questions (see `templates/faq/single.html`)
 
 If you want to add new question then create .md file with header:
 
 ```yaml
 title: A full question that is the title of the page
 description: More detailed info with necessary keywords for better SEO
-slug: the-url-of-the-page-that-can-be-localized-for-better-seo
+
 taxonomies:
-  faq: ["General"]
+  faq: ["Bookmarks and tracks"]
 extra:
   order: 40
 ```
@@ -93,11 +92,9 @@ taxonomies = [
 faq-menu-title = "{Translation of 'F.A.Q.' to a new language}"
 ```
 
-**Limitation**: List of taxonomies at `/faq/` page is always alphabetical. So 'Android' is always the first, 'Bookmarks' is the second, 'General' is the third and so on.
+**Limitation**: F.A.Q. categories (taxonomies) are sorted alphabetically: "app", "bookmarks", "editing", "map", "tts".
 
-**Limitation**: Questions at any F.A.Q. sub-page are sorted by file name. An `extra.order` variable in .md content files is used for sorting articles.
-
-**Limitation**: Each F.A.Q. sub-page has only a name. No description, no icon. Only name 'Android', or 'iOS', or 'Routing', etc.
+**Limitation**: Each F.A.Q. category has only a name. No description, no icon. Only name 'App', or 'Bookmarks and Tracks', or 'Map Editing', etc.
 
 ## Contribution
 

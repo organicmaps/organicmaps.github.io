@@ -12,9 +12,9 @@
 {%- set resource_title = resource.name %}
 {%- elif taxonomy %}{# taxonomy has only 'name' and 'slug' properties #}
 {% if lang == 'en' %}
-{% set resource = taxonomy.name ~ "/_index.md" %}
+  {% set resource = taxonomy.name ~ "/_index.md" %}
 {% else %}
-{% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
+  {% set resource = taxonomy.name ~ "/_index." ~ lang ~ ".md" %}
 {% endif %}
 {% set resource = get_section(path=resource) %}
 {%- set resource_title = resource.title %}
@@ -105,6 +105,10 @@
   </main>
 
   <footer>
+    {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ editing link #}
+      {% include 'faq/github_edit_link.html' %}
+    {% endif %}
+
     {% include 'bottom_menu.html' %}
     <p>
       <span data-nosnippet>© 2024 <a href="mailto:legal@organicmaps.app">Organic Maps OÜ</a>, reg. code 16225385</span>
