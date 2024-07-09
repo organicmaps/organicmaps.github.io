@@ -11,7 +11,7 @@ extra:
 Topluluk kaynaklı [**OpenStreetMap**][openstreetmap] verilerine dayanmaktadır.
 Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı](https://tr.wikipedia.org/wiki/%C3%87atal_(yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme)) olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
 
-> 2023 yılında Organic Maps [ilk milyon](@/news/2023-12-23/281/index.md) kullanıcısına ulaştı. [Bize yardım edin](@/donate/index.tr.md) ölçeklendirmek için!
+> Organic Maps 2023 yılında [bir milyon](@/news/2023-12-23/281/index.md) kullanıcıya ulaştı. Masrafları karşılayabilmemiz için [bize yardım edin](@/donate/index.tr.md)!
 
 ### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] adresinden indirin ve yükleyin {#install}
 
@@ -112,7 +112,6 @@ Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı y
 - Join our [Telegram Group][telegram_chat] to discuss with other users.
 - [GitHub sayfamızı][github] ziyaret edin
 - [E-posta][email] ile bizimle iletişime geçin
-- Güncellemelerimizi [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Reddit][reddit], [LinkedIn][LinkedIn] ve
-- [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
+- Güncellemelerimizi [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Reddit][reddit], [LinkedIn][LinkedIn] ve [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
 
 {{ references() }}
