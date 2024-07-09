@@ -53,19 +53,19 @@ taxonomies:
 
 Zola collects all such taxonomies:
 
-| File                                    | Taxonomy key | Taxonomy value |
-|-----------------------------------------| ------------ |----------------|
-| map/can-find-position/index.md          | `faq`        | `map`          |
-| map/search-cannot-find-a-place/index.md | `faq`        | `map`          |
-| editing/map-errors/index.md             | `faq`        | `editing`      |
-| app/crash/index.md                      | `faq`        | `app`          |
-| text-to-speech-android-tts/index.md     | `faq`        | `tts`          |
-| ...                                     | ...          | ...            |
+| File                                    | Taxonomy key | Taxonomy value     |
+|-----------------------------------------| ------------ |--------------------|
+| map/can-find-position/index.md          | `faq`        | `Map`              |
+| map/search-cannot-find-a-place/index.md | `faq`        | `Map`              |
+| editing/map-errors/index.md             | `faq`        | `Map Editing`      |
+| app/crash/index.md                      | `faq`        | `App`              |
+| text-to-speech-android-tts/index.md     | `faq`        | `Voice Directions` |
+| ...                                     | ...          | ...                |
 
 After that Zola gets all values for `faq` taxonomy: `[app, map, editing, tts, ...]`. And generates pages:
 
 - For key `/faq/` with the list of values (see `templates/faq/list.html`)
-- For each value `/faq/app`, `/faq/map`, etc. with the list of questions (see `templates/faq/single.html`)
+- For each value `/faq/app`, `/faq/map`, etc. (including translated `/es/faq/aplicacion`, `/de/faq/karte/`) with the list of questions (see `templates/faq/single.html`)
 
 If you want to add new question then create .md file with header:
 
@@ -74,7 +74,7 @@ title: A full question that is the title of the page
 description: More detailed info with necessary keywords for better SEO
 
 taxonomies:
-  faq: ["bookmarks"]
+  faq: ["Bookmarks and tracks"]
 extra:
   order: 40
 ```
@@ -90,14 +90,9 @@ taxonomies = [
 ]
 [languages.XX.translations]
 faq-menu-title = "{Translation of 'F.A.Q.' to a new language}"
-faq_section_app = "App"
-faq_section_bookmarks = "Bookmarks and Tracks"
-faq_section_editing = "Map Editing"
-faq_section_map = "Map"
-faq_section_tts = "Voice Directions"
 ```
 
-**Limitation**: F.A.Q. categories are sorted alphabetically: "app", "bookmarks", "editing", "map", "tts".
+**Limitation**: F.A.Q. categories (taxonomies) are sorted alphabetically: "app", "bookmarks", "editing", "map", "tts".
 
 **Limitation**: Each F.A.Q. category has only a name. No description, no icon. Only name 'App', or 'Bookmarks and Tracks', or 'Map Editing', etc.
 

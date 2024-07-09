@@ -11,12 +11,12 @@ extra:
 ---
 
 Sie können Lesezeichen importieren, die von Organic Maps oder Apps von
-Drittanbietern gesendet werden, wenn sie Lesezeichen im KML, KMZ, GPX-Format
+Drittanbietern gesendet werden, wenn sie Lesezeichen im KML, KMZ, KMB, GPX-Format
 exportieren:
 
-1. Unter Android können Sie Lesezeichen aus Ordnern und Apps (einschließlich Maps.Me) importieren. Drücken Sie eine Sterntaste Um Lesezeichen zu öffnen, drücken Sie "Lesezeichen importieren" und wählen Sie ein Laufwerk oder einen Ordner mit KML, KMZ, GPX-Dateien aus.
+1. Unter Android können Sie Lesezeichen aus Ordnern und Apps (einschließlich Maps.Me) importieren. Drücken Sie eine Sterntaste Um Lesezeichen zu öffnen, drücken Sie "Lesezeichen und Tracks importieren" und wählen Sie ein Laufwerk oder einen Ordner mit KML, KMZ, KMB, GPX-Dateien aus.
 
-2. Senden Sie eine E-Mail mit der beigefügten KML, KMZ, GPX-Datei. Sie können auch Instant Messenger oder Cloud-Speicher wie iCloud oder Google Drive verwenden.
+2. Senden Sie eine E-Mail mit der beigefügten KML, KMZ, KMB, GPX-Datei. Sie können auch Instant Messenger oder Cloud-Speicher wie iCloud oder Google Drive verwenden.
 
 3. Tippen auf die Datei und wählen Sie "In Organic Maps öffnen".
 
