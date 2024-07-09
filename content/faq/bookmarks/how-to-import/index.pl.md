@@ -12,7 +12,7 @@ extra:
 
 Możesz importować zakładki wysyłane z aplikacji Organic Maps lub innych firm, jeśli eksportują zakładki w formacie KML:
 
-1. W systemie Android możesz importować zakładki z folderów i aplikacji (w tym Maps.Me). Naciśnij przycisk gwiazdki aby otworzyć zakładki, naciśnij „Importuj zakładki i trasy” i wybierz dysk lub folder z plikami KML, KMZ, KMB, GPX.
+1. Możesz importować zakładki z folderów i aplikacji (w tym Maps.Me). Naciśnij przycisk gwiazdki aby otworzyć zakładki, naciśnij „Importuj zakładki i trasy” i wybierz dysk lub folder z plikami KML, KMZ, KMB, GPX.
 
 2. Otwórz udostępniony plik KML, KMZ, KMB, GPX z zakładkami wysyłanymi przez e-mail, komunikator lub chmurę pamięć masowa, na przykład iCloud lub Dysk Google.
 

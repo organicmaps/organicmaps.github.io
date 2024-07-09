@@ -12,7 +12,7 @@ extra:
 
 Vous pouvez importer des signets envoyés depuis Organic Maps ou des applications tierces exportés au format KML:
 
-1. Sur Android, vous pouvez importer des favoris à partir de dossiers et d'applications (y compris Maps.Me). Appuyez sur un bouton étoile pour ouvrir les favoris, appuyez sur "Importer des signets et des parcours" et sélectionnez le lecteur ou le dossier contenant les fichiers KML, KMZ, KMB, GPX.
+1. Vous pouvez importer des favoris à partir de dossiers et d'applications (y compris Maps.Me). Appuyez sur un bouton étoile pour ouvrir les favoris, appuyez sur "Importer des signets et des parcours" et sélectionnez le lecteur ou le dossier contenant les fichiers KML, KMZ, KMB, GPX.
 
 2. Ouvrez un fichier KML, KMZ, KMB, GPX partagé avec des signets envoyés par e-mail, messagerie instantanée ou cloud stockage, par exemple, iCloud ou Google Drive.
 

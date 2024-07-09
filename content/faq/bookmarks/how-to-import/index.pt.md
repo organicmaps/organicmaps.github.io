@@ -12,7 +12,7 @@ extra:
 
 Pode importar favoritos enviados do Organic Maps ou de outras aplicações, se estas exportarem favoritos no formato KML:
 
-1. No Android, pode importar favoritos de pastas e aplicações (incluindo o Maps.Me). Toque no botão da estrela para abrir os favoritos, toque em "Importar favoritos e trilhas" e selecione a unidade ou pasta com o ficheiro KML, KMZ, KMB, GPX.
+1. Pode importar favoritos de pastas e aplicações (incluindo o Maps.Me). Toque no botão da estrela para abrir os favoritos, toque em "Importar favoritos e trilhas" e selecione a unidade ou pasta com o ficheiro KML, KMZ, KMB, GPX.
 
 2. Abra o ficheiro KML, KMZ, KMB, GPX partilhado com favoritos enviados por e-mail, mensagens instantâneas ou armazenamento na nuvem, por exemplo, iCloud ou Google Drive.
 

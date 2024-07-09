@@ -12,7 +12,7 @@ extra:
 
 Puede importar marcadores enviados desde Organic Maps o aplicaciones de terceros si exportan marcadores en formato KML, KMZ, KMB, GPX:
 
-1. En Android, puede importar marcadores desde carpetas y aplicaciones (incluido Maps.Me). Presione un botón de estrella para abrir marcadores, presione "Importar marcadores y trazas" y seleccione la unidad o carpeta con archivos KML, KMZ, KMB, GPX.
+1. Puede importar marcadores desde carpetas y aplicaciones (incluido Maps.Me). Presione un botón de estrella para abrir marcadores, presione "Importar marcadores y trazas" y seleccione la unidad o carpeta con archivos KML, KMZ, KMB, GPX.
 
 2. Envía a ti mismo los archivos KML, KMZ, KMB, GPX por correo electrónico. También puede usar mensajería instantánea o almacenamiento en la nube, como iCloud o Google Drive.
 
