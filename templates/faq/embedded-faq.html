@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Organic Maps: Frequently Asked Questions</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <style>
+        /* All langs are invisible by default. */
+        [lang] {
+            /*display: none;*/
+        }
+
+        /* Dark mode support. */
+        :root {
+            color-scheme: light dark;
+            --primary-color: black;
+            --secondary-color: #555555;
+            --link-color: #1e96f0;
+            --background-color: white;
+            --separator-color: #0e0e0e;
+        }
+
+        @media screen and (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #b5b5b5;
+                --secondary-color: #858585;
+                --link-color: #2ea6ff;
+                --background-color: black;
+                --separator-color: #0a0a0a;
+            }
+        }
+
+        h3 {
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 1.4;
+        }
+
+        dd {
+            margin-top: 0.5em;
+            margin-right: 0;
+            margin-left: 0;
+            margin-bottom: 16px;
+            font-size: 16px;
+            color: var(--secondary-color);
+            line-height: 1.4;
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--separator-color);
+        }
+
+        .faq {
+            border-bottom: 1px solid var(--separator-color);
+        }
+
+        dl {
+            margin: 0 0 2em 0;
+        }
+
+        html {
+            color: var(--primary-color);
+            background-color: var(--background-color);
+        }
+
+        body {
+            margin-right: 16px;
+            margin-left: 16px;
+            margin-bottom: 16px;
+            font-size: 16px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        html {
+            -webkit-text-size-adjust: none;
+        }
+
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+        }
+    </style>
+
+    <script>
+        "use strict";
+        function getLanguage() {
+            var lang = navigator.language || navigator.userLanguage;
+            var found = location.href.indexOf("?");
+            if (found != -1) {
+                var urlParams = new URLSearchParams(location.href.substr(found));
+                var queryLang = urlParams.get("lang");
+                if (queryLang) lang = queryLang;
+            }
+            return lang;
+        }
+
+        // TODO: Update this list with a new translation.
+        var translations = ['en', 'ru', 'de', 'es', 'fr', 'pt', 'pl', 'tr', 'uk', 'zh'];
+        // Show Russian for browsers with this language codes.
+        var canReadRussian = ['ab', 'be', 'kk', 'ky', 'tg', 'uz'];
+
+        // TODO: Properly handle be-EN, he-RU or similar cases.
+        function showLanguage() {
+            var lang = getLanguage();
+            var iso6391 = lang.substring(0, 2);
+            if (canReadRussian.indexOf(iso6391) >= 0)  // Array.includes is not supported in Android 5 and 6.
+                lang = 'ru';
+            else if (translations.indexOf(iso6391) >= 0) {
+                if (lang != 'pt-BR')
+                    lang = iso6391;
+            } else
+                lang = 'en';
+
+            var elems = document.querySelectorAll('[lang="' + lang + '"]');
+            // Make them visible.
+            for (var i = 0; i < elems.length; ++i) elems[i].style.display = "block";
+        }
+    </script>
+</head>
+
+<body onload="showLanguage()">
+{# List of questions #}
+{% set faq_questions_en = [
+    "editing/map-errors",
+    "map/cant-download-maps",
+    "map/can-not-find-position",
+    "map/search-cannot-find-a-place",
+    "app/crash",
+    "bookmarks/how-to-export",
+    "bookmarks/how-to-import"
+] %}
+<div class="faq">
+    <h2 class="title" lang="en">FAQ</h2>
+    <ul>
+    {% for faq_slug in faq_questions_en %}
+        {% set faq_page_en = get_page(path = "faq/" ~ faq_slug ~ "/index.md") %}
+        <li class="link">
+            <a lang="en" href="#{{ faq_slug | replace(from="/", to="-") }}">{{ faq_page_en.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+    <h4 lang="en">
+        For more information please visit our web-site
+        <a href="https://organicmaps.app/">organicmaps.app</a>
+    </h4>
+
+{% for faq_slug in faq_questions_en %}
+    {% set faq_page_en = get_page(path = "faq/" ~ faq_slug ~ "/index.md") %}
+    <dl id="{{ faq_slug | replace(from="/", to="-") }}">
+        <dt>
+            <h3 lang="en">{{ faq_page_en.title }}</h3>
+        </dt>
+
+        <dd lang="en">
+            <p>
+                {{ faq_page_en.content | safe }}
+            </p>
+        </dd>
+    </dl>
+{% endfor %}
+</div>
