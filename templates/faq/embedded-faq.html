@@ -122,8 +122,8 @@
 {# List of questions #}
 {% set faq_questions_en = [
     "editing/map-errors",
-    "map/cant-download-maps",
     "map/can-not-find-position",
+    "map/cant-download-maps",
     "map/search-cannot-find-a-place",
     "app/crash",
     "bookmarks/how-to-export",
@@ -134,6 +134,17 @@
 
 <div class="faq">
     <h2 class="title" lang="en">FAQ</h2>
+    <h2 lang="ru">Часто задаваемые вопросы (FAQ)</h2>
+    <h2 lang="de">FAQ</h2>
+    <h2 lang="es">FAQ</h2>
+    <h2 lang="fr">FAQ</h2>
+    <h2 lang="pt">Perguntas frequentes</h2>
+    <h2 lang="pt-BR">Perguntas frequentes</h2>
+    <h2 lang="pl">FAQ</h2>
+    <h2 lang="tr">SSS</h2>
+    <h2 lang="uk">Часті питання</h2>
+    <h2 lang="zh">常见问题</h2>
+
     <ul>
     {% for faq_slug in faq_questions_en %}
         {% set faq_page_en = get_page(path = "faq/" ~ faq_slug ~ "/index.md") %}
@@ -228,6 +239,18 @@
         {% endfor %}
     </dl>
 {% endfor %}
+
+<a href="#" lang="en">Go to Top</a>
+<a href="#" lang="ru">Наверх</a>
+<a href="#" lang="de">Nach oben</a>
+<a href="#" lang="es">Arriba</a>
+<a href="#" lang="fr">En haut</a>
+<a href="#" lang="pt">Ir para o início</a>
+<a href="#" lang="pt-BR">Ir para o início</a>
+<a href="#" lang="pl">Idź na górę</a>
+<a href="#" lang="tr">Başa Git</a>
+<a href="#" lang="uk">До початку</a>
+<a href="#" lang="zh">回到顶部</a>
 
 </body>
 </html>
