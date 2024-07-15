@@ -1,0 +1,27 @@
+---
+title: I can't hear voice instructions
+description: Troubleshooting guide for voice instructions in navigation
+updated: "2024-07-15"
+
+taxonomies:
+  faq: ["Voice Directions"]
+
+extra:
+  order: 20
+---
+
+**Note:** voice instruction are available for car and cycling routes. For now, you can hear voice instructions only while driving and when the screen is on.
+
+If you can't hear voice instructions:
+
+* Please make sure that your device's volume is not muted. You can change the volume level with your device's volume buttons. To do that, you may need to disable "Change with Buttons" option (if enabled) in the device settings → Sounds.
+
+* When you turn on Bluetooth, it shouldn't reflect voice instructions. However, we didn't test voice guidance with car audio, it may cause the issues. In this case, you can turn Bluetooth off.
+
+* If you are an Android user and the option is disabled (or some of the supported languages are unavailable), please check system TTS settings.
+
+On Android voice instructions are available in 27 languages: English, Arabic, Chinese (Traditional and Simplified), Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish, Ukrainian, Vietnamese.
+
+Google TTS supports all listed languages except of Arabic and Persian (Farsi). For these languages you may need to install third party TTS (for example, eSpeak TTS, Vocalizer TTS or SVOX Classic TTS) and a language pack from app store (Google Play Store, Galaxy Store, etc).
+
+On iOS voice instructions are available in 26 languages: English, Arabic, Chinese (Traditional and Simplified), Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish.
