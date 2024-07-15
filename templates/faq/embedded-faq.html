@@ -130,7 +130,7 @@
     "bookmarks/how-to-import"
 ] %}
 
-{% set faq_languages = ["ru", "de", "fr", "pl", "pt", "pt-BR", "tr", "uk", "zh-Hans"] %} {# Predefined list of translation languages #}
+{% set faq_languages = ["ru", "de", "es", "fr", "pl", "pt", "pt-BR", "tr", "uk", "zh-Hans"] %} {# Predefined list of translation languages #}
 
 <div class="faq">
     <h2 class="title" lang="en">FAQ</h2>
@@ -145,7 +145,7 @@
                 {% if not translated_faq_page %}
                     {{ throw(message="Page 'faq/" ~ faq_slug ~ "/index.md' is not translated into '" ~ lang ~ "'") }}
                 {% endif %}
-                <a lang="{{ lang }}" href="#{{ faq_slug | replace(from="/", to="-") }}">{{ translated_faq_page.title }}</a>
+                <a lang="{{ lang | replace(from="-Hans", to="") }}" href="#{{ faq_slug | replace(from="/", to="-") }}">{{ translated_faq_page.title }}</a>
             {% endfor %}
         </li>
     {% endfor %}
@@ -207,7 +207,7 @@
             {# Add translations #}
             {% for lang in faq_languages %}
                 {% set translated_faq_page = faq_page_en.translations | filter(attribute="lang", value=lang) | first %}
-                <h3 lang="{{ lang }}">{{ translated_faq_page.title }}</h3>
+                <h3 lang="{{ lang | replace(from="-Hans", to="") }}">{{ translated_faq_page.title }}</h3>
             {% endfor %}
         </dt>
 
@@ -220,7 +220,7 @@
         {% for lang in faq_languages %}
             {% set translated_faq_page = faq_page_en.translations | filter(attribute="lang", value=lang) | first %}
             {% set translated_faq_page = get_page(path=translated_faq_page.path) %}
-            <dd lang="{{ lang }}">
+            <dd lang="{{ lang | replace(from="-Hans", to="") }}">
                 <p>
                     {{ translated_faq_page.content | safe }}
                 </p>
