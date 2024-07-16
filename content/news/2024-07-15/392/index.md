@@ -1,7 +1,10 @@
 ---
 title: "Have you already installed a July release of Organic Maps? It introduces two major features funded through the NGI0 Entrust Fund"
 date: 2024-07-15T21:13:23+00:00
-slug: "have-you-already-installed-a-july-release-of-organic-maps-it-introduces-two-major-features-funded-through-the-ngi0-entrust-fund"
+slug: july-release-with-improved-usa-address-search-using-tiger-data-and-fixed-text-rendering-for-non-latin-scripts-funded-by-ngi0-entrust-fund
+aliases: ["have-you-already-installed-a-july-release-of-organic-maps-it-introduces-two-major-features-funded-through-the-ngi0-entrust-fund"]
+taxonomies:
+  news: ["Releases"]
 ---
 
 Have you already [installed](https://omaps.app/get) a July release of Organic Maps? It introduces two major features [funded](https://nlnet.nl/project/OrganicMaps/) through the NGI0 Entrust Fund:
