@@ -2,7 +2,7 @@
 title: "The major June update and a follow-up OSM data-only update (with a hotfix for the iOS app hanging) were successfully published and are available in all app stores and on our GitHub."
 date: 2024-06-22T14:08:52+00:00
 slug: june-release-with-uk-and-us-postal-zip-code-search-street-name-announcements-and-gpx-export
-aliases: ["the-major-june-update-and-a-follow-up-osm-data-only-update-with-a-hotfix-for-the-ios-app-hanging-were-successfully-published-and-are-available-in-all-app-stores-and-on-our-github"]
+aliases: ["/news/2024-06-22/the-major-june-update-and-a-follow-up-osm-data-only-update-with-a-hotfix-for-the-ios-app-hanging-were-successfully-published-and-are-available-in-all-app-stores-and-on-our-github/"]
 taxonomies:
   news: ["Releases"]
 ---
