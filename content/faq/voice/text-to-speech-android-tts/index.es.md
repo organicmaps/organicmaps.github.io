@@ -2,6 +2,7 @@
 title: Instrucciones de voz (Text-To-Speech, TTS) en Android
 description: Guía sobre cómo hacer que TTS funcione en Android
 slug: instrucciones-de-voz-tts-en-android
+aliases: ["/es/faq/instrucciones-de-voz-tts-en-android"]
 
 taxonomies:
   faq: ["Instrucciones de voz"]

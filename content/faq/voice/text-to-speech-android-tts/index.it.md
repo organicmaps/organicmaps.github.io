@@ -2,6 +2,7 @@
 title: Sintesi vocale (Text-to-speech, TTS) su Android
 description: Guida su come far funzionare la sintesi vocale su Android
 slug: sintesi-vocale-tts-su-android
+aliases: ["/it/faq/sintesi-vocale-tts-su-android"]
 
 taxonomies:
   faq: ["Indicazioni vocali"]
