@@ -1,7 +1,7 @@
 ---
 title: I can't hear voice instructions
 description: Troubleshooting guide for voice instructions in navigation
-updated: "2024-07-15"
+updated: "2024-07-22"
 
 taxonomies:
   faq: ["Voice Directions"]

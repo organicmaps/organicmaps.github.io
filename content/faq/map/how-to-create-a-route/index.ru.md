@@ -1,7 +1,7 @@
 ---
 title: Как проложить маршрут и включить навигацию
 description: ""
-updated: "2024-07-15"
+updated: "2024-07-22"
 
 taxonomies:
   faq: ["Карта"]

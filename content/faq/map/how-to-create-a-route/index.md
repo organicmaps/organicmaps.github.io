@@ -1,7 +1,7 @@
 ---
 title: How to create a route and start navigation
 description: Guide for building a route and navigating using the map
-updated: "2024-07-15"
+updated: "2024-07-22"
 
 taxonomies:
   faq: ["Map"]
