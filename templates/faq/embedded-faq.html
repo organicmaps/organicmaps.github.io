@@ -166,7 +166,7 @@
 
 
     <h4 lang="en">
-        {{ trans(key="more-info-om", lang=lang) }}
+        {{ trans(key="more-info-om", lang="en") }}
         <a href="https://organicmaps.app/">organicmaps.app</a>
     </h4>
     {% for lang in faq_languages %}
@@ -204,17 +204,11 @@
     </dl>
 {% endfor %}
 
-<a href="#" lang="en">Go to Top</a>
-<a href="#" lang="ru">Наверх</a>
-<a href="#" lang="de">Nach oben</a>
-<a href="#" lang="es">Arriba</a>
-<a href="#" lang="fr">En haut</a>
-<a href="#" lang="pt">Ir para o início</a>
-<a href="#" lang="pt-BR">Ir para o início</a>
-<a href="#" lang="pl">Idź na górę</a>
-<a href="#" lang="tr">Başa Git</a>
-<a href="#" lang="uk">До початку</a>
-<a href="#" lang="zh">回到顶部</a>
+<a href="#" lang="en">{{ trans(key="go-to-top", lang="en") }}</a>
+
+{% for lang in faq_languages %}
+<a href="#" lang="{{ lang | replace(from="-Hans", to="") }}">{{ trans(key="go-to-top", lang=lang) }}</a>
+{% endfor %}
 
 </body>
 </html>
