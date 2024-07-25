@@ -164,51 +164,17 @@
     {% endfor %}
     </ul>
 
+
     <h4 lang="en">
-        For more information please visit our web-site
+        {{ trans(key="more-info-om", lang=lang) }}
         <a href="https://organicmaps.app/">organicmaps.app</a>
     </h4>
-    <h4 lang="ru">
-        Больше информации на нашем сайте
-        <a href="https://organicmaps.app/ru/">organicmaps.app</a>
+    {% for lang in faq_languages %}
+    <h4 lang="{{ lang | replace(from="-Hans", to="") }}">
+        {{ trans(key="more-info-om", lang=lang) }}
+        <a href="https://organicmaps.app/{{ lang }}/">organicmaps.app</a>
     </h4>
-    <h4 lang="de">
-        Für weitere Informationen besuchen Sie bitte unsere Website
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
-    <h4 lang="es">
-        Para más información, visite nuestro sitio web
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
-    <h4 lang="fr">
-        Pour plus d'informations, veuillez visiter notre site web
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
-    <h4 lang="pt">
-        Para mais informações, visite o nosso sítio na web
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
-    <h4 lang="pt-BR">
-        Para mais informações, visite o nosso sítio web
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
-    <h4 lang="pl">
-        Aby uzyskać więcej informacji, odwiedź naszą stronę internetową
-        <a href="https://organicmaps.app/">organicmaps.app</a>.
-    </h4>
-    <h4 lang="tr">
-        Daha fazla bilgi için lütfen
-        <a href="https://organicmaps.app/tr/">organicmaps.app/tr/</a>
-        web sitemizi ziyaret edin.
-    </h4>
-    <h4 lang="uk">
-        Для отримання додаткової інформації, будь ласка, відвідайте наш веб-сайт
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
-    <h4 lang="zh">
-        要获取更多信息，请访问我们的网站
-        <a href="https://organicmaps.app/">organicmaps.app</a>
-    </h4>
+    {% endfor %}
 
 </div>
 
