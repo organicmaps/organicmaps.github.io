@@ -96,6 +96,12 @@ faq-menu-title = "{Translation of 'F.A.Q.' to a new language}"
 
 **Limitation**: Each F.A.Q. category has only a name. No description, no icon. Only name 'App', or 'Bookmarks and Tracks', or 'Map Editing', etc.
 
+## Embedded FAQ
+
+A subset of FAQ questions is used to generate static single-page FAQ: [`/faq/embedded-faq/`](https://organicmaps.app/faq/embedded-faq/?lang=en). This page should be used as an embedded offline help page in Organic Maps app on Android and iOS. 
+
+To update embedded FAQ replace [`/data/faq.html`](https://github.com/organicmaps/organicmaps/blob/master/data/faq.html) file with the latest version generate by Zola.
+
 ## Contribution
 
 Any good ideas and help with web site improvement are appreciated. And it's always better to discuss
