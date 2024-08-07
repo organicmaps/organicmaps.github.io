@@ -1,3 +1,17 @@
+{#- List of questions -#}
+{%- set faq_questions_en = [
+  "map/how-to-create-a-route",
+  "editing/map-errors",
+  "map/can-not-find-position",
+  "map/cant-download-maps",
+  "map/search-cannot-find-a-place",
+  "app/crash",
+  "voice/cant-hear-instructions",
+  "bookmarks/how-to-export",
+  "bookmarks/how-to-import"
+  ] -%}
+{%- set faq_languages = ["ru", "de", "es", "fr", "pl", "pt", "pt-BR", "tr", "uk", "zh-Hans"] %} {# Predefined list of
+  translation languages -#}
 <!DOCTYPE html>
 <html>
 
@@ -95,7 +109,7 @@
     }
 
     // TODO: Update this list with new translations.
-    var translations = ['en', 'ru', 'de', 'es', 'fr', 'pt', 'pl', 'tr', 'uk', 'zh'];
+    var translations = ['en', '{{ faq_languages | join(sep="', '") | replace(from="-Hans", to="") | safe}}'];
     // Show Russian for browsers with these language codes.
     var canReadRussian = ['ab', 'be', 'kk', 'ky', 'tg', 'uz'];
 
@@ -119,21 +133,6 @@
 </head>
 
 <body onload="showLanguage()">
-  {# List of questions #}
-  {% set faq_questions_en = [
-  "map/how-to-create-a-route",
-  "editing/map-errors",
-  "map/can-not-find-position",
-  "map/cant-download-maps",
-  "map/search-cannot-find-a-place",
-  "app/crash",
-  "voice/cant-hear-instructions",
-  "bookmarks/how-to-export",
-  "bookmarks/how-to-import"
-  ] %}
-
-  {% set faq_languages = ["ru", "de", "es", "fr", "pl", "pt", "pt-BR", "tr", "uk", "zh-Hans"] %} {# Predefined list of
-  translation languages #}
 
   <div class="faq">
     <h2 lang="en">FAQ</h2>
@@ -160,7 +159,7 @@
         {% if not translated_faq_page -%}
         {{ throw(message="Page 'faq/" ~ faq_slug ~ "/index.md' is not translated into '" ~ lang ~ "'") -}}
         {%- endif %}
-        <a lang="{{ lang | replace(from="-Hans", to="" ) }}" href="#{{ faq_slug }}">{{ translated_faq_page.title }}</a>
+        <a lang="{{ lang | replace(from="-Hans", to="") }}" href="#{{ faq_slug }}">{{ translated_faq_page.title }}</a>
         {%- endfor %}
       </li>
       {% endfor %}
