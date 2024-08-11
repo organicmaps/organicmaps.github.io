@@ -1,7 +1,7 @@
 ---
 title: Comment utiliser Android Auto ?
 description: Configuration minimale requise pour utiliser Organic Maps avec Android Auto
-slug: comment utiliser-android-auto
+slug: comment-utiliser-android-auto
 
 taxonomies:
   faq: ["Application"]
