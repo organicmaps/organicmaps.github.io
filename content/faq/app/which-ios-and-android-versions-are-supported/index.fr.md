@@ -10,8 +10,8 @@ extra:
   order: 10
 ---
 
-Vous devez avoir au moins iOS 12 ou Android 5 pour utiliser l'application. Les appareils dotés de versions ultérieures peuvent utiliser Organic Maps.
+Vous devez avoir au mininum iOS 12 ou Android 5 sur votre appareil pour utiliser l'application. Les appareils dotés de versions ultérieures peuvent utiliser Organic Maps.
 
-In Android, Organic Maps can work on devices with Google Services installed and without Google support.
+Sur Android, Organic Maps peut fonctionner sur des appareils avec ou sans les Services Google Play d'installées.
 
-Pour utiliser Organic Maps avec Android Auto, veuillez vérifier les conditions requises [ici](../how-to-use-android-auto/).
+Pour utiliser Organic Maps sur Android Auto, veuillez vérifier les prérequis [ici](../how-to-use-android-auto/).
