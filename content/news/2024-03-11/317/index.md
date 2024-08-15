@@ -10,7 +10,7 @@ Now everyone can back up or share all bookmarks and imported tracks as one KMZ f
 
 Apple users can now edit colors of imported tracks and have a more convenient way of editing bookmarks. And don't forget to check our updated About dialog!
 
-The March update is already available in all app stores. An apk for Android is also [available on our GitHub](https://github.com/organicmaps/organicmaps/releases/) if you want to install the latest Organic Maps version immediately when we publish the release, without any delays caused by slow reviews or publishing. This apk can be installed together with Organic Maps from other app stores! We also plan to add notifications about available GitHub apk updates, similar to what [Obtainium](https://github.com/organicmaps/organicmaps/wiki/Installing-Organic-Maps-from-GitHub-using-Obtanium) already does.
+The March update is already available in all app stores. An apk for Android is also [available on our GitHub](https://github.com/organicmaps/organicmaps/releases/) if you want to install the latest Organic Maps version immediately when we publish the release, without any delays caused by slow reviews or publishing. This apk can be installed together with Organic Maps from other app stores! We also plan to add notifications about available GitHub apk updates, similar to what [Obtainium](https://github.com/organicmaps/organicmaps/wiki/Installing-Organic-Maps-from-GitHub-using-Obtainium) already does.
 
 Here is a more detailed list of changes:
 
