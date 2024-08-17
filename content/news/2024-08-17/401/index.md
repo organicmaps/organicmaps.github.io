@@ -5,4 +5,3 @@ slug: "last-night-organic-maps-was-removed-from-the-play-store-without-any-warni
 ---
 
 {{ googleplaynews(lang="en") }}
-

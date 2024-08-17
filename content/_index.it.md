@@ -12,7 +12,7 @@ Si tratta di un [fork][fork] open source dell'applicazione **Maps.me** (preceden
 
 > Nel 2023, Organic Maps [ha ottenuto il suo primo milione](@/news/2023-12-23/281/index.md) di utenti. [Aiutateci](@/donate/index.it.md) a scalare!
 
-### Scaricare e installare Organic Maps da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Scaricare e installare Organic Maps da [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 

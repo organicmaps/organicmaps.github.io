@@ -13,7 +13,7 @@ Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasın�
 
 > Organic Maps 2023 yılında [bir milyon](@/news/2023-12-23/281/index.md) kullanıcıya ulaştı. Masrafları karşılayabilmemiz için [bize yardım edin](@/donate/index.tr.md)!
 
-### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] adresinden indirin ve yükleyin {#install}
+### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] adresinden indirin ve yükleyin {#install}
 
 {{ googleplaynews() }}
 

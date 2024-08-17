@@ -14,7 +14,7 @@ extra:
 
 > В 2023 году Organic Maps [использовали миллион человек](@/news/2023-12-23/281/index.md). [Помогите нам](@/donate/index.ru.md) масштабировать проект!
 
-### Загрузить и установить Organic Maps из [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Загрузить и установить Organic Maps из [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 

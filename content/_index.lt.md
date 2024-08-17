@@ -13,7 +13,7 @@ title: 'Organic Maps: žygių takai pėsčiomis, dviračiu ir navigacija'
 
 > In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
-### Atsisiųskite ir įsidiekite Organic Maps iš [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Atsisiųskite ir įsidiekite Organic Maps iš [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 

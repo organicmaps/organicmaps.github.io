@@ -13,7 +13,7 @@ title: 'Organic Maps Offline Hike, Bike, GPS Navigation'
 
 > In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
-### [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] എന്നിവയിൽ നിന്ന് ഓർഗാനിക് മാപ്‌സ് ഡൗൺലോഡ് ചെയ്‌ത് ഇൻസ്റ്റാൾ ചെയ്യുക {#install}
+### [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] എന്നിവയിൽ നിന്ന് ഓർഗാനിക് മാപ്‌സ് ഡൗൺലോഡ് ചെയ്‌ത് ഇൻസ്റ്റാൾ ചെയ്യുക {#install}
 
 {{ googleplaynews() }}
 

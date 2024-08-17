@@ -25,6 +25,7 @@
 [matrix_ru]: https://matrix.to/#/#organicmapsru:matrix.org "Organic Maps в Matrix"
 [mythic_beasts_donation]: https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/
 [mythic_beasts]: https://www.mythic-beasts.com/
+[obtainium]: https://github.com/organicmaps/organicmaps/wiki/Installing-Organic-Maps-from-GitHub-using-Obtainium "Organic Maps from GitHub Releases"
 [openstreetmap]: https://www.openstreetmap.org/about "OpenStreetMap"
 [public_transport_validator]: https://cdn.organicmaps.app/subway/
 [reddit]: https://www.reddit.com/r/organicmaps/

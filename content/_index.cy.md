@@ -13,7 +13,7 @@ Mae **Organic Maps** yn ap am ddim ar gyfer Android ac iOS gyda mapiau all-lein 
 
 > In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
-### Lawrlwytho a gosod Organic Maps o [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Lawrlwytho a gosod Organic Maps o [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 

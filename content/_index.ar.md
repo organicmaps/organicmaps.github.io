@@ -13,7 +13,7 @@ title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال
 
 > في عام 2023، حصلت Organic Maps على [أول مليون](@/news/2023-12-23/281/index.md) مستخدم. [ساعدنا على](@/donate/index.ar.md) التوسع!
 
-### نزّل و ثبت Organic Maps من [AppStore][appstore]، [Google Play][googleplay]، [FDroid][fdroid]، [Huawei AppGallery][appgallery] {#install}
+### نزّل و ثبت Organic Maps من [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 

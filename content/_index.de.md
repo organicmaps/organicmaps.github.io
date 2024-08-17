@@ -13,7 +13,7 @@ title: 'Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation'
 
 > Im Jahr 2023 erreichte Organic Maps [seine ersten Million](@/news/2023-12-23/281/index.md) Nutzer. [Hilf uns](@/donate/index.de.md), zu skalieren!
 
-### Organic Maps von [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] herunterladen und installieren {#install}
+### Organic Maps von [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] herunterladen und installieren {#install}
 
 {{ googleplaynews() }}
 

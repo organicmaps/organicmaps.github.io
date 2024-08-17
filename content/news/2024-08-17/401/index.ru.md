@@ -5,4 +5,3 @@ slug: organic-maps-были-удалены-из-Google-Play-без-объясн�
 ---
 
 {{ googleplaynews(lang="ru") }}
-

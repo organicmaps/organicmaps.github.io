@@ -13,7 +13,7 @@ title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
 
 > In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.zh-Hans.md) to scale!
 
-### 从 [AppStore][appstore]、[Google Play][googleplay]、[FDroid][fdroid]、[华为 AppGallery][appgallery] 下载并安装Organic Maps {#install}
+### 从 [AppStore][appstore]、[Google Play][googleplay]、[华为 AppGallery][appgallery]、[Obtainium][obtainium]、[FDroid][fdroid] 下载并安装Organic Maps {#install}
 
 {{ googleplaynews() }}
 

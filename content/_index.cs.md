@@ -14,7 +14,7 @@ Jedná se o open-source [odnož][fork] aplikace **Maps.me** (dříve známé jak
 
 > V roce 2023 získaly Organic Maps [první milion](@/news/2023-12-23/281/index.md) uživatelů. [Pomozte nám](@/donate/index.cs.md) dále růst!
 
-### Stáhněte a nainstalujte si Organic Maps z obchodů [App Store][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Stáhněte a nainstalujte si Organic Maps z obchodů [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 

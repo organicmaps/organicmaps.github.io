@@ -13,7 +13,7 @@ extra:
 
 > En 2023, Organic Maps [a obtenu son premier million](@/news/2023-12-23/281/index.md) d'utilisateurs. [Aidez-nous](@/donate/index.fr.md) à passer à l'échelle supérieure !
 
-### Télécharger et installer Organic Maps depuis [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
+### Télécharger et installer Organic Maps depuis [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ googleplaynews() }}
 
