@@ -16,6 +16,8 @@ It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously
 
 ### Paigalda Organic Maps järgmistest rakendustepoodidest: [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Matkamine') }}

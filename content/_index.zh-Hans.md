@@ -15,6 +15,8 @@ title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
 
 ### 从 [AppStore][appstore]、[Google Play][googleplay]、[FDroid][fdroid]、[华为 AppGallery][appgallery] 下载并安装Organic Maps {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='登山') }}

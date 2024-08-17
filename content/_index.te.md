@@ -15,6 +15,8 @@ title: 'ఆర్గానిక్ మ్యాప్స్: ఆఫ్‌లై
 
 ### [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] నుండి ఓర్గానిక్ మ్యాప్స్ ను డౌన్‌లోడ్ చేసి ఇన్‌స్టాల్ చేయండి. {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='హైకింగ్') }}

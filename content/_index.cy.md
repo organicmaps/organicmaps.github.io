@@ -15,6 +15,8 @@ Mae **Organic Maps** yn ap am ddim ar gyfer Android ac iOS gyda mapiau all-lein 
 
 ### Lawrlwytho a gosod Organic Maps o [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Heicio') }}

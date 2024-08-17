@@ -14,6 +14,8 @@ Si tratta di un [fork][fork] open source dell'applicazione **Maps.me** (preceden
 
 ### Scaricare e installare Organic Maps da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}

@@ -15,6 +15,8 @@ Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasın�
 
 ### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] adresinden indirin ve yükleyin {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}

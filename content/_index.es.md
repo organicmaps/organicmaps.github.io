@@ -15,6 +15,8 @@ title: 'Organic Maps: senderismo, ciclismo y GPS sin conexión'
 
 ### Descargue e instale Organic Maps desde el [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Senderismo') }}

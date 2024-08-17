@@ -16,6 +16,8 @@ Jedná se o open-source [odnož][fork] aplikace **Maps.me** (dříve známé jak
 
 ### Stáhněte a nainstalujte si Organic Maps z obchodů [App Store][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}

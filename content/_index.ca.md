@@ -15,6 +15,8 @@ L’**Organic Maps** és una de les poques aplicacions actuals que admet fer ser
 
 ### Baixeu i instal·leu l’Organic Maps des de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Senderisme') }}

@@ -15,6 +15,8 @@ N’i a gaire a l’ora d’ara d’aplicacions coma **Mapas Organicas** que fon
 
 ### Telecargatz e installatz Mapas Organicas de l’[AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid] o [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Escorregudas') }}

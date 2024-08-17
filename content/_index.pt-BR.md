@@ -16,6 +16,8 @@ title: 'Organic Maps: Caminhada, Ciclismo, Trilhas e Navegação Offline'
 
 ### Baixe e instale Organic Maps a partir da [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Caminhada') }}

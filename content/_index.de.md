@@ -15,6 +15,8 @@ title: 'Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation'
 
 ### Organic Maps von [AppStore][appstore], [Google Play][googleplay], [F-Droid][fdroid], [Huawei AppGallery][appgallery] herunterladen und installieren {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Wandern') }}

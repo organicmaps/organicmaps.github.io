@@ -15,6 +15,8 @@ title: 'Organic Maps: Vanlyn voetslaan, fietsry, roetes en navigasie'
 
 ### Laai af en installeer Organic Maps in die [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}
 
+{{ googleplaynews() }}
+
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Voetslaan') }}
