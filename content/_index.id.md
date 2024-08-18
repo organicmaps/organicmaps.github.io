@@ -15,8 +15,6 @@ title: 'Organic Maps: Pendakian, Bersepeda, Jalan Setapak, dan Navigasi Luring'
 
 ### Unduh dan instal Organic Maps dari [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Pendakian') }}

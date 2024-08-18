@@ -15,8 +15,6 @@ title: 'Organic Maps: žygių takai pėsčiomis, dviračiu ir navigacija'
 
 ### Atsisiųskite ir įsidiekite Organic Maps iš [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Žygiavimas') }}

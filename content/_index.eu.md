@@ -15,8 +15,6 @@ title: 'Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabig
 
 ### Deskargatu eta instalatu Organic Maps hemendik: [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Mendian') }}

@@ -16,8 +16,6 @@ extra:
 
 ### Загрузить и установить Organic Maps из [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Пеший поход') }}

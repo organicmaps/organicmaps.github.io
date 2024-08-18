@@ -15,8 +15,6 @@ title: 'ऑर्गेनिक नक़्शे: ऑफ़लाइन स�
 
 ### [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] से ऑर्गेनिक मानचित्र डाउनलोड और इंस्टॉल करें {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}

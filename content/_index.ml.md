@@ -15,8 +15,6 @@ title: 'Organic Maps Offline Hike, Bike, GPS Navigation'
 
 ### [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] എന്നിവയിൽ നിന്ന് ഓർഗാനിക് മാപ്‌സ് ഡൗൺലോഡ് ചെയ്‌ത് ഇൻസ്റ്റാൾ ചെയ്യുക {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='കാൽനടയാത്ര') }}

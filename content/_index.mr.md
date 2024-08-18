@@ -15,8 +15,6 @@ title: 'Organic Maps : ऑफलाईन भटकंती, सायकल �
 
 ### Organic Maps इथून डाऊनलोड व स्थापीत करा : [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='भटकंती') }}

@@ -16,9 +16,7 @@ It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously
 
 ### Descarga e instala Organic Maps desde [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-@{{ googleplaynews() }}
-
-{{ badges() }}
+@{{ badges() }}
 
 @{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 

@@ -15,8 +15,6 @@ Az **Organic Maps** egy ingyenes Android és iOS offline térképalkalmazás uta
 
 ### Töltse le és telepítse az Organic Maps-et az [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Túrázás') }}

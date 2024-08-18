@@ -15,8 +15,6 @@ title: 'Organic Maps: wędrówki, jazda na rowerze, szlaki i nawigacja offline'
 
 ### Pobierz i zainstaluj Organic Maps z [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turystyka piesza')

@@ -15,8 +15,6 @@ title: 'Organic Maps: تنزَّه وقد دراجتك وشُدَّ الرحال
 
 ### نزّل و ثبت Organic Maps من [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}

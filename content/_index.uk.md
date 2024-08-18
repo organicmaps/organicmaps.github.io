@@ -15,8 +15,6 @@ title: 'Organic Maps: Офлайн карти та GPS навігація'
 
 ### Завантажте та встановіть Organic Maps з [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
-{{ googleplaynews() }}
-
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Піші прогулянки')
