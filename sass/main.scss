@@ -255,7 +255,7 @@ footer {
 .news_image, .news_video {
   max-height: 520px;
   max-width: 300px;
-  margin-left: 0.5rem;
+  margin: 0.5rem;
   display: inline-block;
   vertical-align: top;
   width: auto;
@@ -263,6 +263,7 @@ footer {
 
 .news_image_landscape {
   max-height: 520px;
+  margin: 0.5rem;
   display: inline-block;
   vertical-align: top;
   width: auto;
