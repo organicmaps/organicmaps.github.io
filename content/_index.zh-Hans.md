@@ -1,5 +1,5 @@
 ---
-description: 由MapsWithMe（Maps.Me）应用程序的创始人为旅行者、游客、司机、徒步旅行者和骑行者创建的细致而快速的离线地图。
+description: 由 MapsWithMe（Maps.Me）应用程序的创始人为旅行者、游客、司机、徒步旅行者和骑行者创造的详细且快速的离线地图。
 extra:
   menu_title: 主页
 page_template: index.html
@@ -7,13 +7,13 @@ sort_by: weight
 title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
 ---
 
-**Organic Maps** 是一个免费的安卓和iOS平台离线地图应用程序，为旅行者、游客、徒步旅行者和骑行者提供基于**[OpenStreetMap][openstreetmap]** 的众源数据。它是**Maps.me** 应用程序（以前称为[**MapsWithMe**][mapswithme]，由2011年创建**MapsWithMe** 的同一个人维护）的一个开源且注重隐私的[分支][fork]。
+**Organic Maps** 是一个免费的安卓和 iOS 平台的离线地图应用程序，为旅行者、游客、徒步旅行者和骑行者提供基于 [**OpenStreetMap**][openstreetmap] 的社区地图数据。这是一个注重隐私的开源 **Maps.me** 应用程序的[分支][fork]（之前叫 [**MapsWithMe**][mapswithme]），由 2011 年创造 **MapsWithMe** 的同一人进行维护。
 
-**Organic Maps** 是目前少数几个不需要持续互联网连接就能支持100%功能的应用程序之一。安装Organic Maps，下载地图，扔掉你的SIM卡（顺便说一下，你的运营商会不断地跟踪你），充一次电池就可以出去旅行一周而不需要通过网络发送哪怕一个字节。
+**Organic Maps** 是现在为数不多的几款无需网络连接就能支持 100% 功能的应用程序之一。安装 Organic Maps，下载地图，扔掉您的 SIM 卡，充满电然后去旅行一周，不需要向网络发送哪怕一个字节。
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.zh-Hans.md) to scale!
+> 在 2023 年，Organic Maps [迎来了首个百万用户](@/news/2023-12-23/281/index.md)。[帮助我们](@/donate/index.zh-Hans.md)扩展规模！
 
-### 从 [AppStore][appstore]、[Google Play][googleplay]、[华为 AppGallery][appgallery]、[Obtainium][obtainium]、[FDroid][fdroid] 下载并安装Organic Maps {#install}
+### 从 [AppStore][appstore]、[Google Play][googleplay]、[F-Droid][fdroid] 或[华为应用市场][appgallery]下载并安装 Organic Maps {#install}
 
 {{ badges() }}
 
@@ -29,42 +29,42 @@ title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
 
 Organic Maps 是旅行者、游客、徒步旅行者和骑行者的终极伴侣应用：
 
-- 详细的离线地图，有其他地图上没有的地方，感谢[OpenStreetMap][openstreetmap]
-- 骑行路线、远足小径和步行道
-- 等高线、高程剖面、山峰和山坡
-- 弯弯绕的步行、骑行和汽车导航都有语音向导，Android Auto 安卓汽车
+- 详细的离线地图，其中包含其它地图上不存在的地点，这要归功于 [OpenStreetMap][openstreetmap]
+- 自行车路线、徒步路径和步行小径
+- 等高线、海拔剖面、山峰和坡度
+- 带语音指导的步行、自行车及汽车的逐向导航，也支持 Android Auto
 - 地图上的快速离线搜索
-- 以KML/KMZ格式导出和导入书签，GPX 导入
-- 保护您眼睛的黑暗模式
-- 国家和地区不会占用太大的空间
-- 自由且开源
+- 以 KML 或 KMZ 格式导出或导入书签，导入 GPX 文件
+- 保护您眼睛的夜间模式
+- 国家和地区的地图数据占用空间很小
+- 免费且开源
 
-## 为什么选择Organic Maps？
+## 为什么选择 Organic Maps？
 
-Organic Maps 既纯粹而有机，用爱发电：
+Organic Maps 是纯粹且自然的，用爱发电：
 
 - 尊重您的隐私
-- 省电
+- 节省电量
 - 没有意外的移动数据费用
 
-Organic Maps 应用没有跟踪器和其他糟糕的东西：
+Organic Maps 应用没有追踪器和其它糟糕的东西：
 
-- 无广告
-- 无跟踪器
-- 不收集数据
-- 不电话打扰
-- 无需烦琐注册
-- 无强制教程
-- 无推送邮件
-- 无推送通知
-- 无垃圾软件
-- ~~无有毒内容~~ 纯粹绿色！
+- 没有广告
+- 没有跟踪器
+- 不收集任何数据
+- 不会向软件开发者回传数据
+- 不会强制要求您注册
+- 没有强制性的教程
+- 没有烦人的垃圾邮件
+- 没有烦人的通知推送
+- 不含垃圾软件
+- ~~不含农药~~ 而是完全有机的！
 
-本应用程序已经[Exodus Privacy Project][exodus]认证：
+本应用程序已通过 [Exodus Privacy Project][exodus] 验证：
 
 {{ exodus_screenshot() }}
 
-The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
+iOS 版本的应用程序已通过 [TrackerControl for iOS][trackercontrol] 验证：
 
 {{ trackercontrol_screenshot() }}
 
@@ -72,45 +72,44 @@ Organic Maps 无需过多权限：
 
 {{ privacy_screenshots() }}
 
-在Organic Maps，我们相信隐私是一项基本人权：
+在 Organic Maps，我们相信隐私是一项基本人权：
 
-- Organic Maps是一个独立的社区驱动的开源项目
-- 我们保护您的隐私不受大型科技公司的窥视
+- Organic Maps 是一个独立的社区驱动的开源项目
+- 我们保护您的隐私，免受大型科技公司的窥探
 - 无论身处何处，安全在您左右
 
 拒绝监视 - 拥抱自由。
 
-**[给Organic Maps一个机会！](#install)**
+**[给 Organic Maps 一个机会！](#install)**
 
-## 谁在为免费的应用付费？
+## 谁在为这个免费的应用程序支付费用？
 
-本应用免费。但请通过[捐赠](@/donate/index.zh-Hans.md)支持我们！
+这个应用程序对所有人都是免费的。请[捐款](@/donate/index.md)来支持我们！
 
-To donate conveniently, click on your preferred payment method icon below:
+要方便地捐款，请点击下面您首选的支付方式图标：
 
 {{ donate_buttons() }}
 
-### 友情赞助：
+### 友情赞助商：
 
-[神话兽](https://www.mythic-beasts.com/)ISP[为我们提供][mythic_beasts_donation]两台虚拟服务器，400TB/月的免费带宽来帮助我们的用户下载地图和更新。
+[Mythic Beasts](https://www.mythic-beasts.com/) ISP [为我们提供][mythic_beasts_donation]了两台虚拟服务器，每月 400 TB 的免费带宽，来帮助我们的用户下载和更新地图。
 
 ## 社区
 
-Organic Maps是一个以Apache许可证2.0授权的[开源软件][github]。
+Organic Maps 是一个[开源软件][github]，遵循 Apache License 2.0 许可证。
 
-- 邀您加入测试计划，提出建议、反馈问题：
-  * [iOS测试版（TestFlight）][testflight]
-  * [安卓测试版（Firebase）][firebase]
-  * [Linux 桌面端 Beta (Flatpak)][flatpak]
-  * [Linux桌面测试版（软件包）][Repology]
-- 报告bug、跟踪问题 [the issue tracker][issues]或联系我们[email us][email]。
-- [Discuss][ideas]创意点子、功能需求。
-- 订阅我们的[Telegram频道][telegram]或[matrix空间][matrix]以获取最新信息。
-- 加入我们的[Telegram英语聊天][telegram_chat]或[Telegram聊天室][telegram_chat_zh]，与其他用户讨论。
-- 访问我们的[GitHub页面][github]。
-- 在[FOSStodon][fosstodon]、[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[Reddit][reddit]、[LinkedIn][LinkedIn]关注我们的更新。
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- 我们邀请您加入测试计划，提出功能建议并报告问题：
+  * [iOS 测试版（TestFlight）][testflight]
+  * [Android 测试版（Firebase）][firebase]
+  * [Linux 桌面测试版（Flatpak）][flatpak]
+  * [Linux 桌面测试版（软件包）][repology]
+- 报告错误或问题至[问题追踪器][issues]或[发邮件来联系我们][email]。
+- [讨论][ideas]观点或提出功能请求。
+- 订阅我们的 [Telegram 频道][telegram]或 [Matrix 空间][matrix]以获取更新。
+- 加入我们的 [Telegram 群聊][telegram_chat]并与其他用户讨论。
+- 访问我们的 [GitHub 页面][github]。
+- 在 [FOSStodon][fosstodon]、[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[Reddit][reddit]、[LinkedIn][LinkedIn] 上关注我们的更新。
+- 加入群聊（或创建并告知我们），本地社区：[匈牙利 Matrix 讨论区](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)和[中文][telegram_chat_zh]、[法语][telegram_chat_fr]、[俄语][telegram_chat_ru]、[土耳其语][telegram_chat_tr]的 Telegram 群聊。
 
 [fork]: https://zh.wikipedia.org/wiki/%E5%88%86%E5%8F%89_(%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)
 
