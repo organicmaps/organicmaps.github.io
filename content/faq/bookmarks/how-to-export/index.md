@@ -12,4 +12,4 @@ extra:
 
 Tap a bookmark on the map or in the list, and then tap the "Share" button on the place page.
 
-To share all bookmarks and tracks in a list from the Bookmarks and Tracks dialog, tap the icon with three dots in front of the¡ name of the list with bookmarks and tap the Export KML/KMZ or Export GPX in the pop-up window.
+To share all bookmarks and tracks in a list from the Bookmarks and Tracks page, tap the icon with three dots to the right of the name of the list and select "Export KMZ" or "Export GPX".

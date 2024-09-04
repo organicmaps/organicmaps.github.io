@@ -10,9 +10,9 @@ extra:
   order: 30
 ---
 
-Our map data source is [OpenStreetMap](https://welcome.openstreetmap.org) (OSM). This is a mapping project similar to Wikipedia, but for maps, where anybody can create and edit the map of the World.
+Our map data source is [OpenStreetMap](https://openstreetmap.org) (OSM). This is a mapping project similar to Wikipedia, but for maps, where anybody can create and edit the map of the World.
 
-If you see incorrect information, or if you find that some objects are missing on the map, you can [leave a note](https://www.openstreetmap.org/note/new) for OSM editors or [register](https://www.openstreetmap.org/user/new) and edit the map.
+If you see incorrect information, or if you find that some objects are missing on the map, you can [leave a note](https://www.openstreetmap.org/note/new) for OSM volunteers or [register](https://www.openstreetmap.org/user/new) and edit the map.
 
 The more people contribute, the more detailed maps everyone gets. We believe that the most detailed map of the whole world, created by the open community, is just a matter of time.
 
