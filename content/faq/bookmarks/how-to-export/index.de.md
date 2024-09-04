@@ -1,5 +1,5 @@
 ---
-title: Wie kann ich Lesezeichen exportieren?
+title: Wie kann ich Lesezeichen und Tracks exportieren?
 description: ""
 updated: "2024-06-12"
 
@@ -10,4 +10,6 @@ extra:
   order: 10
 ---
 
-Wählen Sie ein Lesezeichen auf der Karte aus, tippen Sie darauf und tippen Sie anschließend auf der Ortsseite auf "Teilen". Um alle Lesezeichen gleichzeitig in einer Liste zu teilen, tippen Sie auf das Doppelsternsymbol auf dem Hauptbildschirm, tippen Sie auf das Symbol mit drei Punkten vor dem Namen der Liste mit Lesezeichen und tippen Sie im Popup-Fenster auf "Datei exportieren".
+Wählen Sie ein Lesezeichen auf der Karte oder in der Liste aus und tippen Sie anschließend auf "Teilen".
+
+Um alle Lesezeichen und Tracks aus einer Liste gleichzeitig zu teilen, gehen Sie zur Lesezeichen und Tracks Seite (tippen Sie auf das Sternsymbol unterhalb der Kartenansicht). Tippen Sie anschließend auf das Symbol mit drei Punkten rechts neben dem Namen der Liste und wählen Sie "KMZ exportieren" oder "GPX exportieren" aus.

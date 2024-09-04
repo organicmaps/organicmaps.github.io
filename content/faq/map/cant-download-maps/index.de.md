@@ -1,5 +1,5 @@
 ---
-title: Ich kann keine Karten herunterladen (aktualisieren)
+title: Ich kann keine Karten herunterladen (oder aktualisieren)
 description: ""
 updated: "2024-06-12"
 
@@ -10,8 +10,6 @@ extra:
   order: 30
 ---
 
-Ihr Download kann aufgrund eines temporären Netzwerkfehlers oder bestimmter Netzwerkanbieter-/Routereinstellungen fehlschlagen. Bitte versuchen Sie es später noch einmal oder verwenden Sie einen anderen WLAN-Access Point.
+Ihr Download kann aufgrund eines temporären Netzwerkfehlers oder bestimmter Netzwerkanbieter-/Routereinstellungen fehlschlagen. Bitte versuchen Sie es später noch einmal oder verwenden Sie einen anderen WLAN-Access Point. Bitte stellen Sie auch sicher, dass auf Ihrem Gerät genügend Speicherplatz frei ist.
 
-Stellen Sie unter Android sicher, dass Sie den Netzwerkzugriff für Organic Maps und den Download-Manager gewährt haben.
-
-Wenn Sie über sehr veraltete Karten verfügen und die App diese nicht aktualisieren kann, kann es hilfreich sein, veraltete Karten zu löschen und erneut herunterzuladen.
+Wenn das Aktualisieren bei sehr alten Karten fehlschlägt kann es helfen die alte Karten zu löschen und anschließend erneut herunterzuladen.

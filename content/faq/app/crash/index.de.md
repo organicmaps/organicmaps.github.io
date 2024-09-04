@@ -16,6 +16,6 @@ Android: Wenn Sie Ihre Karten auf einer SD-Karte speichern, ist die wahrscheinli
 
 Wenn das Problem weiterhin besteht, [kontaktieren Sie uns bitte](mailto:support@organicmaps.app) und geben Sie uns:
 
-* kurze Beschreibung des Problems
-* Organic Maps Version
-* Gerätemodell und Betriebssystemversion (Android oder iOS).
+* Eine kurze Beschreibung des Problems
+* Die Organic Maps Version
+* Ihr Gerätemodell und Betriebssystemversion (Android oder iOS).

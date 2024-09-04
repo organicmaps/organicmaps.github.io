@@ -15,7 +15,7 @@ You can use one of the following ways:
 
 * tap the search button
 * tap the bookmarks button
-* tap (tap and hold for empty areas) any place on the map
+* tap any place on the map
 
 Once you have chosen point of destination, press “Route to” button at the bottom. The route will be created and you will see distance and estimated travel time. You can change the route type by pressing the Car, Pedestrian, Subway, Bike or Ruler icon at the top of the screen. To start following the route tap “Start” button. Press the arrow sign in the lower right corner of the screen and tap Stop to finish the route.
 
