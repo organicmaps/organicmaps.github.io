@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the Organic Maps Website.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-05-23 13:21+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/organicmaps/website/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.6-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-09-21 06:40+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/organicmaps/website/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.8-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -25,8 +25,7 @@ msgstr "Organic Maps: бесплатные офлайн карты и навиг
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme], maintained by the same people who created **MapsWithMe** in 2011.\n"
+#, no-wrap
 msgid ""
 "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
 "It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
@@ -34,8 +33,7 @@ msgstr "**Organic Maps** – это бесплатные iOS и Android офла
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+#, no-wrap
 msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "**Organic Maps** поддерживает 100% функций без активного Интернет-подключения. Загрузите нужные карты, выбросьте SIM-карту (кстати, ваш оператор постоянно отслеживает вас) и отправляйтесь в недельное путешествие на одном заряде батареи.\n"
 
@@ -104,8 +102,6 @@ msgstr "Контурные линии, профили высот, пики и с
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
-#| msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto"
 msgstr "Авто, вело и пеший навигатор с голосовыми подсказками"
 
@@ -371,8 +367,6 @@ msgstr "Загляните на наш [GitHub][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
-#| msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit]."
 msgid "Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
 msgstr "Подпишитесь на наши новости в [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], и [Reddit][reddit]."
 
@@ -476,10 +470,8 @@ msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, fuzzy
-#| msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgid "User support, bugfixing and publishing quality app updates are at the top of our priorities.  There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Поддержка пользователей, исправление ошибок и повышение стабильности приложения — в числе наших наивысших приоритетов. Сейчас [на GitHub более 1800 сообщений об ошибках и улучшениях][github issues], и это число растет с каждым днем. AppStore, Google Play и наша электронная почта так же переполнены комментариями. Мы хотим поддерживать качество и скорость работы на высоком уровне."
+msgstr "Поддержка пользователей, исправление ошибок и повышение стабильности приложения — в числе наших наивысших приоритетов. Сейчас [на GitHub более 1200 сообщений об ошибках и улучшениях][github issues], и это число растет с каждым днем. AppStore, Google Play и наша электронная почта так же переполнены комментариями. Мы хотим поддерживать качество и скорость работы на высоком уровне."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -495,8 +487,6 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
-#| msgid "GPS track recorder with GPX support"
 msgid "GPS track recorder with GPX export"
 msgstr "Запись GPS-треков с поддержкой GPX"
 
@@ -522,8 +512,6 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
-#| msgid "Better map styles for different activities"
 msgid "Map styles for different activities"
 msgstr "Улучшенные стили карт для различных видов туризма и путешествий"
 
@@ -557,8 +545,6 @@ msgstr "Как помочь?"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy
-#| msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. One-time donations are appreciated too."
 msgstr "Подписка — это лучший способ обеспечить предсказуемый стабильный доход для проекта и мотивировать нас на долгосрочные задачи и цели. Но вы также можете пожертвовать разово."
 
