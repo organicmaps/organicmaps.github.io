@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-05-23 13:21+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Galician <https://hosted.weblate.org/projects/organicmaps/website/gl/>\nLanguage: gl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.6-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2024-09-21 06:40+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Galician <https://hosted.weblate.org/projects/organicmaps/website/gl/>\nLanguage: gl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.8-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,8 +26,7 @@ msgstr "Organic Maps: camiñadas sen conexión, bicicletas, rutas e navegación"
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+#, no-wrap
 msgid ""
 "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **[OpenStreetMap][openstreetmap]** data created by the community.\n"
 "It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
@@ -35,8 +34,7 @@ msgstr "**Organic Maps** é unha aplicación gratuíta de mapas sen conexión pa
 
 #. type: Plain text
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+#, no-wrap
 msgid "**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr "@**Organic Maps** é unha das poucas aplicacións de hoxe en día que admite o 100 % das funcións sen unha conexión activa a Internet. Instala Organic Maps, descarga mapas, tira a tarxeta SIM (por certo, o teu operador rastrexache constantemente) e fai unha viaxe dunha semana cunha soa carga de batería sen que se envíe ningún byte á rede.\n"
 
@@ -105,8 +103,6 @@ msgstr "Curvas de nivel, perfís de elevación, cumes e pendentes"
 
 #. type: Bullet: '- '
 #: content/_index.md
-#, fuzzy
-#| msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
 msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto"
 msgstr "Navegación paso a paso, andando en bicicleta e en coche con guía de voz"
 
@@ -474,10 +470,8 @@ msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-#, fuzzy
-#| msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgid "User support, bugfixing and publishing quality app updates are at the top of our priorities.  There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "A asistencia ao usuario, a corrección de erros e a mellora da estabilidade da aplicación están na parte superior das nosas prioridades. Hai [1800+ issues on GitHub][github issues], e este número crece cada día. Os correos electrónicos de AppStore, Google Play e de asistencia están sobrecargados de comentarios e erros. Queremos ofrecer un produto de alta calidade."
+msgstr "A asistencia ao usuario, a corrección de erros e a mellora da estabilidade da aplicación están na parte superior das nosas prioridades. Hai [1200+ issues on GitHub][github issues], e este número crece cada día. Os correos electrónicos de AppStore, Google Play e de asistencia están sobrecargados de comentarios e erros. Queremos ofrecer un produto de alta calidade."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -493,8 +487,6 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
-#| msgid "GPS track recorder with GPX support"
 msgid "GPS track recorder with GPX export"
 msgstr "Gravador de rutas GPS con soporte GPX"
 
@@ -520,8 +512,6 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, fuzzy
-#| msgid "Better map styles for different activities"
 msgid "Map styles for different activities"
 msgstr "Mellores estilos de mapa para diferentes actividades"
 
@@ -555,8 +545,6 @@ msgstr "¿Como doar?"
 
 #. type: Plain text
 #: content/donate/index.md
-#, fuzzy
-#| msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. One-time donations are appreciated too."
 msgstr "As doazóns recorrentes son a mellor forma de garantir uns ingresos relativamente estables para o proxecto e de motivarnos para tarefas e obxectivos a longo prazo. Pero tamén pode doar unha vez."
 
