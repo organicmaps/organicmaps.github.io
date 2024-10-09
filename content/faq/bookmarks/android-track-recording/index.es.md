@@ -12,10 +12,10 @@ order: 30
 
 La configuración predeterminada de optimización de la batería en Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC y otros dispositivos puede detener o cerrar la aplicación Organic Maps en segundo plano.
 
-Esto es especialmente cierto para las versiones modernas de Android:
+Esto ocurre especialmente en las versiones modernas de Android:
 - Android 14
 - Android 13
 - Android 12
 - Android 11
 
-Los pasos exactos sobre cómo hacer que Organic Maps (y otras aplicaciones) funcionen en segundo plano se enumeran aquí: https://dontkillmyapp.com/
+Los pasos exactos sobre cómo hacer que Organic Maps (y otras aplicaciones) funcionen en segundo plano se enumeran aquí (en inglés): https://dontkillmyapp.com/
