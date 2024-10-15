@@ -18,4 +18,4 @@ Cela est particulièrement vrai pour les versions modernes d'Android :
 - Android 12
 - Android 11
 
-Les étapes exactes pour faire fonctionner Organic Maps (et d'autres applications) en arrière-plan sont listées ici : https://dontkillmyapp.com/
+Les étapes exactes pour faire fonctionner Organic Maps (et d'autres applications) en arrière-plan sont listées ici : [dontkillmyapp.com](https://dontkillmyapp.com)

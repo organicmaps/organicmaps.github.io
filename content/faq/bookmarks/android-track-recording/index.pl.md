@@ -18,4 +18,4 @@ Dotyczy to zwłaszcza nowoczesnych wersji Androida:
 - Android 12
 - Android 11
 
-Dokładne kroki, jak sprawić, by Organic Maps (i inne aplikacje) działały w tle, są wymienione tutaj: https://dontkillmyapp.com/
+Dokładne kroki, jak sprawić, by Organic Maps (i inne aplikacje) działały w tle, są wymienione tutaj: [dontkillmyapp.com](https://dontkillmyapp.com)

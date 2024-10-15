@@ -18,4 +18,4 @@ This is especially true for modern Android versions:
 - Android 12
 - Android 11
 
-The exact steps on how to make Organic Maps (and other apps) work in the background are listed here: https://dontkillmyapp.com/
+The exact steps on how to make Organic Maps (and other apps) work in the background are listed here: [dontkillmyapp.com](https://dontkillmyapp.com)

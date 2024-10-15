@@ -18,4 +18,4 @@ Bu durum özellikle modern Android sürümleri için geçerlidir:
 - Android 12
 - Android 11
 
-Organik Haritalar'ın (ve diğer uygulamaların) arka planda nasıl çalışacağına ilişkin tam adımlar burada listelenmiştir: https://dontkillmyapp.com/
+Organik Haritalar'ın (ve diğer uygulamaların) arka planda nasıl çalışacağına ilişkin tam adımlar burada listelenmiştir: [dontkillmyapp.com](https://dontkillmyapp.com)

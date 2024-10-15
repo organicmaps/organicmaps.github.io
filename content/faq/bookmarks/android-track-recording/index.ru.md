@@ -18,4 +18,4 @@ extra:
 - Android 12
 - Android 11
 
-На этом сайте описано, как настроить работу в фоновом режиме для Organic Maps и других приложений: https://dontkillmyapp.com/
+На этом сайте описано, как настроить работу в фоновом режиме для Organic Maps и других приложений: [dontkillmyapp.com](https://dontkillmyapp.com)

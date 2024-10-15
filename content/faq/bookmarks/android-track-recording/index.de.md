@@ -18,4 +18,4 @@ Dies gilt insbesondere für moderne Android-Versionen:
 - Android 12
 - Android 11
 
-Die genauen Schritte, wie man Organic Maps (und andere Apps) im Hintergrund zum Laufen bringt, sind hier aufgeführt: https://dontkillmyapp.com/
+Die genauen Schritte, wie man Organic Maps (und andere Apps) im Hintergrund zum Laufen bringt, sind hier aufgeführt: [dontkillmyapp.com](https://dontkillmyapp.com)
