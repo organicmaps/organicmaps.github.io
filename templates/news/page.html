@@ -2,7 +2,8 @@
 
 {% block content %}
 
-<h1>{{ resource.date | date(format='%B %e, %Y') }}</h1>
+<h1>{{ resource.title }}</h1>
+<p>{{ resource.date | date(format='%B %e, %Y') }}</p>
 
 <div class="news_content"{% if resource.translations | length <= 1 %} dir="auto"{% endif %}>
   {{ resource.content | safe }}
