@@ -16,8 +16,7 @@ What have we achieved so far as we approach Christmas 2024:
 - 10k+ stars on [GitHub](https://github.com/organicmaps/organicmaps)
 - 10k (almost) issues + PRs on [GitHub](https://github.com/organicmaps/organicmaps)
 - 1k (almost) forks on [GitHub](https://github.com/organicmaps/organicmaps)
-- 7k+ git commits
-- ~100 awesome contributors who made 5+ commits
+- 7k+ git commits made by 100+ contributors
 - $0 spend on marketing - pure Organic growth
 
 ¹ Approximated number based on data from the App Store, Google Play, as the app has no analytics and does not collect any user data.
@@ -30,11 +29,9 @@ It is a good moment to reflect on how it all started.
 
 Once upon a time, there was a great travel maps app called **MapsWithMe** (renamed to MAPS.ME in 2014). The app was powered by [OpenStreetMap](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) map data, kind of like Wikipedia, but for maps. Unlikely OpenStreetMap, which has always been an [open community effort](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap), MapsWithMe [originated](https://wiki.openstreetmap.org/wiki/MAPS.ME/History) as a **proprietary**, **closed-source** app developed by [MapsWithMe GmbH](https://zh.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-208.496.491). The app had two variants - a free limited version and a **paid** "Pro" version with extra features. [Over 7M users have downloaded](https://vk.company/en/press/releases/9209/) the app since its release in 2011 until Nov 2014.
 
-### AdsWithYou - MoneyWithThem
-
-As happens time and again, in Nov 2014 the original owners [sold the company](https://www-rbc-ru.translate.goog/rbcfreenews/5464b2eacbb20ff538342f8f?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US) to a Russian Big Tech conglomerate, for around [$18M +/-](https://vk.company/en/investors/info/10761/). As is often the case in such deals, the buyer likely required the original team to stay on for about a year as part of their earnout period. It is conceivable that some of them probably just poked around the sleek 27-story office building in Moscow, collected their payout, and then moved on to new endeavors. Others might have actively collaborated with the new authorities, if not directly led the effort to add invasive ads, numerous trackers, and endless data collection. Money talks. Business as usual.
-
 ### MapsWithCode
+
+As happens time and again, in Nov 2014 the original owners [sold the company](https://www-rbc-ru.translate.goog/rbcfreenews/5464b2eacbb20ff538342f8f?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US) to a Russian Big Tech conglomerate, for around [$18M +/-](https://vk.company/en/investors/info/10761/). As is common in such deals, the buyer likely required the original team to stay on for about a year, after which they probably moved on to their new endeavours.
 
 The Big Tech conglomerate invested millions and millions more, hired more and more engineers, and delivered [tons of cool features](https://vk.company/en/press/releases/10100/) we all love in the Organic Maps today. In 2015, one year after the purchase, they made a bold decision to [open-sourced the app under the Apache 2.0 license](https://www.businesswire.com/news/home/20150930005526/en/MAPS.ME-Goes-Open-Source) back in 2015. The [official statement](https://www.businesswire.com/news/home/20150930005526/en/MAPS.ME-Goes-Open-Source) was:
 
