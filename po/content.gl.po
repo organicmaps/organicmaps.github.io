@@ -386,7 +386,7 @@ msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
 msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(desenvolvemento%20de%20software)"
 
 #. type: Plain text
-#: content/_index.md content/donate/index.md content/support-us/index.md
+#: content/_index.md content/donate/index.md content/contribute/index.md
 msgid "{{ references() }}"
 msgstr "{{references()}}"
 
@@ -595,8 +595,8 @@ msgstr "¿Podes axudarnos doutra maneira?"
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Si! Hai moitas formas de admitir os mapas orgánicos. Consulte a páxina [Support Us](@/support-us/index.md) para obter máis detalles."
+msgid "Yes! There are many ways to support Organic Maps. Please see [Contribute](@/contribute/index.md) page for more details."
+msgstr "Si! Hai moitas formas de admitir os mapas orgánicos. Consulte a páxina [Contribute](@/contribute/index.md) para obter máis detalles."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -661,95 +661,95 @@ msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
 msgstr "<sub>Esta política entrará en vigor o 24/04/2021.</sub>\n"
 
 #. type: Yaml Front Matter Hash Value: description
-#: content/support-us/index.md
+#: content/contribute/index.md
 #, no-wrap
 msgid "Different ways to support the development of our free application"
 msgstr "Diferentes formas de apoiar o desenvolvemento da nosa aplicación gratuíta"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/support-us/index.md
+#: content/contribute/index.md
 #, no-wrap
-msgid "Support Us"
+msgid "Contribute"
 msgstr "Apoianos"
 
 #. type: Yaml Front Matter Hash Value: title
-#: content/support-us/index.md
+#: content/contribute/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
 msgstr "Apoiar o desenvolvemento de Organic Maps"
 
 #. type: Plain text
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
 msgstr "Organic Maps é unha aplicación gratuíta de código aberto. Está libre de anuncios, non recolle a túa información persoal e é desenvolvido por algúns entusiastas coa axuda da comunidade."
 
 #. type: Plain text
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "There are different ways to support the development:"
 msgstr "Hai diferentes formas de apoiar o desenvolvemento:"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
 msgstr "[Doar](@/donate/index.md)! Cada dólar ou euro conta e axúdanos a pagar os servidores e escalar."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
 msgstr "Informa de erros e comparte ideas no noso [GitHub][github] ou a través do [email][email]."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
 msgstr "Axúdanos a [fix bugs][contributing] e facer revisións de código se es un programador. Cada pequeno problema solucionado fai que alguén sexa máis feliz."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "[Translate][translations] missing strings in the app's interface."
 msgstr "[Translate][translations] faltan cadeas na interface da aplicación."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
 msgstr "Traduce as descricións de [App Store][translations_appstore] e [Android][translations_googleplay] ao teu idioma."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "[Translate][translations_website] our web site into your language."
 msgstr "[Translate][translations_website] o noso sitio web ao teu idioma."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
 msgstr "Únete á comunidade [OpenStreetMap][openstreetmap] e contribúe cos datos dos mapas."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
 msgstr "Corrixe as cidades vermellas atopadas polo noso [public transport validator][public_transport_validator], para que o metro e os trens lixeiros funcionen na aplicación."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr "Soporte a outros usuarios en [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
 msgstr "Fala a todos sobre os Organic Maps. Unha comunidade máis grande é unha comunidade máis forte."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 msgstr "Califícanos en [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Any help is welcome!"
 msgstr "Calquera axuda é benvida!"
 
 #. type: Plain text
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
 msgstr "O noso pequeno equipo está moi agradecido polos teus comentarios e apoio. Os mapas orgánicos non serían posibles sen os nosos usuarios ❤️."
 

@@ -90,7 +90,7 @@ L'applicazione è gratuita per tutti. Per favore [donate](@/donate/index.it.md) 
 
 ### Supportaci
 
-Ci sono molti modi per sostenerci, elencati [qui](@/support-us/index.it.md).
+Ci sono molti modi per sostenerci, elencati [qui](@/contribute/index.it.md).
 
 ## Beta
 

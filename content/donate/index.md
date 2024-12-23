@@ -70,6 +70,6 @@ Please consider donating annually to reduce total fees.
 ## Can you help us in any other way?
 
 Yes! There are many ways to support Organic Maps. Please see
-[Support Us](@/support-us/index.md) page for more details.
+[Contribute](@/contribute/index.md) page for more details.
 
 {{ references() }}

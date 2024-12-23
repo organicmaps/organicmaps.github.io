@@ -383,7 +383,7 @@ msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
 msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)"
 
 #. type: Plain text
-#: content/_index.md content/donate/index.md content/support-us/index.md
+#: content/_index.md content/donate/index.md content/contribute/index.md
 msgid "{{ references() }}"
 msgstr "{{ references() }}"
 
@@ -578,8 +578,8 @@ msgstr "क्या आप किसी और तरीके से हमा
 
 #. type: Plain text
 #: content/donate/index.md
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "जी हाँ! ऑर्गेनिक मानचित्रों का समर्थन करने के कई तरीके हैं. अधिक विवरण के लिए कृपया [समर्थन](@/support-us/index.hi.md) पृष्ठ देखें।"
+msgid "Yes! There are many ways to support Organic Maps. Please see [Contribute](@/contribute/index.md) page for more details."
+msgstr "जी हाँ! ऑर्गेनिक मानचित्रों का समर्थन करने के कई तरीके हैं. अधिक विवरण के लिए कृपया [समर्थन](@/contribute/index.hi.md) पृष्ठ देखें।"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -644,95 +644,95 @@ msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
 msgstr "<sub>यह नीति 2021-04-24 तक प्रभावी है।</sub>\n"
 
 #. type: Yaml Front Matter Hash Value: description
-#: content/support-us/index.md
+#: content/contribute/index.md
 #, no-wrap
 msgid "Different ways to support the development of our free application"
 msgstr "हमारे मुफ्त एप्लिकेशन के विकास का समर्थन करने के विभिन्न तरीके"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/support-us/index.md
+#: content/contribute/index.md
 #, no-wrap
-msgid "Support Us"
+msgid "Contribute"
 msgstr "हमारा सहयोग करें"
 
 #. type: Yaml Front Matter Hash Value: title
-#: content/support-us/index.md
+#: content/contribute/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
 msgstr "ऑर्गेनिक नक़्शे के विकास का समर्थन करें"
 
 #. type: Plain text
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
 msgstr "ऑर्गेनिक मैप्स एक फ्री, ओपन-सोर्स ऐप है | यह विज्ञापनों से मुक्त है, आपकी व्यक्तिगत जानकारी एकत्र नहीं करता है, और यह कुछ उत्साही लोगों के द्वारा कम्यूनिटी की मदद से विकसित किया गया है।"
 
 #. type: Plain text
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "There are different ways to support the development:"
 msgstr "इस एप के विकास का समर्थन करने के विभिन्न तरीके हैं:"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
 msgstr "[दान करें](@/donate/index.hi.md)! हर डॉलर या यूरो मायने रखता है और हमें सर्वर और स्केल के लिए भुगतान करने में मदद करता है।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
 msgstr "हमारे [Github][github] या [ईमेल][email] के माध्यम से बग्स की रिपोर्ट करें और विचार साझा करें।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
 msgstr "अगर आप डेवलपर हैं तो [बग्स ठीक करें][contributing] करने और कोड समीक्षा करने में हमारी सहायता करें। हर तय छोटा बग किसी को खुश करता है।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "[Translate][translations] missing strings in the app's interface."
 msgstr "ऐप के इंटरफ़ेस में [अनुवाद][translations] करने में सहायता करें|"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
 msgstr "[App Store][translations_appstore] और [Android][translations_googleplay] विवरणों का अपनी भाषा में अनुवाद करें."
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "[Translate][translations_website] our web site into your language."
 msgstr "हमारी वेबसाइट को अपनी भाषा में [अनुवाद][translations_website] करें।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
 msgstr "[OpenStreetMap][openstreetmap] समुदाय में शामिल हों और मानचित्र डेटा में योगदान दें।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
 msgstr "ऐप में काम करने के लिए सबवे और लाइट रेल के लिए हमारे [सार्वजनिक परिवहन सत्यापनकर्ता][public_transport_validator] द्वारा पाए गए लाल शहरों को ठीक करें।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr "[GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] पर अन्य उपयोगकर्ताओं का समर्थन करें।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
 msgstr "ऑर्गेनिक मैप्स के बारे में सभी को बताएं। एक बड़ा समुदाय एक मजबूत समुदाय है।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 msgstr "हमें [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review] में रेट करें।"
 
 #. type: Bullet: '- '
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Any help is welcome!"
 msgstr "किसी भी मदद का स्वागत है!"
 
 #. type: Plain text
-#: content/support-us/index.md
+#: content/contribute/index.md
 msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
 msgstr "आपकी प्रतिक्रिया और समर्थन के लिए हमारी छोटी सी टीम बहुत आभारी है। हमारे उपयोगकर्ताओं ❤️ के बिना ऑर्गनिक मैप्स संभव ना होता।"
 

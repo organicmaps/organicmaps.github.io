@@ -43,4 +43,4 @@ See more networks [here](/donate/#crypto).
 Your donations are sponsoring the development and scaling of Organic Maps, and greatly motivate our team.
 Maintaining a project with more than [one million users](@/news/2023-12-23/281/index.md) would not be possible without your support!
 
-Can't donate now? Check [other ways to support the project](@/support-us/index.md), or join our contributors team!
+Can't donate now? Check [other ways to support the project](@/contribute/index.md), or join our contributors team!

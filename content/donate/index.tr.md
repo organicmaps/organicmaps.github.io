@@ -64,7 +64,7 @@ Lütfen toplam ücretleri azaltmak için yıllık bağış yapmayı düşünün.
 ## Size başka bir şekilde yardımcı olabilir miyim?
 
 Evet! Organic Maps'i desteklemenin birçok yolu var. Daha fazla
-detay için lütfen [Bizi Destekleyin](@/support-us/index.tr.md) sayfasına bakın.
+detay için lütfen [Bizi Destekleyin](@/contribute/index.tr.md) sayfasına bakın.
 
 [stripe]: https://donate.organicmaps.app/ "Stripe ile Bağış Yapın"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub'daki Öneri ve Hatalar Listesi"

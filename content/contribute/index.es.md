@@ -1,8 +1,8 @@
 ---
 description: "Diferentes maneras de apoyar al desarrollo de nuestra aplicación libre"
 extra:
-  menu_title: Apóyenos
-  preview_image: support-us/support-us.jpg
+  menu_title: Contribuir
+  preview_image: contribute/contribute.jpg
 title: "Apoye al desarrollo de Organic Maps"
 weight: 20
 ---

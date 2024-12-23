@@ -75,7 +75,7 @@ Si us plau, considereu fer donacions anuals per a reduir les quotes totals.
 ## Voleu ajudar-nos de cap altra forma?
 
 Perfecte! Hi ha diverses maneres d'ajudar a l'Organic Maps. Consulteu la
-pàgina [Suport](@/support-us/index.ca.md) per a més informació.
+pàgina [Suport](@/contribute/index.ca.md) per a més informació.
 
 [stripe]: https://donate.organicmaps.app/ «Donació amb Stripe»
 [github issues]: https://github.com/organicmaps/organicmaps/issues «Informes al GitHub»

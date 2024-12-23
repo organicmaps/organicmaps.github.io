@@ -77,7 +77,7 @@ das taxas.
 ## Você pode nos ajudar de qualquer outra forma?
 
 Sim! Há muitas maneiras de apoiar o Organic Maps. Por favor, consulte a
-página [Apoie-nos](@/support-us/index.pt-BR.md) para mais detalhes.
+página [Contribuir](@/contribute/index.pt-BR.md) para mais detalhes.
 
 [stripe]: https://donate.organicmaps.app/ "Doe via Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "Problemas do GitHub"

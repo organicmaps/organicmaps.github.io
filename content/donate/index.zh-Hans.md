@@ -60,7 +60,7 @@ Click on your preferred payment method icon below:
 
 ## 您能以任何其他方式帮助我们吗？
 
-是的！支持Organic Maps，方法很多。请参阅[支持我们](@/support-us/index.zh-Hans.md)页面了解更多详情。
+是的！支持Organic Maps，方法很多。请参阅[支持我们](@/contribute/index.zh-Hans.md)页面了解更多详情。
 
 [stripe]: https://donate.organicmaps.app/ "通过Stripe捐款"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub论坛"

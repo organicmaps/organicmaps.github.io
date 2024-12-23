@@ -75,7 +75,7 @@ biaya.
 ## Dapatkah Anda membantu kami dengan cara lain?
 
 Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman
-[Dukung Kami](@/support-us/index.id.md) untuk lebih jelasnya.
+[Dukung Kami](@/contribute/index.id.md) untuk lebih jelasnya.
 
 [stripe]: https://donate.organicmaps.app/ "Donasi melalui Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
