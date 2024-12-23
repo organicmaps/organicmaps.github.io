@@ -76,7 +76,7 @@ Donera gärna årsvis för att minska avgifterna.
 ## Finns det fler sätt att hjälpa er på?
 
 Ja! Det finns många sätt att stödja Organic Maps. Se sidan [Support
-Us](@/support-us/index.sv.md) för mer information.
+Us](@/contribute/index.sv.md) för mer information.
 
 [stripe]: https://donate.organicmaps.app/ "Donera via Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

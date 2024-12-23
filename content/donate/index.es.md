@@ -76,7 +76,7 @@ Considere donar anualmente para reducir las tarifas totales.
 ## ¿Puede ayudarnos de alguna otra manera?
 
 ¡Sí! Hay varias maneras de apoyar a Organic Maps. Consulte la página
-[Apóyenos](@/support-us/index.es.md) para más detalles.
+[Contribuir](@/contribute/index.es.md) para más detalles.
 
 [stripe]: https://donate.organicmaps.app/ "Donar vía Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "Informes en GitHub"

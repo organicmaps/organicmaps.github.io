@@ -76,7 +76,7 @@ zu reduzieren.
 ## Kannst du uns auf andere Weise helfen?
 
 Ja! Es gibt viele Möglichkeiten, Organic Maps zu unterstützen. Weitere
-Details findest du auf der [Beitragen](@/support-us/index.de.md) Seite.
+Details findest du auf der [Beitragen](@/contribute/index.de.md) Seite.
 
 [stripe]: https://donate.organicmaps.app/ "Über Stripe spenden"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

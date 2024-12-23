@@ -8,7 +8,7 @@
     {% for page in [
       get_section(path="news/_index.md"),
       get_page(path="donate/index.md"),
-      get_page(path="support-us/index.md"),
+      get_page(path="contribute/index.md"),
       get_section(path="faq/_index.md"),
     ] %}
     {% set translated = page.translations | filter(attribute='lang', value=lang) | first %}

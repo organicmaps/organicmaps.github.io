@@ -2,7 +2,7 @@
 description: "Diferentei manieras d’ajudar lo desvelopament de nòstra aplicacion liura"
 extra:
   menu_title: "Ajudatz lo desvelopament"
-  preview_image: support-us/support-us.jpg
+  preview_image: contribute/contribute.jpg
 title: "Ajudatz lo desvelopament de Mapas Organicas"
 weight: 20
 ---

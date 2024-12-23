@@ -2,7 +2,7 @@
 description: "Különböző módok az ingyenes alkalmazásunk fejlesztésének támogatására"
 extra:
   menu_title: "Támogasson minket"
-  preview_image: support-us/support-us.jpg
+  preview_image: contribute/contribute.jpg
 title: "Támogassa az Organic Maps fejlesztését"
 weight: 20
 ---

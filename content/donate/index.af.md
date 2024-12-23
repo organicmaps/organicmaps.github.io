@@ -73,7 +73,7 @@ Oorweeg dit asseblief om jaarliks te skenk om die totale koste te verminder.
 ## Kan u ons op ’n ander manier help?
 
 Ja! Daar is baie maniere om Organic Maps te ondersteun. Kyk asseblief by
-[Steun ons](@/support-us/index.nl.md) vir meer details.
+[Steun ons](@/contribute/index.nl.md) vir meer details.
 
 [stripe]: https://donate.organicmaps.app/ "Skenk d.m.v. Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub-probleme"

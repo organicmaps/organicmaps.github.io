@@ -90,7 +90,7 @@ Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış 
 
 ### Bizi destekle
 
-Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/support-us/index.tr.md) mevcut.
+Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/contribute/index.tr.md) mevcut.
 
 ## Beta
 

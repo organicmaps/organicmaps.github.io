@@ -2,7 +2,7 @@
 description: "हमारे मुफ्त एप्लिकेशन के विकास का समर्थन करने के विभिन्न तरीके"
 extra:
   menu_title: "हमारा सहयोग करें"
-  preview_image: support-us/support-us.jpg
+  preview_image: contribute/contribute.jpg
 title: "ऑर्गेनिक नक़्शे के विकास का समर्थन करें"
 weight: 20
 ---

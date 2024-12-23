@@ -77,7 +77,7 @@ Kérjük, fontolja meg az éves adományozást, hogy csökkentse a teljes díjat
 ## Tud más módon is segíteni nekünk?
 
 Igen! Sokféleképpen lehet támogatni az Organic Maps-et. További részletekért
-lásd a [Support Us](@/support-us/index.hu.md) oldalt.
+lásd a [Contribute](@/contribute/index.hu.md) oldalt.
 
 [stripe]: https://donate.organicmaps.app/ "Adományozás Stripe-on keresztül"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Hibanaplók"

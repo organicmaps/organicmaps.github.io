@@ -76,7 +76,7 @@ Click on your preferred payment method icon below:
 ## क्या आप किसी और तरीके से हमारी मदद कर सकते हैं?
 
 जी हाँ! ऑर्गेनिक मानचित्रों का समर्थन करने के कई तरीके हैं. अधिक विवरण के
-लिए कृपया [समर्थन](@/support-us/index.hi.md) पृष्ठ देखें।
+लिए कृपया [समर्थन](@/contribute/index.hi.md) पृष्ठ देखें।
 
 [stripe]: https://donate.organicmaps.app/ "स्ट्राइप के माध्यम से दान करें"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub के मामले"

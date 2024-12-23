@@ -70,7 +70,7 @@ weight: 10
 ## هل يمكنك مساعدتنا بأي طريقة أخرى؟
 
 نعم! هناك العديد من الطرق لدعم Organic Maps. يرجى الاطلاع على صفحة
-[دعمنا](@/support-us/index.md) لمزيد من التفاصيل.
+[دعمنا](@/contribute/index.md) لمزيد من التفاصيل.
 
 [stripe]: https://donate.organicmaps.app/ "تبرع عبر Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub مشاكل"

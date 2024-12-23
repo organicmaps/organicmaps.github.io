@@ -98,7 +98,7 @@ Le FAI [Mythic Beasts](https://www.mythic-beasts.com/) [nous][mythic_beasts_dona
 
 ### Contribuer
 
-Il existe de nombreuses façons de nous soutenir, énumérées [ici](@/support-us/index.fr.md).
+Il existe de nombreuses façons de nous soutenir, énumérées [ici](@/contribute/index.fr.md).
 
 ## Beta
 

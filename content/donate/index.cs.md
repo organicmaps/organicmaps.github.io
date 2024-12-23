@@ -74,7 +74,7 @@ Zvažte prosím možnost ročního příspěvku, abyste snížili celkové popla
 ## Můžete nám pomoci i jinak?
 
 Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací
-naleznete na stránce [Podpořte nás](@/support-us/index.cs.md).
+naleznete na stránce [Podpořte nás](@/contribute/index.cs.md).
 
 [stripe]: https://donate.organicmaps.app/ "Dar přes Stripe"
 [github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"

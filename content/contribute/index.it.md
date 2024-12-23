@@ -3,8 +3,8 @@ title: Sostieni lo sviluppo di Organic Maps
 description: Diversi modi per sostenere lo sviluppo della nostra applicazione gratuita
 weight: 20
 extra:
-  menu_title: Support Us
-  preview_image: support-us/support-us.jpg
+  menu_title: Contribute
+  preview_image: contribute/contribute.jpg
 ---
 
 Organic Maps è un'applicazione gratuita e open-source. È priva di pubblicità, non raccoglie informazioni personali,
