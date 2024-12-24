@@ -9,7 +9,7 @@ extra:
   order: 10
 ---
 
-To install OM on linux with flatpak, open the terminal and imput `flatpak install flathub app.organicmaps.desktop`
+To install OM on Linux with flatpak, open the terminal and input `flatpak install flathub app.organicmaps.desktop`
 
 Once the app is installed you cam use the scroll wheel of your mouse or the controlls on the right menue bar to zoom into the area you wish to navigate in order to download maps for that area. You can also click the "download" icon in the lower right. Once you have downloaded maps for the regions you care about, the app should work even without an internet connection. 
 
