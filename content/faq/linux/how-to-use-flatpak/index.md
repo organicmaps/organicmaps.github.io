@@ -29,4 +29,4 @@ To bookmark a location, hold down the Alt key and right-click the place you want
 
 ![viewing bookmarks](view_bookmarks.png)
 
-Currently the Linux desktop app is mostly used for development purposes (automated testing and checking logic without having to compile for mobile) but it would be great if developers were able/willing to help improve its useability.
+The Linux desktop app is mostly used for development purposes (automated testing and checking logic without having to compile for mobile). Any volunteers to improve the usability of the Linux version are welcomed!
