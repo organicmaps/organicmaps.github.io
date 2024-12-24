@@ -25,7 +25,7 @@ You can click the blue icon directly above settings icon to clear navigation.
 
 To search for addresses and destinations, click the magnifying glass and enter the address or search term.
 
-To add a location to your bookmarks, hold down the Alt key and right click the place you want to bookmark. The bookmark may not be immediatly visible, to view and manage bookmarks you need to click the red star icon. 
+To bookmark a location, hold down the Alt key and right-click the place you want to bookmark. The bookmark may not be immediately visible, to view and manage bookmarks you need to click the red star icon. 
 
 ![viewing bookmarks](view_bookmarks.png)
 
