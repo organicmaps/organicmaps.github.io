@@ -15,7 +15,7 @@ Once the app is installed you can use the scroll wheel of your mouse or the cont
 
 You can hover your mouse over the various icons to see some help text. 
 
-To perform routing and turn by turn navigation, you have a couple of options. if you know the gps cordinates of your starting point and ending point, you can click the settings icon (above the green checkmark) and input the cordinetes of your starting point and destination. To set the starting point on the map itself, click the navigation icon and select "start point", then hold down the shift key and left click on the map. To set the destination, change to "end point" and click a location on the map.
+To perform routing and turn by turn navigation, you have a couple of options. if you know the GPS coordinates of your starting and ending points, you can click the settings icon (above the green checkmark) and input the coordinates of your starting point and destination. To set the starting point on the map, click the navigation icon and select "start point", then hold down the shift key and left-click on the map. To set the destination, change to "end point" and click a location on the map.
 
 ![Setting start point and end point](nav_points.png)
 
