@@ -40,7 +40,7 @@ travelers around the world.
 - Collaborate with product, design, engineering and support to create an intuitive and user-friendly experience.
 - Stay aligned with the latest Android guidelines to maintain app compliance.
 - Continuously enhance the app’s stability and performance.
-- Collaborate with a global open-source community to drive development.
+- Partner with a global open-source community to drive development.
 
 ### Conditions
 
