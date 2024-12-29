@@ -4,7 +4,8 @@ description: Join Organic Maps as a UI/UX Designer to craft intuitive, visually 
 template: page.html
 ---
 
-**Location:** Remote
+**Location**: Remote, open to nearly all locations. \
+**Engagement**: Part-time, project-driven.
 
 ### About
 
@@ -34,4 +35,4 @@ As the UI/UX Designer for Organic Maps, you will play a key role in crafting eng
 
 ### Get in Touch
 
-Your expertise and dedication will be rewarded. If you are passionate about improving the user experience and supporting our community-driven project, we’d love to hear from you. Contact us at [team@organicmaps.app](mailto:team@organicmaps.app), and let’s discuss how you can make an impact!
+If you are passionate about improving the user experience and supporting our community-driven project, we’d love to hear from you. Contact us at [join@organicmaps.app](mailto:join@organicmaps.app), and let’s discuss how you can make an impact!

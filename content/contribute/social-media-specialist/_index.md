@@ -4,17 +4,18 @@ description: Join Organic Maps as a Social Media Specialist to drive brand aware
 template: page.html
 ---
 
-Location: Remote
+**Location**: Remote, open to nearly all locations. \
+**Engagement**: Part-time, campaign-focused.
 
-### **About**
+### About
 
-Organic Maps is a privacy-focused and community-developed navigation app for drivers, hikers, and cyclists. The app features navigation with privacy - no location tracking, no data collection, and no ads. Search, routing and navigation operates without a cell phone signal, ideal for distant hiking trails or locations with poor connections. Organic Maps uses the crowd-sourced map data from OpenStreetMap, which has contributors all over the globe. The Organic Maps prioritizes community development and collaboration.
+Organic Maps is a privacy-focused and community-developed navigation app for drivers, hikers, and cyclists. The app features navigation with privacy \- no location tracking, no data collection, and no ads. Search, routing and navigation operates without a cell phone signal, ideal for distant hiking trails or locations with poor connections. Organic Maps uses the crowd-sourced map data from OpenStreetMap, which has contributors all over the globe. The Organic Maps prioritizes community development and collaboration.
 
-### **Vision**
+### Vision
 
 Create a world where traveling with maps has privacy-focus by default and the top choice on the planet. Unlock the freedom to navigate with privacy-focused maps, powered by the community.
 
-### **Opportunity**
+### Opportunity
 
 As the Social Media Champion you will be responsible for developing and implementing strategies on various social media platforms. The primary goals of this role are to drive brand awareness, engagement, and conversions through social media posting. This role involves managing special media campaigns, analyzing performance data, and making data-driven recommendations to achieve marketing objectives. You’ll help shape our social channels and bring the brand to life online in a fun, creative and educational way.
 
@@ -32,4 +33,4 @@ What you will do
 
 ### Get in Touch
 
-Your expertise and dedication will be rewarded. If you are passionate about improving the user experience and supporting our community-driven project, we’d love to hear from you. Contact us at [team@organicmaps.app](mailto:team@organicmaps.app), and let’s discuss how you can make an impact!
+If you are passionate about improving the user experience and supporting our community-driven project, we’d love to hear from you. Contact us at [join@organicmaps.app](mailto:join@organicmaps.app), and let’s discuss how you can make an impact!

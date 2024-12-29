@@ -4,11 +4,14 @@ description: Join Organic Maps as a Android Engineer (Java & NDK) to help build 
 template: page.html
 ---
 
+**Location**: Remote, open to nearly all locations. \
+**Engagement**: Full-time. Part-time work or combining with other commitments is feasible.
+
 ### **About Organic Maps**
 
 **Organic Maps** is clutter-free offline maps and navigation app for travelers, hikers, bikers, and outdoor explorers. Maps, search, and navigation work fully offline - no signal required. No ads, no trackers, no data collection - just your privacy, respected. Built by open-source enthusiasts. Powered by OpenStreetMap. Supported by the global community.
 
-Organic Maps by the end of 2024:
+Organic Maps [by the end of 2024](@/news/2024-12-20/411/index.md):
 
 - ~3M users from all countries of the world
 - ~15k ratings and reviews on AppStore and Google Play
@@ -42,10 +45,6 @@ travelers around the world.
 - Continuously enhance the app’s stability and performance.
 - Partner with a global open-source community to drive development.
 
-### Conditions
-
-100% remote work from nearly anywhere in the world. Full time position. Part-time work or combining with other commitments is certainly possible.
-
 ### Get in Touch
 
-If you are passionate about improving the user experience and supporting our community-driven project, we’d love to hear from you. Contact us at [team@organicmaps.app](mailto:team@organicmaps.app), and let’s discuss how you can make an impact!
+If you are passionate about improving the user experience and supporting our community-driven project, we’d love to hear from you. Contact us at [join@organicmaps.app](mailto:join@organicmaps.app), and let’s discuss how you can make an impact!
