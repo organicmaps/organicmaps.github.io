@@ -1,6 +1,6 @@
 ---
-title: User Support Champion
-description: Join Organic Maps as a User Support Champion to provide expert technical support, troubleshoot issues, and enhance the user experience of our privacy-focused navigation app for drivers, hikers, and cyclists worldwide.
+title: Community Engagement Specialist
+description: Join Organic Maps as a Community Engagement Specialist to provide expert technical support, troubleshoot issues, and enhance the user experience of our privacy-focused navigation app for drivers, hikers, and cyclists worldwide.
 template: page.html
 ---
 
@@ -16,7 +16,7 @@ Create a world where traveling with maps has privacy-focus by default and the to
 
 ### **Opportunity**
 
-As a User Support Champion you will be working directly with people in the community who use Organic Maps, to provide technical support and assistance with the application and website.  The community ranges from tech savvy engineers, to novice technology users. Support involves maintaining high satisfaction, resolving technical challenges, and enhancing the support experience, to ensure people have a better overall navigation experience.
+As a Community Engagement Specialist you will be working directly with people in the community who use Organic Maps, to provide technical support and assistance with the application and website.  The community ranges from tech savvy engineers, to novice technology users. Support involves maintaining high satisfaction, resolving technical challenges, and enhancing the support experience, to ensure people have a better overall navigation experience.
 
 What you will do:
 

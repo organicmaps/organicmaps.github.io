@@ -1,6 +1,6 @@
 ---
-title: Social Media Champion
-description: Join Organic Maps as a Social Media Champion to drive brand awareness, engagement, and conversions through social media, while enhancing the user  experience of our privacy-focused navigation app.
+title: Social Media Specialist
+description: Join Organic Maps as a Social Media Specialist to drive brand awareness, engagement, and conversions through social media, while enhancing the user  experience of our privacy-focused navigation app.
 template: page.html
 ---
 
