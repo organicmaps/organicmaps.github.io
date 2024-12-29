@@ -34,16 +34,17 @@ travelers around the world.
 
 ### What You Will Do
 
-- Design and develop Android app features, from concept to production.
+- Develop and implement Android app features through production.
+- Design technical solutions which operate effectively at scale.
 - Write Android code (Java) with integration of C++ libraries via NDK.
-- Work with UX/UI designers to create an intuitive and user-friendly experience.
+- Collaborate with product, design, engineering and support to create an intuitive and user-friendly experience.
 - Stay aligned with the latest Android guidelines to maintain app compliance.
 - Continuously enhance the app’s stability and performance.
 - Collaborate with a global open-source community to drive development.
 
 ### Conditions
 
-100% remote work from nearly anywhere in the world. Part-time work or combining with other commitments is certainly possible.
+100% remote work from nearly anywhere in the world. Full time position. Part-time work or combining with other commitments is certainly possible.
 
 ### Get in Touch
 
