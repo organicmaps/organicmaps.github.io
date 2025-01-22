@@ -54,7 +54,7 @@ A Restaurant is e.g. mapped as a Note or Area with the Tag ``` amenity=restauran
 > Note that the ID editor hides the internal data structure from the users to be more beginner-friendly. But for reading the Wiki documentation heaving a brief overview of the data structure is helpful.
 In the ID Editor, you can see the Tags that ID is hiding from you by expanding the *Tags* section in the *Edit feature* side panel.
 
-## OSM Notes
+## OSM Notes {#osm-note}
 
 If you don't have time or the problem is too complicated for editing the OSM data yourself OSM Notes ([Wiki](https://wiki.openstreetmap.org/wiki/Notes)) are the way to go. You can place such a note in the location of the map error and describe the problem in detail. Other OSM volunteers can then help and solve the issue. You will get e-mail notifications via your OSM account in case they have further questions or the OSM Note is solved.
 
