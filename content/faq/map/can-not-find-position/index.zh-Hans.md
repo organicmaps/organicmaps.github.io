@@ -1,11 +1,10 @@
 ---
 title: 应用无法定位到我的位置
-description: ""
-updated: "2024-06-12"
-
+description: Troubleshooting guide for solving problems with location determination for iOS and Android devices
+updated: 2024-06-12
 taxonomies:
-  faq: ["地图"]
-
+  faq:
+    - 地图
 extra:
   order: 10
 ---
@@ -14,23 +13,21 @@ extra:
 
 **安卓**
 
-在您的设备上打开设置 → 位置。
-最好将其切换到高精度模式。
+On your device open Settings → Location. It is better to switch on High accuracy mode, as it enables precise GPS location.
 
 如果使用 GPS 难以确定您的位置，请在应用设置中启用（如果已启用，则禁用）“Google Play 服务”。
 
-请注意：只有在您的安卓设备上安装了（启用了）Google Play 服务时，您才能看到它。
+Note: you can see it only if you have Google Play services installed (enabled) on your Android device. 请注意：只有在您的安卓设备上安装了（启用了）Google Play 服务时，您才能看到它。
 Google Play 服务用于更精确地确定位置，如果在禁用该选项后您遇到位置准确性问题，请将其打开。
 
 **iOS**
 
-如果您是 iPhone 或 iPad 用户，请检查 iOS 设置 → 隐私 → 位置服务。
-Organic Maps 的地理位置数据共享应该是启用的。
+If you are an iPhone or iPad user, please check iOS settings → Privacy → Location services. Geolocation data sharing should be enabled for Organic Maps.
 
 **请注意：**
 
-* 为了避免漫游时产生不必要的数据费用，您可以在设备设置中关闭所有移动数据，激活飞行模式或为 Organic Maps 禁用移动数据。 安卓和 iOS 设备可以在飞行模式下使用 GPS。
+- 为了避免漫游时产生不必要的数据费用，您可以在设备设置中关闭所有移动数据，激活飞行模式或为 Organic Maps 禁用移动数据。 安卓和 iOS 设备可以在飞行模式下使用 GPS。 Android and iOS devices can use GPS in the flight mode.
 
-* 一些移动设备没有内置的 GPS 接收器，例如 iPod Touch、仅 WiFi 的 iPad、Amazon Kindle Fire / Kindle Fire HD 7 和一些安卓平板电脑。 在这些设备上，只要您连接到互联网，我们的应用程序将显示您的大致位置。
+- 一些移动设备没有内置的 GPS 接收器，例如 iPod Touch、仅 WiFi 的 iPad、Amazon Kindle Fire / Kindle Fire HD 7 和一些安卓平板电脑。 在这些设备上，只要您连接到互联网，我们的应用程序将显示您的大致位置。 On these devices, all apps will show your approximate location detected using a Wi-Fi network, as long as you are connected to the internet.
 
-* 最后，请记住使用 GPS（关闭 WiFi 和移动网络）来确定位置可能需要一些时间。 GPS 未被使用的时间越长，所需的时间就越长。 位置确定的速度取决于设备，而不是应用程序。 GPS 的运作也受天气影响 – 在天空晴朗时，室外效果最好。 在尝试在室内、狭窄的街道或驾车时确定位置时可能会出现问题。
+- Location detection with GPS satellites (when WiFi and Mobile Networks are disabled) may take some time. The longer the GPS has not been used, the more time it takes. The speed of location detection depends on the device, not the app. The GPS operation is influenced by the weather as well – it works best outdoors when the sky is clear. Problems may arise when trying to locate yourself indoors, on a narrow street, or when driving a car, with a lot of metal around or with a metal/magnet on the device's case.
