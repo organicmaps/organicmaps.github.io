@@ -1,13 +1,13 @@
 ---
-description: "أموالك تدفع مقابل جميع النفقات المتعلقة بالمشروع وتحفزنا على التحسين Organic Maps."
+title: تبرع لدعم تطوير Organic Maps
+description: أموالك تدفع مقابل جميع النفقات المتعلقة بالمشروع وتحفزنا على التحسين Organic Maps.
+weight: 10
 extra:
   menu_title: تبرع
   preview_image: donate/donate.png
-title: "تبرع لدعم تطوير Organic Maps"
-weight: 10
 ---
 
-هو _مجاني للجميع_ بفضل **[تبرعاتك][stripe]**:
+Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]** in **[EUR][stripe_eur], [USD][stripe_usd], [GBP][stripe_GBP], [CHF][stripe_chf], [UAH][stripe_uah], [PLN][stripe_pln]**:
 
 - بدون إعلانات
 - لا أجهزة تعقب
@@ -21,31 +21,35 @@ weight: 10
 
 ## لماذا التبرع لOrganic Maps؟
 
-1. نحن نعتمد على تبرعاتك لتنفيذ مهمتنا لبقاء Organic Maps مفتوحًا
-   ومجانيًا. وخالي من الإعلانات.
-2. نحن عدد قليل من المتحمسين نساهم في وقت فراغنا وننفق أموال عائلاتنا على
-   المشروع. نحن نحب ما نفعله، ونحب مستخدمينا ❤️.
-3. بدعمك، نريد أن نصبح إصدارًا أفضل يركز على الخصوصية من خرائط Google.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. نحن نعتمد على تبرعاتك لتنفيذ مهمتنا لبقاء Organic Maps مفتوحًا
+   ومجانيًا.
+   وخالي من الإعلانات.
+4. نحن نحب ما نفعله، ونحب مستخدمينا ❤️.
 
-## ماذا سيستخدم المال؟
+## Why a free project needs money?
 
-1. نحن ندفع مقابل الخوادم السريعة، حتى يتمكن أي شخص في العالم من تنزيل
-   تحديثات بيانات الخريطة المجانية دون تأخير. إنها مئات التيرابايت شهريًا،
-   والمبلغ آخذ في الازدياد.
+1. In 2023, Organic Maps got its first million users.
+   نحن ندفع مقابل الخوادم السريعة، حتى يتمكن أي شخص في العالم من تنزيل
+   تحديثات بيانات الخريطة المجانية دون تأخير.
 2. يأتي دعم المستخدم، والتثبيت، وتحسين استقرار التطبيق على رأس
-   أولوياتنا. هناك [1800 + مشكلة على GitHub][github issues]، وهذا الرقم
-   يتزايد كل يوم. تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني
+   أولوياتنا.
+   هناك [1800 + مشكلة على GitHub][github issues]، وهذا الرقم
+   يتزايد كل يوم.
+   تمتلئ AppStore و Google Play ورسائل البريد الإلكتروني
    الداعمة بالتعليقات والأخطاء. نريد تقديم منتج عالي الجودة.
-3. مع ما يكفي من المال، يمكن تطوير ميزات جديدة بشكل أسرع، على سبيل المثال:
-   - تحديثات بيانات الخرائط الأسبوعية والآلية
+3. مع ما يكفي من المال، يمكن تطوير ميزات جديدة بشكل أسرع، على سبيل المثال: To name a few:
    - نسخ احتياطي من العلامات المرجعية ومزامنتها
-   - أندرويد أوتو
    - مسجل مسار GPX مع دعم GPX
+   - Satellite imagery
+   - Public Transport
+   - Traffic and accident reporting
+   - Photos and Reviews
    - أنماط خريطة أفضل للأنشطة المختلفة
    - تظليل التلال والتضاريس ثلاثية الأبعاد
    - تحسين محرر OpenStreetMap
    - بحث أفضل عن العنوان غير المتصل بالإنترنت والتوجيه والتنقل
-   - Public Transport
    - … و [العديد من][github issues] الميزات التي تريدها وتحبها
 
 ## كيف تتبرع؟
@@ -72,5 +76,4 @@ weight: 10
 نعم! هناك العديد من الطرق لدعم Organic Maps. يرجى الاطلاع على صفحة
 [دعمنا](@/contribute/index.md) لمزيد من التفاصيل.
 
-[stripe]: https://donate.organicmaps.app/ "تبرع عبر Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub مشاكل"
+{{ references() }}
