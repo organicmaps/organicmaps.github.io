@@ -54,7 +54,7 @@ taxonomies:
 Zola collects all such taxonomies:
 
 | File                                    | Taxonomy key | Taxonomy value     |
-|-----------------------------------------| ------------ |--------------------|
+| --------------------------------------- | ------------ | ------------------ |
 | map/can-find-position/index.md          | `faq`        | `Map`              |
 | map/search-cannot-find-a-place/index.md | `faq`        | `Map`              |
 | editing/map-errors/index.md             | `faq`        | `Map Editing`      |
@@ -100,10 +100,10 @@ faq-menu-title = "{Translation of 'F.A.Q.' to a new language}"
 
 A subset of FAQ questions is used to generate static single-page FAQ: [`/faq/embedded-faq/`](https://organicmaps.app/faq/embedded-faq/?lang=en). This page should be used as an embedded offline help page in Organic Maps app on Android and iOS. To see how it looks in different languages use following links:
 
-* https://organicmaps.app/faq/embedded-faq/?lang=en
-* https://organicmaps.app/faq/embedded-faq/?lang=de
-* https://organicmaps.app/faq/embedded-faq/?lang=ru
-* etc.
+- https://organicmaps.app/faq/embedded-faq/?lang=en
+- https://organicmaps.app/faq/embedded-faq/?lang=de
+- https://organicmaps.app/faq/embedded-faq/?lang=ru
+- etc.
 
 List of supported languages could be found in `templates/faq/embedded-faq.html`: `en`, `de`, `es`, `fr`, `pt`, `pt-BR`, `pl`, `ru`, `tr`, `uk`, `zh`.
 
