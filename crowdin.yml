@@ -2,4 +2,4 @@ files:
   - source: content/_index.md
     translation: content/_index%two_letters_code%.md
   - source: /content/**/index.md
-    translation: '%original_path%/index.%two_letters_code%.md'
+    translation: /%original_path%/index.%two_letters_code%.md
