@@ -1,9 +1,9 @@
 ---
-description: "Kein Tracking, keine Werbung, keine Datensammlung, keine Statistiksammlung, keine Spyware"
+title: "Organic Maps: Datenschutz"
+description: Kein Tracking, keine Werbung, keine Datensammlung, keine Statistiksammlung, keine Spyware
+weight: 900
 extra:
   menu_title: Datenschutz
-title: "Organic Maps: Datenschutz"
-weight: 900
 ---
 
 Organic Maps respektiert deine Privatsphäre und spürt dich nicht auf.
