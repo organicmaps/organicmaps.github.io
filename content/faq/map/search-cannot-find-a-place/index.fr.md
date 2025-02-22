@@ -1,11 +1,10 @@
 ---
 title: La recherche ne trouve pas le lieu sur la carte
-description: ""
-updated: "2024-06-12"
-
+description: Guide for improving search results and solving problems with finding objects on the map
+updated: 2024-06-12
 taxonomies:
-  faq: ["Carte"]
-
+  faq:
+    - Carte
 extra:
   order: 20
 ---
