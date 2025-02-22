@@ -1,9 +1,9 @@
 ---
-description: "Podmínky používání aplikace Organic Maps"
+title: "Organic Maps: Podmínky"
+description: Podmínky používání aplikace Organic Maps
+weight: 1000
 extra:
   menu_title: Podmínky
-title: "Organic Maps: Podmínky"
-weight: 1000
 ---
 
 Tato aplikace je licencována pod licencí Apache License, verze 2.0 (dále jen
@@ -12,11 +12,7 @@ Tato aplikace je licencována pod licencí Apache License, verze 2.0 (dále jen
 Kopii licence můžete získat na adrese
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
-Pokud to nevyžadují platné právní předpisy nebo to není písemně dohodnuto,
-je software distribuovaný v rámci licence distribuován tak, jak je, BEZ
-ZÁRUK A PODMÍNEK JAKÉHOKOLI DRUHU, ať už výslovných nebo
-předpokládaných. Konkrétní znění upravující oprávnění a omezení v rámci
-Licence naleznete v Licenci.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 Většina knihoven v následujících adresářích na [GitHub][github] je
 vytvořených jinými lidmi a organizacemi a licencovaných různými způsoby:
