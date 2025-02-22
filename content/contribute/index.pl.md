@@ -1,10 +1,10 @@
 ---
-description: "Różne sposoby wsparcia rozwoju naszej darmowej aplikacji"
-extra:
-  menu_title: "Wesprzyj nas"
-  preview_image: contribute/contribute.jpg
-title: "Wspieranie rozwoju Organic Maps"
+title: Wspieranie rozwoju Organic Maps
+description: Różne sposoby wsparcia rozwoju naszej darmowej aplikacji
 weight: 20
+extra:
+  menu_title: Contribute
+  preview_image: contribute/contribute.jpg
 ---
 
 Organic Maps to darmowa aplikacja typu open-source. Jest wolna od reklam,
