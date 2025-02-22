@@ -1,11 +1,10 @@
 ---
 title: Додаток не може визначити моє місцезнаходження на карті
-description: ""
-updated: "2024-06-12"
-
+description: Troubleshooting guide for solving problems with location determination for iOS and Android devices
+updated: 2024-06-12
 taxonomies:
-  faq: ["Мапа"]
-
+  faq:
+    - Мапа
 extra:
   order: 10
 ---
@@ -14,20 +13,20 @@ extra:
 
 **Android**
 
-На вашому пристрої відкрийте Налаштування → Місцезнаходження. Краще увімкнути режим високої точності.
+On your device open Settings → Location. It is better to switch on High accuracy mode, as it enables precise GPS location.
 
 Якщо у вас виникають труднощі з визначенням вашого місцезнаходження за допомогою GPS, увімкніть (вимкніть, якщо увімкнено) "Сервіси Google Play" в налаштуваннях програми.
 
-Примітка: ви можете побачити його, лише якщо на вашому пристрої встановлені та увімкнені служби Google Play Android. Ці служби використовуються для більш точного визначення місцезнаходження. Якщо у вас виникли проблеми з точністю визначення місцезнаходження після вимкнення цієї опції, увімкніть її назад.
+Note: you can see it only if you have Google Play services installed (enabled) on your Android device. Google play services are used to determine location more precisely, if you experience issues with location accuracy after you disabled the option, turn it on.
 
 **iOS**
 
-Якщо ви користувач iPhone або iPad, перевірте налаштування iOS → Конфіденційність → Служби визначення місцезнаходження. Обмін геолокаційними даними слід увімкнути для Organic Maps.
+If you are an iPhone or iPad user, please check iOS settings → Privacy → Location services. Geolocation data sharing should be enabled for Organic Maps.
 
 **Примітки:**
 
-* Щоб уникнути небажаних даних у роумінгу, ви можете вимкнути всі мобільні дані, активувати режим польоту або вимкнути мобільні дані для Organic Maps у налаштуваннях вашого пристрою. Пристрої на Android та iOS можуть використовувати GPS в режимі польоту.
+- To avoid unwanted data while roaming, you can turn off all mobile data, activate a flight mode or disable mobile data for Organic Maps in your device settings. Android and iOS devices can use GPS in the flight mode.
 
-* Деякі мобільні пристрої не мають вбудованих GPS-приймачів, наприклад iPod Touch, iPad з підтримкою Wi-Fi, Amazon Kindle Fire/Kindle Fire HD 7 та деякі планшети Android. На цих пристроях наш додаток буде показуватиме ваше приблизне місцезнаходження за умови підключення до Інтернету.
+- Some mobile devices do not have built-in GPS receivers, such as the iPod Touch, WiFi-only iPad, Amazon Kindle Fire/Kindle Fire HD 7, and some Android tablets. On these devices, all apps will show your approximate location detected using a Wi-Fi network, as long as you are connected to the internet.
 
-* Насамкінець, будь ласка, пам'ятайте, що визначення місцезнаходження за допомогою GPS (з використанням WiFi але без мобільної мережи) може зайняти деякий час. Чим довше GPS не використовувався, тим більше часу це займе. Швидкість визначення місцезнаходження залежить від пристрою, а не від програми. На роботу GPS приймача також впливає погода - він працює найкраще на відкритому повітрі, коли небо чисте. Проблеми можуть виникнути при спробі визначити своє місцезнаходження в приміщенні, на вузькій вулиці або за кермом автомобіля.
+- Location detection with GPS satellites (when WiFi and Mobile Networks are disabled) may take some time. The longer the GPS has not been used, the more time it takes. The speed of location detection depends on the device, not the app. The GPS operation is influenced by the weather as well – it works best outdoors when the sky is clear. Problems may arise when trying to locate yourself indoors, on a narrow street, or when driving a car, with a lot of metal around or with a metal/magnet on the device's case.
