@@ -1,9 +1,9 @@
 ---
 title: Как поддержать разработку Organic Maps
-description: Различные способы поддержать проект Organic Maps
+description: Different ways to support the development of our free application
 weight: 20
 extra:
-  menu_title: Помочь проекту
+  menu_title: Contribute
   preview_image: contribute/contribute.jpg
 ---
 
