@@ -1,11 +1,10 @@
 ---
 title: O aplicativo não pode determinar minha localização
-description: ""
-updated: "2024-06-12"
-
+description: Troubleshooting guide for solving problems with location determination for iOS and Android devices
+updated: 2024-06-12
 taxonomies:
-  faq: ["Mapa"]
-
+  faq:
+    - Mapa
 extra:
   order: 10
 ---
@@ -26,9 +25,8 @@ Se você é um usuário de iPhone ou iPad, Por favor, verifique as configuraçõ
 
 **Notas:**
 
-* Para evitar dados indesejados durante o roaming, você pode desativar todos os dados móveis, ativar um modo de voo ou desativar os dados móveis do Organic Maps nas configurações do dispositivo. Dispositivos Android e iOS podem usar GPS no modo de voo.
+- Para evitar dados indesejados durante o roaming, você pode desativar todos os dados móveis, ativar um modo de voo ou desativar os dados móveis do Organic Maps nas configurações do dispositivo. Dispositivos Android e iOS podem usar GPS no modo de voo.
 
-* Alguns dispositivos móveis não possuem receptores GPS integrados, como o iPod Touch, o iPad apenas com WiFi, o Kindle Fire Kindle HD 7 da Amazon e alguns tablets Android. Nesses dispositivos, nosso aplicativo mostrará sua localização aproximada, desde que você esteja conectado à Internet.
+- Alguns dispositivos móveis não possuem receptores GPS integrados, como o iPod Touch, o iPad apenas com WiFi, o Kindle Fire Kindle HD 7 da Amazon e alguns tablets Android. Nesses dispositivos, nosso aplicativo mostrará sua localização aproximada, desde que você esteja conectado à Internet.
 
-* Finalmente, por favor se lembre que determinar sua localização com GPS (com rede Wi-Fi e rede móvel desligados) pode demorar algum tempo. Quanto mais tempo tiver decorrido desde a última vez que usou o GPS, mais tempo demora fazer uma nova localização. A velocidade de localização depende do dispositivo e não do aplicativo. A operação GPS também depende das condições metereológicas – funciona melhor em exterior e com o céu limpo. Os problemas surgem usando no interior de edifícios, numa rua estreita ladeada por prédios altos ou dentro de um veículo em movimento.
-
+- Finalmente, por favor se lembre que determinar sua localização com GPS (com rede Wi-Fi e rede móvel desligados) pode demorar algum tempo. Quanto mais tempo tiver decorrido desde a última vez que usou o GPS, mais tempo demora fazer uma nova localização. A velocidade de localização depende do dispositivo e não do aplicativo. A operação GPS também depende das condições metereológicas – funciona melhor em exterior e com o céu limpo. Os problemas surgem usando no interior de edifícios, numa rua estreita ladeada por prédios altos ou dentro de um veículo em movimento.
