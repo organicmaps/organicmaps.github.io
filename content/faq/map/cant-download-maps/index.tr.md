@@ -1,17 +1,14 @@
 ---
-title: Haritaları indiremiyorum/güncelleyemiyorum
-description: ""
-updated: "2024-06-12"
-
+title: I can't download (update) maps
+description: What to do if Organic Maps fails to download or update maps from Internet?
+updated: 2024-06-20
 taxonomies:
-  faq: ["Harita"]
-
+  faq:
+    - Map
 extra:
   order: 30
 ---
 
-İndirme işleminiz geçici bir ağ hatası veya belirli ağ sağlayıcısı/yönlendirici ayarları nedeniyle başarısız olabilir. Lütfen daha sonra tekrar deneyin veya farklı bir WiFi erişim noktası kullanın. Ayrıca, haritaları indirmek için yeterli boş alana sahip olduğunuzdan emin olun.
+Your download can fail due to a temporary network error or specific network provider/router settings (firewall blocking). Please try again later or use a different Wi-Fi access point. In addition, make sure that you have enough free space to download maps.
 
-Android'de lütfen Organic Maps ve sistem İndirme Yöneticisi (İndirme Sağlayıcısı) için ağ erişimi verdiğinizden emin olun.
-
-Ayrıca, haritalarınız çok eskiyse ve uygulama bunları güncelleyemiyorsa, eski haritaları silip yeniden indirmek yardımcı olabilir.
+Also, if you have very outdated maps and the app can't update them, deleting outdated maps and re-downloading them may help.
