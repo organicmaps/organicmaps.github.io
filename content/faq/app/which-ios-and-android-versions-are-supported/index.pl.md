@@ -1,10 +1,10 @@
 ---
 title: Which iOS and Android versions are supported?
 description: Minimum requirements to run Organic Maps on Android and iOS devices
-updated: 2024-06-20
+updated: 2024-06-12
 taxonomies:
   faq:
-    - App
+    - Aplikacja
 extra:
   order: 10
 ---
