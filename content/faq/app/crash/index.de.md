@@ -1,21 +1,23 @@
 ---
 title: Was kann ich tun, wenn die App sich aufhängt oder wenn sie abstürzt?
-description: ""
-updated: "2024-06-12"
-
+description: What actions to take if the application crashes. How to report critical bugs to developers
+updated: 2024-06-12
 taxonomies:
-  faq: ["App"]
-
+  faq:
+    - App
 extra:
   order: 30
 ---
 
-Es ist wahrscheinlich unser Fehler und wir werden ihn gerne im nächsten Update beheben.
+Android: Wenn Sie Ihre Karten auf einer SD-Karte speichern, ist die wahrscheinlichste Ursache eine fehlerhafte SD-Karte. You can:
 
-Android: Wenn Sie Ihre Karten auf einer SD-Karte speichern, ist die wahrscheinlichste Ursache eine fehlerhafte SD-Karte. Sie können Ihre SD-Karte formatieren oder besser durch eine neue ersetzen. Wenn Sie die App selbst auf die SD-Karte verschoben haben, verschieben Sie sie bitte zurück in den internen (Geräte-) Speicher.
+1. Delete all downloaded maps and re-download them again to the SD card (may not work again).
+2. Delete all downloaded maps, select Internal device storage, and re-download maps.
+3. Format SD card and re-download maps.
+4. Sie können Ihre SD-Karte formatieren oder besser durch eine neue ersetzen.
 
 Wenn das Problem weiterhin besteht, [kontaktieren Sie uns bitte](mailto:support@organicmaps.app) und geben Sie uns:
 
-* Eine kurze Beschreibung des Problems
-* Die Organic Maps Version
-* Ihr Gerätemodell und Betriebssystemversion (Android oder iOS).
+- A detailed description of the issue and steps to reproduce it
+- Die Organic Maps Version
+- Ihr Gerätemodell und Betriebssystemversion (Android oder iOS).
