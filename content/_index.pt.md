@@ -1,13 +1,14 @@
 ---
-description: 'Mapas offline detalhados e rápidos para viajantes, turistas, condutores, caminhantes e ciclistas criados pelos fundadores da aplicação MapsWithMe (Maps.Me).'
-extra:
-  menu_title: Início
+title: "Mapas orgânicos: caminhada, ciclismo, trilhos e navegação offline"
+description: Mapas offline detalhados e rápidos para viajantes, turistas, condutores, caminhantes e ciclistas criados pelos fundadores da aplicação MapsWithMe (Maps.Me).
 page_template: index.html
 sort_by: weight
-title: 'Mapas orgânicos: caminhada, ciclismo, trilhos e navegação offline'
+extra:
+  menu_title: Início
 ---
 
-**Organic Maps** é uma aplicação gratuita para Android e iOS de mapas offline para viajantes, turistas, caminhantes e ciclistas baseado nos dados do **[OpenStreetMap][openstreetmap]**. É uma aplicação com foco na privacidade, sendo uma [bifurcação][fork] aberta da aplicação **Maps.me** (anteriormente conhecida como [**MapsWithMe**][mapswithme]), mantida pelas mesmas pessoas que criaram o **MapsWithMe** em 2011.
+**Organic Maps** é uma aplicação gratuita para Android e iOS de mapas offline para viajantes, turistas, caminhantes e ciclistas baseado nos dados do **\[OpenStreetMap]\[openstreetmap]**.
+É uma aplicação com foco na privacidade, sendo uma [bifurcação][fork] aberta da aplicação **Maps.me** (anteriormente conhecida como \[**MapsWithMe**]\[mapswithme]), mantida pelas mesmas pessoas que criaram o **MapsWithMe** em 2011.
 
 **Organic Maps** é atualmente uma das poucas aplicações que suporta 100% das suas funcionalidades sem uma conexão ativa com a Internet. Instale o Organic Maps, descarregue mapas, deixe de lado o seu cartão SIM (a propósito, o seu operador segue-o constantemente) e faça uma viagem de uma semana com uma única carga de bateria sem qualquer byte enviado para a rede.
 
@@ -56,12 +57,12 @@ A aplicação Organic Maps não tem rastreadores de terceiros nem outras coisas
 más:
 
 - Sem anúncios
-- Sem deixar rasto
+- No tracking
 - Sem recolha de dados
-- Sem conexões para servidores externos
+- No phoning home
 - Sem registos desnecessários e irritantes
 - Sem tutoriais obrigatórios
-- Sem lixo eletrónico enviado para o email
+- No noisy email spam
 - Sem notificações
 - Sem crapware (software pré-instalado indesejado)
 - ~~Sem pesticidas~~ Puramente orgânico!
@@ -92,20 +93,59 @@ Rejeite a vigilância - abrace a sua liberdade.
 
 ## Quem está a pagar pela aplicação gratuita?
 
-A aplicação é gratuita para todos. Por favor, [faça mm
-donativo](@/donate/index.pt-BR.md) para nos apoiar!
+A aplicação é gratuita para todos. Por favor, faça mm
+donativo para nos apoiar!
 
 Para fazer um donativo de forma cómoda, clique no ícone do seu método de
 pagamento preferido abaixo:
 
 {{ donate_buttons() }}
 
-### Os nossos patrocinadores:
+Beloved institutional sponsors below have provided targeted grants to cover some infrastructure costs and fund development of new selected features:
 
-O fornecedor de Internet [Mythic Beasts](https://www.mythic-beasts.com/)
+<table style="border-spacing: 20px">
+  <tbody><tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>O fornecedor de Internet [Mythic Beasts](https://www.mythic-beasts.com/)
 [fornece-nos][mythic_beasts_donation] dois servidores virtuais com 400
 TB/mês de largura de banda gratuita para ajudar os nossos utilizadores a
-descarregar e atualizar os mapas.
+descarregar e atualizar os mapas.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</tbody></table>
 
 ## Comunidade
 
@@ -114,10 +154,10 @@ Licença Apache 2.0.
 
 - Por favor, junte-se ao nosso programa beta, faça sugestões e reporte
   erros:
-  * [Beta iOS (TestFlight)][testflight]
-  * [Beta Android (Firebase)][firebase]
-  * [Beta PC Linux (Flatpak)][flatpak]
-  * [Beta PC Linux (pacotes)][repology]
+  - [Beta iOS (TestFlight)][testflight]
+  - [Beta Android (Firebase)][firebase]
+  - [Beta PC Linux (Flatpak)][flatpak]
+  - [Beta PC Linux (pacotes)][repology]
 - Reporte erros ou problemas no [rastreador de problemas][issues] ou por
   [e-mail][email].
 - [Discuta][ideas] ideias ou proponha novas funcionalidades.
@@ -129,9 +169,9 @@ Licença Apache 2.0.
 - Siga as nossas atualizações no [FOSStodon][fosstodon],
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit] e [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Join (or create and let us know) local communities: Hungarian translators
+  Matrix room
 
-[fork]: https://pt.wikipedia.org/wiki/Bifurcação_(desenvolvimento_de_software)
+[fork]: https://en.wikipedia.org/wiki/Fork_\(software_development\)
 
 {{ references() }}
