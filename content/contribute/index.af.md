@@ -1,24 +1,20 @@
 ---
-description: "Verskillende maniere om ons gratis toepassing se ontwikkeling te ondersteun"
-extra:
-  menu_title: "Ondersteun ons"
-  preview_image: contribute/contribute.jpg
-title: "Ondersteun die ontwikkeling van Organic Maps"
+title: Ondersteun die ontwikkeling van Organic Maps
+description: Verskillende maniere om ons gratis toepassing se ontwikkeling te ondersteun
 weight: 20
+extra:
+  menu_title: Ondersteun ons
+  preview_image: contribute/contribute.jpg
 ---
 
-Organic Maps is ’n gratis, oopbrontoep. Dit is vry van advertensies, dit
-versamel nie u persoonlike data nie, en word ontwikkel deur ’n paar
-entoesiaste met die hulp van die gemeenskap.
+Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
 Daar is verskillende maniere om die ontwikkeling te ondersteun:
 
-- [Skenk](@/donate/index.nl.md)! Elke euro of dollar tel en help ons om
-  bedieners te betaal en op te skaal.
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - Rapporteer foute en deel ideë op ons [GitHub][github] of
   d.m.v. [e-pos][email].
-- Help ons om [foute op te los][contributing] en hersien kode as u ’n
-  ontwikkelaar is. Elke klein opgeloste fout maak iemand blyer.
+- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Vertaal][translations] ontbrekende stringe in die toep se koppelvlak.
 - Vertaal [App Store][translations_appstore] en
   [Android][translations_googleplay] beskrywings in u taal.
@@ -31,13 +27,11 @@ Daar is verskillende maniere om die ontwikkeling te ondersteun:
 - Ondersteun ander gebruikers op [GitHub][issues],
   [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
-- Vertel almal van Organic Maps. ’n Groter gemeenskap is ’n sterker
-  gemeenskap.
+- Tell everyone about Organic Maps. A bigger community is a stronger community.
 - Gradeer ons op [Google Play][googleplay_review], [Apple
   Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Enige hulp is welkom!
 
-Ons klein span is baie dankbaar vir u terugvoer en ondersteuning. Organic
-Maps sou nie moontlik wees sonder ons gebruikers nie ❤️.
+Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
 {{ references() }}
