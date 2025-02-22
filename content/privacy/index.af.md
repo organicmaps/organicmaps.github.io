@@ -1,9 +1,9 @@
 ---
-description: "Geen nasporing, geen advertensies, geen dataversameling, geen statistiekversameling, geen spioenware"
+title: "Organic Maps: Privaatheidsbeleid"
+description: Geen nasporing, geen advertensies, geen dataversameling, geen statistiekversameling, geen spioenware
+weight: 900
 extra:
   menu_title: Privaatheid
-title: "Organic Maps: Privaatheidsbeleid"
-weight: 900
 ---
 
 Organic Maps eerbiedig u privaatheid en SPOOR U NIE NA NIE.
@@ -16,7 +16,6 @@ Weier waarneming – omarm u vryheid.
 
 Bly weg van tegnoreuse se priemende oë!
 
-Indien u vrae of opmerkings het, kontak ons asb. by
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
+If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 <sub>Hierdie beleid is geldig vanaf 2021-04-24.</sub>
