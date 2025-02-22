@@ -1,13 +1,14 @@
 ---
 title: Comment partager (exporter) des signets?
-description: ""
-updated: "2024-06-12"
-
+description: Step-by-step guide for exporting bookmarks and tracks from Organic Maps to other applications and sharing with  contacts
+updated: 2024-06-12
 taxonomies:
-  faq: ["Signets et parcours"]
-
+  faq:
+    - Signets et parcours
 extra:
   order: 10
 ---
 
-Choisissez un signet sur la carte, appuyez dessus, puis appuyez sur le bouton "Partager" dans la page d'accueil. Pour partager tous les signets dans une liste à la fois, appuyez sur le symbole étoile double sur l'écran principal, appuyez sur l'icône avec trois points devant le nom de la liste avec des signets et appuyez sur "Fichier d'exportation" dans la fenêtre pop-up.
+Choisissez un signet sur la carte, appuyez dessus, puis appuyez sur le bouton "Partager" dans la page d'accueil.
+
+To share all bookmarks and tracks in a list from the Bookmarks and Tracks page, tap the icon with three dots to the right of the name of the list and select "Export KMZ" or "Export GPX".
