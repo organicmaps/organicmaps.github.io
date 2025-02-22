@@ -1,10 +1,10 @@
 ---
-title: How to share (export) bookmarks and tracks?
+title: 如何分享（或导出）书签
 description: Step-by-step guide for exporting bookmarks and tracks from Organic Maps to other applications and sharing with  contacts
-updated: 2024-06-20
+updated: 2024-06-12
 taxonomies:
   faq:
-    - Bookmarks and tracks
+    - 书签和轨迹
 extra:
   order: 10
 ---
