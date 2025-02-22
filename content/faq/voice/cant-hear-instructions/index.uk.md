@@ -1,7 +1,7 @@
 ---
 title: Я не чую голосових підказок
 description: Troubleshooting guide for voice instructions in navigation
-updated: 2024-07-22
+updated: 2024-07-15
 taxonomies:
   faq:
     - Голосові інструкції
