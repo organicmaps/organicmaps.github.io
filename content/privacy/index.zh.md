@@ -1,19 +1,19 @@
 ---
-title: "Organic Maps: Privacy Policy"
-description: No tracking, no ads, no data collection, no statistics collection, no spyware
+title: Organic Maps：隐私政策
+description: 无跟踪、无广告、无数据收集、无统计收集、无间谍软件
 weight: 900
 extra:
-  menu_title: Privacy
+  menu_title: 隐私
 ---
 
-Organic Maps respects your privacy and DOES NOT TRACK YOU.
+Organic Maps尊重您的隐私，拒绝跟踪。
 
-Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps.
+与大多数其他应用程序不同，Organic Maps中没有跟踪，没有广告，没有间谍软件，不收集或统计数据。
 
-Reject surveillance - embrace your freedom.
+拒绝监视 - 拥抱自由。
 
-Stay away from Big Tech's prying eyes!
+远离大型科技公司的窥视！
 
-If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
+如有任何意见建议，欢迎通过[legal@organicmaps.app](mailto:legal@organicmaps.app)联系我们。
 
-<sub>This policy is effective as of 2021-04-24.</sub>
+<sub>本政策自2021-04-24起生效。</sub>
