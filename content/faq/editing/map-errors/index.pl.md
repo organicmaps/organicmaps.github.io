@@ -1,11 +1,10 @@
 ---
 title: Brakuje niektórych miejsc na mapie lub mają nieprawidłowe nazwy
-description: ""
-updated: "2024-06-12"
-
+description: Tips for correcting errors in maps, making changes and updates to objects directly in Organic Maps or through OpenStreetMap.org
+updated: 2024-06-12
 taxonomies:
-  faq: ["Edycja mapy"]
-
+  faq:
+    - Edycja mapy
 extra:
   order: 30
 ---
@@ -18,6 +17,6 @@ Im więcej osób współtworzy OSM, tym bardziej szczegółowe mapy otrzymuje OM
 
 **Uwagi:**
 
-* Możesz także dodawać nowe miejsca, edytować istniejące punkty i informacje o budynkach (adresy, godziny otwarcia, nazwy) bezpośrednio przez Organic Maps. Po zalogowaniu się przy użyciu konta OSM, Twoje zmiany zostaną automatycznie przesłane do OSM. Zachowaj ostrożność podczas edycji, ponieważ Twoje zmiany będą widoczne dla wszystkich innych użytkowników.
+- Możesz także dodawać nowe miejsca, edytować istniejące punkty i informacje o budynkach (adresy, godziny otwarcia, nazwy) bezpośrednio przez Organic Maps. Po zalogowaniu się przy użyciu konta OSM, Twoje zmiany zostaną automatycznie przesłane do OSM. Zachowaj ostrożność podczas edycji, ponieważ Twoje zmiany będą widoczne dla wszystkich innych użytkowników.
 
-* Baza danych OpenStreetMap jest aktualizowana co minutę. Staramy się aktualizować mapy w aplikacji 1-4 razy w miesiącu. Jeśli coś zmodyfikowałeś w OSM, Twoje zmiany pojawią się w przyszłych aktualizacjach map.
+- Baza danych OpenStreetMap jest aktualizowana co minutę. Staramy się aktualizować mapy w aplikacji 1-4 razy w miesiącu. Jeśli coś zmodyfikowałeś w OSM, Twoje zmiany pojawią się w przyszłych aktualizacjach map.
