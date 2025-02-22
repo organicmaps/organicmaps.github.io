@@ -1,9 +1,9 @@
 ---
-description: "Умови використання застосунку Organic Maps"
+title: "Organic Maps: терміни"
+description: Умови використання застосунку Organic Maps
+weight: 1000
 extra:
   menu_title: Терміни
-title: "Organic Maps: терміни"
-weight: 1000
 ---
 
 Цей застосунок ліцензований згідно з Apache License, версії 2.0 (далі
@@ -13,11 +13,7 @@ weight: 1000
 Ви можете отримати копію Ліцензії за адресою
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
-Якщо цього не вимагає чинне законодавство або не погоджено в письмовій
-формі, програмне забезпечення, що розповсюджується за цією Ліцензією,
-розповсюджується на умовах "ЯК Є", БЕЗ ГАРАНТІЙ ТА УМОВ БУДЬ-ЯКОГО ВИДУ,
-явних або неявних. Дивіться Ліцензію, щоб дізнатися про конкретні
-формулювання, що регулюють дозволи та обмеження за цією Ліцензією.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 Більшість бібліотек у наступних каталогах на [GitHub][github] створені
 іншими людьми та організаціями та ліцензовані різними способами:
