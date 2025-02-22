@@ -1,24 +1,20 @@
 ---
-description: "Olika sätt att stödja utvecklingen av vår kostnadsfria applikation"
-extra:
-  menu_title: "Stöd utvecklingen"
-  preview_image: contribute/contribute.jpg
-title: "Stöd Organic Maps utveckling"
+title: Stöd Organic Maps utveckling
+description: Olika sätt att stödja utvecklingen av vår kostnadsfria applikation
 weight: 20
+extra:
+  menu_title: Stöd utvecklingen
+  preview_image: contribute/contribute.jpg
 ---
 
-Organic Maps är en gratis app med öppen källkod. Den är fri från annonser,
-samlar inte in personlig information och utvecklas av ett fåtal entusiaster
-med hjälp av gemenskapen.
+Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
 Det finns olika sätt att stödja utvecklingen:
 
-- [Donera](@/donate/index.sv.md)! Varje krona räknas och hjälper oss att
-  betala för servrar och utöka verksamheten.
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - Rapportera fel och dela idéer på vår [GitHub][github] eller via
   [e-post][email].
-- Hjälp oss att [rätta fel][contributing] och göra kodgranskningar om du är
-  utvecklare. Varje åtgärdat litet problem gör någon gladare.
+- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Översätt][translations] saknade text-strängar i appens gränssnitt.
 - Översätt beskrivningarna i [App Store][translations_appstore] och [Gogle
   Play][translations_googleplay] till ditt språk.
@@ -30,13 +26,11 @@ Det finns olika sätt att stödja utvecklingen:
 - Stöd andra användare på [GitHub][issues], [Telegram][telegram_chat],
   [Matrix][matrix], [Twitter][twitter], [Facebook][facebook] och
   [Instagram][instagram].
-- Berätta för alla om Organic Maps. En större gemenskap är en starkare
-  gemenskap.
+- Tell everyone about Organic Maps. A bigger community is a stronger community.
 - Betygsätt oss i [Google Play][googleplay_review], [App
   Store][appstore_review] och [Huawei AppGallery][appgallery_review].
 - All hjälp är välkommen!
 
-Vårt lilla team är mycket tacksamt för din återkoppling och ditt
-stöd. Organic Maps skulle inte vara möjligt utan våra användare ❤️.
+Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
 {{ references() }}
