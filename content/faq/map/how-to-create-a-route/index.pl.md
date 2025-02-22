@@ -1,20 +1,20 @@
 ---
 title: Jak utworzyć trasę i rozpocząć nawigację
-description: ""
-updated: "2024-07-15"
-
+description: Guide for building a route and navigating using the map
+updated: 2024-07-15
 taxonomies:
-  faq: ["Mapa"]
-
+  faq:
+    - Mapa
 extra:
   order: 40
 ---
 
-Po określeniu lokalizacji na mapie, wybierz miejsce docelowe. Możesz użyć jeden z następujących sposobów:
+Po określeniu lokalizacji na mapie, wybierz miejsce docelowe.
+Możesz użyć jeden z następujących sposobów:
 
-* naciśnij przycisk wyszukiwania
-* naciśnij przycisk zakładek
-* naciśnij (przytrzymaj w pustych obszarach) dowolne miejsce na mapie
+- naciśnij przycisk wyszukiwania
+- naciśnij przycisk zakładek
+- naciśnij (przytrzymaj w pustych obszarach) dowolne miejsce na mapie
 
 Po wybraniu punktu docelowego naciśnij przycisk „Trasa do” na stronie miejsca. Trasa będzie utworzona i zobaczysz odległość i szacowany czas podróży. Możesz zmienić typ trasy używając ikon Samochodu, Pieszego, Metro, Rower lub Władca w górnej części ekranu. Aby zacząć śledzić trasę naciśnij przycisk „Start”. Naciśnij znak strzałki w prawym dolnym rogu ekranu i dotknij Zatrzymaj, aby zakończyć trasę.
 
@@ -22,4 +22,4 @@ Możesz wybrać inny punkt początkowy (przycisk Trasa od), aby wyświetlić pod
 
 Do trasy można dodać maksymalnie 100 punkty pośrednie. Aby dodać punkt pośredni: utwórz trasę między początkiem a miejscem docelowym → następnie dotknij punkt na mapie i przyciśnij "Dodaj postój”.
 
-Możesz zmienić ustawienia trasy samochodowej i wybrać typy dróg, których chcesz unikać (drogi platne, drogi gruntowe, przeprawy promowe, autostrady). Otwórz ustawienia aplikacji → Ustawienia nawigacji → Włącz wymagane opcje.
+Możesz zmienić ustawienia trasy samochodowej i wybrać typy dróg, których chcesz unikać (drogi platne, drogi gruntowe, przeprawy promowe, autostrady). Otwórz ustawienia aplikacji → Ustawienia nawigacji → Włącz wymagane opcje. Avoid options are also displayed when the route is built if changing any of the options may change the route.
