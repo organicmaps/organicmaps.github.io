@@ -1,23 +1,22 @@
 ---
-title: Haritada bazı yerler eksik veya yanlış adlara sahip
-description: ""
-updated: "2024-06-12"
-
+title: Some places are missing on the map or have wrong names
+description: Tips for correcting errors in maps, making changes and updates to objects directly in Organic Maps or through OpenStreetMap.org
+updated: 2024-06-20
 taxonomies:
-  faq: ["Harita düzenleme"]
-
+  faq:
+    - Map Editing
 extra:
   order: 30
 ---
 
-Harita veri kaynağımız [OpenStreetMap'tir](https://welcome.openstreetmap.org/) (OSM). OpenStreetMap, herkesin harita oluşturabildiği ve düzenleyebildiği Vikipedi'ye benzer bir haritalama projesidir.
+Our map data source is [OpenStreetMap](https://www.openstreetmap.org/) (OSM). This is a mapping project similar to Wikipedia, but for maps, where anybody can create and edit the map of the World.
 
-Haritada yanlış bir bilgi görürseniz ya da eksik bir nesne fark ederseniz, OSM editörleri için [bir not bırakabilir](https://www.openstreetmap.org/note/new) veya [kaydolup](https://www.openstreetmap.org/user/new) haritayı düzenleyebilirsiniz.
+If you see incorrect information, or if you find that some objects are missing on the map, you can [leave a note](https://www.openstreetmap.org/note/new) for OSM volunteers or [register](https://www.openstreetmap.org/user/new) and edit the map.
 
-Ne kadar çok insan katkıda bulunursa, o kadar ayrıntılı haritalar elde ederiz. Açık topluluk tarafından oluşturulan tüm dünyanın en ayrıntılı haritasının sadece bir zaman meselesi olduğuna inanıyoruz.
+The more people contribute, the more detailed maps everyone gets. We believe that the most detailed map of the whole world, created by the open community, is just a matter of time.
 
-**Notlar:**
+**Notes:**
 
-* Ayrıca doğrudan Organic Maps ile yeni yerler ekleyebilir, mevcut POI (İÇN) ve yapı bilgilerini (adresler, çalışma saatleri, isimler) düzenleyebilirsiniz. Bir seferlik OSM hesabınızla giriş yaptığınızda düzenlemeleriniz otomatik olarak OSM'ye yüklenecektir. Düzenlemeleriniz diğer tüm kullanıcılar tarafından görülebileceği için lütfen düzenleme yaparken dikkatli olun.
+- You can also add new places, edit existing POI and building info (addresses, opening hours, names) directly in Organic Maps. Once you log in with OSM account, your edits will be automatically uploaded to OSM. Please be careful when editing, as your edits will be visible to all other users.
 
-* OpenStreetMap veritabanı her dakika güncellenir. Ayda 1-4 kez uygulamadaki haritayı güncellemeyi hedefliyoruz. Eğer OSM'de herhangi bir değişiklik yaptıysanız, düzenlemeleriniz gelecekteki harita güncellemelerinde görünecektir.
+- The OpenStreetMap database is updated every minute. We aim to update maps in the app 1-4 times per month. If you modified something in OSM, your edits will appear in future maps updates.
