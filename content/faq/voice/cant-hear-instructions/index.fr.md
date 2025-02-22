@@ -1,11 +1,10 @@
 ---
 title: Je n'arrive pas à entendre les instructions vocales
-description: ""
-updated: "2024-07-15"
-
+description: Troubleshooting guide for voice instructions in navigation
+updated: 2024-07-15
 taxonomies:
-  faq: ["Instructions vocales"]
-
+  faq:
+    - Instructions vocales
 extra:
   order: 20
 ---
@@ -14,8 +13,14 @@ extra:
 
 Si vous ne pouvez pas entendre les instructions vocales :</p>
 
-* Assurez-vous que le volume de votre appareil n'est pas coupé. Vous pouvez changer le niveau de volume avec les boutons de volume de votre appareil. Pour ce faire, vous devrez peut-être désactiver l'option "Utiliser avec les boutons" (si elle est activée) dans les paramètres du périphérique → Sons.
+- Assurez-vous que le volume de votre appareil n'est pas coupé. Vous pouvez changer le niveau de volume avec les boutons de volume de votre appareil. Pour ce faire, vous devrez peut-être désactiver l'option "Utiliser avec les boutons" (si elle est activée) dans les paramètres du périphérique → Sons.
 
-* Lorsque vous activez Bluetooth, il ne doit pas refléter les instructions vocales. Cependant, nous n'avons pas testé le guidage vocal avec le système audio de la voiture, il peut causer des problèmes. Dans ce cas, vous pouvez désactiver le Bluetooth.
+- Please report any Bluetooth issues with necessary details on our [GitHub](https://github.com/organicmaps/organicmaps/issues)
 
-* Si vous êtes un utilisateur Android et que l'option est désactivée (ou une partie des langues prises en charge est indisponible), veuillez vérifier le système Paramètres TTS.
+- Si vous êtes un utilisateur Android et que l'option est désactivée (ou une partie des langues prises en charge est indisponible), veuillez vérifier le système Paramètres TTS.
+
+On Android voice instructions are available in 39 languages: English, Arabic, Basque, Belarusian, Catalan, Chinese (Simplified and Traditional), Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Persian (Farsi), Polish, Portuguese, Portuguese (Brasil), Romanian, Russian, Serbian, Slovak, Spanish, Spanish (Mexico), Swahili, Swedish, Thai, Turkish, Ukrainian, Vietnamese.
+
+Google TTS supports all listed languages except of Arabic and Persian (Farsi). For these languages you may need to install third party TTS (for example, eSpeak TTS, Vocalizer TTS or SVOX Classic TTS) and a language pack from app store (Google Play Store, Galaxy Store, etc).
+
+On iOS voice instructions are available in 26 languages: English, Arabic, Chinese (Traditional and Simplified), Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish.
