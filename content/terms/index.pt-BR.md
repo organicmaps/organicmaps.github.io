@@ -1,9 +1,9 @@
 ---
-description: "Termos de uso para o app Organic Maps"
-extra:
-  menu_title: "Termos de Uso"
 title: "Organic Maps: termos"
+description: Termos de uso para o app Organic Maps
 weight: 1000
+extra:
+  menu_title: Termos de Uso
 ---
 
 Este app é licenciado sob a Licença Apache, Versão 2.0 (a "Licença"); você
