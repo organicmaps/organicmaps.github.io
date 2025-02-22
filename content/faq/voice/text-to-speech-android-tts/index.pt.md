@@ -5,7 +5,7 @@ aliases:
   - /faq/text-to-speech-android-tts
 taxonomies:
   faq:
-    - Voice Directions
+    - Instruções de voz
 extra:
   order: 10
 ---
