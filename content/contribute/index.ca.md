@@ -1,25 +1,20 @@
 ---
-description: "Diferents maneres de donar suport al desenvolupament de la nostra aplicació lliure"
-extra:
-  menu_title: "Doneu suport"
-  preview_image: contribute/contribute.jpg
-title: "Doneu suport al desenvolupament de l'Organic Maps"
+title: Doneu suport al desenvolupament de l'Organic Maps
+description: Diferents maneres de donar suport al desenvolupament de la nostra aplicació lliure
 weight: 20
+extra:
+  menu_title: Doneu suport
+  preview_image: contribute/contribute.jpg
 ---
 
-L'Organic Maps és una aplicació oberta i gratuïta, lliure d'anuncis que no
-recopila cap dada personal i és desenvolupada per uns quants entusiastes amb
-l'ajuda de la comunitat.
+Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
 Hi ha diferents formes d'ajudar al desenvolupament:
 
-- [Doneu](@/donate/index.ca.md)! Qualsevol quantitat compta i ens ajuda a
-  pagar els servidors i ampliar serveis.
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - Informeu d'errors i compartiu idees al nostre [GitHub][github] o
   mitjançant el [correu-e][email].
-- Ajudeu-nos a [corregir errors][contributing] i fer revisions de codi si en
-  sabeu programar. Cada petit problema solucionat farà més feliç a alguna
-  persona.
+- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Traduïu][translations] i milloreu les cadenes de la interfície de
   l'aplicació.
 - Traduïu les descripcions de l'[AppStore][translations_appstore] i
@@ -33,12 +28,11 @@ Hi ha diferents formes d'ajudar al desenvolupament:
 - Doneu un cop de mà a altres usuaris al [GitHub][issues],
   [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], i [Instagram][instagram].
-- Difoneu l'Organic Maps. Una comunitat més gran és una comunitat més forta.
+- Tell everyone about Organic Maps. A bigger community is a stronger community.
 - Puntueu-nos al [Google Play][googleplay_review],
   l'[AppStore][appstore_review], [Huawei Appgallery][appgallery_review].
 - Tota ajuda és benvinguda!
 
-El nostre petit equip estarà molt agraït pels vostres comentaris i
-suport. L'Organic Maps no seria possible sense els seus usuaris ❤️.
+Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
 {{ references() }}
