@@ -1,9 +1,9 @@
 ---
-description: "Nutzungsbedingungen für die Organic Maps Anwendung"
+title: "Organic Maps: Nutzungsbedingungen"
+description: Nutzungsbedingungen für die Organic Maps Anwendung
+weight: 1000
 extra:
   menu_title: Nutzungsbedingungen
-title: "Organic Maps: Nutzungsbedingungen"
-weight: 1000
 ---
 
 Diese App ist unter der Apache License, Version 2.0 (die "Lizenz")
