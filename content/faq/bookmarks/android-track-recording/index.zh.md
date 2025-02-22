@@ -1,21 +1,21 @@
 ---
-title: Why tracks are not recorded reliably in background on Android?
-description: Default battery optimization settings on Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC and other devices may stop or kill Organic Maps app in the background.
+title: 为什么在 Android 上无法可靠地在后台录制音轨？
+description: 三星、华为、谷歌、小米、OnePlus、美图、华硕、Wiko、联想、Oppo、Vivo、Realme、索尼、摩托罗拉、HTC 和其他设备上的默认电池优化设置可能会在后台停止或杀死有机地图应用程序。
 updated: 2024-10-05
 taxonomies:
   faq:
-    - Bookmarks and tracks
+    - 书签和轨迹
 extra:
   order: 30
 ---
 
-Default battery optimization settings on Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC and other devices may stop or kill Organic Maps app in the background.
+三星、华为、谷歌、小米、OnePlus、美图、华硕、Wiko、联想、Oppo、Vivo、Realme、索尼、摩托罗拉、HTC 和其他设备上的默认电池优化设置可能会在后台停止或杀死有机地图应用程序。
 
-This is especially true for modern Android versions:
+现代安卓版本尤其如此：
 
-- Android 14
-- Android 13
-- Android 12
-- Android 11
+- 安卓 14
+- 安卓 13
+- 安卓 12
+- 安卓 11
 
-The exact steps on how to make Organic Maps (and other apps) work in the background are listed here: [dontkillmyapp.com](https://dontkillmyapp.com)
+如何让有机地图（和其他应用程序）在后台工作的具体步骤在此列出：[dontkillmyapp.com](https://dontkillmyapp.com)
