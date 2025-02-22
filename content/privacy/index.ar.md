@@ -1,9 +1,9 @@
 ---
-description: "لا تتبع ولا إعلانات ولا جمع بيانات ولا جمع إحصائيات ولا برامج تجسس"
+title: "Organic Maps: سياسة الخصوصية"
+description: لا تتبع ولا إعلانات ولا جمع بيانات ولا جمع إحصائيات ولا برامج تجسس
+weight: 900
 extra:
   menu_title: الخصوصية
-title: "Organic Maps: سياسة الخصوصية"
-weight: 900
 ---
 
 Organic Maps يحترم خصوصيتك ولا يتتبعك.
