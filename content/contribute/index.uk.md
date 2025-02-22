@@ -1,24 +1,20 @@
 ---
-description: "Різні способи підтримки розробки нашого безплатного застосунку"
-extra:
-  menu_title: "Підтримати нас"
-  preview_image: contribute/contribute.jpg
-title: "Підтримайте розвиток Organic Maps"
+title: Підтримайте розвиток Organic Maps
+description: Різні способи підтримки розробки нашого безплатного застосунку
 weight: 20
+extra:
+  menu_title: Підтримати нас
+  preview_image: contribute/contribute.jpg
 ---
 
-Organic Maps - це безкоштовний застосунок з відкритим початковим кодом. Він
-не містить реклами, не збирає вашу особисту інформацію і розробляється
-кількома ентузіастами за допомогою спільноти.
+Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
 Існують різні способи підтримати розвиток:
 
-- [Пожертвуйте](@/donate/index.uk.md)! Кожен долар чи євро має значення і
-  допомагає нам платити за сервери та масштабування.
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - Повідомляйте про помилки та діліться ідеями на нашому [GitHub][github] або
   через [email][email].
-- Допомагайте нам [виправляти помилки][contributing] та перевіряти код, якщо
-  ви розробник. Кожна виправлена помилка зробить когось щасливішим.
+- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Перекладайте][translations] пропущені строки в інтерфейсі застосунка.
 - Перекладайте [App Store][translations_appstore] та
   [Android][translations_googleplay] опис на свою мову.
@@ -31,12 +27,11 @@ Organic Maps - це безкоштовний застосунок з відкр�
 - Підтримуйте інших користувачів на [GitHub][issues],
   [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
-- Розкажіть усім про Organic Maps. Більша спільнота – сильніша спільнота.
+- Tell everyone about Organic Maps. A bigger community is a stronger community.
 - Оцініть нас у [Google Play][googleplay_review], [Apple
   Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Будь-яка допомога вітається!
 
-Наша невелика команда дуже вдячна за ваші відгуки та підтримку. Ми не змогли
-б розвивати Organic Maps без наших користувачів ❤️.
+Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
 {{ references() }}
