@@ -1,9 +1,9 @@
 ---
-description: "Organic Maps aplikazioaren erabilera baldintzak"
-extra:
-  menu_title: "Erabilera baldintzak"
 title: "Organic Maps: baldintzak"
+description: Organic Maps aplikazioaren erabilera baldintzak
 weight: 1000
+extra:
+  menu_title: Erabilera baldintzak
 ---
 
 App hau Apache License, Version 2.0 (the "License") lizentziapean dago;
@@ -12,10 +12,7 @@ Lizentzia honekin bat eginez bakarrik erabili dezakezu app-a.
 Lizentziaren kopia bat lor dezakezu hemen:
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
-Ez badu dagokion lege batek eskatzen edo idatziz adosten, lizentzia honen
-pean banatutako softwarea "DAGOEN MODUAN EMATEN DA, INOLAKO GARANTIA EDO
-BALDINTZARIK GABE", dela adierazitakoak edo barne ulertutakoak. Irakurri
-lizentzia dagokion baimen edo muga berezietaz gehiago jakiteko.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 Ondoko karpetetan dauden liburutegi gehienak ([GitHub][github]) beste
 pertsona eta erakunde batzuek egindakoak eta lizentziatukoak dira, hainbat
