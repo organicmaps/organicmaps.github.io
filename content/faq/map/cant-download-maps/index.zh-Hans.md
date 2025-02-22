@@ -1,17 +1,14 @@
 ---
 title: 我无法下载（或更新）地图
-description: ""
-updated: "2024-06-12"
-
+description: What to do if Organic Maps fails to download or update maps from Internet?
+updated: 2024-06-12
 taxonomies:
-  faq: ["地图"]
-
+  faq:
+    - 地图
 extra:
   order: 30
 ---
 
-您的下载可能因为临时网络错误或特定网络提供商 / 路由器设置而失败。 请稍后重试或使用其它 Wi-Fi 网络。此外，请确保您有足够的存储空间来下载地图。
-
-在安卓设备上，请确保您已经为 Organic Maps 和系统下载管理器授予了网络访问权限。
+Your download can fail due to a temporary network error or specific network provider/router settings (firewall blocking). Please try again later or use a different Wi-Fi access point. In addition, make sure that you have enough free space to download maps.
 
 另外，如果您的地图非常过时且应用程序无法更新它们，删除过时的地图并重新下载可能会有帮助。
