@@ -1,9 +1,9 @@
 ---
+title: Organic Maps：隐私政策
 description: 无跟踪、无广告、无数据收集、无统计收集、无间谍软件
+weight: 900
 extra:
   menu_title: 隐私
-title: "Organic Maps：隐私政策"
-weight: 900
 ---
 
 Organic Maps尊重您的隐私，拒绝跟踪。
