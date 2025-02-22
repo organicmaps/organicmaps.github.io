@@ -1,11 +1,10 @@
 ---
 title: Ich kann keine Karten herunterladen (oder aktualisieren)
-description: ""
-updated: "2024-06-12"
-
+description: What to do if Organic Maps fails to download or update maps from Internet?
+updated: 2024-06-12
 taxonomies:
-  faq: ["Karte"]
-
+  faq:
+    - Karte
 extra:
   order: 30
 ---
