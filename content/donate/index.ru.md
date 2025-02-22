@@ -1,74 +1,75 @@
 ---
 title: Пожертвовать и поддержать Organic Maps деньгами
-description: Помогите проекту финансово
+description: Мы развиваем Organic Maps за идею, в своё свободное время, и тратим на проект наши семейные деньги.
 weight: 10
 extra:
-  menu_title: Поддержать деньгами
+  menu_title: Donate
   preview_image: donate/donate.png
 ---
 
 Благодаря вашим **[пожертвованиям][stripe]** в **[RUB][stripe_rub]**, **[EUR][stripe_eur]**, **[USD][stripe_usd]**, **[GBP][stripe_GBP]**, **[CHF][stripe_chf]**, **Organic Maps**:
 
-- Бесплатны для всех;
 - Без рекламы;
 - Без трекеров;
-- Без прочего мусора.
+- No registration
+- No push notifications
+- Open source
+
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
 ## Зачем поддерживать Organic Maps деньгами?
 
-1. Мы хотим, чтобы Organic Maps были открыты и бесплатны для всех, без рекламы.
-2. Мы развиваем Organic Maps за идею, в своё свободное время, и тратим на проект наши семейные деньги.
-   Мы любим то, что мы делаем, ценим и уважаем наших пользователей ❤️.
-3. С вашей поддержкой мы сделаем Organic Maps лучше, чем Google Maps.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. Мы хотим, чтобы Organic Maps были открыты и бесплатны для всех, без рекламы.
+   And free from ads.
+4. Мы любим то, что мы делаем, ценим и уважаем наших пользователей ❤️.
 
-## На что пойдут деньги?
+## Why a free project needs money?
 
-1. Мы платим за быстрые серверы, чтобы любой человек в мире мог загружать бесплатные обновления картографических данных без задержек.
-   Это сотни терабайт ежемесячно, и объемы постоянно растут.
+1. In 2023, Organic Maps got its first million users.
+   Мы платим за быстрые серверы, чтобы любой человек в мире мог загружать бесплатные обновления картографических данных без задержек.
 2. Поддержка пользователей, исправление ошибок и повышение стабильности приложения — в числе наших наивысших приоритетов.
    Сейчас на GitHub более [1800 сообщений об ошибках и улучшениях][github issues], и это число растет с каждым днем.
    AppStore, Google Play и наша электронная почта так же переполнены комментариями. Мы хотим поддерживать качество и скорость работы на высоком уровне.
-3. При наличии достаточного количества денег можно будет быстрее разрабатывать новые функции, например:
-   - Еженедельное и автоматическое обновление картографических данных
+3. При наличии достаточного количества денег можно будет быстрее разрабатывать новые функции, например: To name a few:
    - Резервное копирование и синхронизация меток
    - Запись GPS-треков с поддержкой GPX
+   - Satellite imagery
+   - Общественный транспорт
+   - Traffic and accident reporting
+   - Photos and Reviews
    - Улучшенные стили карт для различных видов туризма и путешествий
-   - Трёхмерный рельеф
+   - Hill shading and 3D terrain
    - Расширенный редактор OpenStreetMap
    - Улучшенние поиска адресов, маршрутизации и навигации
-   - Общественный транспорт
    - … и [многие другие][github issues] функции, которые вы хотите и любите.
 
-Organic Maps существует исключительно благодаря вашей финансовой поддержке.
+## How to donate?
 
-Все полученные деньги за вычетом комиссии платежных систем отправляются на поддержку и дальнейшее развитие приложения.
-
-Реквизиты для [банковского перевода](/donate#bank-transfer).
+Click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
-### Крипто
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. One-time donations
+are appreciated too.
+
+### Bank Transfer
+
+Реквизиты для [банковского перевода](/donate#bank-transfer).
+
+### Crypto
+
+Please consider donating annually to reduce total fees.
 
 {{ crypto_table() }}
 
 ## Как еще помочь?
 
-- Присоединяйтесь к [русскоязычной группе в Telegram][telegram_chat_ru] для обратной связи и помощи;
-- Подключайтесь к программе тестирования бета-версий:
-  - [iOS Beta (TestFlight)][testflight]
-  - [Android Beta (Firebase)][firebase]
-  - [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
-  - [Linux Desktop Beta (packages)](https://repology.org/project/organicmaps/versions)
-- Сообщайте о проблемах и предлагайте новые идеи [на GitHub][issues] или [по почте][email];
-- Нарисуйте свой дом и район вокруг в [OpenStreetMap](https://openstreetmap.org);
-- Помогите с [переводом](https://github.com/organicmaps/organicmaps/blob/master/docs/TRANSLATIONS.md) приложения и веб-сайта на другие языки;
-- Поучаствуйте в [разработке][contributing] приложения под Android и iOS;
-- Помогите нам с маркетингом, поддержкой пользователей, дизайном;
-- Подпишитесь на нас в [Facebook][facebook], [Twitter][twitter] и [Instagram][instagram];
-- Расскажите своим друзьям и знакомым.
-
-[stripe_rub]: https://donate.organicmaps.app/?currency=rub "Поддержать проект рублями"
+Yes! Organic Maps существует исключительно благодаря вашей финансовой поддержке. Please see
+[Contribute](@/contribute/index.md) page for more details.
 
 {{ references() }}
