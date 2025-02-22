@@ -1,9 +1,9 @@
 ---
-description: "Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik"
+title: "Organic Maps: Pribatutasun politika"
+description: Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik
+weight: 900
 extra:
   menu_title: Pribatutasuna
-title: "Organic Maps: Pribatutasun politika"
-weight: 900
 ---
 
 Organic Maps-ek zure pribatutasuna errespetatzen du eta EZ DIZU JARRAIPENIK
