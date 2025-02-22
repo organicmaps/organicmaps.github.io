@@ -1,10 +1,10 @@
 ---
-description: "طرق مختلفة لدعم تطوير تطبيقنا المجاني"
-extra:
-  menu_title: "ساهم في التطوير"
-  preview_image: contribute/contribute.jpg
-title: "دعم تطوير Organic Maps"
+title: دعم تطوير Organic Maps
+description: طرق مختلفة لدعم تطوير تطبيقنا المجاني
 weight: 20
+extra:
+  menu_title: ساهم في التطوير
+  preview_image: contribute/contribute.jpg
 ---
 
 Organic Maps هو تطبيق مجاني مفتوح المصدر. إنه خالٍ من الإعلانات، ولا يجمع
