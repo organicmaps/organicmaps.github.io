@@ -1,23 +1,22 @@
 ---
 title: Деякі місця відсутні на карті або мають неправильні назви
-description: ""
-updated: "2024-06-12"
-
+description: Tips for correcting errors in maps, making changes and updates to objects directly in Organic Maps or through OpenStreetMap.org
+updated: 2024-06-12
 taxonomies:
-  faq: ["Редагування"]
-
+  faq:
+    - Редагування
 extra:
   order: 30
 ---
 
-Джерелом наших картографічних даних є [OpenStreetMap](https://welcome.openstreetmap.org/) (OSM). Це картографічний проект, подібний до Вікіпедії, але для мап, де будь-хто може створювати та редагувати мапи.
+Our map data source is [OpenStreetMap](https://www.openstreetmap.org/) (OSM). This is a mapping project similar to Wikipedia, but for maps, where anybody can create and edit the map of the World.
 
 Якщо ви побачили невірну інформацію або виявили, що деякі об'єкти відсутні на карті, ви можете [залишити повідомлення](https://www.openstreetmap.org/note/new) для редакторів OSM або [реєструватися](https://www.openstreetmap.org/user/new) і редагувати мапу.
 
-Чим більше людей долучається, тим детальніші стають карти. Ми віримо, що найдетальніша карта всього світу, створена відкритою спільнотою - це лише питання часу.
+The more people contribute, the more detailed maps everyone gets. We believe that the most detailed map of the whole world, created by the open community, is just a matter of time.
 
 **Примітки:**
 
-* Ви також можете додавати нові місця, редагувати існуючі POI та інформацію про будівлі (адреси, години роботи, назви) безпосередньо в Organic Maps. Після того, як ви ввійдете за допомогою облікового запису OSM, ваші правки будуть автоматично завантажені на OSM. Будь ласка, будьте обережні при редагуванні, оскільки ваші правки будуть видимі всім іншим користувачам.
+- You can also add new places, edit existing POI and building info (addresses, opening hours, names) directly in Organic Maps. Once you log in with OSM account, your edits will be automatically uploaded to OSM. Please be careful when editing, as your edits will be visible to all other users.
 
-* База даних OpenStreetMap змінюється щохвилини. Ми прагнемо оновлювати карти в додатку 1-4 рази на місяць. Якщо ви змінили щось в OSM, ваші правки з'являться в наступних оновленнях мап.
+- The OpenStreetMap database is updated every minute. We aim to update maps in the app 1-4 times per month. If you modified something in OSM, your edits will appear in future maps updates.
