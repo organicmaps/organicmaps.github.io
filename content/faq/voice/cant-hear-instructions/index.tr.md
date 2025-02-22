@@ -1,27 +1,26 @@
 ---
-title: Sesli yönergeleri duyamıyorum
-description: ""
-updated: "2024-07-15"
-
+title: I can't hear voice instructions
+description: Troubleshooting guide for voice instructions in navigation
+updated: 2024-07-22
 taxonomies:
-  faq: ["Sesli Yönlendirme"]
-
+  faq:
+    - Voice Directions
 extra:
   order: 20
 ---
 
-**Not:** Araba ve bisiklet yolları için sesli yönlendirme mevcuttur. Şimdilik sesli yönlendirmeyi yalnızca sürüş sırasında ve ekran açıkken duyabilirsiniz.
+**Note:** voice instruction are available for car and cycling routes. For now, you can hear voice instructions only while driving and when the screen is on.
 
-Sesli yönlendirmeyi duyamıyorsanız:
+If you can't hear voice instructions:
 
-* Lütfen cihazınızın sesinin kapalı olmadığından emin olun. Cihazınızın ses düğmeleri ile ses seviyesini değiştirebilirsiniz. Bunu yapmak için, cihaz ayarları → Sesler'de "Düğmelerle Değiştir" seçeneğini (etkinleştirilmişse) devre dışı bırakmanız gerekebilir.
+- Please make sure that your device's volume is not muted. You can change the volume level with your device's volume buttons. To do that, you may need to disable "Change with Buttons" option (if enabled) in the device settings → Sounds.
 
-* Bluetooth'u açtığınızda, sesli yönlendirmeyi aktarmamalıdır. Ancak sesli yönlendirmeyi araç sesiyle test etmedik, bazı sorunlar olabilir. Bu durumda Bluetooth'u kapatabilirsiniz.
+- Please report any Bluetooth issues with necessary details on our [GitHub](https://github.com/organicmaps/organicmaps/issues)
 
-* Android kullanıcısıysanız ve sesli yönlendirme seçeneği devre dışıysa (veya desteklenen dillerden bazıları kullanılamıyorsa), lütfen sistem TTS ayarlarını kontrol edin.
+- If you are an Android user and the option is disabled (or some of the supported languages are unavailable), please check [TTS settings](@/faq/voice/text-to-speech-android-tts/index.md).
 
-Android'de sesli yönlendirme 27 dilde mevcuttur: Türkçe, Almanca, Arapça, Çekçe, Çince (Geleneksel ve Basitleştirilmiş), Danca, Endonezyaca, Farsça, Felemenkçe, Fince, Fransızca, Hintçe, İngilizce, İspanyolca, İtalyanca, Japonca, Korece, Lehçe, Macarca, Portekizce, Rumence, Rusça, Tayca, Ukraynaca, Vietnamca, Yunanca.
+On Android voice instructions are available in 39 languages: English, Arabic, Basque, Belarusian, Catalan, Chinese (Simplified and Traditional), Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Persian (Farsi), Polish, Portuguese, Portuguese (Brasil), Romanian, Russian, Serbian, Slovak, Spanish, Spanish (Mexico), Swahili, Swedish, Thai, Turkish, Ukrainian, Vietnamese.
 
-Google TTS, Arapça ve Farsça dışında listelenen tüm dilleri destekler. Bu diller için üçüncü taraf TTS (örneğin, eSpeak TTS, Vocalizer TTS veya SVOX Classic TTS) ve uygulama mağazasından (Google Play Store, Galaxy Store, vb.) bir dil paketi yüklemeniz gerekebilir.
+Google TTS supports all listed languages except of Arabic and Persian (Farsi). For these languages you may need to install third party TTS (for example, eSpeak TTS, Vocalizer TTS or SVOX Classic TTS) and a language pack from app store (Google Play Store, Galaxy Store, etc).
 
-iOS'te sesli yönlendirme 26 dilde mevcuttur: Türkçe, Almanca, Arapça, Çince (Geleneksel ve Basitleştirilmiş), Çekçe, Danca, Endonezyaca, Felemenkçe, Fince, Fransızca, Hintçe, İngilizce, İspanyolca, İsveççe, İtalyanca, Japonca, Korece, Lehçe, Macarca, Portekizce, Rumence, Rusça, Slovakça, Tayca, Yunanca.
+On iOS voice instructions are available in 26 languages: English, Arabic, Chinese (Traditional and Simplified), Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish.
