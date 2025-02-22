@@ -1,13 +1,14 @@
 ---
-title: Yer imleri nasıl paylaşılır/dışa aktarılır?
-description: ""
-updated: "2024-06-12"
-
+title: How to share (export) bookmarks and tracks?
+description: Step-by-step guide for exporting bookmarks and tracks from Organic Maps to other applications and sharing with  contacts
+updated: 2024-06-20
 taxonomies:
-  faq: ["Yer İmleri ve Kayıtlar"]
-
+  faq:
+    - Bookmarks and tracks
 extra:
   order: 10
 ---
 
-Haritada bir yer imi seçin, ona dokunun ve ardından yer bilgileri sayfasındaki "Paylaş" düğmesine dokunun. Bir listedeki tüm yer imlerini bir kerede paylaşmak için, ana ekranda yıldız simgesine dokunun, yer imlerinin bulunduğu listenin adının önündeki üç noktaya dokunun ve açılır pencereden Dosyayı Dışa Aktar'a dokunun.
+Tap a bookmark on the map or in the list, and then tap the "Share" button on the place page.
+
+To share all bookmarks and tracks in a list from the Bookmarks and Tracks page, tap the icon with three dots to the right of the name of the list and select "Export KMZ" or "Export GPX".
