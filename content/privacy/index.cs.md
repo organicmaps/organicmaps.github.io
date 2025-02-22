@@ -1,9 +1,9 @@
 ---
-description: "Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware"
+title: "Organic Maps: Zásady ochrany osobních údajů"
+description: Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware
+weight: 900
 extra:
   menu_title: Soukromí
-title: "Organic Maps: Zásady ochrany osobních údajů"
-weight: 900
 ---
 
 Organic Maps respektuje vaše soukromí a NESLEDUJE VÁS.
