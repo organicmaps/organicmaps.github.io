@@ -1,9 +1,9 @@
 ---
-description: "Termos de utilização da aplicação Organic Maps"
-extra:
-  menu_title: "Termos de utilização"
 title: "Organic Maps: termos de utilização"
+description: Termos de utilização da aplicação Organic Maps
 weight: 1000
+extra:
+  menu_title: Termos de utilização
 ---
 
 Esta aplicação está licenciada ao abrigo da Licença Apache, Versão 2.0 (a
@@ -23,7 +23,7 @@ A maioria das bibliotecas nos seguintes diretórios no [GitHub][github] foram
 criadas por outras pessoas e organizações e licenciadas de diferentes
 formas:
 
-- Recursos de terceiros
+- 3party
 - ferramentas
 
 Consulte os respetivos ficheiros LICENSE, COPYING ou NOTICE para obter
