@@ -1,9 +1,9 @@
 ---
-description: "Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware"
+title: "Organic Maps: pricavyovereenkomst"
+description: Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware
+weight: 900
 extra:
   menu_title: Privacy
-title: "Organic Maps: pricavyovereenkomst"
-weight: 900
 ---
 
 Organic Maps respecteert uw privacy en TRACKT U NIET.
