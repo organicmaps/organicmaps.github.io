@@ -1,17 +1,16 @@
 ---
-title: Arama, haritada bir yer bulamıyor
-description: ""
-updated: "2024-06-12"
-
+title: Search cannot find a place on the map
+description: Guide for improving search results and solving problems with finding objects on the map
+updated: 2024-06-20
 taxonomies:
-  faq: ["Harita"]
-
+  faq:
+    - Map
 extra:
   order: 20
 ---
 
-Belirli bir bölgedeki bir yeri aramak için, ilgili yerin haritasını indirmeniz ve o bölgeye haritayı yakınlaştırmanız veya aramaya başlamadan önce bulunduğunuz yerin o bölgeye yakın olması gerektiğini unutmayın. Örneğin, Vietnam'da bir yer bulmak istiyorsanız ve konumunuz başka bir yerdeyse, önce Vietnam haritasını indirip açmalısınız.
+Remember that to search for a place in a specific area, you will need to download a relevant map and zoom in the map to that area, or your location should be near that area before you begin the search. For example, if you want to find a place in Vietnam and your location is somewhere else, you should download and open the map of Vietnam first, or explicitly mention the country (Vietnam) or desired city/town/village name in the search field.
 
-Ayrıca, aradığınız yer henüz bizim harita veri kaynağımız olan [OpenStreetMap.org](https://www.openstreetmap.org/)'da haritaya eklenmemiş olabilir. Yardım etmek ve haritayı geliştirmek istiyorsanız, [bu kılavuza](https://wiki.openstreetmap.org/wiki/Contribute_map_data) göz atın.
+In addition, the place may not have been added to the map yet at [OpenStreetMap.org](https://www.openstreetmap.org/). If you want to help and improve the map, check [this guide](https://wiki.openstreetmap.org/wiki/Contribute_map_data) and add missing map information yourself.
 
-Yer, Organic Maps'te haritada görüntüleniyorsa ama arama sistemimiz onu bulamıyorsa, yerin koordinatlarını ve aramanızın bir örneğini [bize bildirin](mailto:support@organicmaps.app).
+If the place is displayed on the map in Organic Maps, but our search cannot find it, [report us](mailto:support@organicmaps.app) coordinates of the place and an example of your search request.
