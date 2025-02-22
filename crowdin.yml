@@ -1,0 +1,5 @@
+files:
+  - source: content/_index.md
+    translation: content/_index%language%.md
+  - source: content/donate/index.md
+    translation: content/donate/index.%two_letters_code%.md
