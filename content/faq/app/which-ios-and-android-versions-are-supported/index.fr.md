@@ -1,7 +1,7 @@
 ---
 title: Quelles sont les versions d'iOS et d'Android prises en charge ?
 description: Configuration minimale requise pour utiliser Organic Maps sur les appareils Android et iOS
-updated: 2024-06-20
+updated: 2024-06-12
 taxonomies:
   faq:
     - Application
