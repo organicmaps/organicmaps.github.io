@@ -1,17 +1,18 @@
 ---
+title: Organic Maps：离线的远足、自行车、登山和导航地图
 description: 由 MapsWithMe（Maps.Me）应用程序的创始人为旅行者、游客、司机、徒步旅行者和骑行者创造的详细且快速的离线地图。
-extra:
-  menu_title: 主页
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps：离线的远足、自行车、登山和导航地图'
+extra:
+  menu_title: 主页
 ---
 
-**Organic Maps** 是一个免费的安卓和 iOS 平台的离线地图应用程序，为旅行者、游客、徒步旅行者和骑行者提供基于 [**OpenStreetMap**][openstreetmap] 的社区地图数据。这是一个注重隐私的开源 **Maps.me** 应用程序的[分支][fork]（之前叫 [**MapsWithMe**][mapswithme]），由 2011 年创造 **MapsWithMe** 的同一人进行维护。
+**Organic Maps** 是一个免费的安卓和 iOS 平台的离线地图应用程序，为旅行者、游客、徒步旅行者和骑行者提供基于 \[**OpenStreetMap**]\[openstreetmap] 的社区地图数据。这是一个注重隐私的开源 **Maps.me** 应用程序的[分支][fork]（之前叫 \[**MapsWithMe**]\[mapswithme]），由 2011 年创造 **MapsWithMe** 的同一人进行维护。
+It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as \[**MapsWithMe**]\[mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.
 
-**Organic Maps** 是现在为数不多的几款无需网络连接就能支持 100% 功能的应用程序之一。安装 Organic Maps，下载地图，扔掉您的 SIM 卡，充满电然后去旅行一周，不需要向网络发送哪怕一个字节。
+**Organic Maps** 是现在为数不多的几款无需网络连接就能支持 100% 功能的应用程序之一。安装 Organic Maps，下载地图，扔掉您的 SIM 卡，充满电然后去旅行一周，不需要向网络发送哪怕一个字节。 Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.
 
-> 在 2023 年，Organic Maps [迎来了首个百万用户](@/news/2023-12-23/281/index.md)。[帮助我们](@/donate/index.zh-Hans.md)扩展规模！
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
 ### 从 [AppStore][appstore]、[Google Play][googleplay]、[F-Droid][fdroid] 或[华为应用市场][appgallery]下载并安装 Organic Maps {#install}
 
@@ -52,7 +53,7 @@ Organic Maps 应用没有追踪器和其它糟糕的东西：
 - 没有广告
 - 没有跟踪器
 - 不收集任何数据
-- 不会向软件开发者回传数据
+- No phoning home
 - 不会强制要求您注册
 - 没有强制性的教程
 - 没有烦人的垃圾邮件
@@ -84,25 +85,64 @@ Organic Maps 无需过多权限：
 
 ## 谁在为这个免费的应用程序支付费用？
 
-这个应用程序对所有人都是免费的。请[捐款](@/donate/index.md)来支持我们！
+这个应用程序对所有人都是免费的。请[捐款](@/donate/index.md)来支持我们！ Please [donate](@/donate/index.md) to support us!
 
 要方便地捐款，请点击下面您首选的支付方式图标：
 
 {{ donate_buttons() }}
 
-### 友情赞助商：
+Beloved institutional sponsors below have provided targeted grants to cover some infrastructure costs and fund development of new selected features:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [为我们提供][mythic_beasts_donation]了两台虚拟服务器，每月 400 TB 的免费带宽，来帮助我们的用户下载和更新地图。
+<table style="border-spacing: 20px">
+  <tbody><tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>[Mythic Beasts](https://www.mythic-beasts.com/) ISP [为我们提供][mythic_beasts_donation]了两台虚拟服务器，每月 400 TB 的免费带宽，来帮助我们的用户下载和更新地图。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</tbody></table>
 
 ## 社区
 
 Organic Maps 是一个[开源软件][github]，遵循 Apache License 2.0 许可证。
 
 - 我们邀请您加入测试计划，提出功能建议并报告问题：
-  * [iOS 测试版（TestFlight）][testflight]
-  * [Android 测试版（Firebase）][firebase]
-  * [Linux 桌面测试版（Flatpak）][flatpak]
-  * [Linux 桌面测试版（软件包）][repology]
+  - [iOS 测试版（TestFlight）][testflight]
+  - [Android 测试版（Firebase）][firebase]
+  - [Linux 桌面测试版（Flatpak）][flatpak]
+  - [Linux 桌面测试版（软件包）][repology]
 - 报告错误或问题至[问题追踪器][issues]或[发邮件来联系我们][email]。
 - [讨论][ideas]观点或提出功能请求。
 - 订阅我们的 [Telegram 频道][telegram]或 [Matrix 空间][matrix]以获取更新。
@@ -111,6 +151,6 @@ Organic Maps 是一个[开源软件][github]，遵循 Apache License 2.0 许可�
 - 在 [FOSStodon][fosstodon]、[Mastodon][mastodon]、[Facebook][facebook]、[Twitter][twitter]、[Instagram][instagram]、[Reddit][reddit]、[LinkedIn][LinkedIn] 上关注我们的更新。
 - 加入群聊（或创建并告知我们），本地社区：[匈牙利 Matrix 讨论区](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)和[中文][telegram_chat_zh]、[法语][telegram_chat_fr]、[俄语][telegram_chat_ru]、[土耳其语][telegram_chat_tr]的 Telegram 群聊。
 
-[fork]: https://zh.wikipedia.org/wiki/%E5%88%86%E5%8F%89_(%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)
+[fork]: https://en.wikipedia.org/wiki/Fork_\(software_development\)
 
 {{ references() }}
