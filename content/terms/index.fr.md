@@ -1,6 +1,6 @@
 ---
 title: "Organic Maps : termes"
-description: "Conditions d'utilisation de l'application Organic Maps"
+description: Conditions d'utilisation de l'application Organic Maps
 weight: 1000
 extra:
   menu_title: Termes
@@ -28,3 +28,7 @@ Voir également [data/copyright.html](https://htmlpreview.github.io/?https://git
 pour une liste complète des avis de droits d'auteur pour l'application Organic Maps.
 
 Si vous avez des questions ou des suggestions, veuillez nous contacter à l'adresse [legal@organicmaps.app](mailto:legal@organicmaps.app).
+
+[github]: https://github.com/organicmaps/organicmaps
+[license]: http://www.apache.org/licenses/LICENSE-2.0
+[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html
