@@ -1,9 +1,9 @@
 ---
-description: "Ingen spårning, inga annonser, ingen datainsamling, ingen statistikinsamling, ingen spionprogramvara"
+title: "Organic Maps: Integritetspolicy"
+description: Ingen spårning, inga annonser, ingen datainsamling, ingen statistikinsamling, ingen spionprogramvara
+weight: 900
 extra:
   menu_title: Integritetspolicy
-title: "Organic Maps: Integritetspolicy"
-weight: 900
 ---
 
 Organic Maps respekterar din personliga integritet och _spårar dig inte_.
@@ -12,7 +12,7 @@ Till skillnad från de flesta andra program finns det ingen spårning, inga
 annonser, ingen spionprogramvara samt ingen insamling av data eller
 statistik i Organic Maps.
 
-Vägra övervakning. Välkomna friheten.
+Reject surveillance - embrace your freedom.
 
 Håll dig borta från techjättarnas vakande ögon!
 
