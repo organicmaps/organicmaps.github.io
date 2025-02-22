@@ -1,10 +1,10 @@
 ---
-description: "Diferentes formas de apoiar o desenvolvimento da nossa aplicação gratuita"
+title: Apoie o desenvolvimento do Organic Maps
+description: Diferentes formas de apoiar o desenvolvimento da nossa aplicação gratuita
+weight: 20
 extra:
   menu_title: Contribuir
   preview_image: contribute/contribute.jpg
-title: "Apoie o desenvolvimento do Organic Maps"
-weight: 20
 ---
 
 O Organic Maps é uma aplicação gratuita e de código aberto. Não tem
