@@ -1,9 +1,9 @@
 ---
-description: "Warunki korzystania z aplikacji Organic Maps"
+title: "Organic Maps: warunki"
+description: Warunki korzystania z aplikacji Organic Maps
+weight: 1000
 extra:
   menu_title: Warunki
-title: "Organic Maps: warunki"
-weight: 1000
 ---
 
 Ta aplikacja jest objęta licencją Apache License, wersja 2.0 ("Licencja");
@@ -25,7 +25,7 @@ przez inne osoby i organizacje i licencjonowanych na różne sposoby:
 - 3party
 - tools
 
-Warunki użytkowania można znaleźć w plikach LICENCJA, KOPIOWANIE i UWAGA.
+Please refer to their LICENSE, COPYING or NOTICE files for terms of use.
 
 Zobacz również plik [data/copyright.html][copyright], aby zapoznać się z
 pełną listą informacji o prawach autorskich dla aplikacji Organic Maps.
