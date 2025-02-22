@@ -1,9 +1,9 @@
 ---
-description: "Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de estatísticas, sem spyware"
-extra:
-  menu_title: "Política de Privacidade"
 title: "Organic Maps: Política de Privacidade"
+description: Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de estatísticas, sem spyware
 weight: 900
+extra:
+  menu_title: Política de Privacidade
 ---
 
 O Organic Maps respeita sua privacidade e NÃO TE RASTREIA.
@@ -14,7 +14,7 @@ Maps.
 
 Rejeite a vigilância - abrace sua liberdade.
 
-Fique longe dos olhos curiosos das grandes empresas!
+Stay away from Big Tech's prying eyes!
 
 Se você tiver alguma dúvida ou sugestão, por favor entre em contato conosco
 em [legal@organicmaps.app](mailto:legal@organicmaps.app).
