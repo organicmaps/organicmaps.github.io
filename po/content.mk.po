@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: mk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2025-02-22 19:44+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Macedonian <https://hosted.weblate.org/projects/organicmaps/website/mk/>\nLanguage: mk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\nX-Generator: Weblate 5.10.1-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -14,15 +14,15 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Дома"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr ""
+msgstr "Organic Maps Offline Hike, Bike, GPS Navigation"
 
 #. type: Plain text
 #: content/_index.md
@@ -82,9 +82,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Features"
-msgstr ""
+msgstr "Карактеристики"
 
 #. type: Plain text
 #: content/_index.md
@@ -340,9 +340,9 @@ msgstr ""
 
 #. type: Title ###
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Our sponsors:"
-msgstr ""
+msgstr "Our sponsors"
 
 #. type: Plain text
 #: content/_index.md
@@ -352,9 +352,9 @@ msgstr ""
 
 #. type: Title ##
 #: content/_index.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Заедница"
 
 #. type: Plain text
 #: content/_index.md
@@ -454,9 +454,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Донирај"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
@@ -568,9 +568,9 @@ msgstr ""
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "Public Transport"
-msgstr ""
+msgstr "Javen transport"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -676,9 +676,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Вести"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -694,9 +694,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/privacy/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Приватност"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
@@ -850,9 +850,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "terms"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -892,9 +892,9 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/terms/index.md
-#, markdown-text
+#, fuzzy, markdown-text
 msgid "tools"
-msgstr ""
+msgstr "Алатки"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -928,9 +928,9 @@ msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 #. type: Hash Value: back
 #: translations.yaml
@@ -940,9 +940,9 @@ msgstr ""
 
 #. type: Hash Value: contact
 #: translations.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Contact Us"
-msgstr ""
+msgstr "Contact us"
 
 #. type: Hash Value: engines
 #: translations.yaml
@@ -982,21 +982,21 @@ msgstr ""
 
 #. type: Hash Value: language
 #: translations.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Angliski"
 
 #. type: Hash Value: language-word
 #: translations.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Јазик"
 
 #. type: Hash Value: name
 #: translations.yaml
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Name"
-msgstr ""
+msgstr "Име"
 
 #. type: Hash Value: token
 #: translations.yaml
