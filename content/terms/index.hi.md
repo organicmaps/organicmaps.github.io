@@ -1,9 +1,9 @@
 ---
-description: "ऑर्गेनिक मैप्स एप्लिकेशन के उपयोग की शर्तें"
+title: "ऑर्गेनिक मैप्स: शर्तें"
+description: ऑर्गेनिक मैप्स एप्लिकेशन के उपयोग की शर्तें
+weight: 1000
 extra:
   menu_title: शर्तें
-title: "ऑर्गेनिक मैप्स: शर्तें"
-weight: 1000
 ---
 
 यह ऐप को अपाचे लाइसेंस, वर्जन 2.0 के तहत लाइसेंस प्राप्त है; आप लाइसेंस के
@@ -12,10 +12,7 @@ weight: 1000
 आप [http://www.apache.org/licenses/LICENSE-2.0][license] पर लाइसेंस की एक
 प्रति प्राप्त कर सकते हैं
 
-जब तक लागू कानून की आवश्यकता न हो या लिखित रूप में सहमति न हो, लाइसेंस के
-तहत वितरित सॉफ़्टवेयर को "जैसा है" आधार पर वितरित किया जाता है, बिना किसी
-प्रकार की वारंटी या शर्तों के, या तो व्यक्त या निहित। लाइसेंस के तहत विशिष्ट
-भाषा संचालन अनुमतियों और सीमाओं के लिए लाइसेंस देखें।
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 [GitHub][github] पर निम्नलिखित निर्देशिकाओं में अधिकांश डायरेक्टरी अन्य
 लोगों और संगठनों द्वारा बनाए गए हैं और विभिन्न तरीकों से इनको लाइसेंस
