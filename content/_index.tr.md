@@ -1,117 +1,158 @@
 ---
-title: "Organic Maps: Çevrimdışı Yürüyüş, Bisiklet, Parkurlar ve Navigasyon"
-description: OpenStreetMap'e dayanan ve MapsWithMe'nin (Maps.Me) kurucuları tarafından sevgiyle yapılan. Gezginler, turistler, yürüyüşçüler ve bisikletçiler için hızlı ve ayrıntılı çevrimdışı harita uygulaması.
+title: "Organic Maps: Offline Hike, Bike, Trails and Navigation"
+description: Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders.
 page_template: index.html
 sort_by: weight
 extra:
-  menu_title: Ana sayfa
+  menu_title: Home
 ---
 
-**Organic Maps** gezginler, turistler, yürüyüşçüler ve bisikletçiler için ücretsiz bir Android ve iOS çevrimdışı harita uygulamasıdır.
-Topluluk kaynaklı [**OpenStreetMap**][openstreetmap] verilerine dayanmaktadır.
-Daha önce [**MapsWithMe**][mapswithme] olarak bilinen **Maps.me** uygulamasının gizlilik odaklı, açık kaynaklı bir [çatalı](https://tr.wikipedia.org/wiki/%C3%87atal_(yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme)) olan Organic Maps, 2011 yılında **MapsWithMe** uygulamasını geliştiren kişiler tarafından sürdürülmektedir.
+**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **\[OpenStreetMap]\[openstreetmap]** data created by the community.
+It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as \[**MapsWithMe**]\[mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.
 
-> Organic Maps 2023 yılında [bir milyon](@/news/2023-12-23/281/index.md) kullanıcıya ulaştı. Masrafları karşılayabilmemiz için [bize yardım edin](@/donate/index.tr.md)!
+**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.
 
-### Organic Maps'i [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] adresinden indirin ve yükleyin {#install}
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
+
+### Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ badges() }}
 
-{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Yürüyüş') }}
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
-{{ screenshot(src='/images/screenshots/search.jpg', alt='Çevrimdışı Arama') }}
-{{ screenshot(src='/images/screenshots/dark.jpg', alt='Koyu modda navigasyon') }}
+{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}
 
-## Özellikler
+{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
 
-Organic Maps gezginler, turistler, yürüyüşçüler ve bisikletçiler için mükemmel bir uygulamadır:
+{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}
 
-- [OpenStreetMap][openstreetmap] sayesinde diğer haritalarda bulunmayan yerleri içeren ayrıntılı çevrimdışı haritalar
-- Bisiklet yolları, doğa yürüyüşü parkurları ve yürüyüş yolları
-- Eş yükselti çizgileri, yükseklik profilleri, tepe noktaları ve eğimler
-- Sesli yönlendirmelerle adım adım yürüyüş, bisiklet ve araç navigasyonu, Android Auto
-- Haritada hızlı ve çevrimdışı arama
-- Yer imlerini KML/KMZ formatlarında dışa ve içe aktarma, GPX formatında içe aktarılması
-- Gözlerinizi korumak için Koyu Mod
-- Fazla depolama alanı kaplamayan ülke ve bölgeler
-- Özgür ve açık kaynak kodlu
+{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}
 
-## Neden Organic?
+## Features
 
-Organic Maps saf ve organiktir, sevgiyle yapılmıştır:
+Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:
 
-- Gizliliğinize saygı duyar
-- Pil gücünden tasarruf sağlar
-- Beklenmeyen mobil veri ücreti olmaz
+- Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]
+- Cycling routes, hiking trails, and walking paths
+- Contour lines, elevation profiles, peaks, and slopes
+- Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto
+- Fast offline search on the map
+- Export/import bookmarks in KML/KMZ, import GPX
+- Dark Mode to protect your eyes
+- Countries and regions don't take a lot of space
+- Free and open-source
 
-Organic Maps uygulaması izleyicilerden ve diğer kötü şeylerden arındırılmıştır:
+## Why Organic?
 
-- Reklam yok
-- İzleme yok
-- Veri toplama yok
-- Evi aramak yok
-- Rahatsız edici kayıt yok
-- Zorunlu öğretici yok
-- Gürültülü e-posta spam yok
-- Push bildirimleri yok
-- Crapware yok
-- ~~Böcek ilacı yok~~ Tamamen organik!
+Organic Maps is pure and organic, made with love:
 
-Uygulama <a href='https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/'>Exodus Gizlilik Projesi</a> tarafından doğrulandı:
-<br/>
-<img src='/images/privacy/exodus.png' width='400'>
+- Respects your privacy
+- Saves your battery
+- No unexpected mobile data charges
 
-Organic Maps sizi gözetlemek için aşırı izinler istemez:
+Organic Maps app is free from trackers and other bad stuff:
 
-<img src='/images/privacy/om.jpg' width='400'>
-<img src='/images/privacy/mm.jpg' width='400'>
+- No ads
+- No tracking
+- No data collection
+- No phoning home
+- No annoying registration
+- No mandatory tutorials
+- No noisy email spam
+- No push notifications
+- No crapware
+- ~~No pesticides~~ Purely organic!
 
-Organic Maps'te gizliliğin temel bir insan hakkı olduğuna inanıyoruz:
+The application is verified by [Exodus Privacy Project][exodus]:
 
-- Organic Maps, bağımsız bir topluluk tarafından yönlendirilen açık kaynaklı bir projedir
-- Gizliliğinizi Big Tech'in meraklı gözlerinden koruyoruz
-- Nerede olursanız olun güvende kalın
+{{ exodus_screenshot() }}
 
-Gözetlenmeyi reddedin - özgürlüğünüzü kucaklayın.
+The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
 
-<a href="#install"><strong>Organic Maps'i deneyin!</strong></a>
+{{ trackercontrol_screenshot() }}
 
-## Uygulamanın ücretsiz kalması için kim ödeme yapıyor?
+Organic Maps doesn't request excessive permissions to spy on you:
 
-Bu uygulama herkes için ücretsizdir. Lütfen bizi desteklemek için [bağış yapın](@/donate/index.tr.md)!
+{{ privacy_screenshots() }}
 
-### Bağış yapmanın farklı yolları vardır:
+At Organic Maps, we believe that privacy is a fundamental human right:
+
+- Organic Maps is an indie community-driven open-source project
+- We protect your privacy from Big Tech's prying eyes
+- Stay safe no matter wherever you are
+
+Reject surveillance - embrace your freedom.
+
+**[Give Organic Maps a try!](#install)**
+
+## Who is paying for the free app?
+
+The app is free for everyone. Please [donate](@/donate/index.md) to support us!
+
+To donate conveniently, click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
-### Sponsorlarımız:
+Beloved institutional sponsors below have provided targeted grants to cover some infrastructure costs and fund development of new selected features:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISS kullanıcılarımıza harita indirmeleri ve güncellemeleri konusunda yardımcı olmak için ayda 400 TB ücretsiz bant genişliğine sahip iki sanal sunucu [sağlıyor](https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/).
+<table style="border-spacing: 20px">
+  <tbody><tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://www.mythic-beasts.com/">Mythic Beasts</a> ISP <a href="https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/">provides us</a> two virtual servers with 400 TB/month of free bandwidth to host and serve maps downloads and updates.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</tbody></table>
 
-### Bizi destekle
+## Community
 
-Bizi desteklemenin birçok yolu var, tüm yollar [burada](@/contribute/index.tr.md) mevcut.
+Organic Maps is an [open-source software][github] licensed under the Apache License 2.0.
 
-## Beta
-
-Lütfen beta programımıza katılın, yeni özellikler önerin ve hataları bildirin:
-
-- [iOS Beta (TestFlight)][testflight]
-- [Android Beta (Firebase)][firebase]
-- [Linux Desktop Beta (Flatpak)](https://flathub.org/apps/details/app.organicmaps.desktop)
-- [Linux Desktop Beta (pacchetti)](https://repology.org/project/organicmaps/versions)
-
-## Topluluk
-
-Organic Maps, Apache License 2.0 altında lisanslanmış bir [açık kaynaklı yazılımdır][github].
-
-- [Sorun izleyicisine][issues] sorunları ve hataları bildirin.
-- Fikirleri [tartışın][ideas] ya da özellik istekleri önerin
-- Güncellemeler için [Telegram Kanalımıza][telegram] abone olun
-- Diğer kullanıcılarla tartışmak için [Telegram Grubumuza](https://t.me/OrganicMapsTR) veya [matrix odamıza][matrix] katılın
+- Please join our beta program, suggest your features, and report bugs:
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (packages)][repology]
+- Report bugs or issues to [the issue tracker][issues] or [email us][email].
+- [Discuss][ideas] ideas or propose feature requests.
+- Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates.
 - Join our [Telegram Group][telegram_chat] to discuss with other users.
-- [GitHub sayfamızı][github] ziyaret edin
-- [E-posta][email] ile bizimle iletişime geçin
-- Güncellemelerimizi [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Reddit][reddit], [LinkedIn][LinkedIn] ve [Instagram](https://instagram.com/organicmapstr/) üzerinden takip edin.
+- Visit our [GitHub page][github].
+- Follow our updates in [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn].
+- Join (or create and let us know) local communities: [Hungarian Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org), [Chinese-][telegram_chat_zh], [French-][telegram_chat_fr], [Russian-][telegram_chat_ru], [Turkish-][telegram_chat_tr]speaking Telegram chats.
+
+[fork]: https://en.wikipedia.org/wiki/Fork_\(software_development\)
 
 {{ references() }}
