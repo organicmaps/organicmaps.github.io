@@ -1,9 +1,9 @@
 ---
-description: "Dim tracio, dim hysbysebion, dim casgliad data, dim casgliad ystadegau, dim ysbiwedd"
+title: "Organic Maps: Polisi Preifatrwydd"
+description: Dim tracio, dim hysbysebion, dim casgliad data, dim casgliad ystadegau, dim ysbiwedd
+weight: 900
 extra:
   menu_title: Preifatrwydd
-title: "Organic Maps: Polisi Preifatrwydd"
-weight: 900
 ---
 
 Mae Organic Maps yn parchu eich preifatrwydd ac NID YW'N EICH TRACIO.
