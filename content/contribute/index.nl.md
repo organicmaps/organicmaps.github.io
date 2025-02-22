@@ -1,10 +1,10 @@
 ---
-description: "Verschillende manieren om de ontwikkeling van onze gratis applicatie te ondersteunen"
-extra:
-  menu_title: "Ondersteun ons"
-  preview_image: contribute/contribute.jpg
-title: "Ondersteun de ontwikkeling van Organic Maps"
+title: Ondersteun de ontwikkeling van Organic Maps
+description: Verschillende manieren om de ontwikkeling van onze gratis applicatie te ondersteunen
 weight: 20
+extra:
+  menu_title: Contribute
+  preview_image: contribute/contribute.jpg
 ---
 
 Organic Maps is een gratis, open-source app. Ze is vrij van advertenties, ze
