@@ -1,39 +1,65 @@
 ---
-title: Organic Maps'in Gelişimini Destekleyin
-description: Ücretsiz uygulamamızın gelişimini desteklemenin farklı yolları
+title: There are many ways to support Organic Maps.
+description: Different ways to support the development of our free application
 weight: 20
 extra:
-  menu_title: Bizi Destekle
-  preview_image: support-us/Destekle.png
+  menu_title: Contribute
+  preview_image: contribute/contribute.jpg
 ---
 
-Organic Maps ücretsiz, açık kaynaklı bir uygulamadır. Reklam içermez, kişisel bilgilerinizi toplamaz
-ve topluluğun yardımıyla teknoloji tutkunları tarafından geliştirilir.
+\#. type: Plain text
+\#: content/contribute/index.md
+msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+msgstr ""
 
-Bizi desteklemenin farklı yolları var:
+\#. type: Plain text
+\#: content/contribute/index.md
+msgid "There are different ways to support the development:"
+msgstr ""
 
-- [Bağış yapın](@/donate/index.tr.md)! Her bir dolar veya avro önemlidir. Bağışlar, sunucular için ödeme yapmamıza yardımcı oluyor.
-- [GitHub][issues] veya [e-posta][email] üzerinden hataları bildirin ve fikirlerinizi paylaşın.
-- Eğer bir geliştiriciyseniz [hataları düzeltmemize][contributing] yardım edin
-  ve kodları gözden geçirin. Düzeltilen her küçük hata birilerini daha mutlu eder.
-- Uygulama arayüzündeki eksik dizeleri [çevirin][translations].
-- [App Store][translations_appstore]
-  ve [Android][translations_googleplay]
-  açıklamalarını kendi dilinize çevirin.
-- Web sitemizi kendi dilinize [çevirin][translations_website].
-- [OpenStreetMap][openstreetmap] topluluğuna katılın ve harita verilerine katkıda bulunun.
-- Metroların ve hafif raylı sistemlerin uygulamada çalışması için [toplu taşıma doğrulayıcımız][public_transport_validator] tarafından bulunan kırmızı şehirleri düzeltin.
-- [GitHub][issues],
-  [Telegram](https://t.me/OrganicMapsTR) ve
-  [matrix (İngilizce)][matrix] üzerinden diğer kullanıcılara yardımcı olun.
-- Bizi [Twitter (İngilizce)][twitter], [Facebook (İngilizce)][facebook] ve
-  [Instagram](https://instagram.com/OrganicMapsTR) üzerinden takip edin.
-- Herkese Organic Maps'ten bahsedin. Daha büyük bir topluluk daha güçlü bir topluluktur.
-- Bizi [Google Play][googleplay_review],
-  [Apple Store][appstore_review] ve
-  [Huawei Appgallery][appgallery_review]'de değerlendirin.
-- Her türlü yardıma açığız!
+- Please [donate](@/donate/index.md) to support us!"
+  msgstr "" Every dollar or euro counts and helps us to pay for servers and scale."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "[Translate][translations] missing strings in the app's interface."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
+  msgstr ""
+- [Translate][translations_website] our web site into your language.
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
+  msgstr ""
+- Tell everyone about Organic Maps. A bigger community is a stronger community."
+  msgstr ""
+- \#. type: Bullet: '- '
+  \#: content/contribute/index.md
+  msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
+  msgstr ""
+- Any help is welcome!
 
-Küçük ekibimiz, geri bildirimleriniz ve desteğiniz için çok minnettar. Organic Maps, kullanıcılarımız olmadan mümkün olamazdı❤️.
+\#. type: Plain text
+\#: content/contribute/index.md
+msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+msgstr ""
 
 {{ references() }}
