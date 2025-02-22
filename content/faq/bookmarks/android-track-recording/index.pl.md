@@ -1,11 +1,10 @@
 ---
 title: Dlaczego utwory nie są nagrywane niezawodnie w tle na Androidzie?
 description: Domyślne ustawienia optymalizacji baterii na urządzeniach Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC i innych mogą zatrzymać lub zabić aplikację Organic Maps w tle.
-updated: "2024-10-05"
-
+updated: 2024-10-05
 taxonomies:
-  faq: ["Zakładki i trasy"]
-
+  faq:
+    - Zakładki i trasy
 extra:
   order: 30
 ---
@@ -13,6 +12,7 @@ extra:
 Domyślne ustawienia optymalizacji baterii na urządzeniach Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC i innych mogą zatrzymać lub zabić aplikację Organic Maps w tle.
 
 Dotyczy to zwłaszcza nowoczesnych wersji Androida:
+
 - Android 14
 - Android 13
 - Android 12
