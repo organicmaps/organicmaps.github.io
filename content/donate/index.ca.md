@@ -1,10 +1,10 @@
 ---
-description: "Els vostres diners paguen totes les despeses relacionades amb el projecte i ens motiven a millorar l’Organic Maps."
-extra:
-  menu_title: "Feu una donació"
-  preview_image: donate/donate.png
-title: "Doneu per a ajudar al desenvolupament de l'Organic Maps"
+title: Doneu per a ajudar al desenvolupament de l'Organic Maps
+description: Els vostres diners paguen totes les despeses relacionades amb el projecte i ens motiven a millorar l’Organic Maps.
 weight: 10
+extra:
+  menu_title: Feu una donació
+  preview_image: donate/donate.png
 ---
 
 L'Organic Maps és _gratis per a tothom_ gràcies a les seves
@@ -22,26 +22,20 @@ Feu clic a la icona de pagament preferit:
 
 ## Per què fer donatius a l’Organic Maps?
 
-1. Depenem dels vostres donatius per a continuar amb la nostra missió de
-   mantenir l'Organic Maps obert i gratuït. I lliure d'anuncis.
-2. Som un grup d'entusiastes contribuint en el nostre temps lliure, i
-   gastant els diners de les nostres famílies en el projecte. Ens encanta el
-   que fem, i estimem als nostres usuaris ❤️.
-3. Amb el vostre suport, volem convertir-nos en una millor versió de Google
-   Maps, centrada en la privadesa.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. We rely on your donations to keep Organic Maps open and free for everyone.
+   And free from ads.
+4. We love what we do, and we love our users ❤️.
 
 ## Per a què es faran servir els diners?
 
-1. Paguem per servidors ràpids, perquè qualsevol persona pugui accedir a les
-   actualitzacions de característiques dels mapes de forma ràpida i sense
-   esperes. Són centenars de terabytes al mes, i la quantitat està creixent.
-2. L'assistència als usuaris, l'arranjament d'errors i la millora de
-   l'estabilitat de l'aplicació són les nostres principals prioritats. Hi ha
-   més de [1800 informes en GitHub][github issues], i aquest número creix
-   cada dia. AppStore, Google Play i els correus d'atenció estan inundats
-   amb comentaris i informes. Volem lliurar un producte de qualitat.
-3. Amb suficients diners, poden desenvolupar-se més ràpidament prestacions
-   noves, com ara:
+1. In 2023, Organic Maps got its first million users.
+   Our servers provide free, fast and frequent map updates all over the world.
+2. User support, bugfixing and publishing quality app updates are at the top of our priorities.
+   There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.
+   AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
+3. With enough money, new features can be developed. To name a few:
    - Actualitzacions setmanals i automatitzades dels mapes
    - Còpia de seguretat i sincronització dels llocs d’interès
    - Gravadora GPS amb compatibilitat per a GPX
@@ -50,7 +44,9 @@ Feu clic a la icona de pagament preferit:
    - Millorar l'editor de OpenStreetMap
    - Millor cerca de direccions sense connexió, encaminament i navegació
    - Transport públic
-   - ... i [moltes altres][github issues] funcionalitats que vulgueu
+   - More advanced OpenStreetMap editor
+   - Better offline address search, routing, and navigation
+   - … and [many other][github issues] features you want and love
 
 ## Com donar?
 
@@ -58,9 +54,9 @@ Feu clic a la icona de pagament preferit:
 
 {{ donate_buttons() }}
 
-Les donacions recurrents són la millor manera d'assegurar un ingrés periòdic
-per al projecte i ens motiva per a tasques i objectius a llarg termini. Però
-també pots fer donació una vegada.
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. One-time donations
+are appreciated too.
 
 ### Transferència bancària
 
@@ -74,8 +70,8 @@ Si us plau, considereu fer donacions anuals per a reduir les quotes totals.
 
 ## Voleu ajudar-nos de cap altra forma?
 
-Perfecte! Hi ha diverses maneres d'ajudar a l'Organic Maps. Consulteu la
-pàgina [Suport](@/contribute/index.ca.md) per a més informació.
+Yes! There are many ways to support Organic Maps. Please see
+[Contribute](@/contribute/index.md) page for more details.
 
 [stripe]: https://donate.organicmaps.app/ «Donació amb Stripe»
 [github issues]: https://github.com/organicmaps/organicmaps/issues «Informes al GitHub»
