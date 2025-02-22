@@ -10,7 +10,7 @@ Organic Maps respects your privacy and DOES NOT TRACK YOU.
 
 Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps.
 
-Reject surveillance - embrace your freedom.
+Keeldu pidevast jälgimisest - võta oma sihiks vabadus.
 
 Stay away from Big Tech's prying eyes!
 
