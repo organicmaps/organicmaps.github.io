@@ -1,6 +1,6 @@
 ---
 title: "Organic Maps: Условия использования"
-description: "Условия использования приложения Organic Maps"
+description: Условия использования приложения Organic Maps
 weight: 1000
 extra:
   menu_title: Условия использования
@@ -21,7 +21,11 @@ extra:
 
 Пожалуйста, обратитесь к их файлам LICENCE, COPYING или NOTICE для получения информации об условиях использования.
 
-См. также [data/copyright.html](https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html)
+также [data/copyright.html](https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html)
 файл для полного списка уведомлений об авторских правах для приложения Organic Maps.
 
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами по адресу [legal@organicmaps.app](mailto:legal@organicmaps.app).
+
+[github]: https://github.com/organicmaps/organicmaps
+[license]: http://www.apache.org/licenses/LICENSE-2.0
+[copyright]: https://htmlpreview.github.io/?https://github.com/organicmaps/organicmaps/master/data/copyright.html
