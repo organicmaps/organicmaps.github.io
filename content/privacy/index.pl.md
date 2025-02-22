@@ -1,9 +1,9 @@
 ---
-description: "Bez śledzenia, bez reklam, bez zbierania danych, bez zbierania statystyk, bez spyware"
+title: "Organic Maps: Polityka prywatności"
+description: Bez śledzenia, bez reklam, bez zbierania danych, bez zbierania statystyk, bez spyware
+weight: 900
 extra:
   menu_title: Prywatność
-title: "Organic Maps: Polityka prywatności"
-weight: 900
 ---
 
 Organic Maps szanuje Twoją prywatność i NIE ŚLEDZI CIĘ.
