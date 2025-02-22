@@ -1,21 +1,23 @@
 ---
 title: Co mogę zrobić, jeśli aplikacja nie odpowiada/uległa awarii?
-description: ""
-updated: "2024-06-12"
-
+description: What actions to take if the application crashes. How to report critical bugs to developers
+updated: 2024-06-12
 taxonomies:
-  faq: ["Aplikacja"]
-
+  faq:
+    - Aplikacja
 extra:
   order: 30
 ---
 
-Bu muhtemelen bizim hatamız ve bir sonraki güncellemede bunu düzeltmekten mutluluk duyacağız.
+Android'de, haritalarınızı bir SD kartta saklarsanız, bunun en olası nedeni hatalı bir SD karttır. You can:
 
-Android'de, haritalarınızı bir SD kartta saklarsanız, bunun en olası nedeni hatalı bir SD karttır. SD kartınızı biçimlendirebilir veya daha iyisi yenisiyle değiştirebilirsiniz. Uygulamayı SD karta taşıdıysanız, lütfen tekrar dahili (cihaz) depolama alanına taşıyın.
+1. Delete all downloaded maps and re-download them again to the SD card (may not work again).
+2. Delete all downloaded maps, select Internal device storage, and re-download maps.
+3. Format SD card and re-download maps.
+4. Buy a new SD card (recommended)
 
 Sorun devam ederse, lütfen [bizimle iletişime geçin](mailto:support@organicmaps.app) ve şunları ekleyin:
 
-* sorunun kısa açıklaması
-* Organic Maps sürümü
-* cihaz modeli ve İşletim Sistemi sürümü (Android veya iOS).
+- A detailed description of the issue and steps to reproduce it
+- Organic Maps sürümü
+- cihaz modeli ve İşletim Sistemi sürümü (Android veya iOS).
