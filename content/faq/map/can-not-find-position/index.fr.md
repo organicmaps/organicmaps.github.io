@@ -23,7 +23,7 @@ Remarque : vous ne pouvez le voir que si les services Google Play sont installé
 
 Si vous utilisez un iPhone ou un iPad, veuillez vérifier les paramètres iOS → Confidentialité → Services de localisation. Le partage de données de géolocalisation doit être activé pour Organic Maps.
 
-**Notes:**
+**Remarques:**
 
 - Pour éviter les données indésirables en itinérance, vous pouvez désactiver toutes les données mobiles, activer le mode Avion ou désactiver les données mobiles pour Organic Maps dans les paramètres de votre appareil. Les appareils Android et iOS peuvent utiliser le GPS en mode Avion.
 
