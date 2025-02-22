@@ -1,17 +1,14 @@
 ---
 title: Я не можу завантажити (оновити) карти
-description: ""
-updated: "2024-06-12"
-
+description: What to do if Organic Maps fails to download or update maps from Internet?
+updated: 2024-06-12
 taxonomies:
-  faq: ["Мапа"]
-
+  faq:
+    - Мапа
 extra:
   order: 30
 ---
 
-Завантаження може завершитися невдало через тимчасову помилку мережі або певні проблеми провайдера/маршрутизатора. Будь ласка, повторіть спробу пізніше або використовуйте іншу точку доступу Wi-Fi. Крім того, переконайтеся, що у вас є достатньо вільного місця для завантаження карт.
+Your download can fail due to a temporary network error or specific network provider/router settings (firewall blocking). Please try again later or use a different Wi-Fi access point. In addition, make sure that you have enough free space to download maps.
 
 На Android, будь ласка, переконайтеся, що ви надали доступ до мережі для Organic Maps і системний менеджер завантажень (провайдер завантажень).
-
-Крім того, якщо у вас дуже застарілі карти, і програма не може їх оновити, вам може допомогти видалення всіх карт і повторне їх завантаження.
