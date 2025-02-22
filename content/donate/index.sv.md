@@ -1,10 +1,10 @@
 ---
-description: "Dina pengar betalar alla projektrelaterade utgifter och motiverar oss att förbättra Organic Maps."
+title: Donera för att stödja utvecklingen av Organic Maps
+description: Dina pengar betalar alla projektrelaterade utgifter och motiverar oss att förbättra Organic Maps.
+weight: 10
 extra:
   menu_title: Donera
   preview_image: donate/donate.png
-title: "Donera för att stödja utvecklingen av Organic Maps"
-weight: 10
 ---
 
 Appen Organic Maps är _gratis för alla_ tack vare era
@@ -22,26 +22,20 @@ Klicka på en ikon för önskad betalningsmetod nedan:
 
 ## Varför ska jag donera till Organic Maps?
 
-1. Vi är beroende av dina donationer för att kunna utföra vårt uppdrag att
-   hålla Organic Maps öppet och fritt. Och fria från annonser.
-2. Vi är ett fåtal entusiaster som bidrar på vår fritid och lägger våra
-   familjers pengar på projektet. Vi älskar det vi gör och vi älskar våra
-   användare ❤️.
-3. Med ditt stöd vill vi bli en bättre version av Google Maps med fokus på
-   personlig integritet.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. We rely on your donations to keep Organic Maps open and free for everyone.
+   And free from ads.
+4. We love what we do, and we love our users ❤️.
 
 ## Vad kommer pengarna att användas till?
 
-1. Vi betalar för snabba servrar, så att alla i världen kan ladda ner gratis
-   kartuppdateringar utan fördröjning. Det handlar om hundratals terabyte
-   varje månad, och mängden ökar.
-2. Användarstöd, felavhjälpning och förbättrad stabilitet i appen står högst
-   upp på vår prioriteringslista. Det finns [fler än 1 200 problem på
-   GitHub][github issues], och antalet ökar varje dag. AppStore, Google
-   Play och supportmejl översvämmas av kommentarer och buggrapporter. Vi
-   vill leverera en högkvalitativ produkt.
-3. Med tillräckligt med pengar kan nya funktioner utvecklas snabbare, till
-   exempel:
+1. In 2023, Organic Maps got its first million users.
+   Our servers provide free, fast and frequent map updates all over the world.
+2. User support, bugfixing and publishing quality app updates are at the top of our priorities.
+   There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.
+   AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
+3. With enough money, new features can be developed. To name a few:
    - Automatiska uppdateringar av kartdata varje vecka
    - Säkerhetskopiering och synkronisering av bokmärken
    - Inspelning av GPS-spår med GPX-stöd
@@ -50,8 +44,9 @@ Klicka på en ikon för önskad betalningsmetod nedan:
    - Förbättring av OpenStreetMap-redigeraren
    - Bättre adressökning, vägvisning och navigering offline
    - Kollektivtrafik
-   - ... och [många andra][github issues] funktioner som efterfrågas och
-     uppskattas
+   - More advanced OpenStreetMap editor
+   - Better offline address search, routing, and navigation
+   - … and [many other][github issues] features you want and love
 
 ## Hur kan man donera?
 
@@ -59,9 +54,9 @@ Klicka på en ikon för önskad betalningsmetod nedan:
 
 {{ donate_buttons() }}
 
-Återkommande donationer är det bästa sättet att säkerställa en relativt
-stabil inkomst för projektet och motivera oss för långsiktiga uppgifter och
-mål. Men du kan också skänka en engångssumma.
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. One-time donations
+are appreciated too.
 
 ### Banköverföring
 
@@ -75,8 +70,7 @@ Donera gärna årsvis för att minska avgifterna.
 
 ## Finns det fler sätt att hjälpa er på?
 
-Ja! Det finns många sätt att stödja Organic Maps. Se sidan [Support
-Us](@/contribute/index.sv.md) för mer information.
+Yes! There are many ways to support Organic Maps. Please see
+[Contribute](@/contribute/index.md) page for more details.
 
-[stripe]: https://donate.organicmaps.app/ "Donera via Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+{{ references() }}
