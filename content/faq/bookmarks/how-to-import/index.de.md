@@ -1,11 +1,10 @@
 ---
 title: Wie kann ich Lesezeichen und Tracks importieren?
-description: ""
-updated: "2024-06-12"
-
+description: Step-by-step instructions for importing bookmarks and tracks shared with you in formats KML, KMZ, KMB or GPX
+updated: 2024-06-12
 taxonomies:
-  faq: ["Lesezeichen und Tracks"]
-
+  faq:
+    - Lesezeichen und Tracks
 extra:
   order: 20
 ---
