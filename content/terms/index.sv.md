@@ -1,9 +1,9 @@
 ---
-description: "Användarvillkor för Organic Maps-appen"
+title: "Organic Maps: Användarvillkor"
+description: Användarvillkor för Organic Maps-appen
+weight: 1000
 extra:
   menu_title: Användarvillkor
-title: "Organic Maps: Användarvillkor"
-weight: 1000
 ---
 
 Den här appen är licensierad enligt Apachelicensen, version 2.0
@@ -13,11 +13,7 @@ med Licensen.
 Du kan erhålla en kopia av Licensen på
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
-Om det inte krävs enligt tillämplig lag eller om det inte har avtalats
-skriftligen, distribueras programvara som distribueras under licensen _i
-befintligt skick, utan några som helst garantier eller förbehåll_, vare sig
-uttryckliga eller underförstådda. Se Licensen för de exakta formuleringar
-som reglerar tillstånd och begränsningar enligt Licensen.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 De flesta mjukvarubibliotek i följande kataloger på [GitHub][github] är
 gjorda av andra personer och organisationer och licensieras på andra sätt:
