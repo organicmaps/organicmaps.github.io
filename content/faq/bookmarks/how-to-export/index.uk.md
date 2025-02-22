@@ -1,13 +1,14 @@
 ---
 title: Як поділитися (експортувати) мітками?
-description: ""
-updated: "2024-06-12"
-
+description: Step-by-step guide for exporting bookmarks and tracks from Organic Maps to other applications and sharing with  contacts
+updated: 2024-06-12
 taxonomies:
-  faq: ["Мітки та Маршрути"]
-
+  faq:
+    - Мітки та Маршрути
 extra:
   order: 10
 ---
 
-Виберіть мітку на карті, торкніться її, а потім натисніть кнопку "Поділитися" в нижній панели. Щоб поділитися відразу всіма мітками зі списку, торкніться символу зірки на головному екрані, потім торкніться значка з трьома крапками після назви списку з мітками і натисніть "Експортувати файл" у спливаючому вікні.
+Tap a bookmark on the map or in the list, and then tap the "Share" button on the place page.
+
+To share all bookmarks and tracks in a list from the Bookmarks and Tracks page, tap the icon with three dots to the right of the name of the list and select "Export KMZ" or "Export GPX".
