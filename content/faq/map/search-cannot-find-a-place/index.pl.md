@@ -1,11 +1,10 @@
 ---
 title: Wyszukiwanie nie może znaleźć miejsca na mapie
-description: ""
-updated: "2024-06-12"
-
+description: Guide for improving search results and solving problems with finding objects on the map
+updated: 2024-06-12
 taxonomies:
-  faq: ["Mapa"]
-
+  faq:
+    - Mapa
 extra:
   order: 20
 ---
