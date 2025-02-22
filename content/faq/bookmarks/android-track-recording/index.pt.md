@@ -1,11 +1,10 @@
 ---
 title: Porque é que os trajetos não são gravados de forma fiável em segundo plano no Android?
 description: As definições predefinidas de otimização da bateria na Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC e outros dispositivos podem parar ou encerrar a aplicação Organic Maps em segundo plano.
-updated: "2024-10-05"
-
+updated: 2024-10-05
 taxonomies:
-  faq: ["Favoritos e trilhas"]
-
+  faq:
+    - Favoritos e trilhas
 extra:
   order: 30
 ---
@@ -13,6 +12,7 @@ extra:
 As definições predefinidas de otimização da bateria na Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC e outros dispositivos podem parar ou encerrar a aplicação Organic Maps em segundo plano.
 
 Isso acontece especialmente nas versões mais modernas do Android:
+
 - Android 14
 - Android 13
 - Android 12
