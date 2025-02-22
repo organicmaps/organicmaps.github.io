@@ -4,22 +4,22 @@ extra:
   menu_title: Hafan
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Crwydro, Seiclo, Llwybrau a Hwylio All-lein'
+title: 'Organic Maps: Crwydro, Seiclo, Llwyio a Hwylio All-lein'
 ---
 
 Mae **Organic Maps** yn ap am ddim ar gyfer Android ac iOS gyda mapiau all-lein ar gyfer teithwyr, twristiaid, heicwyr a seiclwyr ar sail data cyfraniad torfol **[OpenStreetMap][openstreetmap]**. Mae'n [fforc][fork] cod agored a phreifat o'r ap **Maps.me** ([**MapsWithMe**][mapswithme] cyn hynny), a chynhelir gan yr union bobl sydd wedi creu **MapsWithMe** yn 2011.
 
-**Organic Maps** yw un o'r unig apiau y dyddiau hyn sy'n cefnogi 100% o nodweddion heb angen cysylltiad rhyngrwyd. Gosodwch Organic Maps, lawrlwythwch mapiau, a chael gwared ar eich cerdyn SIM (gyda llaw, mae eich gweithredwr yn eich tracio chi'n gyson), a chewch mynd ar drip am yr wythnos heb angen gwefru eich ffôn, a heb ddanfon beit i'r rhwydwaith.
+**Organic Maps** yw un o'r ychydig apiau y dyddiau hyn sy'n cefnogi 100% o nodweddion heb angen cysylltiad rhyngrwyd. Gosodwch Organic Maps, lawrlwythwch mapiau, a chael gwared ar eich cerdyn SIM (gyda llaw, mae eich gweithredwr yn eich tracio chi'n gyson), a chewch fynd ar drip am wythnos heb angen gwefru eich ffôn, a heb ddanfon beit i'r rhwydwaith.
 
 > In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
-### Lawrlwytho a gosod Organic Maps o [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
+### Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ badges() }}
 
 {{ screenshot(src='/images/screenshots/hiking.jpg', alt='Heicio') }}
 
-{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}
+{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prag') }}
 
 {{ screenshot(src='/images/screenshots/search.jpg', alt='Chwilio All-lein')
 }}
@@ -35,7 +35,7 @@ seiclwyr:
 - Mapiau manwl all-lein gyda lleoliadau sydd ddim yn bodoli ar fapiau
   eraill, diolch i [OpenStreetMap][openstreetmap]
 - Llwybrau seiclo, heicio, a cherdded
-- Cyfuchlinau, proffeiliau dyrchafiad, brigau, a llethrau
+- Cyfuchlinau, proffeiliau dyrchafiad, copaon, a llethrau
 - Cyfeiriadau troell-wrth-droell ar gyfer llywio wrth gerdded, seiclo, a
   gyrru gydag arweiniad llais ac Android Auto
 - Chwilio all-lein cyflym ar y map
@@ -99,11 +99,51 @@ dalu isod:
 
 {{ donate_buttons() }}
 
-### Ein noddwyr:
+Beloved institutional sponsors below have provided targeted grants to cover
+some infrastructure costs and fund development of new selected features:
 
-Mae ISP [Mythic Beasts](https://www.mythic-beasts.com/) [yn
-darparu][mythic_beasts_donation] dau weinydd rhithiol i ni gyda 400 TB/mis o
-led band i helpu ein defnyddwyr gyda lawr lwytho a diweddaru mapiau.
+<table style="border-spacing: 20px">
+  <tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://www.mythic-beasts.com/">Mythic Beasts</a> ISP <a href="https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/">provides us</a> two virtual servers with 400 TB/month of free bandwidth to host and serve maps downloads and updates.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</table>
 
 ## Cymuned
 
@@ -126,8 +166,11 @@ thrwyddedu o dan y drwydded Apache License 2.0.
 - Dilynwch ein newyddion ar [FOSStodon][fosstodon], [Mastodon][mastodon],
   [Facebook][facebook], [Twitter][twitter], [Instagram][instagram],
   [Reddit][reddit], [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Join (or create and let us know) local communities: [Hungarian Matrix
+  room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org),
+  [Chinese-][telegram_chat_zh], [French-][telegram_chat_fr],
+  [Russian-][telegram_chat_ru], [Turkish-][telegram_chat_tr]speaking
+  Telegram chats.
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

@@ -22,33 +22,37 @@ Klik ikon metode pembayaran yang diinginkan di bawah ini:
 
 ## Mengapa berdonasi ke Organic Maps?
 
-1. Kami mengandalkan donasi Anda untuk menjalankan misi kami agar Organic
+1. Misi kami adalah membuat alternatif Google Maps dan Apple Maps yang
+   berfokus pada privasi, cepat, dan mudah untuk digunakan.
+2. Meningkatkan data peta umum untuk berbagai situs web, aplikasi, dan
+   platform yang menggunakan OpenStreetMap, dan mengajak orang-orang lain
+   dalam berkontribusi informasi peta adalah misi tambahan kami.
+3. Kami mengandalkan donasi Anda untuk menjalankan misi kami agar Organic
    Maps tetap terbuka dan bebas. Dan bebas dari iklan.
-2. Kami adalah beberapa penggemar yang berkontribusi di waktu luang kami,
-   dan menghabiskan uang keluarga kami untuk proyek ini. Kami mencintai apa
-   yang kami lakukan, dan kami mencintai pengguna kami ❤️.
-3. Dengan dukungan Anda, kami ingin menjadi versi Google Maps yang lebih
-   baik dan berfokus pada privasi.
+4. Kami mencintai apa yang kami lakukan, dan kami mencintai pengguna
+   kami. ❤️
 
-## Untuk apa uang itu akan digunakan?
+## Mengapa proyek yang bebas memerlukan dana?
 
-1. Kami membayar untuk server yang cepat, sehingga siapa pun di Dunia dapat
-   mengunduh pembaruan data peta gratis tanpa penundaan. Ratusan terabyte
-   setiap bulan, dan jumlahnya terus bertambah.
+1. Di tahun 2023, Organic Maps mendapatkan sejuta pengguna pertama. Server
+   kami menyediakan pembaruan peta yang gratis, cepat, dan terkini di
+   seluruh dunia.
 2. Dukungan pengguna, perbaikan kutu, dan peningkatan stabilitas aplikasi
    adalah prioritas utama kami. Ada [1800+ masalah di GitHub][github issues], dan jumlah ini terus bertambah setiap hari. App Store, Google
    Play, dan email dukungan dibanjiri dengan komentar dan kutu. Kami ingin
    memberikan produk berkualitas tinggi.
 3. Dengan uang yang cukup, fitur baru bisa dikembangkan lebih cepat,
    misalnya:
-   - Pembaruan data peta mingguan dan otomatis
-   - Pencadangan dan sinkronisasi penanda
+   - Cadangkan dan sinkron markah dan trek
    - Perekam trek GPS dengan dukungan GPX
+   - Citra satelit
+   - Transportasi umum
+   - Pelaporan kemacetan dan kecelakaan
+   - Foto dan Ulasan
    - Gaya peta yang lebih baik untuk aktivitas yang berbeda
    - Bayangan bukit dan medan 3D
    - Memperbaiki penyunting OpenStreetMap
    - Pencarian alamat, perutean, dan navigasi luring yang lebih baik
-   - Transportasi umum
    - … dan [banyak fitur lain][github issues] yang Anda inginkan dan sukai
 
 ## Bagaimana cara berdonasi?
@@ -77,5 +81,4 @@ biaya.
 Ya! Ada banyak cara untuk mendukung Peta Organik. Silakan lihat halaman
 [Dukung Kami](@/contribute/index.id.md) untuk lebih jelasnya.
 
-[stripe]: https://donate.organicmaps.app/ "Donasi melalui Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+{{ references() }}

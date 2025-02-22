@@ -11,9 +11,9 @@ title: 'ऑर्गेनिक नक़्शे: ऑफ़लाइन स�
 
 **ऑर्गेनिक मैप्स** आजकल के कुछ एप्लिकेशन में से एक है जो सक्रिय इंटरनेट कनेक्शन के बिना 100% सुविधाओं का समर्थन करता है। ऑर्गेनिक मैप्स इंस्टॉल करें, मैप्स डाउनलोड करें, अपना सिम कार्ड फेंक दें (वैसे, आपका ऑपरेटर आपको लगातार ट्रैक करता है), और नेटवर्क पर कुछ भी भेजे बिना सिर्फ एक बैटरी चार्ज पर साप्ताहिक यात्रा के लिए जाएं।
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.hi.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
-### [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] से ऑर्गेनिक मानचित्र डाउनलोड और इंस्टॉल करें {#install}
+### Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
 {{ badges() }}
 
@@ -90,17 +90,57 @@ The iOS application is verified by [TrackerControl for iOS][trackercontrol]:
 ## मुफ्त ऐप के लिए क्यों भुगतान करें?
 
 ऐप सभी के लिए मुफ्त है। हमारा समर्थन करने के लिए कृपया
-[दान](@/donate/index.hi.md) करें!
+[दान](@/donate/index.md) करें!
 
 To donate conveniently, click on your preferred payment method icon below:
 
 {{ donate_buttons() }}
 
-### हमारे प्रायोजक:
+Beloved institutional sponsors below have provided targeted grants to cover
+some infrastructure costs and fund development of new selected features:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [हमें प्रदान करता
-है][mythic_beasts_donation] 400 TB/महीने की मुफ्त बैंडविड्थ वाले दो वर्चुअल
-सर्वर जो हमारे उपयोगकर्ताओं को मैप डाउनलोड और अपडेट करने में मदद करते हैं।
+<table style="border-spacing: 20px">
+  <tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://www.mythic-beasts.com/">Mythic Beasts</a> ISP <a href="https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/">provides us</a> two virtual servers with 400 TB/month of free bandwidth to host and serve maps downloads and updates.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</table>
 
 ## समुदाय
 
@@ -124,8 +164,11 @@ To donate conveniently, click on your preferred payment method icon below:
 - [FOSStodon][fosstodon], [Mastodon][mastodon], [Facebook][facebook],
   [Twitter][twitter], [Instagram][instagram], [Reddit][reddit],
   [LinkedIn][LinkedIn] पर हमारे अपडेट का पालन करें।
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Join (or create and let us know) local communities: [Hungarian Matrix
+  room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org),
+  [Chinese-][telegram_chat_zh], [French-][telegram_chat_fr],
+  [Russian-][telegram_chat_ru], [Turkish-][telegram_chat_tr]speaking
+  Telegram chats.
 
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
 

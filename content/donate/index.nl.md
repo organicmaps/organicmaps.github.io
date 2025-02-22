@@ -16,45 +16,48 @@ Organic Maps app is _gratis voor iedereen_ dankzij jullie
 - Geen pushmeldingen
 - Open source
 
-Click on your preferred payment method icon below:
+Klik hieronder op het icoon van uw voorkeurs-betalingsmethode:
 
 {{ donate_buttons() }}
 
 ## Waarom doneren aan Organic Maps?
 
-1. We zijn op jullie donaties aangewezen om onze missie te volbrengen om
+1. Ons doel is om een privacy-gefocust, snel en makkelijk te gebruiken
+   alternatief voor Google Maps en Apple Maps te bieden.
+2. Publieke kaartendata verbeteren voor de verschillende websites, apps en
+   platforms die OpenStreetMap gebruiken, en meer mensen betrokken krijgen
+   bij het bijdragen aan kaartendata is ons andere doel.
+3. We zijn op jullie donaties aangewezen om onze missie te volbrengen om
    Organic Maps open en gratis te houden. En vrij van advertenties.
-2. We zijn een paar enthousiastelingen die in onze vrije tijd een bijdrage
-   leveren, en het geld van onze familie aan het project besteden. We
-   houden van wat we doen, en we houden van onze gebruikers ❤️.
-3. Met jullie steun willen we een betere, privacy-gefocuste versie van
-   Google Maps worden.
+4. We houden van wat we doen, en we houden van onze gebruikers ❤️.
 
-## Waar wordt het geld voor gebruikt?
+## Waarom heeft een gratis project geld nodig?
 
-1. We betalen voor snelle servers, zodat iedereen in de wereld gratis
-   kaartenupdates kan downloaden zonder vertraging. Dit zijn honderden
-   terabytes per maand, en de hoeveelheid neemt toe.
+1. In 2023 kreeg Organic Maps zijn eerste miljoen gebruikers. Onze servers
+   zorgen voor gratis, snelle en frequente kaartenupdates over de hele
+   wereld.
 2. Gebruikersondersteuning, bugs fixen, en de stabiliteit van de app
    verbeteren zijn onze topprioriteiten. Er zijn [1800+ issues op
    GitHub][github issues], en dit aantal neemt elke dag toe. De AppStore,
    Google Play, en support email-adressen worden overspoeld met reacties en
    fouten. We willen een product van een hoge kwaliteit leveren.
 3. Met genoeg geld kunnen nieuwe functies sneller worden ontwikkeld, zoals:
-   - Wekelijkse en geautomatiseerde kaartendata-updates
-   - Bladwijzerbackups en -synchronisatie
+   - Backup en synchroniseer bladwijzers en routes
    - GPS-pad-opnames met GPX ondersteuning
+   - Satellietbeelden
+   - Openbaar vervoer
+   - Verkeers- en ongelukkencontrole
+   - Foto's en beoordelingen
    - Betere kaartenstijlen voor verschillende activiteiten
    - Reliëfschaduwen en 3D-terreinen
    - Verbetering van de OpenStreetMap-bewerker
    - Betere offline adressen-zoekfunctie, routes, en navigatie
-   - Openbaar vervoer
    - … en [vele andere][github issues] functies die jullie willen en waar
      jullie van houden
 
 ## Hoe kan je doneren?
 
-Click on your preferred payment method icon below:
+Klik hieronder op het icoon van uw voorkeurs-betalingsmethode:
 
 {{ donate_buttons() }}
 
@@ -78,5 +81,4 @@ reduceren.
 Ja! Er zijn vele manieren om Organic Maps te ondersteunen. Kijk alstublieft
 op de pagina [Steun ons](@/contribute/index.nl.md) voor meer details.
 
-[stripe]: https://donate.organicmaps.app/ "Doneer via Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+{{ references() }}

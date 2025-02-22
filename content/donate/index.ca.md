@@ -22,34 +22,36 @@ Feu clic a la icona de pagament preferit:
 
 ## Per què fer donatius a l’Organic Maps?
 
-1. Depenem dels vostres donatius per a continuar amb la nostra missió de
+1. Our goal is to provide a privacy-focused, fast and easy-to-use
+   alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms
+   which use OpenStreetMap, and involving more people in contributing map
+   info is our another goal.
+3. Depenem dels vostres donatius per a continuar amb la nostra missió de
    mantenir l'Organic Maps obert i gratuït. I lliure d'anuncis.
-2. Som un grup d'entusiastes contribuint en el nostre temps lliure, i
-   gastant els diners de les nostres famílies en el projecte. Ens encanta el
-   que fem, i estimem als nostres usuaris ❤️.
-3. Amb el vostre suport, volem convertir-nos en una millor versió de Google
-   Maps, centrada en la privadesa.
+4. We love what we do, and we love our users ❤️.
 
-## Per a què es faran servir els diners?
+## Per què un projecte gratuït necessita diners?
 
-1. Paguem per servidors ràpids, perquè qualsevol persona pugui accedir a les
-   actualitzacions de característiques dels mapes de forma ràpida i sense
-   esperes. Són centenars de terabytes al mes, i la quantitat està creixent.
-2. L'assistència als usuaris, l'arranjament d'errors i la millora de
-   l'estabilitat de l'aplicació són les nostres principals prioritats. Hi ha
-   més de [1800 informes en GitHub][github issues], i aquest número creix
-   cada dia. AppStore, Google Play i els correus d'atenció estan inundats
-   amb comentaris i informes. Volem lliurar un producte de qualitat.
+1. In 2023, Organic Maps got its first million users. Our servers provide
+   free, fast and frequent map updates all over the world.
+2. L'assistència als usuaris, correcció d'errors i millora d'estabilitat de
+   l'aplicació són les nostres prioritats principals. Hi ha més de [2000
+   informes al GitHub][github issues] i, aquest número creix cada
+   dia. L'AppStore, el PlayStore i els correus d'atenció estan inundats amb
+   comentaris i informes. Volem lliurar un producte de qualitat.
 3. Amb suficients diners, poden desenvolupar-se més ràpidament prestacions
    noves, com ara:
-   - Actualitzacions setmanals i automatitzades dels mapes
-   - Còpia de seguretat i sincronització dels llocs d’interès
+   - Backup and sync bookmarks and tracks
    - Gravadora GPS amb compatibilitat per a GPX
+   - Imatges satel·litals
+   - Transport públic
+   - Traffic and accident reporting
+   - Photos and Reviews
    - Millors estils cartogràfics per a diferents activitats
    - Ombreig de pujols i terreny 3D
    - Millorar l'editor de OpenStreetMap
    - Millor cerca de direccions sense connexió, encaminament i navegació
-   - Transport públic
    - ... i [moltes altres][github issues] funcionalitats que vulgueu
 
 ## Com donar?
@@ -77,5 +79,4 @@ Si us plau, considereu fer donacions anuals per a reduir les quotes totals.
 Perfecte! Hi ha diverses maneres d'ajudar a l'Organic Maps. Consulteu la
 pàgina [Suport](@/contribute/index.ca.md) per a més informació.
 
-[stripe]: https://donate.organicmaps.app/ «Donació amb Stripe»
-[github issues]: https://github.com/organicmaps/organicmaps/issues «Informes al GitHub»
+{{ references() }}

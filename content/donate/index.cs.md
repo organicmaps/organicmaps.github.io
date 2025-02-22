@@ -13,7 +13,7 @@ Aplikace Organic Maps je pro všechny _zdarma_ díky vašim
 - Bez reklam
 - Žádné sledovací zařízení
 - Žádná registrace
-- Žádná oznámení push
+- Žádná vyskakovací oznámení
 - Open source
 
 Klikněte na ikonu preferovaného způsobu platby níže:
@@ -22,33 +22,35 @@ Klikněte na ikonu preferovaného způsobu platby níže:
 
 ## Proč darovat Organic Maps?
 
-1. Při plnění našeho poslání udržovat Organic Maps otevřené a svobodné
+1. Naším cílem je poskytovat rychlou alternativu k Mapám Google a Apple
+   Maps, která se jednoduše používá a bere ohled na vaše soukromí.
+2. Naším druhým cílem je vylepšování mapových dat pro velké množství webů,
+   aplikací a platform, které používají službu OpenStreetMap, a zapojit více
+   lidí do přispívání informací do map.
+3. Při plnění našeho poslání udržovat Organic Maps otevřené a svobodné
    spoléháme na vaše dary. A bez reklam.
-2. Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase a
-   utrácejí peníze svých rodin. Milujeme to, co děláme, a milujeme naše
-   uživatele ❤️.
-3. S vaší podporou se chceme stát lepší verzí Google Maps zaměřenou na
-   ochranu soukromí.
+4. Máme rádi to, co děláme, a máme rádi naše uživatele ❤️.
 
-## Na co budou peníze použity?
+## Proč potřebuje bezplatný projekt peníze?
 
-1. Platíme za rychlé servery, takže kdokoli na světě může stahovat bezplatné
-   aktualizace mapových dat bez zpoždění. Jsou to stovky terabajtů měsíčně
-   a jejich množství stále roste.
+1. V roce 2023 získaly Organic Maps první milion uživatelů. Naše servery
+   poskytují bezplatné, rychlé a časté aktualizace map po celém světě.
 2. Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou
-   našimi hlavními prioritami. Na GitHubu je [1800+ issues] [github issues]
+   našimi hlavními prioritami. Na GitHubu je [2000+ issues] [github issues]
    a toto číslo každým dnem roste. AppStore, Google Play a e-maily podpory
    jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní
    produkt.
 3. S dostatkem peněz lze například rychleji vyvíjet nové funkce:
-   - Týdenní a automatické aktualizace mapových dat
-   - Zálohování a synchronizace záložek
+   - Zálohování a synchronizace záložek a tras
    - Záznamník stop GPS s podporou GPX
+   - Satelitní mapy
+   - Veřejná doprava
+   - Hlášení o dopravě a nehodách
+   - Fotky a recenze
    - Lepší styly map pro různé činnosti
    - Stínování kopců a 3D terén
    - Vylepšení editoru OpenStreetMap
    - Lepší offline vyhledávání adres, směrování a navigace
-   - Veřejná doprava
    - ... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi
 
 ## Jak darovat?
@@ -76,5 +78,4 @@ Zvažte prosím možnost ročního příspěvku, abyste snížili celkové popla
 Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací
 naleznete na stránce [Podpořte nás](@/contribute/index.cs.md).
 
-[stripe]: https://donate.organicmaps.app/ "Dar přes Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+{{ references() }}

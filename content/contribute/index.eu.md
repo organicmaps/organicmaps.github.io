@@ -13,8 +13,8 @@ laguntzaz garatzen dugu.
 
 Garapenean laguntzeko hainbat modu daude:
 
-- [Dohaintzak](@/donate/index.eu.md)! Dolar edo Euro guztiak behar ditugu
-  eta zerbitzariak ordaindu eta handitzen laguntzen digute.
+- [Dohaintzak](@/donate/index.md)! Dolar edo Euro guztiak behar ditugu eta
+  zerbitzariak ordaindu eta handitzen laguntzen digute.
 - Bidali akatsak edo zure ideiak elkarbanatu [GitHub-en][github] edo
   [epostaz][email].
 - Lagundu egiguzu [akatsak konpontzen][contributing] eta kodea gainbegiratu

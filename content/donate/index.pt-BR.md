@@ -22,19 +22,20 @@ Clique no método preferido de pagamento abaixo:
 
 ## Por que doar para Organic Maps?
 
-1. Contamos com suas doações para cumprir nossa missão de manter o Organic
+1. Nosso objetivo é oferecer uma alternativa ao Google Maps e Apple Maps
+   centrada na privacidade, rápida e fácil de usar.
+2. Outro dos nossos objetivos é melhorar os dados dos mapas públicos para os
+   vários sites, apps e plataformas que utilizam OpenStreetMap, e envolver
+   mais pessoas na contribuição para os mapas.
+3. Contamos com suas doações para cumprir nossa missão de manter o Organic
    Maps aberto e livre. E livre de anúncios.
-2. Somos alguns entusiastas contribuindo em nosso tempo livre e gastando o
-   dinheiro de nossas famílias no projeto. Adoramos o que fazemos e nossos
-   usuários ❤️.
-3. Com seu apoio, queremos nos tornar uma versão melhor e focada na
-   privacidade do Google Maps.
+4. A gente ama o que faz e amamos nossos usuários ❤️.
 
-## Para que será usado o dinheiro?
+## Por que um projeto gratuito precisa de dinheiro?
 
-1. Pagamos por servidores rápidos, para que qualquer pessoa no mundo possa
-   baixar gratuitamente as atualizações de dados do mapa sem atrasos. São
-   centenas de terabytes por mês, que cresce mais e mais.
+1. Em 2023, Organic Maps conseguiu seu primeiro milhão de usuários. Nossos
+   servidores proporcionam atualizações de mapas gratuitas, rápidas e
+   frequentes no mundo todo.
 2. Suporte ao usuário, correção de erros e melhoria da estabilidade do app
    estão no topo de nossas prioridades. Existem [mais de 1800 problemas no
    GitHub][github issues], e este número está crescendo a cada dia.
@@ -42,14 +43,16 @@ Clique no método preferido de pagamento abaixo:
    comentários e erros. Queremos entregar um produto de alta qualidade.
 3. Com dinheiro suficiente, novos recursos podem ser desenvolvidos mais
    rapidamente, por exemplo:
-   - Atualizações semanais e automatizadas dos dados do mapa
-   - Backup e sincronização de marcadores
+   - Cópia de segurança e sincronização de favoritos e trilhas
    - Gravador de trilhas GPS com suporte a GPX
+   - Imagens por satélite
+   - Transporte público
+   - Informação sobre tráfego e acidentes
+   - Fotos e avaliações
    - Melhores estilos de mapas para diferentes atividades
    - Relevo e terreno 3D
    - Melhorar o editor do OpenStreetMap
    - Melhor busca de endereços offline, roteamento e navegação
-   - Transporte público
    - ... e [muitas outras][github issues] funcionalidades que você quer e
      ama
 
@@ -79,5 +82,4 @@ das taxas.
 Sim! Há muitas maneiras de apoiar o Organic Maps. Por favor, consulte a
 página [Contribuir](@/contribute/index.pt-BR.md) para mais detalhes.
 
-[stripe]: https://donate.organicmaps.app/ "Doe via Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "Problemas do GitHub"
+{{ references() }}

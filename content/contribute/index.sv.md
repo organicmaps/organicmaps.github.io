@@ -13,8 +13,8 @@ med hjälp av gemenskapen.
 
 Det finns olika sätt att stödja utvecklingen:
 
-- [Donera](@/donate/index.sv.md)! Varje krona räknas och hjälper oss att
-  betala för servrar och utöka verksamheten.
+- [Donera](@/donate/index.md)! Varje krona räknas och hjälper oss att betala
+  för servrar och utöka verksamheten.
 - Rapportera fel och dela idéer på vår [GitHub][github] eller via
   [e-post][email].
 - Hjälp oss att [rätta fel][contributing] och göra kodgranskningar om du är
