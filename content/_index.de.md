@@ -1,13 +1,14 @@
 ---
-description: 'Schnelle, detaillierte Offline-Karten für Reisende, Touristen, Autofahrer, Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe-App (Maps.Me).'
-extra:
-  menu_title: Startseite
+title: "Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation"
+description: Schnelle, detaillierte Offline-Karten für Reisende, Touristen, Autofahrer, Wanderer und Radfahrer, erstellt von den Gründern der MapsWithMe-App (Maps.Me).
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline Wandern, Radfahren, Wanderwege und Navigation'
+extra:
+  menu_title: Startseite
 ---
 
-**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **[OpenStreetMap][openstreetmap]** basiert. Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung][fork] der **Maps.me**-App (früher bekannt als [**MapsWithMe**][mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.
+**Organic Maps** ist eine freie und kostenlose Offline-Karten-App für Android und iOS für Reisende, Touristen, Wanderer und Radfahrer, die auf den Daten von **\[OpenStreetMap]\[openstreetmap]** basiert.
+Es handelt sich um eine datenschutzfreundliche, quelloffene [Abspaltung][fork] der **Maps.me**-App (früher bekannt als \[**MapsWithMe**]\[mapswithme]), die von denselben Leuten gepflegt wird, die **MapsWithMe** im Jahr 2011 erstellt haben.
 
 **Organic Maps** ist heutzutage eine der wenigen Apps, die 100% ihrer Funktionen ohne aktive Internetverbindung unterstützt. Installiere Organic Maps, lade Karten herunter, wirf deine SIM-Karte weg (dein Betreiber verfolgt dich übrigens ständig) und mache einen Wochenausflug mit einer einzigen Akkuladung, ohne dass ein Byte an das Netz gesendet wird.
 
@@ -100,12 +101,51 @@ bevorzugten Zahlungsmethode:
 
 {{ donate_buttons() }}
 
-### Unsere Sponsoren:
+Beloved institutional sponsors below have provided targeted grants to cover some infrastructure costs and fund development of new selected features:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [stellt
+<table style="border-spacing: 20px">
+  <tbody><tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>[Mythic Beasts](https://www.mythic-beasts.com/) ISP [stellt
 uns][mythic_beasts_donation] zwei virtuelle Server mit 400 TB/Monat
 kostenloser Bandbreite zur Verfügung, um unseren Nutzern das Herunterladen
-und Aktualisieren von Karten zu ermöglichen.
+und Aktualisieren von Karten zu ermöglichen.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</tbody></table>
 
 ## Gemeinschaft
 
@@ -114,10 +154,10 @@ License 2.0 lizenziert ist.
 
 - Bitte nimm an unserem Beta-Programm teil, schlage Funktionen vor und melde
   Fehler:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (Pakete)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (Pakete)][repology]
 - Melde Bugs oder Probleme an den [Issue Tracker][issues] oder per [E-Mail
   an uns][email].
 - [Diskutiere][ideas] Ideen oder äußere Funktionswünsche.
@@ -130,9 +170,9 @@ License 2.0 lizenziert ist.
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn].
 - Trete lokalen Gemeinschaften bei (oder erstelle eine und informiere uns):
-  [Ungarische Übersetzer
-  Matrix-Raum](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+  Ungarische Übersetzer
+  Matrix-Raum
 
-[fork]: https://de.wikipedia.org/wiki/Abspaltung_(Softwareentwicklung)
+[fork]: https://en.wikipedia.org/wiki/Fork_\(software_development\)
 
 {{ references() }}
