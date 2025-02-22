@@ -1,24 +1,20 @@
 ---
-description: "हमारे मुफ्त एप्लिकेशन के विकास का समर्थन करने के विभिन्न तरीके"
-extra:
-  menu_title: "हमारा सहयोग करें"
-  preview_image: contribute/contribute.jpg
-title: "ऑर्गेनिक नक़्शे के विकास का समर्थन करें"
+title: ऑर्गेनिक नक़्शे के विकास का समर्थन करें
+description: हमारे मुफ्त एप्लिकेशन के विकास का समर्थन करने के विभिन्न तरीके
 weight: 20
+extra:
+  menu_title: हमारा सहयोग करें
+  preview_image: contribute/contribute.jpg
 ---
 
-ऑर्गेनिक मैप्स एक फ्री, ओपन-सोर्स ऐप है | यह विज्ञापनों से मुक्त है, आपकी
-व्यक्तिगत जानकारी एकत्र नहीं करता है, और यह कुछ उत्साही लोगों के द्वारा
-कम्यूनिटी की मदद से विकसित किया गया है।
+Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
 इस एप के विकास का समर्थन करने के विभिन्न तरीके हैं:
 
-- [दान करें](@/donate/index.hi.md)! हर डॉलर या यूरो मायने रखता है और हमें
-  सर्वर और स्केल के लिए भुगतान करने में मदद करता है।
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - हमारे [Github][github] या [ईमेल][email] के माध्यम से बग्स की रिपोर्ट करें
   और विचार साझा करें।
-- अगर आप डेवलपर हैं तो [बग्स ठीक करें][contributing] करने और कोड समीक्षा
-  करने में हमारी सहायता करें। हर तय छोटा बग किसी को खुश करता है।
+- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - ऐप के इंटरफ़ेस में [अनुवाद][translations] करने में सहायता करें|
 - [App Store][translations_appstore] और [Android][translations_googleplay]
   विवरणों का अपनी भाषा में अनुवाद करें.
@@ -31,13 +27,11 @@ weight: 20
 - [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix],
   [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] पर अन्य
   उपयोगकर्ताओं का समर्थन करें।
-- ऑर्गेनिक मैप्स के बारे में सभी को बताएं। एक बड़ा समुदाय एक मजबूत समुदाय
-  है।
+- Tell everyone about Organic Maps. A bigger community is a stronger community.
 - हमें [Google Play][googleplay_review], [Apple Store][appstore_review],
   [Huawei Appgallery][appgallery_review] में रेट करें।
 - किसी भी मदद का स्वागत है!
 
-आपकी प्रतिक्रिया और समर्थन के लिए हमारी छोटी सी टीम बहुत आभारी है। हमारे
-उपयोगकर्ताओं ❤️ के बिना ऑर्गनिक मैप्स संभव ना होता।
+Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
 {{ references() }}
