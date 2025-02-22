@@ -1,25 +1,20 @@
 ---
-description: "Ffyrdd gwahanol o gynorthwyo’r datblygiad o'n hap am ddim"
-extra:
-  menu_title: "Cefnogi Ni"
-  preview_image: contribute/contribute.jpg
-title: "Cefnogwch ddatblygiad Organic Maps"
+title: Cefnogwch ddatblygiad Organic Maps
+description: Ffyrdd gwahanol o gynorthwyo’r datblygiad o'n hap am ddim
 weight: 20
+extra:
+  menu_title: Cefnogi Ni
+  preview_image: contribute/contribute.jpg
 ---
 
-Mae Organic Maps yn ap ffynhonnell agored am ddim. Does dim hysbysebion, nid
-yw'n casglu eich gwybodaeth bersonol, ac mae'n cael ei datblygu gan ychydig
-o bobl frwdfrydig gyda chefnogaeth y gymuned.
+Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
 Mae yna nifer o ffyrdd gwahanol o gefnogi'r datblygiad:
 
-- [Cyfrannwch](@/donate/index.md)! Mae pob doler neu ewro yn cyfri ac yn ein
-  helpu i dalu am weinyddion a graddio.
+- [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
 - Adroddwch broblemau a rhannwch syniadau ar ein [GitHub][github] neu trwy
   [e-bost][email].
-- Helpwch ni i [drwsio problemau][contributing] a gwnewch adolygiadau cod os
-  ydych chi'n ddatblygwr. Mae pob problem fach sy'n cael ei drwsio yn gwneud
-  i rywun yn fwy hapus.
+- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
 - [Cyfieithwch][translations] linynnau sydd ar goll yn rhyngwyneb yr ap.
 - Cyfieithwch ddisgrifiadau'r ap ar [App Store][translations_appstore] ac
   [Android][translations_googleplay] i'ch iaith chi.
@@ -32,13 +27,11 @@ Mae yna nifer o ffyrdd gwahanol o gefnogi'r datblygiad:
 - Cynorthwywch ddefnyddwyr arall ar [GitHub][issues],
   [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter],
   [Facebook][facebook], [Instagram][instagram].
-- Dywedwch wrth bawb am Organic Maps. Mae cymuned ehangach yn gymuned
-  gryfach.
+- Tell everyone about Organic Maps. A bigger community is a stronger community.
 - Sgoriwch ni ar [Google Play][googleplay_review], [Apple
   Store][appstore_review], [Huawei Appgallery][appgallery_review].
 - Rydyn ni'n croesawi unrhyw help!
 
-Mae ein tîm bach yn werthfawr iawn o'ch adborth a'ch cefnogaeth. Ni fydd
-Organic Maps yn bosib heb ein defnyddwyr ❤️.
+Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
 {{ references() }}
