@@ -1,17 +1,18 @@
 ---
-description: 'Detaile handiko offline mapa azkarrak, bidaiari, turista, gidari, mendizale eta txirrindularientzat, MapsWithMe (Maps.me) app-aren sortzaileek garatutakoa.'
-extra:
-  menu_title: Hasiera
+title: "Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabigaziorako"
+description: Detaile handiko offline mapa azkarrak, bidaiari, turista, gidari, mendizale eta txirrindularientzat, MapsWithMe (Maps.me) app-aren sortzaileek garatutakoa.
 page_template: index.html
 sort_by: weight
-title: 'Organic Maps: Offline mapak mendizale, txirrindulari, ibiltari eta nabigaziorako'
+extra:
+  menu_title: Hasiera
 ---
 
-**Organic Maps** Android & iOS-erako offline-mapen app bat da, bidaiari, turista, mendizale eta txirrindularientzat, auzolanean sortutako **[OpenStreetMap][openstreetmap]** datuetan oinarrituta. Aurrez ezaguna zen **Maps.me** app-aren kode-irekiko eta pribazitate helburu duen [fork][fork] bat da (lehenago [**MapsWithMe**][mapswithme] izenarekin ezaguna), 2011an **MapsWithMe** app-a sortu zuten pertsona berdinek mantenduta.
+**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on **\[OpenStreetMap]\[openstreetmap]** data created by the community.
+It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as \[**MapsWithMe**]\[mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.
 
-**Organic Maps** da konexiorik gabe %100-ean funtzionatzen duen aplikazio gutxietako bat. Instalatu Organic Maps, deskargatu mapak eta bota zaborretara zure SIM txartela (bide batez, zure telefono konpainiak uneoro jarraipena egiten dizu), eta joan asteroko ibilaldira bateria karga batekin eta sarera byte bakarra ere bidali gabe.
+**Organic Maps** is one of the few applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.
 
-> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.eu.md) to scale!
+> In 2023, Organic Maps [got its first million](@/news/2023-12-23/281/index.md) users. [Help us](@/donate/index.md) to scale!
 
 ### Deskargatu eta instalatu Organic Maps hemendik: [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}
 
@@ -91,20 +92,57 @@ Errefusatu jarraipena - besarkatu zure askatasuna.
 
 ## Nork ordaintzen du doako app hau?
 
-App-a denontzat doakoa da. Mesedez [donate](@/donate/index.eu.md) guri
-laguntzeko!
+The app is free for everyone. Please [donate](@/donate/index.md) to support us!
 
 Dohaintza egokia emateko, egin klik behean nahi duzun ordainketa-metodoaren
 ikonoan:
 
 {{ donate_buttons() }}
 
-### Gure babesleak:
+Beloved institutional sponsors below have provided targeted grants to cover some infrastructure costs and fund development of new selected features:
 
-[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides
-us][mythic_beasts_donation] bi zerbitzari eskaintzen dizkigu hilero 400
-TB-ko doako banda zabalerarekin, gure erabiltzaileei mapa deskarga eta
-eguneraketekin laguntzeko.
+<table style="border-spacing: 20px">
+  <tbody><tr>
+    <td>
+      <a href="https://nlnet.nl/"><img src="sponsors/nlnet.svg" alt="The NLnet Foundation" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://github.com/organicmaps/organicmaps/milestone/7">The Search & Fonts improvement project</a> has been <a href="https://nlnet.nl/project/OrganicMaps/">funded</a> through NGI0 Entrust Fund. <a href="https://nlnet.nl/entrust/">NGI0 Entrust Fund</a> is established by the <a href="https://nlnet.nl/">NLnet Foundation</a> with financial support from the European Commission's <a href="https://www.ngi.eu/">Next Generation Internet programme</a>, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101069594.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/"><img src="sponsors/gsoc.svg" alt="Google Summer of Code" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://summerofcode.withgoogle.com/">Google</a> backed 5 student's projects in the Google Summer of Code program during <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps">2022</a> and <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps">2023</a> programs. Noteworthy projects included Android Auto and Wikipedia Dump Extractor.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mythic-beasts.com/"><img src="sponsors/mythic-beasts.png" alt="Mythic Beasts" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://www.mythic-beasts.com/">Mythic Beasts</a> ISP <a href="https://www.mythic-beasts.com/blog/2021/10/06/improving-the-world-bit-by-expensive-bit/">provides us</a> two virtual servers with 400 TB/month of free bandwidth to host and serve maps downloads and updates.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://44plus.vn"><img src="sponsors/44plus.svg" alt="44+ Technologies" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://44plus.vn">44+ Technologies</a> is <a href="https://44plus.vn/organicmaps">providing us </a>with a free dedicated server worth around $12,000/year to serve maps across Vietnam & Southeast Asia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://futo.org"><img src="sponsors/futo.svg" alt="FUTO" width="200px"></a>
+    </td>
+    <td>
+      <a href="https://futo.org">FUTO</a> has <a href="https://www.youtube.com/watch?v=fJJclgBHrEw">awarded $1000 micro-grant</a> to Organic Maps in February 2023.
+    </td>
+  </tr>
+</tbody></table>
 
 ## Komunitatea
 
@@ -113,10 +151,10 @@ lizentziapean.
 
 - Mesedez parte-hartu gure beta programan, iradoki zure ideia berriak eta
   akatsen berri eman:
-  * [iOS Beta (TestFlight)][testflight]
-  * [Android Beta (Firebase)][firebase]
-  * [Linux Desktop Beta (Flatpak)][flatpak]
-  * [Linux Desktop Beta (packages)][repology]
+  - [iOS Beta (TestFlight)][testflight]
+  - [Android Beta (Firebase)][firebase]
+  - [Linux Desktop Beta (Flatpak)][flatpak]
+  - [Linux Desktop Beta (packages)][repology]
 - Akats edo arazoen berri eman [issue tracker-ean][issues] edo [idatzi
   guri][email].
 - [Eztabaidatu][ideas] ideiak edo proposatu berezitasun berriak.
@@ -128,8 +166,8 @@ lizentziapean.
 - Jarrai itzazu gure eguneraketak [FOSStodon][fosstodon],
   [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter],
   [Instagram][instagram], [Reddit][reddit]-en eta [LinkedIn][LinkedIn].
-- Join (or create and let us know) local communities: [Hungarian translators
-  Matrix room](https://matrix.to/#/#organicmapstranslate_hu:matrix.org)
+- Join (or create and let us know) local communities: Hungarian translators
+  Matrix room
 
 [fork]: https://eu.wikipedia.org/wiki/Fork
 
