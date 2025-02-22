@@ -1,21 +1,23 @@
 ---
 title: Pourquoi l'application s'arrête ou crash?
-description: ""
-updated: "2024-06-12"
-
+description: What actions to take if the application crashes. How to report critical bugs to developers
+updated: 2024-06-12
 taxonomies:
-  faq: ["Application"]
-
+  faq:
+    - Application
 extra:
   order: 30
 ---
 
-C'est probablement notre bug, et nous serons heureux de le corriger dans la prochaine mise à jour.
+Android: Si vous stockez les cartes sur carte SD, vous pouvez la formater, c'est la cause la plus courante. You can:
 
-Android: Si vous stockez les cartes sur carte SD, vous pouvez la formater, c'est la cause la plus courante. Le formatage ou le remplacement résouds le plus souvent le problème.
+1. Delete all downloaded maps and re-download them again to the SD card (may not work again).
+2. Delete all downloaded maps, select Internal device storage, and re-download maps.
+3. Format SD card and re-download maps.
+4. Buy a new SD card (recommended)
 
 Si le problème subsiste, merci de nous [contacter](mailto:support@organicmaps.app) et envoyer nous:
 
-* un rapport d'erreur et une description du problème
-* la version de Organic Maps
-* Le modèle de l'appareil et la version du système d'exploitation (Android ou iOS).
+- A detailed description of the issue and steps to reproduce it
+- la version de Organic Maps
+- Le modèle de l'appareil et la version du système d'exploitation (Android ou iOS).
