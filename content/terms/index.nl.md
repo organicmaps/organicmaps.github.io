@@ -1,9 +1,9 @@
 ---
-description: "Gebruiksvoorwaarden voor de Organic Maps applicatie"
+title: "Organic Maps: voorwaarden"
+description: Gebruiksvoorwaarden voor de Organic Maps applicatie
+weight: 1000
 extra:
   menu_title: Voorwaarden
-title: "Organic Maps: voorwaarden"
-weight: 1000
 ---
 
 Deze app is gelicentieerd onder de Apache Licence, Versie 2.0 (de
