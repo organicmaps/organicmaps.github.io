@@ -1,33 +1,32 @@
 ---
-title: Uygulama konumumu haritada bulamıyor
-description: ""
-updated: "2024-06-12"
-
+title: The app can't find my position on the map
+description: Troubleshooting guide for solving problems with location determination for iOS and Android devices
+updated: 2024-06-20
 taxonomies:
-  faq: ["Harita"]
-
+  faq:
+    - Map
 extra:
   order: 10
 ---
 
-Lütfen cihazınızın GPS'i olduğundan ve konum ayarlarının açık olduğundan emin olun.
+Please make sure your device has GPS, location services are enabled, and location permissions are given to Organic Maps.
 
 **Android**
 
-Cihazınızda Ayarlar → Konum'u açın. Yüksek doğruluk moduna geçmek daha iyi olacaktır.
+On your device open Settings → Location. It is better to switch on High accuracy mode, as it enables precise GPS location.
 
-GPS ile konumunuzu belirlemekte zorluk çekiyorsanız, uygulama ayarlarından “Google Play Hizmetleri”ni etkinleştirin (etkinse kapatıp tekrar etkinleştirin).
+If your Android device can not determine your location, enable (or disable, if enabled) “Google Play Services” option in the app settings.
 
-Not: bunu yalnızca Android cihazınızda Google Play hizmetleri yüklüyse (etkinse) görebilirsiniz. Google Play hizmetleri konumunuzu daha net olarak belirlemenizi sağlar. Eğer bu seçeneği kapattıktan sonra konum doğruluğu ile ilgili sorun yaşıyorsanız bu ayarı açın.
+Note: you can see it only if you have Google Play services installed (enabled) on your Android device. Google play services are used to determine location more precisely, if you experience issues with location accuracy after you disabled the option, turn it on.
 
 **iOS**
 
-Bir iPhone veya iPad kullanıcısıysanız, lütfen iOS ayarları → Gizlilik → Konum hizmetlerini kontrol edin. Organic Maps için coğrafi konum veri paylaşımı etkinleştirilmelidir.
+If you are an iPhone or iPad user, please check iOS settings → Privacy → Location services. Geolocation data sharing should be enabled for Organic Maps.
 
-**Notlar:**
+**Notes:**
 
-* Dolaşımdayken istenmeyen verileri önlemek için tüm mobil veriyi kapatabilir, uçak modunu açabilir veya cihaz ayarlarında Organic Maps için mobil veriyi devre dışı bırakabilirsiniz. Android ve iOS cihazlar uçak modunda GPS kullanabilir.
+- To avoid unwanted data while roaming, you can turn off all mobile data, activate a flight mode or disable mobile data for Organic Maps in your device settings. Android and iOS devices can use GPS in the flight mode.
 
-* iPod Touch, sadece Wi-Fi destekli iPad, Amazon Kindle Fire/Kindle Fire HD 7 ve bazı Android tabletler gibi bazı mobil cihazlar dahili GPS alıcılarına sahip değildir. Bu cihazlarda siz internete bağlanana kadar uygulamamız yaklaşık konumunuzu gösterecektir.
+- Some mobile devices do not have built-in GPS receivers, such as the iPod Touch, WiFi-only iPad, Amazon Kindle Fire/Kindle Fire HD 7, and some Android tablets. On these devices, all apps will show your approximate location detected using a Wi-Fi network, as long as you are connected to the internet.
 
-* Son olarak, lütfen GPS (WiFi ile ve Mobil Ağ kapalı) ile konumunuzu tespit etmenin biraz zaman alabileceğini unutmayın. GPS uzun süre kullanılmazsa bu daha fazla zaman alır. Konumunuzu tespit etme hızı uygulamaya değil, cihazınıza bağlıdır. GPS'in çalışması hava koşullarından da etkilenir – en iyi hava açıkken dışarıda çalışır. Sorunlar kendinizi kapalı alanda bulmaya çalışırken, dar bir sokakta veya araba sürerken meydana gelebilir.
+- Location detection with GPS satellites (when WiFi and Mobile Networks are disabled) may take some time. The longer the GPS has not been used, the more time it takes. The speed of location detection depends on the device, not the app. The GPS operation is influenced by the weather as well – it works best outdoors when the sky is clear. Problems may arise when trying to locate yourself indoors, on a narrow street, or when driving a car, with a lot of metal around or with a metal/magnet on the device's case.
