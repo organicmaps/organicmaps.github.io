@@ -9,10 +9,10 @@ extra:
 
 Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]** in **[EUR][stripe_eur], [USD][stripe_usd], [GBP][stripe_GBP], [CHF][stripe_chf], [UAH][stripe_uah], [PLN][stripe_pln]**:
 
-- No ads
+- Jokių reklamų
 - No trackers
 - No registration
-- No push notifications
+- Jokių rodomų pranešimų
 - Open source
 
 Click on your preferred payment method icon below:
