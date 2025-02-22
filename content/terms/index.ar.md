@@ -1,9 +1,9 @@
 ---
-description: "شروط استخدام تطبيق Organic Maps"
+title: "Organic Maps: الشروط"
+description: شروط استخدام تطبيق Organic Maps
+weight: 1000
 extra:
   menu_title: شروط
-title: "Organic Maps: الشروط"
-weight: 1000
 ---
 
 تم ترخيص هذا التطبيق تحت ترخيص Apache، الإصدار 2.0 ("الترخيص") ؛ لا يجوز لك
