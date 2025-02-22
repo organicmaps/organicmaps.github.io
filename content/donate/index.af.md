@@ -1,10 +1,10 @@
 ---
-description: "U geld betaal vir alle projekverwante uitgawes en motiveer ons om Organic Maps te verbeter."
+title: Skenk om Organic Maps se ontwikkelinge te steun
+description: U geld betaal vir alle projekverwante uitgawes en motiveer ons om Organic Maps te verbeter.
+weight: 10
 extra:
   menu_title: Skenk
   preview_image: donate/donate.png
-title: "Skenk om Organic Maps se ontwikkelinge te steun"
-weight: 10
 ---
 
 Organic Maps is _gratis vir almal_ danksy u **[skenkings][stripe]**:
@@ -21,25 +21,20 @@ Klik op u voorkeurbetaalmetode-ikoon hier onder:
 
 ## Waarom skenk aan Organic Maps?
 
-1. Ons maak op u skenkings staat om ons missie te volbring om Organic Maps
-   oop en gratis te hou. En vry van advertensies.
-2. Ons is ’n paar entoesiaste wat in ons vrye tyd ’n bydrae lewer, en ons
-   gesinne se geld aan die projek bestee. Ons is lief vir wat ons doen, en
-   ons is lief vir al ons gebruikers ❤️.
-3. Met u steun wil ons ’n beter, privaatheidgefokusde weergawe van Google
-   Maps word.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. We rely on your donations to keep Organic Maps open and free for everyone.
+   And free from ads.
+4. We love what we do, and we love our users ❤️.
 
 ## Waarvoor word die geld gebruik?
 
-1. Ons betaal vir vinnige bedieners, sodat elkeen in die wêreld sonder
-   vertraging gratis kaartbywerkings kan aflaai. Dit is honderde teragrepe
-   per maand, en die hoeveelheid neem toe.
-2. Gebruikersondersteuning, foute herstel, en verbetering van die
-   toepstabiliteit is ons hoofprioriteite. Daar is [1800+ probleme op
-   GitHub][github issues], en die aantal neem daagliks toe. Die AppStore,
-   Google Play, en ondersteuningse-posadresse word oorstroom met kommentaar
-   en foute. Ons wil ’n produk van hoë kwaliteit lewer.
-3. Met genoeg geld kan nuwe funksies vinniger ontwikkel word, soos:
+1. In 2023, Organic Maps got its first million users.
+   Our servers provide free, fast and frequent map updates all over the world.
+2. User support, bugfixing and publishing quality app updates are at the top of our priorities.
+   There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.
+   AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
+3. With enough money, new features can be developed. To name a few:
    - Weeklikse en geoutomatiseerde kaartdatabywerkings
    - Boekmerkrugsteun en -sinchronisering
    - GPS-padopnemer met GPX ondersteuning
@@ -48,7 +43,9 @@ Klik op u voorkeurbetaalmetode-ikoon hier onder:
    - Verbetering van die OpenStreetMap-wysiger
    - Beter vanlyn adressoekfunksie, roetes, en navigasie
    - Openbare vervoer
-   - … en [vele ander][github issues] funksies wat u wil hê en waarvan u hou
+   - More advanced OpenStreetMap editor
+   - Better offline address search, routing, and navigation
+   - … and [many other][github issues] features you want and love
 
 ## Hoe om te skenk?
 
@@ -56,9 +53,9 @@ Klik op u voorkeurbetaalmetode-ikoon hier onder:
 
 {{ donate_buttons() }}
 
-Herhalende skenkings is die beste manier om ’n relatief stabiele inkomste
-vir die projek te verseker en motiveer ons vir langtermyn take en
-doele. Maar u kan ook eenmalig skenk.
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. One-time donations
+are appreciated too.
 
 ### Bankoorplasing
 
@@ -72,8 +69,7 @@ Oorweeg dit asseblief om jaarliks te skenk om die totale koste te verminder.
 
 ## Kan u ons op ’n ander manier help?
 
-Ja! Daar is baie maniere om Organic Maps te ondersteun. Kyk asseblief by
-[Steun ons](@/contribute/index.nl.md) vir meer details.
+Yes! There are many ways to support Organic Maps. Please see
+[Contribute](@/contribute/index.md) page for more details.
 
-[stripe]: https://donate.organicmaps.app/ "Skenk d.m.v. Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub-probleme"
+{{ references() }}
