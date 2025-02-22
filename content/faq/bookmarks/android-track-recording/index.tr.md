@@ -1,21 +1,21 @@
 ---
-title: Android'de parçalar neden arka planda güvenilir bir şekilde kaydedilmiyor?
-description: Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC ve diğer cihazlardaki varsayılan pil optimizasyon ayarları arka planda Organik Haritalar uygulamasını durdurabilir veya öldürebilir.
-updated: "2024-10-05"
-
+title: Why tracks are not recorded reliably in background on Android?
+description: Default battery optimization settings on Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC and other devices may stop or kill Organic Maps app in the background.
+updated: 2024-10-05
 taxonomies:
-  faq: ["Yer İmleri ve Kayıtlar"]
-
+  faq:
+    - Bookmarks and tracks
 extra:
   order: 30
 ---
 
-Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC ve diğer cihazlardaki varsayılan pil optimizasyon ayarları arka planda Organik Haritalar uygulamasını durdurabilir veya öldürebilir.
+Default battery optimization settings on Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC and other devices may stop or kill Organic Maps app in the background.
 
-Bu durum özellikle modern Android sürümleri için geçerlidir:
+This is especially true for modern Android versions:
+
 - Android 14
 - Android 13
 - Android 12
 - Android 11
 
-Organik Haritalar'ın (ve diğer uygulamaların) arka planda nasıl çalışacağına ilişkin tam adımlar burada listelenmiştir: [dontkillmyapp.com](https://dontkillmyapp.com)
+The exact steps on how to make Organic Maps (and other apps) work in the background are listed here: [dontkillmyapp.com](https://dontkillmyapp.com)
