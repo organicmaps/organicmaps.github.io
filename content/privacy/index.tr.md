@@ -1,20 +1,19 @@
 ---
-title: "Organic Maps: Gizlilik Politikası"
-description: "Takip yok, reklam yok, veri toplama yok, casusluk yok"
+title: "Organic Maps: Privacy Policy"
+description: No tracking, no ads, no data collection, no statistics collection, no spyware
 weight: 900
 extra:
-  menu_title: Gizlilik
+  menu_title: Privacy
 ---
 
-Organic Maps gizliliğinize saygı duyar ve SİZİ TAKİP ETMEZ.
+Organic Maps respects your privacy and DOES NOT TRACK YOU.
 
-Takip yok, reklam yok, veri toplama yok, casusluk yok.
+Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps.
 
-Gözetlemeyi reddedin - özgürlüğünüzü kucaklayın.
+Reject surveillance - embrace your freedom.
 
-Big Tech'in meraklı gözlerinden uzak durun!
+Stay away from Big Tech's prying eyes!
 
-Eğer herhangi bir sorunuz veya öneriniz varsa lütfen [legal@organicmaps.app](mailto:legal@organicmaps.app)
-adresinden bizimle iletişime geçin.
+If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
-<sub>Bu politika 2021-04-24 itibarıyla geçerlidir.</sub>
+<sub>This policy is effective as of 2021-04-24.</sub>
