@@ -1,51 +1,56 @@
 ---
-title: "Přinášíme aktualizaci Organic Maps pro leden 2023"
+title: Přinášíme aktualizaci Organic Maps pro leden 2023
 date: 2023-01-27T21:26:12+00:00
-slug: "meet-the-january-2023-update-of-organic-maps"
+slug: meet-the-january-2023-update-of-organic-maps
 taxonomies:
-  news: ["Releases"]
+  news:
+    - Releases
 ---
 
-Přinášíme aktualizaci Organic Maps pro leden 2023! Doufáme, že jste měli skvělé prázdniny a užili si cestování, navštěvování zajímavých míst a potkávání zajímavých lidí.
+We are excited to announce our first update of 2023. We’ve included a comprehensive list of improvements, as always, thanks to the support and input from our dedicated Organic Maps community. Great work by all of us. 🙏
 
-Tady je celý seznam změn:
-
-* Nová OpenStreetMap data z 21. ledna 2023
-* Opraven import některých KML tras
-* Automatické hledání aktuální pozice po 30 hodinách neaktivity místo 8 hodin
-* Vylepšeny výsledky vyhledávání kategorií
-* Austrálie je napsaná správně ve výsledcích vyhledávání
-* leisure=track je nyní vyhledatelné
-* Opraveny neviditelné nápovědy v Nastavení v tmavém režimu
+- New OpenStreetMap data as of January 21, 2023
+- Fixed import of some KML tracks
+- Automatic search for the current position in 30 hours of inactivity instead of 8 hours
+- Improved search categories results
+- Proper spelling of Australia in search results
+- leisure=track is now searchable
 
 iOS 🍏
-* Opraveny neviditelné textové nápovědy v Nastavení v tmavém tématu
+
+- Fixed invisible text hints in Settings in the dark theme
 
 Android 🤖
-* Povolení baskičtiny, běloruštiny, chorvatštiny, norštiny, maráthštiny a svahilštiny v TTS
 
-Směrování
-* Správně zpracovat převýšení pro pěší turistiku a cykloturistiku
-* Opraveno mezi-regionální směrování
-* Opraveno směrování skrz některé mosty
-* Autobusové trasy jsou podporovány
-* Přidáno Chorvatsko do schengenského prostoru
+- Enabled Basque, Belarussian, Croatian, Norwegian, Marathi, Swahili languages in TTS
 
-Styly
-* Opraveny Buenos Aires & Bilbao ikonky metra
-* Přidána Bowlingová dráha
-* Opraveny historic=fountain a tourism=information-office ikonky
-* Stejná velikost ikonek pro prameny
+Routing 🚗
 
-Editor
-* Povoleno upravování jmen s /\°[] symboly
-* Přidána amenity=public_bookcase
-* Zvýšen maximální upravitelný počet poschodí z 25 na 50
+- Proper handling of elevation for hiking and cycling
+- Fixed inter-region routing
+- Fixed routing via some bridges
+- Busways are supported
+- Added Croatia to Schengen area
 
-Překlady
-* Upravena brazilština, čeština, francouzština, maďarština, španělština (mexická), turečtina
-* Opraveny TTS překlady pro finštinu a portugalštinu
+Styles 🎨
 
-Linux
-* Importovat KML a KMZ soubory psané velkými písmeny na linuxových souborových systémech, jež rozlišují malá a velká písmena.
-* Používat Organic Maps server pro zjištění, jestli je připojení naživu.
+- Fixed Buenos Aires metro icons
+- Added Bowling Alley
+- Fixed historic=fountain and tourism=information-office icon
+- Equal icon sizes for springs & hot springs
+
+Editor 🗺️
+
+- Allowed editing names with /\\°\[\] symbols
+- Added amenity=public\_bookcase
+- Increased the maximum editable building floors from 25 to 50
+
+Translations 🌐
+
+- Fixed Brazil, Czech, French, Hungarian, Spanish (Mexican), Turkish
+- Fixed TTS translations for Finnish and Portuguese
+
+Linux 🖥️
+
+- Import upper-case KML and KMZ files on case-sensitive Linux file systems
+- Use Organic Maps server to check if a connection is alive
