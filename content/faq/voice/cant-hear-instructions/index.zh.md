@@ -1,26 +1,33 @@
 ---
-title: I can't hear voice instructions
+title: 我无法听到语音指示
 description: Troubleshooting guide for voice instructions in navigation
-updated: 2024-07-22
+updated: 2024-07-15
 taxonomies:
   faq:
-    - Voice Directions
+    - 语音指导
 extra:
   order: 20
 ---
 
-**Note:** voice instruction are available for car and cycling routes. For now, you can hear voice instructions only while driving and when the screen is on.
+**请注意：** 语音指示仅适用于汽车和骑行路线。目前，您只能在驾驶时且屏幕打开时听到语音指示。 For now, you can hear voice instructions only while driving and when the screen is on.
 
-If you can't hear voice instructions:
+如果您无法听到语音指示：
 
-- Please make sure that your device's volume is not muted. You can change the volume level with your device's volume buttons. To do that, you may need to disable "Change with Buttons" option (if enabled) in the device settings → Sounds.
+- 请确保您设备的音量未被静音。 您可以使用设备音量按钮更改音量级别。 为此，您可能需要在设备设置 → 声音中禁用“随按钮更改”选项（如果已启用）。 You can change the volume level with your device's volume buttons. To do that, you may need to disable "Change with Buttons" option (if enabled) in the device settings → Sounds.
 
 - Please report any Bluetooth issues with necessary details on our [GitHub](https://github.com/organicmaps/organicmaps/issues)
 
-- If you are an Android user and the option is disabled (or some of the supported languages are unavailable), please check [TTS settings](@/faq/voice/text-to-speech-android-tts/index.md).
+- 如果您是安卓用户并且选项已禁用（或一些支持的语言不可用），请检查系统 TTS 设置。
 
-On Android voice instructions are available in 39 languages: English, Arabic, Basque, Belarusian, Catalan, Chinese (Simplified and Traditional), Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Persian (Farsi), Polish, Portuguese, Portuguese (Brasil), Romanian, Russian, Serbian, Slovak, Spanish, Spanish (Mexico), Swahili, Swedish, Thai, Turkish, Ukrainian, Vietnamese.
+在安卓设备上，语音指示支持 27 种语言：
+英语、阿拉伯语、中文（繁体和简体）、捷克语、丹麦语、荷兰语、芬兰语、法语、德语、
+希腊语、印地语、匈牙利语、印尼语、意大利语、日语、韩语、波斯语、波兰语、葡萄牙语、
+罗马尼亚语、俄语、西班牙语、泰语、土耳其语、乌克兰语、越南语。
 
-Google TTS supports all listed languages except of Arabic and Persian (Farsi). For these languages you may need to install third party TTS (for example, eSpeak TTS, Vocalizer TTS or SVOX Classic TTS) and a language pack from app store (Google Play Store, Galaxy Store, etc).
+Google TTS supports all listed languages except of Arabic and Persian (Farsi). Google TTS 支持除阿拉伯语和波斯语（波斯语）之外的所有列出的语言。
+对于这些语言，您可能需要安装第三方 TTS（例如 eSpeak TTS、Vocalizer TTS 或 SVOX Classic TTS）和应用商店（Google Play 商店、Galaxy 商店等）中的语言包。
 
-On iOS voice instructions are available in 26 languages: English, Arabic, Chinese (Traditional and Simplified), Czech, Danish, Dutch, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish.
+在 iOS 设备上，语音指示支持 26 种语言：
+英语、阿拉伯语、中文（繁体和简体）、捷克语、丹麦语、荷兰语、芬兰语、法语、德语、
+希腊语、印地语、匈牙利语、印尼语、意大利语、日语、韩语、波兰语、葡萄牙语、
+罗马尼亚语、俄语、斯洛伐克语、西班牙语、瑞典语、泰语、土耳其语。
