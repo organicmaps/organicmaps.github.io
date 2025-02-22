@@ -1,10 +1,10 @@
 ---
-description: "Z vašich peněz se hradí všechny výdaje spojené s projektem a motivují nás ke zlepšování Organic Maps."
+title: Přispějte na podporu vývoje Organic Maps
+description: Z vašich peněz se hradí všechny výdaje spojené s projektem a motivují nás ke zlepšování Organic Maps.
+weight: 10
 extra:
   menu_title: Přispějte
   preview_image: donate/donate.png
-title: "Přispějte na podporu vývoje Organic Maps"
-weight: 10
 ---
 
 Aplikace Organic Maps je pro všechny _zdarma_ díky vašim
@@ -22,25 +22,20 @@ Klikněte na ikonu preferovaného způsobu platby níže:
 
 ## Proč darovat Organic Maps?
 
-1. Při plnění našeho poslání udržovat Organic Maps otevřené a svobodné
-   spoléháme na vaše dary. A bez reklam.
-2. Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase a
-   utrácejí peníze svých rodin. Milujeme to, co děláme, a milujeme naše
-   uživatele ❤️.
-3. S vaší podporou se chceme stát lepší verzí Google Maps zaměřenou na
-   ochranu soukromí.
+1. Our goal is to provide a privacy-focused, fast and easy-to-use alternative to Google Maps and Apple Maps.
+2. Improving public map data for the numerous websites, apps and platforms which use OpenStreetMap, and involving more people in contributing map info is our another goal.
+3. We rely on your donations to keep Organic Maps open and free for everyone.
+   And free from ads.
+4. We love what we do, and we love our users ❤️.
 
 ## Na co budou peníze použity?
 
-1. Platíme za rychlé servery, takže kdokoli na světě může stahovat bezplatné
-   aktualizace mapových dat bez zpoždění. Jsou to stovky terabajtů měsíčně
-   a jejich množství stále roste.
-2. Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou
-   našimi hlavními prioritami. Na GitHubu je [1800+ issues] [github issues]
-   a toto číslo každým dnem roste. AppStore, Google Play a e-maily podpory
-   jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní
-   produkt.
-3. S dostatkem peněz lze například rychleji vyvíjet nové funkce:
+1. In 2023, Organic Maps got its first million users.
+   Our servers provide free, fast and frequent map updates all over the world.
+2. User support, bugfixing and publishing quality app updates are at the top of our priorities.
+   There are [~2000 bug reports and feature requests on GitHub][github issues], and this number is growing every day.
+   AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product.
+3. With enough money, new features can be developed. To name a few:
    - Týdenní a automatické aktualizace mapových dat
    - Zálohování a synchronizace záložek
    - Záznamník stop GPS s podporou GPX
@@ -49,7 +44,9 @@ Klikněte na ikonu preferovaného způsobu platby níže:
    - Vylepšení editoru OpenStreetMap
    - Lepší offline vyhledávání adres, směrování a navigace
    - Veřejná doprava
-   - ... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi
+   - More advanced OpenStreetMap editor
+   - Better offline address search, routing, and navigation
+   - … and [many other][github issues] features you want and love
 
 ## Jak darovat?
 
@@ -57,9 +54,9 @@ Klikněte na ikonu preferovaného způsobu platby níže:
 
 {{ donate_buttons() }}
 
-Opakované dary jsou nejlepším způsobem, jak zajistit relativně stabilní
-příjem projektu a motivovat nás k dlouhodobým úkolům a cílům. Můžete však
-přispět i jednorázově.
+Recurring donations are the best way to ensure a relatively stable income for
+the project and motivate us for long-term tasks and goals. One-time donations
+are appreciated too.
 
 ### Bankovním převodem
 
@@ -73,8 +70,7 @@ Zvažte prosím možnost ročního příspěvku, abyste snížili celkové popla
 
 ## Můžete nám pomoci i jinak?
 
-Ano! Existuje mnoho způsobů, jak podpořit Organic Maps. Více informací
-naleznete na stránce [Podpořte nás](@/contribute/index.cs.md).
+Yes! There are many ways to support Organic Maps. Please see
+[Contribute](@/contribute/index.md) page for more details.
 
-[stripe]: https://donate.organicmaps.app/ "Dar přes Stripe"
-[github issues]: https://github.com/organicmaps/organicmaps/issues "GitHub Issues"
+{{ references() }}
