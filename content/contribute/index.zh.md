@@ -1,28 +1,30 @@
 ---
-title: Support the development of Organic Maps
-description: Different ways to support the development of our free application
+title: 支持Organic Maps发展
+description: 支持我们免费应用程序开发的不同方式
 weight: 20
 extra:
   menu_title: Contribute
   preview_image: contribute/contribute.jpg
 ---
 
-Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
+Organic Maps是一个免费的、开源的应用程序，没有广告，不收集个人信息，由一群爱好者在社区帮助下开发。 It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community.
 
-There are different ways to support the development:
+有多种方式支持我们开发：
 
 - [Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale.
-- Report bugs and share ideas on our [GitHub][github] or via [email][email].
-- Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier.
-- [Translate][translations] missing strings in the app's interface.
-- Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language.
-- [Translate][translations_website] our web site into your language.
-- Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data.
-- Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app.
-- Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram].
+- 在[GitHub][github]或发邮件[email][email]报告bug和分享想法。
+- 如果您是开发人员，请帮助我们[修复bug][作出贡献]并审查代码。每次修复问题总使人兴奋。 Every fixed small issue makes someone happier.
+- [翻译][translations]应用程序界面中缺少的文字。
+- 将[App
+  Store][translations_appstore]和[Android][translations_googleplay]详情翻译成您的语言。
+- 将我们的网站[翻译][translations_website]成您的语言。
+- 加入[OpenStreetMap][openstreetmap]社区，为地图数据作出贡献。
+- 修复由[公共交通验证器][public_transport_validator]发现的红色城市，让地铁和轻轨在应用程序中更好用。
+- 在[GitHub][issues]、[Telegram][telegram_chat]、[Matrix][matrix]、[Twitter][twitter]、[Facebook][facebook]、[Instagram][instagram]支持其他用户。
 - Tell everyone about Organic Maps. A bigger community is a stronger community.
-- Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review].
-- Any help is welcome!
+- 在[Google Play][googleplay_review]、[Apple Store][appstore_review]、[Huawei
+  Appgallery][appgallery_review]为我们评分。
+- 欢迎各种帮助！
 
 Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️.
 
