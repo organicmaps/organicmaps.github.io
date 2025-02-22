@@ -1,17 +1,16 @@
 ---
 title: Пошук не може знайти місце на карті
-description: ""
-updated: "2024-06-12"
-
+description: Guide for improving search results and solving problems with finding objects on the map
+updated: 2024-06-12
 taxonomies:
-  faq: ["Мапа"]
-
+  faq:
+    - Мапа
 extra:
   order: 20
 ---
 
-Пам'ятайте, що для пошуку місця в певному районі вам потрібно завантажити відповідну мапу і збільшити масштаб карти до цієї області. Або ж ваше місцезнаходження має бути поблизу цієї області, перш ніж ви почнете пошук. Наприклад, якщо ви хочете знайти місце у В'єтнамі, а ваше місцезнаходження десь в іншому місці, вам слід спочатку завантажити і відкрити мапу В'єтнаму.
+Remember that to search for a place in a specific area, you will need to download a relevant map and zoom in the map to that area, or your location should be near that area before you begin the search. For example, if you want to find a place in Vietnam and your location is somewhere else, you should download and open the map of Vietnam first, or explicitly mention the country (Vietnam) or desired city/town/village name in the search field.
 
-Крім того, місце може бути ще не додано на мапу в базі [OpenStreetMap.org](https://www.openstreetmap.org/), нашому джерелі картографічних даних. Якщо ви хочете допомогти і покращити мапу, перевірте [цей путівник](https://wiki.openstreetmap.org/wiki/Contribute_map_data).
+In addition, the place may not have been added to the map yet at [OpenStreetMap.org](https://www.openstreetmap.org/). If you want to help and improve the map, check [this guide](https://wiki.openstreetmap.org/wiki/Contribute_map_data) and add missing map information yourself.
 
 Якщо місце відображається на мапі в Organic Maps, але наш пошук не може його знайти, [повідомте нам](mailto:support@organicmaps.app) координати місця та приклад вашого пошукового запиту.
