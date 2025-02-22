@@ -1,9 +1,9 @@
 ---
-description: "Gebruiksvoorwaardes vir die Organic Maps-toepassing"
+title: "Organic Maps: voorwaardes"
+description: Gebruiksvoorwaardes vir die Organic Maps-toepassing
+weight: 1000
 extra:
   menu_title: Voorwaardes
-title: "Organic Maps: voorwaardes"
-weight: 1000
 ---
 
 Hierdie toep is gelisensieer onder die Apache-lisensie, Weergawe 2.0 (die
@@ -13,11 +13,7 @@ gebruik.
 U kan ’n kopie van die lisensie verkry by
 [http://www.apache.org/licenses/LICENSE-2.0][license]
 
-Tensy vereis deur toepaslike wet of onder skriftelike ooreenkoms, word die
-programmatuur onder die lisensie versprei op ’n “VOETSTOOTS”-BASIS, SONDER
-WAARBORGE OF VOORWAARDES VAN ENIGE AARD, hetsy uitdruklik of
-geïmpliseer. Sien die lisensie vir die spesifieke teks wat betref
-toestemmings en grense van die lisensie.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 Die meeste biblioteke in die volgende vouers op [GitHub][github] is gemaak
 deur ander mense en organisasies en op ander wyses gelisensieer:
@@ -31,8 +27,7 @@ gebruiksvoorwaardes.
 Sien ook die lêer [data/copyright.html][copyright] vir ’n volledige lys van
 kopieregkennisgewings vir die Organic Maps-toepassing.
 
-Indien u vrae of opmerkings het, kontak ons asb. by
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
+If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
 
 [github]: https://github.com/organicmaps/organicmaps
 [license]: http://www.apache.org/licenses/LICENSE-2.0
