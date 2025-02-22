@@ -1,11 +1,10 @@
 ---
-title: Поиск не находит то, что я ищу
-description: ""
-updated: "2024-06-12"
-
+title: Search cannot find a place on the map
+description: Guide for improving search results and solving problems with finding objects on the map
+updated: 2024-06-12
 taxonomies:
-  faq: ["Карта"]
-
+  faq:
+    - Карта
 extra:
   order: 20
 ---
