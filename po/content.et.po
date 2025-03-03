@@ -4,16 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Organic Maps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\n"
-"Language: et\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-dev\n"
+msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2025-02-23 21:45+0000\nLast-Translator: Priit Jõerüüt <hwlate@joeruut.com>\nLanguage-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\nLanguage: et\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.10.1-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -55,10 +46,9 @@ msgstr ""
 
 #. type: Title ###
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+#, no-wrap
 msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}"
-msgstr "Paigalda Organic Maps järgmistest rakendustepoodidest: [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+msgstr "Paigalda Organic Maps järgmistest rakendustepoodidest: [AppStore][appstore], [Google Play][googleplay], [Huawei AppGallery][appgallery], [Obtainium][obtainium], [FDroid][fdroid] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -465,17 +455,17 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No trackers"
-msgstr ""
+msgstr "Pole jälitajaid"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No registration"
-msgstr "Käibemaksukohuslasena registreerimine"
+msgstr "Pole vaja registreeruda kasutajaks"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "Open source"
-msgstr ""
+msgstr "Põhineb avatud lähtekoodil"
 
 #. type: Plain text
 #: content/donate/index.md
@@ -626,12 +616,12 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Can you help us in any other way?"
-msgstr ""
+msgstr "Kas saan ka mõnel muul viisil aidata?"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support Organic Maps. Please see [Contribute](@/contribute/index.md) page for more details."
-msgstr ""
+msgstr "Justnimelt! Organic Mapsi aitamiseks on palju muid viise. Lisateavet leiad [Kaastöö](@/contribute/index.md) lehelt."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
@@ -705,13 +695,13 @@ msgstr ""
 #: content/contribute/index.md
 #, no-wrap
 msgid "Contribute"
-msgstr "Toeta meid"
+msgstr "Tee kaastööd"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/contribute/index.md
 #, no-wrap
 msgid "Support the development of Organic Maps"
-msgstr ""
+msgstr "Toeta Organic Mapsi arendust"
 
 #. type: Plain text
 #: content/contribute/index.md
